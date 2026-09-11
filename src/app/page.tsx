@@ -25,6 +25,7 @@ function DealRow({ i }: { i: PropertyListItem }) {
       <span
         className="grid h-8 w-8 shrink-0 place-items-center rounded-md text-xs font-bold text-white"
         style={{ background: scoreColor(i.investmentScore) }}
+        title={`Investment score ${i.investmentScore}/100; neighbourhood safety ${i.safetyScore ?? "not available"}/100 (7% weight)`}
       >
         {i.investmentScore}
       </span>
@@ -36,6 +37,7 @@ function DealRow({ i }: { i: PropertyListItem }) {
         <div className="text-xs text-slate-500">
           {euro(i.priceCents)} · all-in {pct(i.allInGrossYieldPct)} · DSCR{" "}
           {i.dscr.toFixed(2)}
+          {i.safetyScore != null ? ` · safety ${i.safetyScore}/100` : " · safety data unavailable"}
           {i.distToFutureM != null && i.distToFutureM < 1500
             ? ` · ${Math.round(i.distToFutureM)} m to future ${i.futureName}`
             : ""}
@@ -85,6 +87,7 @@ export default async function Dashboard() {
     .filter((i) => i.distToFutureM != null && i.distToFutureM < 900)
     .sort((a, b) => b.investmentScore - a.investmentScore);
   const strongDscr = all.filter((i) => i.dscr >= 1.2 && i.whiteStatus !== "NOT_WHITE");
+  const safest = all.filter((i) => i.safetyScore != null).sort((a, b) => (b.safetyScore ?? 0) - (a.safetyScore ?? 0));
 
   const avgCf =
     white.length > 0
@@ -171,12 +174,20 @@ export default async function Dashboard() {
             <Panel title="Best white operations" items={white.slice(0, 10)} />
             <Panel title="Highest all-in yield" items={highYield.slice(0, 10)} />
             <Panel title="New Grand Paris opportunities" items={nearGpe.slice(0, 10)} />
-            <Panel title="Strongest safety margin (DSCR)" items={[...strongDscr].sort((a, b) => b.dscr - a.dscr).slice(0, 10)} />
+            <Panel title="Strongest financial margin (DSCR)" items={[...strongDscr].sort((a, b) => b.dscr - a.dscr).slice(0, 10)} />
+            <Panel title="Highest neighbourhood safety score" items={safest.slice(0, 10)} />
             <div className="card p-4 text-sm text-slate-600">
               <div className="mb-2 font-semibold">How to read this</div>
               <p className="mb-2">
                 Deals are scored 0–100 on cash flow, all-in yield, rental demand,
-                transport catalyst, appreciation, quality and liquidity.
+                transport catalyst, appreciation, quality, liquidity, and
+                <b> neighbourhood safety</b>. Safety has a 7% weight and uses
+                official SSMSI commune-level recorded-crime data averaged over 2023–2025.
+              </p>
+              <p className="mb-2 text-xs text-slate-500">
+                Current weights: cash flow 23%, all-in yield 19%, rental demand 14%,
+                transport 14%, appreciation 14%, safety 7%, liquidity 5%, property quality 4%.
+                If safety data is unavailable, the remaining weights are proportionally rebalanced.
               </p>
               <p className="mb-2">
                 A <b>White operation</b> means the tenant covers the mortgage and

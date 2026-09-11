@@ -66,7 +66,7 @@ async function main() {
   let written = 0;
   for (const [code, bucket] of buckets) {
     const parts: Array<[number | null | undefined, number]> = [[personal.get(code), .4], [property.get(code), .35], [street.get(code), .25]];
-    const available = parts.filter((p)): p is [number, number] => p[0] != null);
+    const available = parts.filter((p): p is [number, number] => p[0] != null);
     if (!available.length) continue;
     const score = Math.round(available.reduce((s, [v, w]) => s + v * w, 0) / available.reduce((s, [, w]) => s + w, 0));
     const observations = Object.values(bucket.values).reduce((n, v) => n + v.length, 0);

@@ -270,7 +270,7 @@ function DealsInner() {
               return (
                 <tr key={i.id} className="border-b border-slate-100 hover:bg-slate-50">
                   <td className="px-3 py-2">
-                    <span className="grid h-7 w-7 place-items-center rounded text-xs font-bold text-white" style={{ background: scoreColor(i.investmentScore) }}>
+                    <span className="grid h-7 w-7 place-items-center rounded text-xs font-bold text-white" title={`Investment score ${i.investmentScore}/100; safety ${i.safetyScore ?? "not available"}/100 (7% weight)`} style={{ background: scoreColor(i.investmentScore) }}>
                       {i.investmentScore}
                     </span>
                   </td>

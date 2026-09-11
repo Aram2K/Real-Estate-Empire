@@ -445,7 +445,8 @@ export default function DetailView({ id }: { id: string }) {
         {/* Right: scores, transport, assumptions, risks */}
         <div className="space-y-4">
           <section className="card p-4">
-            <h2 className="mb-2 font-semibold">Score breakdown</h2>
+            <h2 className="mb-1 font-semibold">Investment score breakdown</h2>
+            <p className="mb-3 text-xs text-slate-500">Neighbourhood safety contributes 7% of the total score when official data is available.</p>
             <Bar label="Cash flow" score={a.scoreParts.cashFlow} />
             <Bar label="All-in yield" score={a.scoreParts.allInGrossYield} />
             <Bar label="Rental demand" score={a.scoreParts.rentalDemand} />
@@ -453,7 +454,7 @@ export default function DetailView({ id }: { id: string }) {
             <Bar label="Appreciation (est.)" score={a.scoreParts.appreciation} />
             <Bar label="Property quality" score={a.scoreParts.propertyQuality} />
             <Bar label="Resale liquidity" score={a.scoreParts.resaleLiquidity} />
-            <Bar label="Neighbourhood safety" score={a.scoreParts.safety} />
+            <Bar label="Neighbourhood safety · 7%" score={a.scoreParts.safety} />
             <p className="mt-2 text-[11px] text-slate-400">Safety uses official SSMSI recorded-crime rates for the commune, smoothed across 2023–2025. Missing data is excluded from the weighted score.</p>
           </section>
 
