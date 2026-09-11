@@ -18,6 +18,7 @@ export async function POST(request: Request) {
   const communes = await prisma.commune.findMany({ select: { code: true, nom: true, departement: true } });
   const source = await prisma.propertySource.upsert({ where: { key: "leboncoin-bulk" }, update: { enabled: true }, create: { key: "leboncoin-bulk", label: "Leboncoin · public search results", enabled: true } });
   let imported = 0, skipped = 0;
+  const sellers = { AGENCY: 0, INDIVIDUAL: 0, UNKNOWN: 0 } as Record<string, number>;
   for (const card of cards) {
     const text = card.text?.replace(/\u00a0|\u202f/g, " ") ?? "";
     const ad = card.url?.match(/\/ad\/ventes_immobilieres\/(\d+)/);
@@ -49,9 +50,20 @@ export async function POST(request: Request) {
     // Leboncoin badges each advert pro/particulier. Only record what the
     // captured card actually states; never assume professional.
     const sellerType = parseSellerBadge(text);
+    sellers[sellerType]++;
     const listing = await prisma.listing.upsert({ where: { sourceId_externalId: { sourceId: source.id, externalId: ad[1] } }, update: { propertyId: property.id, url, price: priceCents, lastSeenAt: new Date(), status: "ACTIVE", sellerType }, create: { sourceId: source.id, externalId: ad[1], propertyId: property.id, url, price: priceCents, status: "ACTIVE", sellerType, title: `${facts[2]}P · ${facts[3]} m² · ${commune.nom}`, description: "Public search result observed on Leboncoin. Availability and exact address must be confirmed with the advertiser." } });
     if (!await prisma.priceHistory.findFirst({ where: { listingId: listing.id }, select: { id: true } })) await prisma.priceHistory.create({ data: { listingId: listing.id, price: priceCents } });
     imported++;
   }
-  return NextResponse.json({ received: cards.length, imported, skipped, total: await prisma.property.count({ where: { isDemo: false } }) });
+  return NextResponse.json({
+    received: cards.length,
+    imported,
+    skipped,
+    sellers,
+    sellerBadgeHint:
+      sellers.UNKNOWN > 0
+        ? `${sellers.UNKNOWN} advert(s) carried no Pro/Particulier badge and were saved as UNKNOWN. Include each card's full visible text (the badge sits near the price) to record the real seller.`
+        : "Every advert carried a seller badge.",
+    total: await prisma.property.count({ where: { isDemo: false } }),
+  });
 }

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { createCommuneResolver, parseLeboncoinCard } from "./bulk";
+import { createCommuneResolver, parseLeboncoinCard, parseSellerBadge } from "./bulk";
 
 describe("Leboncoin bulk cards", () => {
   it("parses a canonical card and strips tracking from the URL", () => {
@@ -21,5 +21,43 @@ describe("Leboncoin bulk cards", () => {
       { code: "77002", nom: "Saint-Pierre-du-Perray", departement: "77" },
     ]);
     expect(resolve("Saint-Pierre-du", "77000")).toBeUndefined();
+  });
+});
+
+describe("parseSellerBadge", () => {
+  const card = (badge: string) =>
+    `${badge}
+Prix: 273 000 EUR
+Appartement - 2 pieces - 45,5 m2
+Situee a Saint-Maur-des-Fosses 94100.`;
+
+  it("reads a Particulier badge as a private seller", () => {
+    expect(parseSellerBadge(card("Particulier"))).toBe("INDIVIDUAL");
+    expect(parseSellerBadge("Appartement | Particulier | 45 m2")).toBe("INDIVIDUAL");
+  });
+
+  it("reads professional badge variants as agency", () => {
+    for (const b of ["Pro", "Professionnel", "Boutique", "Agence"]) {
+      expect(parseSellerBadge(card(b))).toBe("AGENCY");
+    }
+  });
+
+  it("returns UNKNOWN when the capture carries no badge", () => {
+    // This is the current bulk-import payload shape. It must never be read as
+    // professional -- doing so would mislabel every Leboncoin listing.
+    expect(parseSellerBadge(card(""))).toBe("UNKNOWN");
+  });
+
+  it("does not match a badge word embedded in a longer word", () => {
+    expect(parseSellerBadge("Propriete de prestige, promotion neuve")).toBe("UNKNOWN");
+  });
+
+  it("prefers the private badge over agency marketing copy", () => {
+    expect(parseSellerBadge("Particulier - vente directe, sans agence")).toBe("INDIVIDUAL");
+  });
+
+  it("is accent and case insensitive", () => {
+    expect(parseSellerBadge("PARTICULIER")).toBe("INDIVIDUAL");
+    expect(parseSellerBadge("Professionnél")).toBe("AGENCY");
   });
 });

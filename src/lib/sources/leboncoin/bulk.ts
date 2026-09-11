@@ -16,13 +16,25 @@ export type ParsedLeboncoinCard = {
 };
 
 /**
- * Leboncoin badges every advert with its advertiser kind. When the captured card
- * text includes that badge we can record the seller for certain; when the
- * capture omitted it we record UNKNOWN rather than assuming professional.
+ * Leboncoin badges every advert with its advertiser kind: "Particulier" for a
+ * private owner, "Pro"/"Professionnel"/"Boutique" for a trader. When the
+ * captured card text carries that badge we record the seller for certain.
+ *
+ * IMPORTANT: when the capture omits the badge we return UNKNOWN rather than
+ * assuming professional. Getting this wrong in the "pro" direction hides real
+ * private sales from the Deals filter, which is the reason the filter exists.
+ *
+ * To capture the badge, include each card's full visible text in the import
+ * payload -- the badge sits alongside the price and location line.
  */
 export function parseSellerBadge(text: string): SellerType {
-  if (/(?:^|[\s·|>])particulier(?:[\s·|<]|$)/i.test(text)) return "INDIVIDUAL";
-  if (/(?:^|[\s·|>])(?:pro|professionnel|boutique)(?:[\s·|<]|$)/i.test(text)) return "AGENCY";
+  // Normalise separators so a badge glued to punctuation still matches.
+  const t = text.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+
+  // "particulier" must not match "de particulier a particulier" inside agency
+  // marketing copy, so require it to stand alone as a badge token.
+  if (/(?:^|[\s>|·,;:\-\/\[\(])particulier(?:[\s<|·,;:\-\/\]\)]|$)/.test(t)) return "INDIVIDUAL";
+  if (/(?:^|[\s>|·,;:\-\/\[\(])(?:pro|professionnel|professionnelle|boutique|agence)(?:[\s<|·,;:\-\/\]\)]|$)/.test(t)) return "AGENCY";
   return "UNKNOWN";
 }
 
