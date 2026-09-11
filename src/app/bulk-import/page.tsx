@@ -8,7 +8,7 @@ export default function BulkImportPage() {
   const [busy, setBusy] = useState(false);
 
   return <main className="mx-auto max-w-3xl p-8">
-    <h1 className="text-2xl font-semibold">Leboncoin batch import</h1>
+    <h1 className="text-2xl font-semibold">Listing batch import</h1>
 
     <div className="mt-4 rounded border border-amber-300 bg-amber-50 p-3 text-sm text-amber-900">
       <p className="font-semibold">Include each advert&apos;s Pro / Particulier badge.</p>
@@ -19,6 +19,7 @@ export default function BulkImportPage() {
         full visible text — the badge sits near the price — and it is recorded
         automatically.
       </p>
+      <p className="mt-1">Gens de Confiance cards are also accepted; advertiser type stays unknown unless the source states it explicitly.</p>
       <p className="mt-1">
         Adverts imported without a badge are stored as <b>Unknown seller</b>
         {" "}rather than assumed professional, so a genuine private sale is never
