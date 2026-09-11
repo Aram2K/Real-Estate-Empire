@@ -4,6 +4,7 @@ import { z } from "zod";
 import { prisma } from "../src/lib/db/prisma";
 import { computeAndStoreAnalysis } from "../src/lib/properties/analyzeOne";
 import { IDF_DEPARTMENT_CODES } from "../src/lib/constants";
+import { classifySeller } from "../src/lib/sources/sellerType";
 
 const RecordSchema = z.object({
   url: z.string().url().refine((s) => s.startsWith("https://")),
@@ -18,6 +19,10 @@ const RecordSchema = z.object({
   dpe: z.enum(["A", "B", "C", "D", "E", "F", "G"]).optional(),
   chargesAnnualEuros: z.number().nonnegative().optional(),
   taxeFonciereAnnualEuros: z.number().nonnegative().optional(),
+  // Optional: state the advertiser kind when the advert makes it explicit.
+  // Omit it and the classifier derives one from the publisher domain and the
+  // note text; anything unprovable stays UNKNOWN.
+  sellerType: z.enum(["AGENCY", "INDIVIDUAL"]).optional(),
   notes: z.string().min(1),
 });
 
@@ -50,6 +55,7 @@ async function main() {
         where: { dedupeKey: `reviewed:${r.url}` }, update: { ...data, addressLine: undefined },
         create: { dedupeKey: `reviewed:${r.url}`, ...data },
       });
+      const seller = classifySeller({ url: r.url, text: r.notes, explicit: r.sellerType ?? null });
       const listingData = {
         propertyId: property.id, price: Math.round(r.priceEuros * 100), url: r.url,
         title: `${r.rooms}P · ${r.surface} m² · ${commune.nom}`,
@@ -57,6 +63,7 @@ async function main() {
         charges: r.chargesAnnualEuros == null ? null : Math.round(r.chargesAnnualEuros * 100 / 12),
         taxeFonciere: r.taxeFonciereAnnualEuros == null ? null : Math.round(r.taxeFonciereAnnualEuros * 100),
         status: "ACTIVE", lastSeenAt: seen,
+        sellerType: seller.type, sellerName: seller.name,
       };
       const listing = await tx.listing.upsert({
         where: { sourceId_externalId: { sourceId: source.id, externalId: r.url } },
