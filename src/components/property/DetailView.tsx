@@ -130,6 +130,10 @@ export default function DetailView({ id }: { id: string }) {
   const fin = a.finance;
   const w = WHITE_STATUS_META[fin.whiteStatus];
   const eb = fin.cashFlow.expenseBreakdown;
+  const publicationDate = l.publishedAt ? new Date(l.publishedAt) : null;
+  const publicationLabel = publicationDate && !Number.isNaN(publicationDate.getTime())
+    ? new Intl.DateTimeFormat("en-GB", { dateStyle: "medium", timeStyle: "short", timeZone: "Europe/Paris" }).format(publicationDate)
+    : null;
 
   // Risk flags
   const risks: string[] = [];
@@ -163,6 +167,7 @@ export default function DetailView({ id }: { id: string }) {
             source: {l.source}
             {` · ${l.sellerType === "AGENCY" ? "agency / professional" : l.sellerType === "INDIVIDUAL" ? "private individual" : "seller type unknown"}`}
             {l.sellerName ? ` · ${l.sellerName}` : ""}
+            {publicationLabel ? ` · published ${publicationLabel}` : ` · first observed ${new Intl.DateTimeFormat("en-GB", { dateStyle: "medium", timeStyle: "short", timeZone: "Europe/Paris" }).format(new Date(l.firstSeenAt))}`}
             {p.isDemo && " · demo listing (from DVF)"}
           </div>
         </div>

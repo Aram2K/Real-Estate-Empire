@@ -207,6 +207,7 @@ model Listing {
   taxeFonciere Int? // annual
   firstSeenAt  DateTime @default(now())
   lastSeenAt   DateTime @default(now())
+  publishedAt  DateTime? // source publication time when the advert exposes it
   daysOnMarket Int?
   status       String   @default("ACTIVE") // ACTIVE | SOLD | WITHDRAWN
   propertyId   String

@@ -20,6 +20,7 @@ export default function BulkImportPage() {
         automatically.
       </p>
       <p className="mt-1">Gens de Confiance cards are also accepted; advertiser type stays unknown unless the source states it explicitly.</p>
+      <p className="mt-1">For large authenticated batches, Gens de Confiance fields can be supplied directly, including publication time.</p>
       <p className="mt-1">
         Adverts imported without a badge are stored as <b>Unknown seller</b>
         {" "}rather than assumed professional, so a genuine private sale is never
@@ -35,6 +36,17 @@ export default function BulkImportPage() {
     "text": "Particulier\\nPrix: 273 000 €\\nAppartement · 2 pièces · 45,5 m²\\nSituée à Saint-Maur-des-Fossés 94100.",
     "dpe": "Classe énergie D",
     "address": "12 rue de Paris, Saint-Maur-des-Fossés"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/advert-id",
+    "price": 425000,
+    "propertyType": "Appartement",
+    "rooms": 3,
+    "surface": 51.5,
+    "city": "Boulogne-Billancourt",
+    "postalCode": "92100",
+    "publishedAt": "2026-09-12T08:30:00+02:00",
+    "sellerType": "INDIVIDUAL"
   }
 ]`}</pre>
       <p className="mt-2">

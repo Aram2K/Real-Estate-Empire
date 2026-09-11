@@ -66,3 +66,19 @@ real-only API returns 23 items with all eight departments represented.
 5. Before public hosting, add authentication and per-user ownership. OWNER_ID currently identifies one shared local user and is not authentication. Choose hosting with persistent database storage, then validate migrations and recovery.
 
 The current app calculates estimates. A passing build and engine tests do not validate live listing coverage, lending availability, tax treatment, or the freshness of legal and transport assumptions.
+# Fast Leboncoin page-range imports
+
+For a large, authenticated browser sweep, open an Île-de-France sales search on
+Leboncoin, open DevTools Console, adjust and paste
+`scripts/leboncoin-browser-harvester.js`. The script fetches a configurable page
+range four pages at a time, deduplicates adverts in memory, and imports them to
+the local app in batches. It preserves advert URLs and source-stated seller and
+location fields. The server still rejects incomplete, unmapped, and non-IDF
+records.
+
+Keep the app running on port 3100 during the sweep. The bulk endpoint deliberately
+defers investment analysis; after the browser reports completion, run:
+
+```bash
+npm run compute:analyses:new
+```

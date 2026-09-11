@@ -49,7 +49,11 @@ export async function POST(request: Request) {
   }
 
   try {
-    const stats = await importHarvestedAds(ads);
+    // Bulk browser sweeps can defer analysis until every page has landed. This
+    // avoids recomputing shared market inputs and makes large imports much
+    // faster. Run `npm run compute:analyses:new` once after the sweep.
+    const analyse = new URL(request.url).searchParams.get("analyse") !== "false";
+    const stats = await importHarvestedAds(ads, { analyse });
     return NextResponse.json(stats, { headers: CORS });
   } catch (error) {
     return NextResponse.json(
