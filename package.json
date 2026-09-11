@@ -32,7 +32,9 @@
     "ingest:listings": "tsx scripts/ingest-listings.ts",
     "import:reviewed": "tsx scripts/import-reviewed-listings.ts",
     "ingest:all": "tsx scripts/run-all.ts",
-    "backfill:seller": "tsx scripts/backfill-seller-type.ts"
+    "backfill:seller": "tsx scripts/backfill-seller-type.ts",
+    "import:harvest": "tsx scripts/import-leboncoin-harvest.ts",
+    "resolve:sellers": "tsx scripts/resolve-seller-types.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.1.0",

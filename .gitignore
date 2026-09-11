@@ -39,3 +39,6 @@ prisma/generated
 
 # Ingestion download caches (large, regenerable)
 .cache-*
+
+# Harvest scratch (local only)
+.harvest/
