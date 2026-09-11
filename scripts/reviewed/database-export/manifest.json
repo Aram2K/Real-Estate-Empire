@@ -1,0 +1,46 @@
+{
+  "format": "idf-investment-radar/source-listings-jsonl-v1",
+  "generatedAt": "2026-09-11T23:23:58.028Z",
+  "filters": [
+    "ACTIVE",
+    "isDemo=false",
+    "HTTPS source URL",
+    "complete core property fields"
+  ],
+  "records": 3717,
+  "chunkSize": 500,
+  "files": [
+    {
+      "file": "listings-0001.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0002.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0003.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0004.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0005.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0006.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0007.jsonl",
+      "records": 500
+    },
+    {
+      "file": "listings-0008.jsonl",
+      "records": 217
+    }
+  ]
+}
