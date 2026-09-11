@@ -1,0 +1,41 @@
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+.next-dev
+out
+build
+dist
+next-env.d.ts
+*.tsbuildinfo
+
+# Secrets — never commit
+.env
+.env.local
+.env*.local
+
+# Local SQLite database.
+# idf.db is ~110 MB of ingested open data, over GitHub's 100 MB per-file limit,
+# and is fully regenerable: `npm run db:setup && npm run ingest:all`.
+prisma/*.db
+prisma/*.db-journal
+prisma/*.db-wal
+prisma/*.db-shm
+data/
+
+# Logs and local run artefacts
+*.log
+
+# Local editor config
+.vscode/
+.idea/
+
+# Editor / OS
+.DS_Store
+.vercel
+coverage
+prisma/generated
+
+# Ingestion download caches (large, regenerable)
+.cache-*

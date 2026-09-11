@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.capifrance.fr/fr/immobilier/vente/appartement/nanterre/appartement-2-pieces-en-duplex-nanterre-92/572337",
+    "communeCode": "92050",
+    "priceEuros": 312000,
+    "surface": 57.75,
+    "rooms": 2,
+    "floor": 3,
+    "hasElevator": true,
+    "chargesAnnualEuros": 2630,
+    "taxeFonciereAnnualEuros": 1232,
+    "notes": "Capifrance ref 956794. Duplex on floors 3/4, building 2017, two balconies and parking. Detailed Carrez 57.75 m² used; heading gives 60 m² habitable and prose rounds to 57. DPE letter not readable. Exact address unavailable.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t2-creteil-94000-63d1b7d9-d0be-4963-948f-53df86f3d21e/?agency=crossard",
+    "communeCode": "94028",
+    "priceEuros": 144000,
+    "surface": 26.14,
+    "rooms": 2,
+    "floor": 1,
+    "dpe": "E",
+    "chargesAnnualEuros": 1170,
+    "notes": "Orpi Chery Crossard. Champeval; 15 condominium lots. EUR 144,000 includes advertised buyer fees. Lift not confirmed. Tax and exact address unconfirmed; agency address is not property address.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-creteil-94000-4e601a43-bcff-4b65-8c04-d45a4dde8d71/?agency=crossard",
+    "communeCode": "94028",
+    "priceEuros": 289000,
+    "surface": 71.99,
+    "rooms": 3,
+    "floor": 2,
+    "dpe": "E",
+    "chargesAnnualEuros": 2571,
+    "hasElevator": true,
+    "notes": "Orpi Chery Crossard. Champeval; two bedrooms, balconies, cellar and collective heating. 56 condominium lots. Tax and exact address unconfirmed; agency address is not property address.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-creteil-94000-7e4755e9-ef28-431f-8aa8-beaf48c2f736/?agency=crossard",
+    "communeCode": "94028",
+    "priceEuros": 264000,
+    "surface": 54.21,
+    "rooms": 3,
+    "floor": 6,
+    "dpe": "F",
+    "chargesAnnualEuros": 2715,
+    "hasElevator": true,
+    "notes": "Orpi Chery Crossard. Village; two bedrooms, balcony, cellar, collective oil heating and shared unallocated parking. 432 condominium lots. DPE F. Tax and exact address unconfirmed; agency address is not property address.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  }
+]

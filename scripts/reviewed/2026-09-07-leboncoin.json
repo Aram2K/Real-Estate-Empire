@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3263444877",
+    "communeCode": "93078",
+    "priceEuros": 361000,
+    "surface": 103.95,
+    "rooms": 5,
+    "propertyType": "Maison",
+    "dpe": "F",
+    "notes": "Leboncoin / Expertimo Nadia Lagraf. La Haie Bertrand, garage and garden. Prose gives 103.95 m² versus rounded 104; four current bedrooms, possible fifth unverified. DPE F explicitly stated. Tax, precise address and recurring charges unavailable. House rent and comparable assumptions require review.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3226540464",
+    "communeCode": "77057",
+    "priceEuros": 170000,
+    "surface": 98,
+    "rooms": 3,
+    "propertyType": "Maison",
+    "notes": "Leboncoin / iad Sandrine Lhuillier. IMPORTANT: portal location says La Ferté-sous-Jouarre but full description explicitly places property in Bussières; mapped to Bussières. Renovation project with unfinished shower room, adjoining barn, garage and 462 m² land. DPE letter not readable; tax and exact address unknown. Obtain renovation budget; house rent and comparable assumptions require review.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3260594227",
+    "communeCode": "77219",
+    "priceEuros": 220000,
+    "surface": 81,
+    "rooms": 4,
+    "propertyType": "Maison",
+    "notes": "Leboncoin / iad Sandrine Lhuillier. IMPORTANT: portal location says Crécy-la-Chapelle but description explicitly says Guérard; mapped to Guérard. Townhouse with garage, courtyard, EV charging, two bedrooms plus independently accessed room. DPE letter not readable; tax, charges and exact address unknown. House rent and comparable assumptions require review.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3219139353",
+    "communeCode": "94068",
+    "priceEuros": 273000,
+    "surface": 45,
+    "rooms": 2,
+    "floor": 1,
+    "dpe": "D",
+    "chargesAnnualEuros": 2940,
+    "taxeFonciereAnnualEuros": 1039,
+    "notes": "Leboncoin / Orpi MGM Immobilier. Vieux-Saint-Maur, south-facing balcony and cellar. DPE D and floor 1 shown on search card; costs verified on detail page. Advertiser says five-minute walk to RER A; exact property address unavailable, walking claim unverified. No duplicate found among current reviewed records.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  }
+]

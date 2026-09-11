@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/0abba90c-e0c1-4dd9-b182-b58815fc22ce",
+    "communeCode": "93055",
+    "priceEuros": 149000,
+    "surface": 29,
+    "rooms": 2,
+    "floor": 3,
+    "dpe": "G",
+    "notes": "Gens de Confiance, reviewed through authorized logged-in browser. Third/top floor, cellar. Seller says staircase work voted and paid. DPE G stated in description. Exact address, charges and tax unreported.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/6b365c41-64cb-41c4-b44b-bfeba5148c3f",
+    "communeCode": "94002",
+    "priceEuros": 119000,
+    "surface": 18.03,
+    "rooms": 1,
+    "floor": 1,
+    "dpe": "D",
+    "chargesAnnualEuros": 408,
+    "taxeFonciereAnnualEuros": 281,
+    "notes": "GDC / I.N.C.I.T.I ref 87094970. Rue Véron, street number unavailable. Detailed Carrez 18.03 m² used instead of rounded 18. Price includes EUR 9,000 buyer fees. Rental yield claim is advertiser marketing, not verified income.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/eed38f0c-23f9-4d2d-83f1-f82015d6d585",
+    "communeCode": "91589",
+    "priceEuros": 130000,
+    "surface": 58.66,
+    "rooms": 3,
+    "floor": 8,
+    "dpe": "D",
+    "chargesAnnualEuros": 3099,
+    "notes": "GDC / INNOVE IMMO ref VA6115-INNOVEIMMO. Les Rossays, balcony, cellar, external parking. Detailed title 58.66 m² used rather than rounded 58/59. Two current bedrooms; potential third bedroom and EUR 400/room rent are unverified projections. 1,117 condominium lots. Exact address and tax unreported.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/b7bea1f2-d4de-42ce-9038-c64ac4dd0fbf",
+    "communeCode": "75106",
+    "priceEuros": 165000,
+    "surface": 11.18,
+    "rooms": 1,
+    "floor": 5,
+    "hasElevator": false,
+    "dpe": "G",
+    "notes": "GDC / L'Avenue ref 111234448-EDOUARD-GDC. Occupied sale, unfurnished lease until 12 July 2027, EUR 650/month including charges; app uses market estimate. Surface conflicts: title 11.18, prose 11.5 Carrez, card 11; title retained pending verification. Description states DPE G but also DPE in progress. Rue Jules Chapelain as written; exact address unconfirmed. Charges and tax unavailable.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3210883603",
+    "communeCode": "93013",
+    "priceEuros": 170000,
+    "surface": 52.46,
+    "rooms": 3,
+    "floor": 1,
+    "chargesAnnualEuros": 1441,
+    "notes": "Leboncoin / CIEL IMMO. Detailed prose 52.46 m² used instead of rounded 52. Opposite Le Bourget RER station; exact address unavailable. Workshop, closed garage, parking and land advertised. Refurbishment needed. DPE letter not readable in text, left unknown. 20 condominium lots. Price includes seller-paid agency fees.",
+    "observedAt": "2026-09-07T00:00:00+02:00"
+  }
+]

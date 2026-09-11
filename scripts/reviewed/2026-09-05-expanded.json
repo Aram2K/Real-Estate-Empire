@@ -1,0 +1,118 @@
+[
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/livry-gargan/acheter/livry-gargan/appartement-2-pieces-52699625",
+    "communeCode": "93046",
+    "priceEuros": 145000,
+    "surface": 37.68,
+    "rooms": 2,
+    "chargesAnnualEuros": 1147.92,
+    "notes": "Laforêt ref 483. Libération district. Detailed surface 37.68 m² used instead of rounded 38 m². Monthly condominium charges EUR 95.66. Energy warning on page; DPE letter not readable in text and must be checked. Tax and exact address unavailable.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/livry-gargan/acheter/livry-gargan/appartement-2-pieces-52789415",
+    "communeCode": "93046",
+    "priceEuros": 163000,
+    "surface": 60,
+    "rooms": 2,
+    "chargesAnnualEuros": 1800,
+    "notes": "Laforêt ref 529. Top floor with terrace, building dated 1991 and 35 condominium lots. Monthly charges EUR 150. Exact address, property tax and DPE letter unconfirmed.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/livry-gargan/acheter/livry-gargan/appartement-3-pieces-52826594",
+    "communeCode": "93046",
+    "priceEuros": 140000,
+    "surface": 59,
+    "rooms": 3,
+    "chargesAnnualEuros": 4146.2,
+    "notes": "Laforêt ref 546. Jacob district; balcony, parking and cellar. Insulation/facade work is in progress and interior improvements are mentioned. Energy warning on page; obtain the DPE and work budget. Annual condominium charges EUR 4,146.20.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/livry-gargan/acheter/livry-gargan/appartement-4-pieces-52631035",
+    "communeCode": "93046",
+    "priceEuros": 155000,
+    "surface": 60,
+    "rooms": 4,
+    "chargesAnnualEuros": 1680,
+    "notes": "Laforêt ref 431. Four advertised rooms comprise a double living room and two bedrooms. Energy warning on page; DPE letter not readable in text. Annual condominium charges EUR 1,680. Tax and exact address unavailable.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-argenteuil-42m2/r2081913",
+    "communeCode": "95018",
+    "priceEuros": 125900,
+    "surface": 42,
+    "rooms": 3,
+    "floor": 4,
+    "hasElevator": false,
+    "dpe": "G",
+    "chargesAnnualEuros": 2400,
+    "notes": "iad ref 2081913. Avenue Jean Jaurès; two bedrooms in sequence. Fourth/top floor without lift; balcony/cellar. DPE G requires a renovation and rental-eligibility review before treating this as a rental opportunity. Exact street number and tax unknown.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.safti.fr/annonces/achat/appartement/mantes-la-jolie-78200/1598675",
+    "communeCode": "78361",
+    "priceEuros": 177000,
+    "surface": 72,
+    "rooms": 4,
+    "floor": 7,
+    "hasElevator": true,
+    "dpe": "E",
+    "chargesAnnualEuros": 3031,
+    "notes": "SAFTI ref 1598675. Seine-side area; three bedrooms, top floor with lift, parking and common cellar, no balcony. Current detail page price EUR 177,000 used instead of older search result EUR 184,500. Tax and exact address unknown.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-argenteuil-48m2/r2049575",
+    "communeCode": "95018",
+    "priceEuros": 139000,
+    "surface": 48,
+    "rooms": 3,
+    "floor": 4,
+    "dpe": "F",
+    "chargesAnnualEuros": 2220,
+    "notes": "iad ref 2049575. Two bedrooms and cellar in a 60-lot condominium. DPE F. Exact address and tax unknown. Search page showed this same advert twice; imported once.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-argenteuil-45m2/r2016010",
+    "communeCode": "95018",
+    "priceEuros": 139000,
+    "surface": 45,
+    "rooms": 2,
+    "floor": 2,
+    "dpe": "F",
+    "chargesAnnualEuros": 1056,
+    "notes": "iad ref 2016010. Centre-ville, separate kitchen and cellar. Seller reports EUR 88/month charges. DPE F; renovation assessment needed. Exact address and tax unknown.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-paris-14e-r465101622",
+    "communeCode": "75114",
+    "priceEuros": 158000,
+    "surface": 15.52,
+    "rooms": 1,
+    "floor": 4,
+    "hasElevator": false,
+    "dpe": "D",
+    "notes": "PAP ref G51/1622; page dated 4 September 2026. Alésia/Quartier des Artistes. Advertised vacant, southwest-facing studio with cellar, fourth floor without lift. Charges and property tax unreported. Exact address not extracted; no map pin.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-paris-20e-75020-r463301631",
+    "communeCode": "75120",
+    "priceEuros": 310000,
+    "surface": 42,
+    "rooms": 2,
+    "floor": 6,
+    "hasElevator": false,
+    "dpe": "F",
+    "chargesAnnualEuros": 1320,
+    "taxeFonciereAnnualEuros": 704,
+    "notes": "PAP ref G33/1631; page dated 4 September 2026. Porte de Montreuil, sixth/top floor without lift, cellar. DPE F. Seller states EUR 110/month charges and recent facade work. Exact address not extracted.",
+    "observedAt": "2026-09-05T00:00:00+02:00"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/14102026692/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "77288",
+    "priceEuros": 60000,
+    "surface": 19.52,
+    "rooms": 1,
+    "floor": 2,
+    "dpe": "F",
+    "taxeFonciereAnnualEuros": 771,
+    "notes": "Agency reference 85783. Advertised occupied, near Melun station. DPE F. Condominium charge amount shown as EUR 135 without an explicit period, so it is not used as a confirmed monthly charge. Obtain the lease, charge statements and renovation assessment. The app uses estimated market rent and charges where unconfirmed."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15220069258/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "77288",
+    "priceEuros": 118000,
+    "surface": 47.85,
+    "rooms": 2,
+    "floor": 1,
+    "hasElevator": true,
+    "dpe": "F",
+    "chargesAnnualEuros": 3900,
+    "taxeFonciereAnnualEuros": 1376,
+    "notes": "Agency reference 86184. Parking and lift; DPE F. Charges conflict: EUR 325/month versus EUR 3,278/year. The higher EUR 3,900/year is used pending confirmation. Obtain the charge breakdown and renovation assessment."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15462977067/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "77288",
+    "priceEuros": 107000,
+    "surface": 37.77,
+    "rooms": 2,
+    "chargesAnnualEuros": 240,
+    "taxeFonciereAnnualEuros": 650,
+    "notes": "Agency reference 86486. Central Melun, six condominium lots. Charges shown as EUR 20/month and EUR 230/year; using EUR 240/year pending confirmation. DPE letter not available in the reviewed text, so it remains unknown."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15663673158/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "91228",
+    "priceEuros": 114000,
+    "surface": 46.51,
+    "rooms": 2,
+    "floor": 2,
+    "chargesAnnualEuros": 2400,
+    "taxeFonciereAnnualEuros": 990,
+    "notes": "Agency reference 5596. Advertised occupied, rent EUR 790/month including charges; the rent excluding charges is not provided. Balcony and garage. The app's cash-flow calculation uses an estimated market rent, not this occupied lease. Confirm lease, recoverable charges and availability with the agency."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15589087792/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "91228",
+    "priceEuros": 119000,
+    "surface": 38.91,
+    "rooms": 2,
+    "floor": 0,
+    "hasElevator": true,
+    "chargesAnnualEuros": 1736,
+    "taxeFonciereAnnualEuros": 1230,
+    "notes": "Agency reference 5568. Garden, terrace and enclosed parking. Advertised as two rooms, but the sleeping area is approximately 7.1 m² and open to adjacent rooms; verify the layout and bedroom suitability. Annual published charges used instead of the rounded monthly figure."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15832693321/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "91228",
+    "priceEuros": 129900,
+    "surface": 46.96,
+    "rooms": 2,
+    "floor": 4,
+    "hasElevator": true,
+    "chargesAnnualEuros": 2165.8,
+    "taxeFonciereAnnualEuros": 1364,
+    "notes": "Agency reference 5658. Balcony and underground parking; the agency states heating and hot/cold water are included in condominium charges. Confirm the landlord's non-recoverable share; the app currently estimates that share."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15610787089/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "91228",
+    "priceEuros": 110000,
+    "surface": 34,
+    "rooms": 1,
+    "floor": 1,
+    "chargesAnnualEuros": 1571,
+    "taxeFonciereAnnualEuros": 1011,
+    "notes": "Agency reference 5581. Advertised occupied and furnished: EUR 860/month including charges, EUR 760 excluding charges. Parking included. The app's calculation still uses estimated market rent; compare it with the actual lease before deciding. Annual published charges used instead of the rounded EUR 130/month figure."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15818421211/",
+    "observedAt": "2026-09-05T00:00:00+02:00",
+    "communeCode": "91228",
+    "priceEuros": 115000,
+    "surface": 68.09,
+    "rooms": 4,
+    "floor": 8,
+    "hasElevator": true,
+    "dpe": "D",
+    "chargesAnnualEuros": 3132,
+    "taxeFonciereAnnualEuros": 1453,
+    "notes": "Agency reference 5646. Advertised occupied with rent EUR 1,200/month; inclusion of charges is unclear. The page calls this F4 but describes four bedrooms plus a living room. Charges conflict: EUR 261/month versus EUR 3,000/year; the higher EUR 3,132/year is used pending confirmation. The app uses estimated market rent, not the advertised lease."
+  }
+]

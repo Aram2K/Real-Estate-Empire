@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: idf_radar_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: idf
+      POSTGRES_PASSWORD: idf
+      POSTGRES_DB: idf_radar
+    ports:
+      - "5432:5432"
+    volumes:
+      - idf_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U idf -d idf_radar"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  idf_pgdata:
