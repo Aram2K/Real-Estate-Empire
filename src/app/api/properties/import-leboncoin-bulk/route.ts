@@ -61,9 +61,11 @@ export async function POST(request: Request) {
     skipped,
     sellers,
     sellerBadgeHint:
-      sellers.UNKNOWN > 0
-        ? `${sellers.UNKNOWN} advert(s) carried no Pro/Particulier badge and were saved as UNKNOWN. Include each card's full visible text (the badge sits near the price) to record the real seller.`
-        : "Every advert carried a seller badge.",
+      imported === 0
+        ? "Nothing was imported, so no seller badge was read."
+        : sellers.UNKNOWN > 0
+          ? `${sellers.UNKNOWN} of ${imported} advert(s) carried no Pro/Particulier badge and were saved as UNKNOWN. Include each card's full visible text (the badge sits near the price) to record the real seller.`
+          : `All ${imported} advert(s) carried a seller badge.`,
     total: await prisma.property.count({ where: { isDemo: false } }),
   });
 }
