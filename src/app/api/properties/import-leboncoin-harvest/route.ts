@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
-import { HarvestedAdSchema, importHarvestedAds } from "@/lib/sources/leboncoin/harvest";
+import { HarvestRowSchema, importHarvestedAds } from "@/lib/sources/leboncoin/harvest";
 
 /**
  * Local harvest sink.
@@ -16,10 +16,9 @@ import { HarvestedAdSchema, importHarvestedAds } from "@/lib/sources/leboncoin/h
  * hosting note in DEVELOPMENT.md.
  */
 
-const BodySchema = z.union([
-  z.array(HarvestedAdSchema),
-  z.object({ ads: z.array(HarvestedAdSchema) }),
-]);
+// Rows are validated individually so one malformed advert (a bad room count,
+// a missing field) is dropped rather than rejecting the whole page.
+const BodySchema = z.union([z.array(z.unknown()), z.object({ ads: z.array(z.unknown()) })]);
 
 const CORS = {
   "Access-Control-Allow-Origin": "*",
@@ -40,8 +39,15 @@ export async function POST(request: Request) {
       { status: 400, headers: CORS }
     );
   }
-  const ads = Array.isArray(parsed.data) ? parsed.data : parsed.data.ads;
-  if (ads.length > 500) {
+  const raw = Array.isArray(parsed.data) ? parsed.data : parsed.data.ads;
+  const ads = [];
+  let rejected = 0;
+  for (const row of raw) {
+    const one = HarvestRowSchema.safeParse(row);
+    if (one.success) ads.push(one.data);
+    else rejected++;
+  }
+  if (raw.length > 500) {
     return NextResponse.json(
       { error: "Batch too large (max 500)" },
       { status: 400, headers: CORS }
@@ -54,7 +60,7 @@ export async function POST(request: Request) {
     // faster. Run `npm run compute:analyses:new` once after the sweep.
     const analyse = new URL(request.url).searchParams.get("analyse") !== "false";
     const stats = await importHarvestedAds(ads, { analyse });
-    return NextResponse.json(stats, { headers: CORS });
+    return NextResponse.json({ ...stats, rejected }, { headers: CORS });
   } catch (error) {
     return NextResponse.json(
       { error: "Import failed", detail: String(error) },

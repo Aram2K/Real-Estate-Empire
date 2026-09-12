@@ -36,6 +36,49 @@ export const HarvestedAdSchema = z.object({
 
 export type HarvestedAd = z.infer<typeof HarvestedAdSchema>;
 
+/**
+ * Compact pipe-delimited harvest row, in the field order the search-page
+ * extractor emits:
+ *
+ *   id|ownerType|priceCents|city|zipcode|lat|lng|realEstateType|square|rooms|energy|status
+ *
+ * An empty field means "not stated" and becomes null rather than a guessed
+ * value. The extractor only emits coordinates for a street-number location, so
+ * a present pair is already known to be precise.
+ */
+export function parsePipeRow(line: string) {
+  const f = line.split("|");
+  const s = (i: number) => (f[i] === undefined || f[i] === "" ? null : f[i]);
+  const num = (i: number) => {
+    const v = s(i);
+    if (v == null) return null;
+    const n = Number(v);
+    return Number.isFinite(n) ? n : null;
+  };
+  return {
+    id: f[0],
+    url: `https://www.leboncoin.fr/ad/ventes_immobilieres/${f[0]}`,
+    ownerType: s(1),
+    priceCents: num(2),
+    city: s(3),
+    zipcode: s(4),
+    lat: num(5),
+    lng: num(6),
+    originType: s(5) ? "streetNumber" : null,
+    realEstateType: s(7),
+    square: num(8),
+    rooms: num(9),
+    energy: s(10),
+    status: s(11),
+  };
+}
+
+/** Accept either full objects or compact pipe rows from the same endpoint. */
+export const HarvestRowSchema = z.union([
+  z.string().transform(parsePipeRow).pipe(HarvestedAdSchema),
+  HarvestedAdSchema,
+]);
+
 export interface HarvestStats {
   received: number;
   distinct: number;
@@ -119,7 +162,20 @@ export async function importHarvestedAds(
       stats.inactive++;
       continue;
     }
-    if (!it.priceCents || !it.square || !it.zipcode) {
+    // A record must carry price, surface, rooms, city/postcode and a resolvable
+    // property type. Anything short of that is rejected rather than stored with
+    // holes: the finance engine cannot analyse it, and a partial row would
+    // otherwise sit in the corpus looking like a real deal. This also excludes
+    // the garages, parking spaces and building plots that share the sale
+    // category but are not dwellings.
+    if (
+      !it.priceCents ||
+      !it.square ||
+      !it.zipcode ||
+      !it.city ||
+      !it.rooms ||
+      !propertyTypeOf(it.realEstateType)
+    ) {
       stats.skippedIncomplete++;
       continue;
     }

@@ -4,12 +4,13 @@
  *
  *   npm run import:harvest -- harvest.json
  *   npm run import:harvest -- harvest.json --dry
+ *   npm run import:harvest -- harvest.json --no-analyse
  *   cat harvest.json | npm run import:harvest
  */
 import { readFile } from "node:fs/promises";
 import { z } from "zod";
 import { prisma } from "../src/lib/db/prisma";
-import { HarvestedAdSchema, importHarvestedAds } from "../src/lib/sources/leboncoin/harvest";
+import { HarvestRowSchema, importHarvestedAds } from "../src/lib/sources/leboncoin/harvest";
 import { log } from "./_lib/log";
 
 async function input(): Promise<unknown> {
@@ -26,48 +27,14 @@ async function input(): Promise<unknown> {
   return JSON.parse(raw);
 }
 
-/**
- * Pipe-delimited harvest row, in the field order the search-page extractor emits:
- *   id|ownerType|priceCents|city|zipcode|lat|lng|realEstateType|square|rooms|energy|status
- * Empty fields mean "not stated" and become null rather than a guessed value.
- */
-function parsePipeRow(line: string) {
-  const f = line.split("|");
-  const s = (i: number) => (f[i] === undefined || f[i] === "" ? null : f[i]);
-  const num = (i: number) => {
-    const v = s(i);
-    if (v == null) return null;
-    const n = Number(v);
-    return Number.isFinite(n) ? n : null;
-  };
-  return {
-    id: f[0],
-    url: `https://www.leboncoin.fr/ad/ventes_immobilieres/${f[0]}`,
-    ownerType: s(1),
-    priceCents: num(2),
-    city: s(3),
-    zipcode: s(4),
-    lat: num(5),
-    lng: num(6),
-    // The extractor only emits coordinates for a street-number location, so a
-    // present pair is already known to be precise.
-    originType: s(5) ? "streetNumber" : null,
-    realEstateType: s(7),
-    square: num(8),
-    rooms: num(9),
-    energy: s(10),
-    status: s(11),
-  };
-}
-
 async function main() {
   const dry = process.argv.includes("--dry");
-  const raw = await input();
-  const rows = Array.isArray(raw) ? raw : [];
-  const normalised = rows.map((r) => (typeof r === "string" ? parsePipeRow(r) : r));
-  const records = z.array(HarvestedAdSchema).parse(normalised);
+  const records = z.array(HarvestRowSchema).parse(await input());
   log.step(`${records.length} harvested adverts${dry ? " (dry run)" : ""}`);
-  const stats = await importHarvestedAds(records, { dry });
+  // A large sweep defers analysis so every page lands first; run
+  // `npm run compute:analyses:new` once afterwards.
+  const analyse = !process.argv.includes("--no-analyse");
+  const stats = await importHarvestedAds(records, { dry, analyse });
   log.ok(dry ? "Dry run complete" : "Import complete");
   console.log(JSON.stringify(stats, null, 1));
 }
