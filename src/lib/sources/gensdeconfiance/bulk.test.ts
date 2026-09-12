@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { isGensDeConfianceCard, parseGensDeConfianceCard, parsePublishedAt } from "./bulk";
+import { isGensDeConfianceCard, nonWholePropertyReason, parseGensDeConfianceCard, parsePublishedAt } from "./bulk";
 
 describe("Gens de Confiance bulk cards", () => {
   it("parses the current English visible-card format", () => {
@@ -37,5 +37,38 @@ describe("Gens de Confiance bulk cards", () => {
     expect(parseGensDeConfianceCard({ url: "https://gensdeconfiance.com/us/ui/post/realestate__sale/x", text: "House · 80 m² · 4 rooms\nLyon (69000)\n€300000" })).toBeNull();
     expect(parseGensDeConfianceCard({ url: "https://example.com/us/ui/post/realestate__sale/x", price: 1, propertyType: "House", rooms: 1, surface: 1, city: "Paris", postalCode: "75001" })).toBeNull();
     expect(isGensDeConfianceCard({ url: "https://gensdeconfiance.com/us/ui/post/realestate__sale/x" })).toBe(true);
+  });
+
+  it.each([
+    ["Appartement en viager occupé", "Bouquet 90 000 € et rente mensuelle"],
+    ["Studio en nue-propriété", "Appartement · 20 m² · 1 pièce"],
+    ["Multipropriété à Paris", "Droit de séjour 2 semaines par an"],
+    ["Vente d'une quote-part", "Propriété fractionnée"],
+    ["Parking Paris 15e", "Appartement · 12 m² · 1 pièce"],
+    ["Cave dans immeuble", "Appartement · 8 m² · 1 pièce"],
+  ])("rejects non-whole-property offer: %s", (title, description) => {
+    expect(nonWholePropertyReason(title, description)).not.toBeNull();
+    expect(parseGensDeConfianceCard({
+      url: `https://gensdeconfiance.com/us/ui/post/realestate__sale/${encodeURIComponent(title)}`,
+      title,
+      text: `250 000 €\nAppartement · 30 m² · 2 pièces\nParis 75015\n${description}`,
+    })).toBeNull();
+  });
+
+  it("does not reject a whole apartment merely because it includes a cellar or parking", () => {
+    expect(nonWholePropertyReason("Appartement familial", "Appartement vendu avec cave et place de parking incluses")).toBeNull();
+  });
+
+  it("rejects numeric signatures that cannot credibly be a whole IDF dwelling", () => {
+    const base = {
+      url: "https://gensdeconfiance.com/us/ui/post/realestate__sale/numeric-outlier",
+      propertyType: "Appartement",
+      rooms: 1,
+      city: "Paris",
+      postalCode: "75015",
+    };
+    expect(parseGensDeConfianceCard({ ...base, price: 100_000, surface: 4.5 })).toBeNull();
+    expect(parseGensDeConfianceCard({ ...base, price: 9_000, surface: 100 })).toBeNull();
+    expect(parseGensDeConfianceCard({ ...base, price: 29_000, surface: 100 })).not.toBeNull();
   });
 });

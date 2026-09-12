@@ -1,9 +1,11 @@
 import { parseSellerBadge, type CommuneCandidate } from "../leboncoin/bulk";
 import type { SellerType } from "../sellerType";
+import { classifySuspiciousListing } from "../listingQuality";
 
 export type GensDeConfianceCard = {
   url?: string;
   text?: string;
+  title?: string;
   dpe?: string;
   price?: number;
   propertyType?: string;
@@ -16,6 +18,11 @@ export type GensDeConfianceCard = {
   /** ISO timestamp supplied by the browser extractor when available. */
   publishedAt?: string;
 };
+
+/** Return why the advert is not an ordinary sale of an entire dwelling. */
+export function nonWholePropertyReason(title: string | undefined, description: string | undefined): string | null {
+  return classifySuspiciousListing({ title, description }).reasons[0] ?? null;
+}
 
 export type ParsedGensDeConfianceCard = {
   externalId: string;
@@ -60,6 +67,7 @@ export function parseGensDeConfianceCard(card: GensDeConfianceCard, observedAt =
   if (!identity) return null;
 
   const text = (card.text ?? "").replace(/\u00a0|\u202f/g, " ");
+  if (nonWholePropertyReason(card.title, text)) return null;
   const priceMatch = text.match(/(?:prix\s*:?\s*)?([\d][\d ,.]{2,})\s*€/i) ?? text.match(/€[ \t]*([\d][\d ,.]{2,})/i);
   const surfaceFirstFacts = text.match(/\b(appartement|maison|apartment|house)\b\s*(?:·|-|,)?\s*([\d.,]+)\s*m[²2]\s*(?:·|-|,)?\s*(\d+)\s*(?:pi[eè]ces?|rooms?)/i);
   const roomsFirstFacts = surfaceFirstFacts ? null : text.match(/\b(appartement|maison|apartment|house)\b\s*(?:·|-|,)?\s*(\d+)\s*(?:pi[eè]ces?|rooms?)\s*(?:·|-|,)?\s*([\d.,]+)\s*m[²2]/i);
@@ -87,6 +95,13 @@ export function parseGensDeConfianceCard(card: GensDeConfianceCard, observedAt =
   const city = card.city?.trim() || cityFromParenthesizedPostal?.trim() || cityFromPostalLine?.trim();
 
   if (!propertyType || !surface || !rooms || !Number.isInteger(rooms) || !euroPrice || !postalCode || !city) return null;
+  if (classifySuspiciousListing({
+    title: card.title,
+    description: text,
+    priceCents: Math.round(euroPrice * 100),
+    surface,
+    propertyType,
+  }).suspicious) return null;
   const explicitSeller = card.sellerType && ["AGENCY", "INDIVIDUAL", "UNKNOWN"].includes(card.sellerType) ? card.sellerType : null;
   const sellerType = explicitSeller ?? parseSellerBadge(text);
   const dpe = (card.dpe ?? text).match(/(?:classe\s+[ée]nergie|dpe)\s*:?[ ]*([A-G])/i)?.[1]?.toUpperCase() ?? null;

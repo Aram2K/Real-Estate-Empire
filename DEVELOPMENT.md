@@ -70,9 +70,11 @@ The current app calculates estimates. A passing build and engine tests do not va
 
 For a large, authenticated browser sweep, open an Île-de-France sales search on
 Leboncoin, open DevTools Console, adjust and paste
-`scripts/leboncoin-browser-harvester.js`. The script fetches a configurable page
-range four pages at a time, deduplicates adverts in memory, and imports them to
-the local app in batches. It preserves advert URLs and source-stated seller and
+`scripts/leboncoin-browser-harvester.js`. The script divides results into
+non-overlapping price and seller-type segments, reads the actual page count for
+each segment, fetches four pages at a time, and imports each completed segment.
+This works around Leboncoin's 100-page search cap and avoids losing a long sweep
+if the browser closes. It preserves advert URLs and source-stated seller and
 location fields. The server still rejects incomplete, unmapped, and non-IDF
 records.
 

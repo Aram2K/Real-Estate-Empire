@@ -15,6 +15,7 @@ import { prisma } from "@/lib/db/prisma";
 import { createCommuneResolver } from "@/lib/sources/leboncoin/bulk";
 import { computeAndStoreAnalysis } from "@/lib/properties/analyzeOne";
 import { IDF_DEPARTMENT_CODES } from "@/lib/constants";
+import { classifySuspiciousListing } from "@/lib/sources/listingQuality";
 
 export const HarvestedAdSchema = z.object({
   id: z.union([z.string(), z.number()]).transform(String),
@@ -32,6 +33,9 @@ export const HarvestedAdSchema = z.object({
   rooms: z.number().int().positive().max(50).nullish(),
   energy: z.string().nullish(),
   status: z.string().nullish(),
+  title: z.string().nullish(),
+  description: z.string().nullish(),
+  publishedAt: z.string().nullish(),
 });
 
 export type HarvestedAd = z.infer<typeof HarvestedAdSchema>;
@@ -90,6 +94,7 @@ export interface HarvestStats {
   skippedNoCommune: number;
   skippedOutsideIdf: number;
   skippedIncomplete: number;
+  skippedSuspicious: number;
   inactive: number;
   analysed: number;
 }
@@ -138,6 +143,7 @@ export async function importHarvestedAds(
     skippedNoCommune: 0,
     skippedOutsideIdf: 0,
     skippedIncomplete: 0,
+    skippedSuspicious: 0,
     inactive: 0,
     analysed: 0,
   };
@@ -174,9 +180,27 @@ export async function importHarvestedAds(
       !it.zipcode ||
       !it.city ||
       !it.rooms ||
+      !it.title?.trim() ||
+      !it.description?.trim() ||
       !propertyTypeOf(it.realEstateType)
     ) {
       stats.skippedIncomplete++;
+      continue;
+    }
+    if (classifySuspiciousListing({
+      title: it.title,
+      description: it.description,
+      priceCents: it.priceCents,
+      surface: it.square,
+      propertyType: propertyTypeOf(it.realEstateType),
+    }).suspicious) {
+      stats.skippedSuspicious++;
+      if (!dry) {
+        await prisma.listing.updateMany({
+          where: { sourceId: source.id, externalId: it.id },
+          data: { status: "WITHDRAWN", lastSeenAt: seen },
+        });
+      }
       continue;
     }
     const commune = resolveCommune(it.city ?? "", it.zipcode);
@@ -240,7 +264,12 @@ export async function importHarvestedAds(
       status: "ACTIVE",
       sellerType,
       sellerName: it.ownerName ?? null,
-      title: `${it.rooms ?? "?"}P · ${it.square} m² · ${commune.nom}`,
+      title: it.title?.trim() || `${it.rooms ?? "?"}P · ${it.square} m² · ${commune.nom}`,
+      description: it.description?.trim() ||
+        "Public search result observed on Leboncoin. The advertiser kind is taken from the advert's own payload. Availability and the exact address must be confirmed with the advertiser.",
+      ...(it.publishedAt && !Number.isNaN(new Date(it.publishedAt.replace(" ", "T") + "+02:00").getTime())
+        ? { publishedAt: new Date(it.publishedAt.replace(" ", "T") + "+02:00") }
+        : {}),
     };
 
     const previous = await prisma.listing.findUnique({
@@ -255,8 +284,6 @@ export async function importHarvestedAds(
         sourceId: source.id,
         externalId: it.id,
         firstSeenAt: seen,
-        description:
-          "Public search result observed on Leboncoin. The advertiser kind is taken from the advert's own payload. Availability and the exact address must be confirmed with the advertiser.",
         ...listingData,
       },
     });

@@ -7,6 +7,8 @@ import type { SellerType } from "@/lib/sources/sellerType";
 
 type Card = {
   text?: string;
+  title?: string;
+  description?: string;
   url?: string;
   dpe?: string;
   /** Full street-number address only when the advert publicly provides it. */
@@ -46,7 +48,10 @@ export async function POST(request: Request) {
   let imported = 0, skipped = 0;
   const sellers = { AGENCY: 0, INDIVIDUAL: 0, UNKNOWN: 0 } as Record<string, number>;
   for (const card of cards) {
-    const text = card.text?.replace(/\u00a0|\u202f/g, " ") ?? "";
+    const text = [card.title, card.text, card.description]
+      .filter(Boolean)
+      .join("\n")
+      .replace(/\u00a0|\u202f/g, " ");
     const lbcAd = card.url?.match(/\/ad\/ventes_immobilieres\/(\d+)/);
     const parsedGdc = isGensDeConfianceCard(card) ? parseGensDeConfianceCard(card) : null;
     const gdc = !lbcAd && !!parsedGdc;

@@ -8,6 +8,8 @@ describe("extractLeboncoinNextData", () => {
       url: "https://www.leboncoin.fr/ad/ventes_immobilieres/123",
       price: [245000],
       owner: { type: "private", name: "Alice" },
+      subject: "Appartement lumineux Paris 15e",
+      body: "Appartement entier avec balcon.",
       location: { city: "Paris", zipcode: "75015", lat: 48.84, lng: 2.29, source: "city" },
       attributes: [
         { key: "real_estate_type", value: "2" },
@@ -21,6 +23,8 @@ describe("extractLeboncoinNextData", () => {
       id: "123", priceCents: 24500000, ownerType: "private", city: "Paris",
       zipcode: "75015", realEstateType: "2", square: 41.5, rooms: 2, energy: "D",
       originType: "city",
+      title: "Appartement lumineux Paris 15e",
+      description: "Appartement entier avec balcon.",
     });
   });
 

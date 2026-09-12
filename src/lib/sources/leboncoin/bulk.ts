@@ -1,4 +1,5 @@
 import type { SellerType } from "../sellerType";
+import { classifySuspiciousListing } from "../listingQuality";
 
 export type LeboncoinCard = { text?: string; url?: string; dpe?: string };
 
@@ -61,6 +62,13 @@ export function parseLeboncoinCard(card: LeboncoinCard): ParsedLeboncoinCard | n
   const surface = Number(facts[3].replace(",", "."));
   const rooms = Number(facts[2]);
   if (!Number.isSafeInteger(priceCents) || priceCents <= 0 || !Number.isFinite(surface) || surface <= 0 || !Number.isInteger(rooms) || rooms <= 0) return null;
+  if (classifySuspiciousListing({
+    title: text.split("\n").find((line) => /\b(?:Appartement|Maison|Parking|Garage|Cave|Box)\b/i.test(line)),
+    description: text,
+    priceCents,
+    surface,
+    propertyType: facts[1],
+  }).suspicious) return null;
 
   return {
     externalId: ad[1],

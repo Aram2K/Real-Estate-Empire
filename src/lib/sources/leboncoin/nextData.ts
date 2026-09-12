@@ -54,6 +54,11 @@ export function extractLeboncoinNextData(payload: unknown): HarvestedAd[] {
         ? null
         : String(attribute(ad, "energy_rate").value),
       status: typeof ad.status === "string" ? ad.status : "active",
+      title: typeof ad.subject === "string" ? ad.subject : null,
+      description: typeof ad.body === "string" ? ad.body : null,
+      publishedAt: typeof ad.first_publication_date === "string"
+        ? ad.first_publication_date
+        : typeof ad.index_date === "string" ? ad.index_date : null,
     }];
   });
 }

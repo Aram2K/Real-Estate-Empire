@@ -5,6 +5,7 @@ import { prisma } from "../src/lib/db/prisma";
 import { computeAndStoreAnalysis } from "../src/lib/properties/analyzeOne";
 import { IDF_DEPARTMENT_CODES } from "../src/lib/constants";
 import { classifySeller } from "../src/lib/sources/sellerType";
+import { classifySuspiciousListing } from "../src/lib/sources/listingQuality";
 
 const RecordSchema = z.object({
   url: z.string().url().refine((s) => s.startsWith("https://")),
@@ -38,6 +39,13 @@ async function main() {
       throw new Error(`Missing IDF commune coverage: ${r.communeCode}`);
     }
     if (new Date(r.observedAt).getTime() > Date.now()) throw new Error("Observation cannot be in the future");
+    const quality = classifySuspiciousListing({
+      description: r.notes,
+      priceCents: Math.round(r.priceEuros * 100),
+      surface: r.surface,
+      propertyType: r.propertyType,
+    });
+    if (quality.suspicious) throw new Error(`Suspicious listing ${r.url}: ${quality.reasons.join(", ")}`);
   }
   const source = await prisma.propertySource.upsert({
     where: { key: "reviewed-public" }, update: { label: "Public listing · manually reviewed" },
