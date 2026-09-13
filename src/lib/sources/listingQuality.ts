@@ -67,7 +67,7 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
     reasons.add("MULTI_UNIT_PROGRAM");
   }
 
-  if (/\b(?:vendu(?:e)? occupe(?:e)?|vente occupee|locataire en place|bail en cours|loue(?:e)? jusqu|occupation a vie|lmnp|bail commercial|loyers? garantis?|gestionnaire de residence|ne peut pas etre occupe)\b/.test(text)) {
+  if (/\b(?:vendu(?:e)? (?:occupe(?:e)?|loue(?:e)?)|vente occupee|locataire en place|bail en cours|loue(?:e)? jusqu|occupation a vie|lmnp|bail commercial|loyers? garantis?|gestionnaire de residence|ne peut pas etre occupe)\b/.test(text)) {
     reasons.add("OCCUPIED_PROPERTY");
   }
 
