@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/6a493474-99eb-4dde-bcc2-d282ac11a86f",
+    "title": "Vends appartement - 30m² - Porte Maillot",
+    "description": "Chers Gens de Confiance, je vends un beau studio F1 de 30m² au 7ème étage avec ascenseur, exposé sud ouest, avec cave, sdb, cuisine emménagée, entrée avec placard.",
+    "price": 340000, "propertyType": "Apartment", "rooms": 1, "surface": 30,
+    "city": "Paris", "postalCode": "75017", "sellerType": "INDIVIDUAL", "sellerName": "Angélique Richard",
+    "publicationDate": "2026-07-15", "publicationPrecision": "day",
+    "reviewNote": "No non-standard purchase terms disclosed in the displayed description; vacancy is not explicitly confirmed."
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/3476a07f-078a-4548-80be-fb033d3820bf",
+    "title": "Vends joli Studio Paris 12eme Dugommier",
+    "description": "Chers Gens de Confiance,\nVds joli Studio 22m² Paris 12ème métro Dugommier Calme, 5ème étage, expo sud, Ascenseur. Bonne copropriété. Il se compose d’une entrée de 2m² avec un placard donnant sur une salle d’eau wc de 3m². Une pièce principale de 13m² et une cuisine de 4m² avec fenêtre. Très lumineux. Vue sur les toits. Commerces, Restaurants à proximité immédiate. Environnement très agréable et sécure. Métro à 100 mètres Ligne 6 Dugommier, 8 Daumesnil. Ligne 14 à 1 station\nCharges mensuelles 200 euros (Chauffage collectif, eau compris, Concierge)\nTaxe foncière annuelle 661 euros",
+    "price": 245000, "propertyType": "Apartment", "rooms": 1, "surface": 22,
+    "city": "Paris", "postalCode": "75012", "sellerType": "INDIVIDUAL", "sellerName": "Michel Escudero",
+    "publicationDate": "2026-09-05", "publicationPrecision": "day",
+    "reviewNote": "No non-standard purchase terms disclosed in the displayed description; vacancy is not explicitly confirmed."
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/81f72db1-5340-4ae1-b438-52366d247473",
+    "title": "Vends appartement - 56m² - 3 pièces",
+    "description": "Chers Gens de Confiance, nous vendons notre appartement de trois-pièces, situé au cœur de la rue piétonne de Clamart dans immeuble très récent.\n\nL’appartement est composé d’un séjour ouvert sur une cuisine équipée, deux chambres, une salle de bain et des WC séparés.\nL’appartement est calme, lumineux et traversant.\n\nÀ proximité également :\n- bibliothèque\n- cinéma et théâtre\n- forêt de Clamart\n- complexe sportif hunebelle",
+    "price": 380000, "propertyType": "Apartment", "rooms": 3, "surface": 56,
+    "city": "Clamart", "postalCode": "92140", "sellerType": "INDIVIDUAL", "sellerName": "Fanny Abatuci",
+    "publicationDate": "2026-09-13", "publicationPrecision": "day",
+    "reviewNote": "Owner advert; no retained occupancy or other non-standard purchase terms disclosed."
+  }
+]
