@@ -1,6 +1,6 @@
 {
   "format": "idf-investment-radar/source-listings-jsonl-v1",
-  "generatedAt": "2026-09-13T21:51:22.438Z",
+  "generatedAt": "2026-09-13T21:52:21.587Z",
   "filters": [
     "ACTIVE",
     "isDemo=false",
