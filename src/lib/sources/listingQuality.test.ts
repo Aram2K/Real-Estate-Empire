@@ -43,4 +43,11 @@ describe("classifySuspiciousListing", () => {
     expect(classify({ title: "Vente aux enchères", description: "Mise à prix", priceCents: 5_000_00, surface: 80 }).reasons).toContain("NON_STANDARD_SALE");
     expect(classify({ title: "Maison à rénover", description: "Travaux importants", priceCents: 45_000_00, surface: 100 }).suspicious).toBe(false);
   });
+
+  it("excludes multi-unit programme adverts with starting prices", () => {
+    expect(classify({
+      title: "Appartement - 3 pièces - Résidence Green Life",
+      description: "Appartements neufs du studio au 5 pièces, à partir de 321 500 €; plusieurs biens disponibles.",
+    }).reasons).toContain("MULTI_UNIT_PROGRAM");
+  });
 });

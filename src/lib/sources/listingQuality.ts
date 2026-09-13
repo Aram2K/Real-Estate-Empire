@@ -10,6 +10,7 @@ export type SuspiciousReason =
   | "NON_WHOLE_PROPERTY"
   | "ANCILLARY_SPACE_ONLY"
   | "NON_STANDARD_SALE"
+  | "MULTI_UNIT_PROGRAM"
   | "OCCUPIED_PROPERTY"
   | "IMPLAUSIBLE_PRICE"
   | "IMPLAUSIBLE_PRICE_PER_M2"
@@ -54,6 +55,12 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
 
   if (/\b(?:vente aux encheres|adjudication|mise a prix|prix de depart|vente interactive|credit vendeur)\b/.test(text)) {
     reasons.add("NON_STANDARD_SALE");
+  }
+
+  // Programme adverts describe a range of units and commonly expose only a
+  // starting price. They are not one identifiable dwelling at one full price.
+  if (/\b(?:a partir de|programme immobilier|appartements neufs du|biens disponibles|lots disponibles)\b/.test(text)) {
+    reasons.add("MULTI_UNIT_PROGRAM");
   }
 
   if (/\b(?:vendu(?:e)? occupe(?:e)?|vente occupee|locataire en place|bail en cours|loue(?:e)? jusqu|occupation a vie|lmnp|bail commercial|loyers? garantis?|gestionnaire de residence|ne peut pas etre occupe)\b/.test(text)) {
