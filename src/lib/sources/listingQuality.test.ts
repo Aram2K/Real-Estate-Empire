@@ -25,6 +25,7 @@ describe("classifySuspiciousListing", () => {
 
   it("excludes dwellings that are sold with an occupant or tenant in place", () => {
     expect(classify({ title: "Appartement vendu occupé", description: "Locataire en place, bail classique." }).reasons).toContain("OCCUPIED_PROPERTY");
+    expect(classify({ title: "LMNP studio", description: "Bail commercial, loyers garantis par le gestionnaire. Le studio ne peut pas être occupé par le propriétaire." }).reasons).toContain("OCCUPIED_PROPERTY");
   });
 
   it("rejects implausible absolute prices and price per square metre", () => {
