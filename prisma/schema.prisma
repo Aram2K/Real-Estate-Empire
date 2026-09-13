@@ -19,11 +19,11 @@ datasource db {
 }
 
 model Commune {
-  id               String   @id @default(cuid())
-  code             String   @unique // INSEE code; Paris arrondissements 75101–75120
+  id               String  @id @default(cuid())
+  code             String  @unique // INSEE code; Paris arrondissements 75101–75120
   nom              String
   departement      String // "75".."95"
-  isArrondissement Boolean  @default(false)
+  isArrondissement Boolean @default(false)
   parentCode       String? // arrondissement → "75056"
   population       Int?
   surfaceKm2       Float?
@@ -31,9 +31,9 @@ model Commune {
   lat              Float?
   geojson          String? // contour geometry (GeoJSON string)
 
-  marketMetrics MarketMetric[]
-  saleComps     SaleComparable[]
-  properties    Property[]
+  marketMetrics       MarketMetric[]
+  saleComps           SaleComparable[]
+  properties          Property[]
   neighborhoodMetrics NeighborhoodMetric[]
 
   @@index([departement])
@@ -71,18 +71,18 @@ model Station {
 }
 
 model FutureTransportProject {
-  id              String  @id @default(cuid())
-  name            String
-  line            String // "15","16","17","18","14"
-  segment         String?
-  lon             Float
-  lat             Float
-  openingYear     Int? // best-estimate year
-  openingLabel    String // human label, e.g. "Autumn 2027"
-  status          String // OPEN | UNDER_CONSTRUCTION | PLANNED
-  confidence      String // HIGH | MEDIUM | LOW
-  source          String
-  sourceUrl       String? // official announcement page
+  id           String  @id @default(cuid())
+  name         String
+  line         String // "15","16","17","18","14"
+  segment      String?
+  lon          Float
+  lat          Float
+  openingYear  Int? // best-estimate year
+  openingLabel String // human label, e.g. "Autumn 2027"
+  status       String // OPEN | UNDER_CONSTRUCTION | PLANNED
+  confidence   String // HIGH | MEDIUM | LOW
+  source       String
+  sourceUrl    String? // official announcement page
 
   @@unique([name, line])
 }
@@ -118,7 +118,7 @@ model SaleComparable {
 }
 
 model RentReference {
-  id                String  @id @default(cuid())
+  id                String   @id @default(cuid())
   scope             String // COMMUNE | PARIS_QUARTIER
   codeCommune       String?
   codeGrandQuartier String?
@@ -172,8 +172,8 @@ model PropertySource {
 }
 
 model Property {
-  id           String  @id @default(cuid())
-  dedupeKey    String  @unique
+  id           String   @id @default(cuid())
+  dedupeKey    String   @unique
   addressLine  String?
   codeCommune  String?
   lon          Float?
@@ -185,7 +185,7 @@ model Property {
   ges          String?
   floor        Int?
   hasElevator  Boolean?
-  isDemo       Boolean @default(false)
+  isDemo       Boolean  @default(false)
 
   commune  Commune?             @relation(fields: [codeCommune], references: [code])
   listings Listing[]
@@ -196,7 +196,7 @@ model Property {
 }
 
 model Listing {
-  id           String   @id @default(cuid())
+  id           String    @id @default(cuid())
   sourceId     String
   externalId   String
   url          String?
@@ -205,11 +205,11 @@ model Listing {
   price        Int // cents
   charges      Int? // monthly copro charges
   taxeFonciere Int? // annual
-  firstSeenAt  DateTime @default(now())
-  lastSeenAt   DateTime @default(now())
+  firstSeenAt  DateTime  @default(now())
+  lastSeenAt   DateTime  @default(now())
   publishedAt  DateTime? // source publication time when the advert exposes it
   daysOnMarket Int?
-  status       String   @default("ACTIVE") // ACTIVE | SOLD | WITHDRAWN
+  status       String    @default("ACTIVE") // ACTIVE | SOLD | WITHDRAWN
   propertyId   String
 
   // Who is advertising: AGENCY | INDIVIDUAL | UNKNOWN. Only ever set from an
@@ -222,10 +222,27 @@ model Listing {
   property     Property       @relation(fields: [propertyId], references: [id])
   source       PropertySource @relation(fields: [sourceId], references: [id])
   priceHistory PriceHistory[]
+  review       ListingReview?
 
   @@unique([sourceId, externalId])
   @@index([propertyId])
   @@index([sellerType])
+}
+
+model ListingReview {
+  id           String   @id @default(cuid())
+  listingId    String   @unique
+  outcome      String // ACTIVE | WITHDRAWN | RETRY
+  reasons      String? // JSON array of evidence-backed classifier reasons
+  reviewedAt   DateTime @default(now())
+  fingerprint  String? // SHA-256 of the exact structured evidence reviewed
+  sourceStatus String?
+  attempts     Int      @default(1)
+  lastError    String?
+
+  listing Listing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@index([outcome, reviewedAt])
 }
 
 model PriceHistory {
@@ -240,26 +257,26 @@ model PriceHistory {
 }
 
 model AssumptionSet {
-  id                String  @id @default(cuid())
-  scope             String // GLOBAL | USER | PROPERTY
-  ownerId           String?
-  ratePct           Float   @default(3.6)
-  termYears         Int     @default(25)
-  financingPct      Float   @default(110)
-  downPaymentCents  Int?
-  insurancePct      Float   @default(0.3)
-  notaryPct         Float   @default(7.5)
-  agencyPct         Float   @default(0)
-  guaranteeFeesCents Int    @default(0)
-  bankFeesCents     Int     @default(100000)
-  renovationCents   Int     @default(0)
-  furnitureCents    Int     @default(0)
-  vacancyPct        Float   @default(5)
-  maintenancePct    Float   @default(5)
-  managementPct     Float   @default(0)
-  otherMonthlyCents Int     @default(0)
-  rentScenario      String  @default("MARKET")
-  hash              String  @unique
+  id                 String  @id @default(cuid())
+  scope              String // GLOBAL | USER | PROPERTY
+  ownerId            String?
+  ratePct            Float   @default(3.6)
+  termYears          Int     @default(25)
+  financingPct       Float   @default(110)
+  downPaymentCents   Int?
+  insurancePct       Float   @default(0.3)
+  notaryPct          Float   @default(7.5)
+  agencyPct          Float   @default(0)
+  guaranteeFeesCents Int     @default(0)
+  bankFeesCents      Int     @default(100000)
+  renovationCents    Int     @default(0)
+  furnitureCents     Int     @default(0)
+  vacancyPct         Float   @default(5)
+  maintenancePct     Float   @default(5)
+  managementPct      Float   @default(0)
+  otherMonthlyCents  Int     @default(0)
+  rentScenario       String  @default("MARKET")
+  hash               String  @unique
 
   analyses InvestmentAnalysis[]
 }
