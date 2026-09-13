@@ -10,6 +10,8 @@ export interface PropertyFilter {
   surfaceMax?: number;
   roomsMin?: number;
   roomsMax?: number;
+  roomCounts?: number[];
+  roomsAtLeast?: number;
   propertyType?: string[];
   sellerTypes?: string[];
   dpeMax?: string; // keep <= this rating (A best … G worst)
@@ -65,6 +67,10 @@ export function parseFilterParams(sp: URLSearchParams): PropertyFilter {
     surfaceMax: num(sp.get("surfaceMax")),
     roomsMin: num(sp.get("roomsMin")),
     roomsMax: num(sp.get("roomsMax")),
+    roomCounts: list(sp.get("rooms"))
+      ?.map(Number)
+      .filter((room) => Number.isInteger(room) && room > 0),
+    roomsAtLeast: num(sp.get("roomsAtLeast")),
     propertyType: list(sp.get("propertyType")),
     sellerTypes: list(sp.get("sellerTypes")),
     dpeMax: sp.get("dpeMax") ?? undefined,

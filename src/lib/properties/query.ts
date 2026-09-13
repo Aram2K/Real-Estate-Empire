@@ -67,6 +67,12 @@ export async function getProperties(
       ...(filter.roomsMax != null ? { lte: filter.roomsMax } : {}),
     };
   }
+  if (filter.roomCounts?.length || filter.roomsAtLeast != null) {
+    where.OR = [
+      ...(filter.roomCounts?.length ? [{ rooms: { in: filter.roomCounts } }] : []),
+      ...(filter.roomsAtLeast != null ? [{ rooms: { gte: filter.roomsAtLeast } }] : []),
+    ];
+  }
 
   const [props, refs] = await Promise.all([
     prisma.property.findMany({

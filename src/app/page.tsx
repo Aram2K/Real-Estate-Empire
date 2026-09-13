@@ -2,6 +2,8 @@ import Link from "next/link";
 import { getProperties, type PropertyListItem } from "@/lib/properties/query";
 import { euro, euroSigned, pct } from "@/lib/format";
 import { scoreColor, WHITE_STATUS_META } from "@/lib/ui/score";
+import { InventoryInsights } from "@/components/dashboard/InventoryInsights";
+import { prisma } from "@/lib/db/prisma";
 
 export const dynamic = "force-dynamic";
 
@@ -79,10 +81,12 @@ function Panel({ title, items }: { title: string; items: PropertyListItem[] }) {
 }
 
 export default async function Dashboard() {
-  const all = await getProperties({ includeDemo: false, limit: 3000, sort: "investmentScore" });
+  const [all, activeTotal] = await Promise.all([
+    getProperties({ includeDemo: false, limit: 20_000, sort: "investmentScore" }),
+    prisma.property.count({ where: { isDemo: false, listings: { some: { status: "ACTIVE" } } } }),
+  ]);
 
   const white = all.filter((i) => i.whiteStatus !== "NOT_WHITE");
-  const highYield = [...all].sort((a, b) => b.allInGrossYieldPct - a.allInGrossYieldPct);
   const nearGpe = all
     .filter((i) => i.distToFutureM != null && i.distToFutureM < 900)
     .sort((a, b) => b.investmentScore - a.investmentScore);
@@ -162,9 +166,10 @@ export default async function Dashboard() {
         </div>
       ) : (
         <>
+          <InventoryInsights activeTotal={activeTotal} points={all.map((item) => ({ id: item.id, department: item.departement ?? "Unknown", source: item.source, priceCents: item.priceCents, propertyType: item.propertyType ?? "Unknown" }))} />
           <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-4">
+            <Kpi label="Analysed opportunities" value={all.length.toLocaleString("fr-FR")} sub="Active, non-demo listings with an analysis" />
             <Kpi label="White operations" value={String(white.length)} sub="Rent covers all costs (cash flow ≥ 0)" />
-            <Kpi label="9%+ all-in yield" value={String(all.filter((i) => i.allInGrossYieldPct >= 9).length)} sub="On total acquisition cost" />
             <Kpi label="Avg white cash flow" value={`${euroSigned(avgCf)}/mo`} />
             <Kpi label="DSCR ≥ 1.20" value={String(strongDscr.length)} sub="Strong safety margin" />
           </div>
@@ -172,7 +177,6 @@ export default async function Dashboard() {
           <div className="grid grid-cols-1 gap-4 lg:grid-cols-2 xl:grid-cols-3">
             <Panel title="Best deals today" items={all.slice(0, 10)} />
             <Panel title="Best white operations" items={white.slice(0, 10)} />
-            <Panel title="Highest all-in yield" items={highYield.slice(0, 10)} />
             <Panel title="New Grand Paris opportunities" items={nearGpe.slice(0, 10)} />
             <Panel title="Strongest financial margin (DSCR)" items={[...strongDscr].sort((a, b) => b.dscr - a.dscr).slice(0, 10)} />
             <Panel title="Highest neighbourhood safety score" items={safest.slice(0, 10)} />

@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useCallback, useEffect, useMemo, useState } from "react";
+import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import type { PropertyListItem } from "@/lib/properties/query";
@@ -15,7 +15,7 @@ interface Filters {
   departements: string[];
   communeCodes: string[];
   priceMax?: string;
-  rooms?: string;
+  rooms: string[];
   sellerType?: string;
   allInYieldMin?: string;
   cashFlowMin?: string;
@@ -35,7 +35,7 @@ function initialFrom(sp: URLSearchParams): Filters {
     departements: list("departements"),
     communeCodes: list("communeCodes"),
     priceMax: sp.get("priceMax") ?? undefined,
-    rooms: sp.get("roomsMin") ?? undefined,
+    rooms: sp.get("rooms")?.split(",").filter(Boolean) ?? (sp.get("roomsMin") ? [sp.get("roomsMin") === "6" ? "6+" : sp.get("roomsMin")!] : []),
     sellerType: sp.get("sellerTypes") ?? undefined,
     allInYieldMin: sp.get("allInYieldMin") ?? undefined,
     cashFlowMin: sp.get("cashFlowMin") ?? undefined,
@@ -49,12 +49,20 @@ function initialFrom(sp: URLSearchParams): Filters {
 }
 
 function DealsInner() {
+  const INITIAL_ROWS = 40;
+  const ROW_INCREMENT = 40;
+  const MAX_VISIBLE_ROWS = 200;
   const sp = useSearchParams();
   const initial = useMemo(() => initialFrom(new URLSearchParams(sp.toString())), [sp]);
   const [f, setF] = useState<Filters>(initial);
   const [items, setItems] = useState<PropertyListItem[]>([]);
   const [loading, setLoading] = useState(false);
+  const [savedIds, setSavedIds] = useState<Set<string>>(new Set());
+  const [savingIds, setSavingIds] = useState<Set<string>>(new Set());
+  const [saveError, setSaveError] = useState<string | null>(null);
   const [tableSort, setTableSort] = useState<{ key: string; direction: "asc" | "desc" }>({ key: "investmentScore", direction: "desc" });
+  const [visibleCount, setVisibleCount] = useState(INITIAL_ROWS);
+  const loadMoreRef = useRef<HTMLDivElement>(null);
 
   const run = useCallback(async (filters: Filters) => {
     setLoading(true);
@@ -63,10 +71,9 @@ function DealsInner() {
     if (filters.departements.length) qp.set("departements", filters.departements.join(","));
     if (filters.communeCodes.length) qp.set("communeCodes", filters.communeCodes.join(","));
     if (filters.priceMax) qp.set("priceMax", filters.priceMax);
-    if (filters.rooms) {
-      qp.set("roomsMin", filters.rooms);
-      if (filters.rooms !== "6") qp.set("roomsMax", filters.rooms);
-    }
+    const exactRooms = filters.rooms.filter((room) => room !== "6+");
+    if (exactRooms.length) qp.set("rooms", exactRooms.join(","));
+    if (filters.rooms.includes("6+")) qp.set("roomsAtLeast", "6");
     if (filters.sellerType) qp.set("sellerTypes", filters.sellerType);
     if (filters.allInYieldMin) qp.set("allInYieldMin", filters.allInYieldMin);
     if (filters.cashFlowMin) qp.set("cashFlowMin", filters.cashFlowMin);
@@ -80,13 +87,52 @@ function DealsInner() {
     const res = await fetch(`/api/properties?${qp.toString()}`);
     const json = await res.json();
     setItems(json.items ?? []);
+    setVisibleCount(INITIAL_ROWS);
     setLoading(false);
-  }, []);
+  }, [INITIAL_ROWS]);
 
   useEffect(() => {
     run(initial);
+    fetch("/api/saved")
+      .then((response) => response.ok ? response.json() : Promise.reject())
+      .then((data) => setSavedIds(new Set((data.saved ?? []).map((item: { propertyId: string }) => item.propertyId))))
+      .catch(() => setSaveError("Saved-property status could not be loaded."));
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  const toggleSaved = async (propertyId: string) => {
+    if (savingIds.has(propertyId)) return;
+    const wasSaved = savedIds.has(propertyId);
+    setSaveError(null);
+    setSavedIds((current) => {
+      const next = new Set(current);
+      if (wasSaved) next.delete(propertyId); else next.add(propertyId);
+      return next;
+    });
+    setSavingIds((current) => new Set(current).add(propertyId));
+    try {
+      const response = await fetch(
+        wasSaved ? `/api/saved?propertyId=${encodeURIComponent(propertyId)}` : "/api/saved",
+        wasSaved
+          ? { method: "DELETE" }
+          : { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ propertyId }) },
+      );
+      if (!response.ok) throw new Error("Save request failed");
+    } catch {
+      setSavedIds((current) => {
+        const next = new Set(current);
+        if (wasSaved) next.add(propertyId); else next.delete(propertyId);
+        return next;
+      });
+      setSaveError("The saved-property change failed. Please try again.");
+    } finally {
+      setSavingIds((current) => {
+        const next = new Set(current);
+        next.delete(propertyId);
+        return next;
+      });
+    }
+  };
 
   const apply = (patch: Partial<Filters>) => {
     const next = { ...f, ...patch };
@@ -100,6 +146,9 @@ function DealsInner() {
         ? f.departements.filter((d) => d !== code)
         : [...f.departements, code],
     });
+
+  const toggleRoom = (room: string) =>
+    apply({ rooms: f.rooms.includes(room) ? f.rooms.filter((value) => value !== room) : [...f.rooms, room] });
 
   const sortedItems = useMemo(() => {
     const value = (item: PropertyListItem, key: string): string | number => {
@@ -123,6 +172,26 @@ function DealsInner() {
     });
   }, [items, tableSort]);
 
+  const rowLimit = Math.min(MAX_VISIBLE_ROWS, sortedItems.length);
+  const visibleItems = sortedItems.slice(0, Math.min(visibleCount, rowLimit));
+  const canLoadMore = visibleItems.length < rowLimit;
+
+  useEffect(() => {
+    setVisibleCount(INITIAL_ROWS);
+  }, [tableSort, INITIAL_ROWS]);
+
+  useEffect(() => {
+    const target = loadMoreRef.current;
+    if (!target || !canLoadMore) return;
+    const observer = new IntersectionObserver((entries) => {
+      if (entries.some((entry) => entry.isIntersecting)) {
+        setVisibleCount((count) => Math.min(count + ROW_INCREMENT, rowLimit));
+      }
+    }, { rootMargin: "240px 0px" });
+    observer.observe(target);
+    return () => observer.disconnect();
+  }, [canLoadMore, rowLimit, ROW_INCREMENT]);
+
   const sortBy = (key: string) => setTableSort((current) => ({
     key,
     direction: current.key === key && current.direction === "desc" ? "asc" : "desc",
@@ -141,6 +210,10 @@ function DealsInner() {
       <p className="mb-4 text-sm text-slate-500">
         {loading ? "Loading…" : `${items.length} properties match your filters`}
       </p>
+      {saveError && <p role="alert" className="mb-3 rounded bg-red-50 px-3 py-2 text-sm text-red-700">{saveError}</p>}
+      <span className="sr-only" aria-live="polite">
+        {savingIds.size ? "Updating saved properties" : "Saved properties are up to date"}
+      </span>
 
       {f.communeCodes.length > 0 && (
         <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1 text-sm text-blue-700">
@@ -173,14 +246,16 @@ function DealsInner() {
 
       <div className="card mb-4 flex flex-wrap items-end gap-3 p-3 text-sm">
         <DepartmentMiniMap selected={f.departements} onToggle={toggleDept} />
-        <label className="flex flex-col">
-          <span className="text-xs text-slate-500">Number of rooms</span>
-          <select value={f.rooms ?? ""} onChange={(e) => apply({ rooms: e.target.value || undefined })} className="w-32 rounded border border-slate-300 px-2 py-1">
-            <option value="">Any</option>
-            {[1, 2, 3, 4, 5].map((rooms) => <option key={rooms} value={rooms}>{rooms} room{rooms > 1 ? "s" : ""}</option>)}
-            <option value="6">6+ rooms</option>
-          </select>
-        </label>
+        <fieldset>
+          <legend className="text-xs text-slate-500">Number of rooms</legend>
+          <div className="mt-1 flex gap-1" aria-label="Number of rooms">
+            {["1", "2", "3", "4", "5", "6+"].map((room) => (
+              <button key={room} type="button" aria-pressed={f.rooms.includes(room)} onClick={() => toggleRoom(room)} className={`rounded border px-2 py-1 ${f.rooms.includes(room) ? "border-blue-600 bg-blue-50 text-blue-700" : "border-slate-300 bg-white"}`}>
+                {room}
+              </button>
+            ))}
+          </div>
+        </fieldset>
         <label className="flex flex-col">
           <span className="text-xs text-slate-500">Max price (€)</span>
           <input type="number" className="w-28 rounded border border-slate-300 px-2 py-1" defaultValue={f.priceMax}
@@ -250,12 +325,13 @@ function DealsInner() {
               {sortableHeader("Transport", "transport")}
               {sortableHeader("Safety", "safety")}
               {sortableHeader("Status", "status")}
+              <th className="px-3 py-2"><span className="sr-only">Saved</span></th>
             </tr>
           </thead>
           <tbody>
             {items.length === 0 && !loading && (
               <tr>
-                <td colSpan={10} className="px-3 py-8 text-center text-sm text-slate-500">
+                <td colSpan={11} className="px-3 py-8 text-center text-sm text-slate-500">
                   No real listings match yet.{" "}
                   <Link href="/import" className="text-blue-600 hover:underline">
                     Import a deal
@@ -265,13 +341,16 @@ function DealsInner() {
                 </td>
               </tr>
             )}
-            {sortedItems.map((i) => {
+            {visibleItems.map((i) => {
               const w = WHITE_STATUS_META[i.whiteStatus];
               return (
-                <tr key={i.id} className="border-b border-slate-100 hover:bg-slate-50">
+                <tr key={i.id} className="border-b border-slate-100 transition-colors hover:bg-blue-50">
                   <td className="px-3 py-2">
                     <span className="grid h-7 w-7 place-items-center rounded text-xs font-bold text-white" title={`Investment score ${i.investmentScore}/100; safety ${i.safetyScore ?? "not available"}/100 (7% weight)`} style={{ background: scoreColor(i.investmentScore) }}>
                       {i.investmentScore}
+                    </span>
+                    <span className="ml-2 text-[10px] text-slate-400" title={`Listing source: ${i.source}`}>
+                      {i.source === "leboncoin-bulk" ? "Leboncoin" : i.source === "gensdeconfiance-browser" ? "Gens de Confiance" : i.source === "reviewed-public" ? "Reviewed public source" : i.source}
                     </span>
                   </td>
                   <td>
@@ -311,11 +390,31 @@ function DealsInner() {
                       </span>
                     )}
                   </td>
+                  <td className="px-3 text-right">
+                    <button
+                      type="button"
+                      onClick={() => toggleSaved(i.id)}
+                      disabled={savingIds.has(i.id)}
+                      aria-pressed={savedIds.has(i.id)}
+                      aria-label={savedIds.has(i.id) ? `Remove ${i.commune} property from saved` : `Save ${i.commune} property`}
+                      title={savedIds.has(i.id) ? "Remove from saved" : "Save property"}
+                      className={`rounded p-1 text-xl leading-none transition-colors hover:bg-blue-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-600 disabled:opacity-50 ${savedIds.has(i.id) ? "text-amber-500" : "text-slate-400"}`}
+                    >
+                      <span aria-hidden="true">{savedIds.has(i.id) ? "★" : "☆"}</span>
+                    </button>
+                  </td>
                 </tr>
               );
             })}
           </tbody>
         </table>
+        {sortedItems.length > 0 && (
+          <div ref={loadMoreRef} className="border-t border-slate-100 px-3 py-3 text-center text-xs text-slate-500">
+            Showing {visibleItems.length} of {Math.min(sortedItems.length, MAX_VISIBLE_ROWS)} loaded rows
+            {sortedItems.length > MAX_VISIBLE_ROWS ? ` (${sortedItems.length} matches; refine filters to narrow the list)` : ""}
+            {canLoadMore && <button type="button" onClick={() => setVisibleCount((count) => Math.min(count + ROW_INCREMENT, rowLimit))} className="ml-2 text-blue-600 hover:underline">Load more</button>}
+          </div>
+        )}
       </div>
     </div>
   );

@@ -18,6 +18,8 @@ export async function GET(req: NextRequest) {
           includeDemo: parsed.includeDemo,
           limit: parsed.limit,
           departements: parsed.departements ?? PRESETS[preset].departements,
+          roomCounts: parsed.roomCounts,
+          roomsAtLeast: parsed.roomsAtLeast,
         }
       : parsed;
   const items = await getProperties(filter);

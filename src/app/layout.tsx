@@ -12,7 +12,6 @@ const NAV = [
   { href: "/", label: "Dashboard" },
   { href: "/map", label: "Map" },
   { href: "/properties", label: "Deals" },
-  { href: "/deal-finder", label: "Deal Finder" },
   { href: "/import", label: "Import" },
   { href: "/saved", label: "Saved" },
   { href: "/settings", label: "Assumptions" },
