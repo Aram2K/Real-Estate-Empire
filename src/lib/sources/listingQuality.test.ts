@@ -44,6 +44,13 @@ describe("classifySuspiciousListing", () => {
     expect(classify({ title: "Maison à rénover", description: "Travaux importants", priceCents: 45_000_00, surface: 100 }).suspicious).toBe(false);
   });
 
+  it("excludes managed LMNP units under a commercial lease", () => {
+    expect(classify({
+      title: "Studio LMNP",
+      description: "Loyer garanti par le gestionnaire sous bail commercial; ne peut pas être occupé à titre personnel.",
+    }).reasons).toContain("NON_STANDARD_SALE");
+  });
+
   it("excludes multi-unit programme adverts with starting prices", () => {
     expect(classify({
       title: "Appartement - 3 pièces - Résidence Green Life",

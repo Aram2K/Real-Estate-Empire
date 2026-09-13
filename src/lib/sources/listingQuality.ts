@@ -57,6 +57,10 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
     reasons.add("NON_STANDARD_SALE");
   }
 
+  if (/\b(?:bail commercial|loyer garanti par (?:le )?gestionnaire|gestionnaire exploitant|ne peut pas etre occupe a titre personnel)\b/.test(text)) {
+    reasons.add("NON_STANDARD_SALE");
+  }
+
   // Programme adverts describe a range of units and commonly expose only a
   // starting price. They are not one identifiable dwelling at one full price.
   if (/\b(?:a partir de|programme immobilier|appartements neufs du|biens disponibles|lots disponibles)\b/.test(text)) {
