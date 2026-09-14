@@ -36,13 +36,15 @@ body {
   border: 1px solid var(--border);
   border-radius: 0.75rem;
 }
-/* Counts stay inside approximate town markers and let clicks reach the circle. */
-.leaflet-tooltip.listing-count {
+/* Counts stay inside grouped town markers and let clicks reach the circle. */
+.leaflet-marker-icon.listing-count-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: transparent;
   border: 0;
-  box-shadow: none;
   color: #1e3a8a;
   font-weight: 700;
+  line-height: 1;
   pointer-events: none;
 }
-.leaflet-tooltip.listing-count::before { display: none; }

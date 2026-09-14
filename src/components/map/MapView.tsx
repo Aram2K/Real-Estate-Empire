@@ -3,13 +3,14 @@
 import "leaflet/dist/leaflet.css";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import type { CircleMarker as LeafletCircleMarker } from "leaflet";
+import { divIcon, type CircleMarker as LeafletCircleMarker, type DivIcon, type LatLngTuple } from "leaflet";
 import Link from "next/link";
 import {
   MapContainer,
   TileLayer,
   GeoJSON,
   CircleMarker,
+  Marker,
   Polyline,
   Popup,
   Tooltip,
@@ -67,6 +68,27 @@ function getLineColor(line: string): string {
 
 
 const IDF_CENTER: [number, number] = [48.8566, 2.3522];
+
+/**
+ * Listing-count labels for grouped markers.
+ *
+ * These were permanent Leaflet Tooltips. A tooltip measures its own size to
+ * centre itself, which forces a browser layout per label; with ~600 groups that
+ * froze the map for about three seconds on load and again on every zoom step.
+ * A divIcon with a fixed size is positioned without being measured. Icons are
+ * shared per count so a re-render never swaps an icon, and they sit in Leaflet's
+ * marker pane, above the canvas where the commune polygons and circles are
+ * painted, so a polygon redraw cannot cover them.
+ */
+const countIcons = new Map<number, DivIcon>();
+function countIcon(count: number): DivIcon {
+  let icon = countIcons.get(count);
+  if (!icon) {
+    icon = divIcon({ html: String(count), className: "listing-count-icon", iconSize: [30, 30], iconAnchor: [15, 15] });
+    countIcons.set(count, icon);
+  }
+  return icon;
+}
 
 function FitListings({ groups, selectedId, markers }: { groups: ReturnType<typeof groupMapListings>["groups"]; selectedId: string; markers: React.RefObject<Map<string, LeafletCircleMarker>> }) {
   const map = useMap();
@@ -134,6 +156,18 @@ export default function MapView() {
 
   const cfg = getMetric(metricKey);
   const mapped = useMemo(() => groupMapListings(listings), [listings]);
+  // Stable positions and icons, so re-renders do not reposition every label.
+  const countLabels = useMemo(
+    () =>
+      mapped.groups
+        .filter((group) => group.approximate || group.items.length > 1)
+        .map((group) => ({
+          key: group.key,
+          position: [group.lat, group.lon] as LatLngTuple,
+          icon: countIcon(group.items.length),
+        })),
+    [mapped]
+  );
   const counts = useMemo(() => {
     const result: Record<string, number> = {};
     for (const item of listings) if (item.communeCode) result[item.communeCode] = (result[item.communeCode] ?? 0) + 1;
@@ -221,7 +255,6 @@ export default function MapView() {
           <CircleMarker key={group.key} center={[group.lat, group.lon]} radius={group.approximate || group.items.length > 1 ? 15 : 8}
             ref={(marker) => { if (marker) markers.current.set(group.key, marker); else markers.current.delete(group.key); }}
             pathOptions={{ color: group.approximate ? "#1e3a8a" : "#fff", weight: 2, dashArray: group.approximate ? "4 3" : undefined, fillColor: group.approximate ? "#dbeafe" : scoreColor(group.items[0].investmentScore), fillOpacity: 1 }}>
-            {(group.approximate || group.items.length > 1) && <Tooltip permanent direction="center" opacity={1} className="listing-count">{group.items.length}</Tooltip>}
             <Popup maxWidth={340}>
               <div style={{ minWidth: 230, maxHeight: 320, overflowY: "auto" }}>
                 <b>{group.items[0].commune} · {group.items.length} {group.items.length === 1 ? "property" : "properties"}</b>
@@ -239,6 +272,11 @@ export default function MapView() {
               </div>
             </Popup>
           </CircleMarker>
+        ))}
+
+        {/* Non-interactive, so a click on a label reaches the circle beneath and opens its popup. */}
+        {show.listings && countLabels.map((label) => (
+          <Marker key={`count:${label.key}`} position={label.position} icon={label.icon} interactive={false} keyboard={false} />
         ))}
 
         {/* Planned Transit Track Alignments (Polylines) */}

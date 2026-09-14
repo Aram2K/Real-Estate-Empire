@@ -1,12 +1,19 @@
 "use client";
-import { useEffect, useState } from "react";
+import { memo, useEffect, useState } from "react";
 import { GeoJSON, CircleMarker, Tooltip, useMap } from "react-leaflet";
 import type { LineString } from "geojson";
 import type { PropertyListItem } from "@/lib/properties/query";
 import { euro } from "@/lib/format";
 
 type Route = { approximate: boolean; distance: number; duration: number; geometry: LineString; destination: { label: string; lat: number; lon: number } };
-export default function CommutePanel({ listings, id, setId }: { listings: PropertyListItem[]; id: string; setId: (id: string) => void }) {
+/**
+ * Memoized: its property picker holds one option per listing (~5,000), and the
+ * map re-renders on every layer toggle or colour change. Its props are stable
+ * between those renders, so skipping them avoids rebuilding that list.
+ */
+export default memo(CommutePanel);
+
+function CommutePanel({ listings, id, setId }: { listings: PropertyListItem[]; id: string; setId: (id: string) => void }) {
   const map = useMap();
   const [destination, setDestination] = useState("Avenue des Champs-Élysées, Paris");
   const [mode, setMode] = useState("driving");
