@@ -3,6 +3,7 @@ import { getProperties, type PropertyListItem } from "@/lib/properties/query";
 import { euro, euroSigned, pct } from "@/lib/format";
 import { scoreColor, WHITE_STATUS_META } from "@/lib/ui/score";
 import { InventoryInsights } from "@/components/dashboard/InventoryInsights";
+import { summarizeInventory } from "@/lib/dashboard/inventoryStats";
 import { prisma } from "@/lib/db/prisma";
 
 export const dynamic = "force-dynamic";
@@ -166,7 +167,7 @@ export default async function Dashboard() {
         </div>
       ) : (
         <>
-          <InventoryInsights activeTotal={activeTotal} points={all.map((item) => ({ id: item.id, department: item.departement ?? "Unknown", source: item.source, priceCents: item.priceCents, propertyType: item.propertyType ?? "Unknown" }))} />
+          <InventoryInsights activeTotal={activeTotal} summary={summarizeInventory(all.map((item) => ({ department: item.departement ?? "Unknown", source: item.source, priceCents: item.priceCents, propertyType: item.propertyType ?? "Unknown" })))} />
           <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-4">
             <Kpi label="Analysed opportunities" value={all.length.toLocaleString("fr-FR")} sub="Active, non-demo listings with an analysis" />
             <Kpi label="White operations" value={String(white.length)} sub="Rent covers all costs (cash flow ≥ 0)" />
