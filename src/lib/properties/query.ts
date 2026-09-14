@@ -1,5 +1,5 @@
-import { Prisma } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
+import { versionedMemo } from "@/lib/db/dataVersion";
 import { resolveAssumptions } from "@/lib/assumptions/resolve";
 import { hashAssumptions } from "@/lib/assumptions/hash";
 import { loadSpatialRefs, nearestTransport } from "@/lib/geo/spatialRefs";
@@ -80,17 +80,11 @@ const int = (v: number | bigint) => Number(v);
 const intOrNull = (v: number | bigint | null) => (v == null ? null : Number(v));
 
 /**
- * Bound-parameter budget for one statement. A longer id list is applied in
- * memory instead of as an IN (...) clause.
- */
-const MAX_SQL_IDS = 900;
-
-/**
- * Load list rows with one SQL statement.
+ * Load every list row with one SQL statement.
  *
  * This replaces a Prisma findMany with three nested includes, which spent about
  * 1.7 s turning ~5,000 rows into objects; the equivalent join takes about 0.2 s.
- * It must return exactly what that query did:
+ * It returns exactly what that query did:
  *
  * - only properties with an ACTIVE listing (the inner join on Listing) and an
  *   analysis for the current assumption hash (the inner join on
@@ -99,50 +93,10 @@ const MAX_SQL_IDS = 900;
  *   an explicit tie-break so the choice is deterministic;
  * - properties with no commune kept, via the LEFT JOIN on Commune.
  *
- * Each structural filter mirrors the Prisma `where` it replaces, including how
- * it treats NULL. Every value is a bound parameter; nothing supplied by a caller
- * is ever spliced into the SQL text.
+ * Rows come back in insertion order, which is the order ties keep after sorting.
  */
-async function loadListRows(filter: PropertyFilter, hash: string): Promise<ListRow[]> {
-  const clauses: Prisma.Sql[] = [];
-
-  if (filter.propertyIds && filter.propertyIds.length <= MAX_SQL_IDS) {
-    clauses.push(Prisma.sql`AND p.id IN (${Prisma.join(filter.propertyIds)})`);
-  }
-  if (filter.includeDemo === false) clauses.push(Prisma.sql`AND p.isDemo = 0`);
-  if (filter.communeCodes?.length) {
-    clauses.push(Prisma.sql`AND p.codeCommune IN (${Prisma.join(filter.communeCodes)})`);
-  }
-  // A relation filter on the optional commune: a property with no commune fails it.
-  if (filter.departements?.length) {
-    clauses.push(Prisma.sql`AND c.departement IN (${Prisma.join(filter.departements)})`);
-  }
-  if (filter.propertyType?.length) {
-    clauses.push(Prisma.sql`AND p.propertyType IN (${Prisma.join(filter.propertyType)})`);
-  }
-  // `listings: { some: ... }` — ANY active listing of that seller type qualifies,
-  // not only the cheapest one chosen for display.
-  if (filter.sellerTypes?.length) {
-    clauses.push(Prisma.sql`AND EXISTS (
-      SELECT 1 FROM Listing y
-      WHERE y.propertyId = p.id AND y.status = 'ACTIVE'
-        AND y.sellerType IN (${Prisma.join(filter.sellerTypes)})
-    )`);
-  }
-  if (filter.surfaceMin != null) clauses.push(Prisma.sql`AND p.surface >= ${filter.surfaceMin}`);
-  if (filter.surfaceMax != null) clauses.push(Prisma.sql`AND p.surface <= ${filter.surfaceMax}`);
-  if (filter.roomsMin != null) clauses.push(Prisma.sql`AND p.rooms >= ${filter.roomsMin}`);
-  if (filter.roomsMax != null) clauses.push(Prisma.sql`AND p.rooms <= ${filter.roomsMax}`);
-  if (filter.roomCounts?.length || filter.roomsAtLeast != null) {
-    const branches: Prisma.Sql[] = [];
-    if (filter.roomCounts?.length) {
-      branches.push(Prisma.sql`p.rooms IN (${Prisma.join(filter.roomCounts)})`);
-    }
-    if (filter.roomsAtLeast != null) branches.push(Prisma.sql`p.rooms >= ${filter.roomsAtLeast}`);
-    clauses.push(Prisma.sql`AND (${Prisma.join(branches, " OR ")})`);
-  }
-
-  const rows = await prisma.$queryRaw<ListRow[]>`
+async function loadListRows(hash: string): Promise<ListRow[]> {
+  return prisma.$queryRaw<ListRow[]>`
     SELECT
       p.id, p.codeCommune, p.addressLine, p.lat, p.lon, p.surface, p.rooms,
       p.propertyType, p.dpe, p.isDemo,
@@ -162,26 +116,36 @@ async function loadListRows(filter: PropertyFilter, hash: string): Promise<ListR
     )
     JOIN PropertySource s ON s.id = l.sourceId
     JOIN InvestmentAnalysis a ON a.propertyId = p.id AND a.assumptionHash = ${hash}
-    WHERE 1 = 1 ${clauses.length ? Prisma.join(clauses, " ") : Prisma.empty}
     ORDER BY p.rowid
   `;
-
-  if (filter.propertyIds && filter.propertyIds.length > MAX_SQL_IDS) {
-    const wanted = new Set(filter.propertyIds);
-    return rows.filter((r) => wanted.has(r.id));
-  }
-  return rows;
 }
 
-export async function getProperties(
-  filter: PropertyFilter
-): Promise<PropertyListItem[]> {
-  const hash = hashAssumptions(resolveAssumptions());
+interface ListSnapshot {
+  items: readonly PropertyListItem[];
+  /** Seller types across each property's ACTIVE listings, not only the one shown. */
+  activeSellerTypes: ReadonlyMap<string, ReadonlySet<string>>;
+}
 
-  // Prisma's `id: { in: [] }` matches nothing; keep that for an empty id list.
-  if (filter.propertyIds && filter.propertyIds.length === 0) return [];
+/**
+ * Build the full list once. Items are frozen: the snapshot is shared by every
+ * request until the data changes, so a caller mutating one would corrupt the
+ * results of all the others. Freezing turns that into an immediate error.
+ */
+async function buildSnapshot(hash: string): Promise<ListSnapshot> {
+  const [rows, refs, sellers] = await Promise.all([
+    loadListRows(hash),
+    loadSpatialRefs(),
+    prisma.$queryRaw<{ propertyId: string; sellerType: string }[]>`
+      SELECT propertyId, sellerType FROM Listing WHERE status = 'ACTIVE'
+    `,
+  ]);
 
-  const [rows, refs] = await Promise.all([loadListRows(filter, hash), loadSpatialRefs()]);
+  const activeSellerTypes = new Map<string, Set<string>>();
+  for (const s of sellers) {
+    const set = activeSellerTypes.get(s.propertyId) ?? new Set<string>();
+    set.add(s.sellerType);
+    activeSellerTypes.set(s.propertyId, set);
+  }
 
   const items: PropertyListItem[] = [];
   for (const p of rows) {
@@ -204,7 +168,7 @@ export async function getProperties(
       futureYear = t.future?.item.openingYear ?? null;
     }
 
-    items.push({
+    items.push(Object.freeze({
       id: p.id,
       commune: p.communeNom ?? "—",
       communeCode: p.codeCommune,
@@ -240,8 +204,79 @@ export async function getProperties(
       distToFutureM,
       futureName,
       futureYear,
-    });
+    }));
   }
+
+  return { items, activeSellerTypes };
+}
+
+const snapshotLoaders = new Map<string, () => Promise<ListSnapshot>>();
+
+/**
+ * The list snapshot for the current data version. It is rebuilt only after the
+ * database changes — by this server or by any other process — so warm requests
+ * skip the query and the transport distance pass entirely.
+ */
+function loadSnapshot(hash: string): Promise<ListSnapshot> {
+  let load = snapshotLoaders.get(hash);
+  if (!load) {
+    load = versionedMemo(`properties:list:${hash}`, () => buildSnapshot(hash));
+    snapshotLoaders.set(hash, load);
+  }
+  return load();
+}
+
+/**
+ * Structural filters. Each mirrors the Prisma `where` clause it replaced,
+ * including NULL handling: a property with no value for a filtered field never
+ * matches, as in SQL.
+ */
+function structuralFilter(
+  f: PropertyFilter,
+  activeSellerTypes: ReadonlyMap<string, ReadonlySet<string>>
+): (i: PropertyListItem) => boolean {
+  const ids = f.propertyIds ? new Set(f.propertyIds) : null;
+  const communes = f.communeCodes?.length ? new Set(f.communeCodes) : null;
+  const departements = f.departements?.length ? new Set(f.departements) : null;
+  const types = f.propertyType?.length ? new Set(f.propertyType) : null;
+  const sellers = f.sellerTypes?.length ? f.sellerTypes : null;
+  const roomCounts = f.roomCounts?.length ? new Set(f.roomCounts) : null;
+  const roomOr = roomCounts !== null || f.roomsAtLeast != null;
+
+  return (i) => {
+    if (ids && !ids.has(i.id)) return false;
+    if (f.includeDemo === false && i.isDemo) return false;
+    if (communes && (i.communeCode == null || !communes.has(i.communeCode))) return false;
+    if (departements && (i.departement == null || !departements.has(i.departement))) return false;
+    if (types && (i.propertyType == null || !types.has(i.propertyType))) return false;
+    // Any ACTIVE listing of the property counts, not only the cheapest one shown.
+    if (sellers) {
+      const have = activeSellerTypes.get(i.id);
+      if (!have || !sellers.some((s) => have.has(s))) return false;
+    }
+    if (f.surfaceMin != null && (i.surface == null || i.surface < f.surfaceMin)) return false;
+    if (f.surfaceMax != null && (i.surface == null || i.surface > f.surfaceMax)) return false;
+    if (f.roomsMin != null && (i.rooms == null || i.rooms < f.roomsMin)) return false;
+    if (f.roomsMax != null && (i.rooms == null || i.rooms > f.roomsMax)) return false;
+    if (roomOr) {
+      if (i.rooms == null) return false;
+      const inCounts = roomCounts !== null && roomCounts.has(i.rooms);
+      const atLeast = f.roomsAtLeast != null && i.rooms >= f.roomsAtLeast;
+      if (!inCounts && !atLeast) return false;
+    }
+    return true;
+  };
+}
+
+export async function getProperties(
+  filter: PropertyFilter
+): Promise<PropertyListItem[]> {
+  // Prisma's `id: { in: [] }` matched nothing; keep that for an empty id list.
+  if (filter.propertyIds && filter.propertyIds.length === 0) return [];
+
+  const hash = hashAssumptions(resolveAssumptions());
+  const snapshot = await loadSnapshot(hash);
+  const items = snapshot.items.filter(structuralFilter(filter, snapshot.activeSellerTypes));
 
   // in-memory numeric / score / distance filters
   const f = filter;
