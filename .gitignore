@@ -1,9 +1,10 @@
 # Dependencies
 node_modules
 
-# Next.js build output
+# Next.js build output (.next-* covers builds made with NEXT_DIST_DIR,
+# e.g. a production build in .next-prod beside a running dev server)
 .next
-.next-dev
+.next-*
 out
 build
 dist
@@ -42,3 +43,6 @@ prisma/generated
 
 # Harvest scratch (local only)
 .harvest/
+
+# Local performance measurement scripts and captured responses
+.perf/
