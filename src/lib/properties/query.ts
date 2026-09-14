@@ -1,3 +1,4 @@
+import { Prisma } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
 import { resolveAssumptions } from "@/lib/assumptions/resolve";
 import { hashAssumptions } from "@/lib/assumptions/hash";
@@ -42,64 +43,151 @@ export interface PropertyListItem {
   futureYear: number | null;
 }
 
+/** One row of the list query: a property, its cheapest active listing and its analysis. */
+interface ListRow {
+  id: string;
+  codeCommune: string | null;
+  addressLine: string | null;
+  lat: number | null;
+  lon: number | null;
+  surface: number | null;
+  rooms: number | bigint | null;
+  propertyType: string | null;
+  dpe: string | null;
+  isDemo: boolean | number | bigint;
+  communeNom: string | null;
+  communeDepartement: string | null;
+  communeLat: number | null;
+  communeLon: number | null;
+  price: number | bigint;
+  url: string | null;
+  sellerType: string;
+  sellerName: string | null;
+  daysOnMarket: number | bigint | null;
+  sourceKey: string;
+  investmentScore: number | bigint;
+  whiteStatus: string;
+  monthlyCashFlow: number | bigint;
+  dscr: number;
+  grossYield: number;
+  allInGrossYield: number;
+  investorCash: number | bigint;
+  scoresJson: string;
+}
+
+// SQLite may hand integer columns back as bigint through a raw query.
+const int = (v: number | bigint) => Number(v);
+const intOrNull = (v: number | bigint | null) => (v == null ? null : Number(v));
+
+/**
+ * Bound-parameter budget for one statement. A longer id list is applied in
+ * memory instead of as an IN (...) clause.
+ */
+const MAX_SQL_IDS = 900;
+
+/**
+ * Load list rows with one SQL statement.
+ *
+ * This replaces a Prisma findMany with three nested includes, which spent about
+ * 1.7 s turning ~5,000 rows into objects; the equivalent join takes about 0.2 s.
+ * It must return exactly what that query did:
+ *
+ * - only properties with an ACTIVE listing (the inner join on Listing) and an
+ *   analysis for the current assumption hash (the inner join on
+ *   InvestmentAnalysis) — the old code skipped any property missing either;
+ * - the cheapest ACTIVE listing when there are several, with the listing id as
+ *   an explicit tie-break so the choice is deterministic;
+ * - properties with no commune kept, via the LEFT JOIN on Commune.
+ *
+ * Each structural filter mirrors the Prisma `where` it replaces, including how
+ * it treats NULL. Every value is a bound parameter; nothing supplied by a caller
+ * is ever spliced into the SQL text.
+ */
+async function loadListRows(filter: PropertyFilter, hash: string): Promise<ListRow[]> {
+  const clauses: Prisma.Sql[] = [];
+
+  if (filter.propertyIds && filter.propertyIds.length <= MAX_SQL_IDS) {
+    clauses.push(Prisma.sql`AND p.id IN (${Prisma.join(filter.propertyIds)})`);
+  }
+  if (filter.includeDemo === false) clauses.push(Prisma.sql`AND p.isDemo = 0`);
+  if (filter.communeCodes?.length) {
+    clauses.push(Prisma.sql`AND p.codeCommune IN (${Prisma.join(filter.communeCodes)})`);
+  }
+  // A relation filter on the optional commune: a property with no commune fails it.
+  if (filter.departements?.length) {
+    clauses.push(Prisma.sql`AND c.departement IN (${Prisma.join(filter.departements)})`);
+  }
+  if (filter.propertyType?.length) {
+    clauses.push(Prisma.sql`AND p.propertyType IN (${Prisma.join(filter.propertyType)})`);
+  }
+  // `listings: { some: ... }` — ANY active listing of that seller type qualifies,
+  // not only the cheapest one chosen for display.
+  if (filter.sellerTypes?.length) {
+    clauses.push(Prisma.sql`AND EXISTS (
+      SELECT 1 FROM Listing y
+      WHERE y.propertyId = p.id AND y.status = 'ACTIVE'
+        AND y.sellerType IN (${Prisma.join(filter.sellerTypes)})
+    )`);
+  }
+  if (filter.surfaceMin != null) clauses.push(Prisma.sql`AND p.surface >= ${filter.surfaceMin}`);
+  if (filter.surfaceMax != null) clauses.push(Prisma.sql`AND p.surface <= ${filter.surfaceMax}`);
+  if (filter.roomsMin != null) clauses.push(Prisma.sql`AND p.rooms >= ${filter.roomsMin}`);
+  if (filter.roomsMax != null) clauses.push(Prisma.sql`AND p.rooms <= ${filter.roomsMax}`);
+  if (filter.roomCounts?.length || filter.roomsAtLeast != null) {
+    const branches: Prisma.Sql[] = [];
+    if (filter.roomCounts?.length) {
+      branches.push(Prisma.sql`p.rooms IN (${Prisma.join(filter.roomCounts)})`);
+    }
+    if (filter.roomsAtLeast != null) branches.push(Prisma.sql`p.rooms >= ${filter.roomsAtLeast}`);
+    clauses.push(Prisma.sql`AND (${Prisma.join(branches, " OR ")})`);
+  }
+
+  const rows = await prisma.$queryRaw<ListRow[]>`
+    SELECT
+      p.id, p.codeCommune, p.addressLine, p.lat, p.lon, p.surface, p.rooms,
+      p.propertyType, p.dpe, p.isDemo,
+      c.nom AS communeNom, c.departement AS communeDepartement,
+      c.lat AS communeLat, c.lon AS communeLon,
+      l.price, l.url, l.sellerType, l.sellerName, l.daysOnMarket,
+      s.key AS sourceKey,
+      a.investmentScore, a.whiteStatus, a.monthlyCashFlow, a.dscr,
+      a.grossYield, a.allInGrossYield, a.investorCash, a.scoresJson
+    FROM Property p
+    LEFT JOIN Commune c ON c.code = p.codeCommune
+    JOIN Listing l ON l.id = (
+      SELECT x.id FROM Listing x
+      WHERE x.propertyId = p.id AND x.status = 'ACTIVE'
+      ORDER BY x.price ASC, x.id ASC
+      LIMIT 1
+    )
+    JOIN PropertySource s ON s.id = l.sourceId
+    JOIN InvestmentAnalysis a ON a.propertyId = p.id AND a.assumptionHash = ${hash}
+    WHERE 1 = 1 ${clauses.length ? Prisma.join(clauses, " ") : Prisma.empty}
+    ORDER BY p.rowid
+  `;
+
+  if (filter.propertyIds && filter.propertyIds.length > MAX_SQL_IDS) {
+    const wanted = new Set(filter.propertyIds);
+    return rows.filter((r) => wanted.has(r.id));
+  }
+  return rows;
+}
+
 export async function getProperties(
   filter: PropertyFilter
 ): Promise<PropertyListItem[]> {
   const hash = hashAssumptions(resolveAssumptions());
 
-  const where: Record<string, unknown> = {};
-  if (filter.propertyIds) where.id = { in: filter.propertyIds };
-  if (filter.includeDemo === false) where.isDemo = false;
-  if (filter.communeCodes?.length) where.codeCommune = { in: filter.communeCodes };
-  if (filter.departements?.length)
-    where.commune = { departement: { in: filter.departements } };
-  if (filter.propertyType?.length) where.propertyType = { in: filter.propertyType };
-  if (filter.sellerTypes?.length) where.listings = { some: { status: "ACTIVE", sellerType: { in: filter.sellerTypes } } };
-  if (filter.surfaceMin != null || filter.surfaceMax != null) {
-    where.surface = {
-      ...(filter.surfaceMin != null ? { gte: filter.surfaceMin } : {}),
-      ...(filter.surfaceMax != null ? { lte: filter.surfaceMax } : {}),
-    };
-  }
-  if (filter.roomsMin != null || filter.roomsMax != null) {
-    where.rooms = {
-      ...(filter.roomsMin != null ? { gte: filter.roomsMin } : {}),
-      ...(filter.roomsMax != null ? { lte: filter.roomsMax } : {}),
-    };
-  }
-  if (filter.roomCounts?.length || filter.roomsAtLeast != null) {
-    where.OR = [
-      ...(filter.roomCounts?.length ? [{ rooms: { in: filter.roomCounts } }] : []),
-      ...(filter.roomsAtLeast != null ? [{ rooms: { gte: filter.roomsAtLeast } }] : []),
-    ];
-  }
+  // Prisma's `id: { in: [] }` matches nothing; keep that for an empty id list.
+  if (filter.propertyIds && filter.propertyIds.length === 0) return [];
 
-  const [props, refs] = await Promise.all([
-    prisma.property.findMany({
-      where,
-      include: {
-        commune: { select: { nom: true, departement: true, lat: true, lon: true } },
-        listings: {
-          where: { status: "ACTIVE" },
-          orderBy: { price: "asc" },
-          take: 1,
-          include: { source: { select: { key: true } } },
-        },
-        analyses: { where: { assumptionHash: hash }, take: 1 },
-      },
-    }),
-    loadSpatialRefs(),
-  ]);
+  const [rows, refs] = await Promise.all([loadListRows(filter, hash), loadSpatialRefs()]);
 
   const items: PropertyListItem[] = [];
-  for (const p of props) {
-    const listing = p.listings[0];
-    const analysis = p.analyses[0];
-    if (!listing || !analysis) continue;
-
+  for (const p of rows) {
     let scores: { transport?: number; rentalDemand?: number; appreciation?: number; safety?: number | null } = {};
     try {
-      scores = JSON.parse(analysis.scoresJson);
+      scores = JSON.parse(p.scoresJson);
     } catch {
       scores = {};
     }
@@ -118,32 +206,32 @@ export async function getProperties(
 
     items.push({
       id: p.id,
-      commune: p.commune?.nom ?? "—",
+      commune: p.communeNom ?? "—",
       communeCode: p.codeCommune,
-      departement: p.commune?.departement ?? null,
+      departement: p.communeDepartement ?? null,
       addressLine: p.addressLine,
       lat: p.lat,
       lon: p.lon,
-      communeLat: p.commune?.lat ?? null,
-      communeLon: p.commune?.lon ?? null,
+      communeLat: p.communeLat ?? null,
+      communeLon: p.communeLon ?? null,
       surface: p.surface,
-      rooms: p.rooms,
+      rooms: intOrNull(p.rooms),
       propertyType: p.propertyType,
       dpe: p.dpe,
-      isDemo: p.isDemo,
-      source: listing.source.key,
-      sellerType: listing.sellerType,
-      sellerName: listing.sellerName,
-      url: listing.url,
-      priceCents: listing.price,
-      daysOnMarket: listing.daysOnMarket,
-      investmentScore: analysis.investmentScore,
-      whiteStatus: analysis.whiteStatus,
-      monthlyCashFlowCents: analysis.monthlyCashFlow,
-      dscr: analysis.dscr,
-      grossYieldPct: analysis.grossYield,
-      allInGrossYieldPct: analysis.allInGrossYield,
-      investorCashCents: analysis.investorCash,
+      isDemo: Boolean(Number(p.isDemo)),
+      source: p.sourceKey,
+      sellerType: p.sellerType,
+      sellerName: p.sellerName,
+      url: p.url,
+      priceCents: int(p.price),
+      daysOnMarket: intOrNull(p.daysOnMarket),
+      investmentScore: int(p.investmentScore),
+      whiteStatus: p.whiteStatus,
+      monthlyCashFlowCents: int(p.monthlyCashFlow),
+      dscr: p.dscr,
+      grossYieldPct: p.grossYield,
+      allInGrossYieldPct: p.allInGrossYield,
+      investorCashCents: int(p.investorCash),
       transportScore: scores.transport ?? 0,
       rentalDemandScore: scores.rentalDemand ?? 0,
       appreciationScore: scores.appreciation ?? 0,
