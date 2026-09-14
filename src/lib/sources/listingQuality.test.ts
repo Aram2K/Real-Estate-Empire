@@ -5,6 +5,12 @@ const classify = (overrides: Parameters<typeof classifySuspiciousListing>[0]) =>
   classifySuspiciousListing({ priceCents: 250_000_00, surface: 50, propertyType: "Appartement", ...overrides });
 
 describe("classifySuspiciousListing", () => {
+  it("excludes houseboats even when advertised as houses", () => {
+    expect(classify({ title: "Maison 9 pièces", description: "Cette péniche de type Freycinet est amarrée sur la Seine." }).reasons).toContain("HOUSEBOAT");
+    expect(classify({ title: "Houseboat 160 m²" }).reasons).toContain("HOUSEBOAT");
+    expect(classify({ title: "Maison", description: "FREYCINET BARGE – 160 SQM" }).reasons).toContain("HOUSEBOAT");
+    expect(classify({ title: "Appartement", description: "Vue sur les péniches de la Seine." }).reasons).not.toContain("HOUSEBOAT");
+  });
   it.each([
     ["Multipropriété, deux semaines par an", "NON_WHOLE_PROPERTY"],
     ["Vente en viager occupé, bouquet 80 000 €, rente mensuelle", "NON_WHOLE_PROPERTY"],

@@ -8,6 +8,7 @@ export type ListingQualityInput = {
 
 export type SuspiciousReason =
   | "NON_WHOLE_PROPERTY"
+  | "HOUSEBOAT"
   | "ANCILLARY_SPACE_ONLY"
   | "NON_STANDARD_SALE"
   | "MULTI_UNIT_PROGRAM"
@@ -41,6 +42,13 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
   const description = normalized(input.description);
   const text = `${title}\n${description}`;
   const reasons = new Set<SuspiciousReason>();
+
+  const floatingHome = /\b(?:houseboats?|peniche(?:s)?|bateau[- ](?:logement|habitable)|maison flottante|floating home|barge freycinet|freycinet (?:type )?barge)\b/;
+  if (floatingHome.test(title) || floatingHome.test(normalized(input.propertyType)) ||
+      /\b(?:cette|une|la|ce|un|this|a|the)\s+(?:peniche|houseboat|bateau[- ](?:logement|habitable)|maison flottante)\b/.test(description) ||
+      /\b(?:peniche|barge)\b.{0,60}\b(?:freycinet|amarree|habitable)\b|\bfreycinet\b.{0,30}\b(?:peniche|barge)\b/.test(description)) {
+    reasons.add("HOUSEBOAT");
+  }
 
   const nonWholeProperty = [
     /\b(?:multipropriete|time[- ]?share|temps partage)\b/,
