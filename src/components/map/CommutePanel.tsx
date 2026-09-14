@@ -6,9 +6,8 @@ import type { PropertyListItem } from "@/lib/properties/query";
 import { euro } from "@/lib/format";
 
 type Route = { approximate: boolean; distance: number; duration: number; geometry: LineString; destination: { label: string; lat: number; lon: number } };
-export default function CommutePanel({ listings }: { listings: PropertyListItem[] }) {
+export default function CommutePanel({ listings, id, setId }: { listings: PropertyListItem[]; id: string; setId: (id: string) => void }) {
   const map = useMap();
-  const [id, setId] = useState("");
   const [destination, setDestination] = useState("Avenue des Champs-Élysées, Paris");
   const [mode, setMode] = useState("driving");
   const [route, setRoute] = useState<Route | null>(null);
@@ -16,14 +15,12 @@ export default function CommutePanel({ listings }: { listings: PropertyListItem[
   const [busy, setBusy] = useState(false);
   const [address, setAddress] = useState("");
   const [locationMessage, setLocationMessage] = useState("");
-  useEffect(() => { setId(new URLSearchParams(window.location.search).get("property") ?? ""); }, []);
   const property = listings.find((l) => l.id === id);
   const approximate = property?.lat == null || property?.lon == null;
   const lat = approximate ? property?.communeLat : property?.lat;
   const lon = approximate ? property?.communeLon : property?.lon;
   useEffect(() => {
     setRoute(null); setError("");
-    if (lat != null && lon != null) map.setView([lat, lon], approximate ? 13 : 16);
   }, [id, lat, lon, approximate, map]);
   const directions = new URL("https://www.google.com/maps/dir/");
   directions.search = new URLSearchParams({ api: "1", origin: lat != null && lon != null ? `${lat},${lon}` : property?.commune ?? "", destination, travelmode: mode }).toString();

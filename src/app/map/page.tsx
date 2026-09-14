@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import { Suspense } from "react";
 
 // Leaflet needs the DOM — load the map only on the client.
 const MapView = dynamic(() => import("@/components/map/MapView"), {
@@ -13,5 +14,5 @@ const MapView = dynamic(() => import("@/components/map/MapView"), {
 });
 
 export default function MapPage() {
-  return <MapView />;
+  return <Suspense fallback={<div>Loading map…</div>}><MapView /></Suspense>;
 }

@@ -1,7 +1,9 @@
 "use client";
 
 import "leaflet/dist/leaflet.css";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { useSearchParams } from "next/navigation";
+import type { CircleMarker as LeafletCircleMarker } from "leaflet";
 import Link from "next/link";
 import {
   MapContainer,
@@ -66,11 +68,15 @@ function getLineColor(line: string): string {
 
 const IDF_CENTER: [number, number] = [48.8566, 2.3522];
 
-function FitListings({ groups }: { groups: ReturnType<typeof groupMapListings>["groups"] }) {
+function FitListings({ groups, selectedId, markers }: { groups: ReturnType<typeof groupMapListings>["groups"]; selectedId: string; markers: React.RefObject<Map<string, LeafletCircleMarker>> }) {
   const map = useMap();
   useEffect(() => {
-    if (groups.length) map.fitBounds(groups.map((g) => [g.lat, g.lon] as [number, number]), { paddingTopLeft: [50, 40], paddingBottomRight: [290, 80], maxZoom: 13 });
-  }, [map, groups]);
+    const selected = groups.find((g) => g.items.some((l) => l.id === selectedId));
+    if (selected) {
+      map.setView([selected.lat, selected.lon], selected.approximate ? 14 : 17, { animate: false });
+      markers.current.get(selected.key)?.openPopup();
+    } else if (!selectedId && groups.length) map.fitBounds(groups.map((g) => [g.lat, g.lon] as [number, number]), { paddingTopLeft: [50, 40], paddingBottomRight: [290, 80], maxZoom: 13 });
+  }, [map, groups, selectedId, markers]);
   return null;
 }
 
@@ -91,6 +97,10 @@ function InvalidateSizeFix() {
 }
 
 export default function MapView() {
+  const searchParams = useSearchParams();
+  const [selectedId, setSelectedId] = useState(searchParams.get("property") ?? "");
+  const markers = useRef(new Map<string, LeafletCircleMarker>());
+  useEffect(() => { setSelectedId(searchParams.get("property") ?? ""); }, [searchParams]);
   const [hotspots, setHotspots] = useState<GeoJsonObject | null>(null);
   const [stations, setStations] = useState<StationsData | null>(null);
   const [listings, setListings] = useState<PropertyListItem[]>([]);
@@ -160,8 +170,8 @@ export default function MapView() {
     <div className="relative h-[calc(100vh-3.5rem-2.5rem)] w-full">
       <MapContainer center={IDF_CENTER} zoom={10} className="h-full w-full" preferCanvas>
         <InvalidateSizeFix />
-        <FitListings groups={mapped.groups} />
-        <CommutePanel listings={listings} />
+        <FitListings groups={mapped.groups} selectedId={selectedId} markers={markers} />
+        <CommutePanel listings={listings} id={selectedId} setId={setSelectedId} />
         <TileLayer
           attribution='&copy; OpenStreetMap contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -209,13 +219,15 @@ export default function MapView() {
 
         {show.listings && mapped.groups.map((group) => (
           <CircleMarker key={group.key} center={[group.lat, group.lon]} radius={group.approximate || group.items.length > 1 ? 15 : 8}
+            ref={(marker) => { if (marker) markers.current.set(group.key, marker); else markers.current.delete(group.key); }}
             pathOptions={{ color: group.approximate ? "#1e3a8a" : "#fff", weight: 2, dashArray: group.approximate ? "4 3" : undefined, fillColor: group.approximate ? "#dbeafe" : scoreColor(group.items[0].investmentScore), fillOpacity: 1 }}>
             {(group.approximate || group.items.length > 1) && <Tooltip permanent direction="center" opacity={1} className="listing-count">{group.items.length}</Tooltip>}
             <Popup maxWidth={340}>
               <div style={{ minWidth: 230, maxHeight: 320, overflowY: "auto" }}>
                 <b>{group.items[0].commune} · {group.items.length} {group.items.length === 1 ? "property" : "properties"}</b>
                 <p style={{ fontSize: 12, color: "#475569" }}>{group.approximate ? "Approximate town-centre marker. Exact addresses are not published; these properties are not all at this point." : `Exact published location · ${group.items[0].addressLine ?? "verified coordinates"}`}</p>
-                {group.items.map((l) => <div key={l.id} style={{ borderTop: "1px solid #e2e8f0", padding: "10px 0" }}>
+                {[...group.items].sort((a, b) => Number(b.id === selectedId) - Number(a.id === selectedId)).map((l) => <div key={l.id} style={{ borderTop: "1px solid #e2e8f0", padding: "10px 0", background: l.id === selectedId ? "#dbeafe" : undefined }}>
+                  {l.id === selectedId && <div style={{ color: "#1d4ed8", fontWeight: 700 }}>Selected listing</div>}
                   <Link href={`/properties/${l.id}`} style={{ color: "#2563eb", fontWeight: 600 }}>{l.propertyType ?? "Property"} · {l.rooms ?? "?"}P · {l.surface ?? "?"} m²</Link>
                   <div><b>{euro(l.priceCents)}</b> · DPE {l.dpe ?? "unknown"}</div>
                   <div style={{ fontSize: 12, marginTop: 3 }}>
