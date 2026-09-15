@@ -167,7 +167,10 @@ export default function DetailView({ id }: { id: string }) {
             source: {l.source}
             {` · ${l.sellerType === "AGENCY" ? "agency / professional" : l.sellerType === "INDIVIDUAL" ? "private individual" : "seller type unknown"}`}
             {l.sellerName ? ` · ${l.sellerName}` : ""}
-            {publicationLabel ? ` · published ${publicationLabel}` : ` · first observed ${new Intl.DateTimeFormat("en-GB", { dateStyle: "medium", timeStyle: "short", timeZone: "Europe/Paris" }).format(new Date(l.firstSeenAt))}`}
+            {l.publicationDate ? ` · published ${l.publicationDate} (time not provided)` : publicationLabel ? ` · published ${publicationLabel}` : " · publication date unknown"}
+            {` · imported ${new Intl.DateTimeFormat("en-GB", { dateStyle: "medium", timeZone: "Europe/Paris" }).format(new Date(l.firstSeenAt))}`}
+            {` · ${p.floor == null ? "Floor unknown" : p.floor === 0 ? "Ground floor" : `Floor ${p.floor}`}`}
+            {p.hasElevator != null && ` · ${p.hasElevator ? "with elevator" : "no elevator"}`}
             {p.isDemo && " · demo listing (from DVF)"}
           </div>
         </div>

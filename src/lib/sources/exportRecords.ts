@@ -5,6 +5,8 @@ export type ExportableListing = {
   status: "ACTIVE";
   firstSeenAt: string;
   lastSeenAt: string;
+  publishedAt?: string | null;
+  publicationDate?: string | null;
   priceCents: number;
   sellerType: string;
   sellerName: string | null;
@@ -16,6 +18,8 @@ export type ExportableListing = {
     latitude: number | null;
     surface: number;
     rooms: number;
+    floor?: number | null;
+    hasElevator?: boolean | null;
     propertyType: string;
     dpe: string | null;
     ges: string | null;

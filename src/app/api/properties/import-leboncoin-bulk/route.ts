@@ -4,8 +4,13 @@ import { geocodeAddress } from "@/lib/geo/geocode";
 import { parseSellerBadge } from "@/lib/sources/leboncoin/bulk";
 import { isGensDeConfianceCard, parseGensDeConfianceCard } from "@/lib/sources/gensdeconfiance/bulk";
 import type { SellerType } from "@/lib/sources/sellerType";
+import { propertyFacts } from "@/lib/sources/propertyFacts";
+import { classifySuspiciousListing } from "@/lib/sources/listingQuality";
 
 type Card = {
+  floor?: number;
+  hasElevator?: boolean;
+  publicationDate?: string;
   text?: string;
   title?: string;
   description?: string;
@@ -53,7 +58,9 @@ export async function POST(request: Request) {
       .join("\n")
       .replace(/\u00a0|\u202f/g, " ");
     const lbcAd = card.url?.match(/\/ad\/ventes_immobilieres\/(\d+)/);
-    const parsedGdc = isGensDeConfianceCard(card) ? parseGensDeConfianceCard(card) : null;
+    if (isGensDeConfianceCard(card) && !card.description?.trim()) { skipped++; continue; }
+    if (classifySuspiciousListing({ title: card.title, description: text }).suspicious) { skipped++; continue; }
+    const parsedGdc = isGensDeConfianceCard(card) ? parseGensDeConfianceCard({ ...card, text }) : null;
     const gdc = !lbcAd && !!parsedGdc;
     const price = gdc ? text.match(/€\s*([\d, ]+)/i) : text.match(/Prix:\s*([\d ]+)\s*€/i);
     const lbcFacts = text.match(/\b(Appartement|Maison)(?:\s+de\s+ville)?\s*·\s*(\d+)\s*pièces?\s*·\s*([\d.,]+)\s*m²/i);
@@ -98,6 +105,13 @@ export async function POST(request: Request) {
     const listing = await prisma.listing.upsert({ where: { sourceId_externalId: { sourceId: source.id, externalId } }, update: { propertyId: property.id, url, price: priceCents, lastSeenAt: new Date(), status: "ACTIVE", sellerType, sellerName, ...(publishedAt ? { publishedAt } : {}) }, create: { sourceId: source.id, externalId, propertyId: property.id, url, price: priceCents, status: "ACTIVE", sellerType, sellerName, publishedAt, title: `${rooms}P · ${surface} m² · ${commune.nom}`, description: `${gdc ? "Authenticated search result observed on Gens de Confiance" : "Public search result observed on Leboncoin"}. Availability and exact address must be confirmed with the advertiser.` } });
     if (!await prisma.priceHistory.findFirst({ where: { listingId: listing.id }, select: { id: true } })) await prisma.priceHistory.create({ data: { listingId: listing.id, price: priceCents } });
     imported++;
+    await prisma.property.update({ where: { id: property.id }, data: propertyFacts(card.description ?? "", card.floor, card.hasElevator) });
+    const publicationDate = card.publicationDate && /^\d{4}-\d{2}-\d{2}$/.test(card.publicationDate) ? card.publicationDate : undefined;
+    await prisma.listing.update({ where: { id: listing.id }, data: {
+      ...(card.title ? { title: card.title } : {}),
+      ...(card.description ? { description: card.description } : {}),
+      ...(publicationDate ? { publicationDate, ...(card.publishedAt ? {} : { publishedAt: null }) } : {}),
+    } });
   }
   return NextResponse.json({
     received: cards.length,

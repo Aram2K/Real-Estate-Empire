@@ -141,6 +141,7 @@ export async function getPropertyDetail(
       sellerType: listing.sellerType,
       sellerName: listing.sellerName,
       publishedAt: listing.publishedAt,
+      publicationDate: listing.publicationDate,
       firstSeenAt: listing.firstSeenAt,
       priceCents: listing.price,
       chargesCents: listing.charges,
