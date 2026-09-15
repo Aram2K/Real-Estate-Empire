@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/f84d60b6-cb4d-4ccf-9644-2d8873347ac1",
+    "title": "Vends appartement esprit petite maison - 19m² - Montmartre",
+    "price": 175000,
+    "surface": 19.39,
+    "rooms": 1,
+    "floor": 0,
+    "publicationDate": "2026-08-25",
+    "description": "Chers Gens de Confiance,\n\nAu cœur de Montmartre, dans la très calme rue André Barsacq, ce studio de 19,39m² offre une atmosphère rare, presque confidentielle, avec le charme d’une petite maison indépendante.\n\nSitué dans un immeuble montmartrois de caractère, ce bien atypique bénéficie d’une configuration singulière : il se trouve en rez-de-chaussée tout en étant également au dernier niveau de son bâtiment. Une disposition peu commune qui renforce son côté paisible et préservé.\n\nL’appartement se présente en open space, avec un plan parfaitement optimisé et sans perte de place. Ses beaux volumes sont mis en valeur par une hauteur sous plafond de 2,79m, apportant une agréable sensation d’espace.\n\nLa pièce de vie, rectangulaire et facile à aménager, permet d’imaginer un intérieur fonctionnel et chaleureux. La cuisine aménagée, spacieuse et conviviale, s’intègre naturellement à l’ensemble. Une salle d’eau complète le bien, ainsi que des WC séparés actuellement équipés d’un système de type Sanibroyeur.\n\nUne étude de faisabilité a été réalisée pour l’installation d’un WC raccordé gravitairement au réseau d’évacuation. Les travaux ont été étudiés et sont techniquement réalisables, sous réserve de l’obtention des autorisations éventuellement requises par la copropriété.\n\nExposé plein sud, le studio profite d’une belle luminosité tout au long de la journée. Son calme, son cachet, sa belle hauteur sous plafond et sa proximité immédiate avec les commerces, les transports et la vie de quartier en font une adresse particulièrement agréable.\n\nUn bien atypique et lumineux, idéal pour profiter pleinement de l’esprit village de Montmartre dans un environnement résidentiel paisible. Contactez-nous pour obtenir plus d’informations ou organiser une visite.",
+    "reviewNotes": "Full expanded description reviewed. Sanibroyeur present; conventional WC conversion is conditional on possible copropriete approvals, not completed. No non-standard sale stated.",
+    "propertyType": "Apartment",
+    "city": "Paris",
+    "postalCode": "75018",
+    "sellerType": "AGENCY",
+    "sellerName": "Immopolis Ravignan",
+    "publicationPrecision": "day",
+    "outcome": "ACTIVE"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/4eb06594-52c0-4f3b-855d-97953f809ae2",
+    "title": "Appartement 32 m² avec terrasse – Secteur Jules Joffrin",
+    "price": 299000,
+    "surface": 26,
+    "rooms": 1,
+    "floor": 1,
+    "hasElevator": true,
+    "publicationDate": "2026-09-15",
+    "description": "Chers Gens de Confiance,\n\nSitué rue Marcadet, à proximité immédiate de Jules Joffrin, découvrez ce charmant appartement de 26m² Carrez, prolongé par une exceptionnelle terrasse privative de 16m², un véritable atout rare dans le 18ᵉ arrondissement de Paris.\n\nL’appartement se compose d’un séjour lumineux ouvrant directement sur la terrasse, offrant un agréable espace de vie intérieur/extérieur, idéal pour profiter des beaux jours ou recevoir en toute convivialité. La cuisine, indépendante, est aménagée et équipée, tandis que l’espace nuit a été intelligemment optimisé pour offrir un maximum de confort.\n\nLa résidence, bien entretenue, dispose d’un ascenseur et bénéficie d’équipements modernes tels que la fibre optique, un digicode et un interphone, garantissant confort et sécurité au quotidien.\n\nÀ quelques minutes à pied de la mairie du 18ᵉ, des commerces de la rue du Poteau et de la rue Ramey, des cafés, restaurants et des transports, cet appartement offre un cadre de vie recherché, au cœur d’un quartier dynamique et agréable.\n\nRare sur le secteur grâce à sa terrasse de 16m², ce bien séduira aussi bien un primo-accédant qu’un investisseur à la recherche d’un appartement de qualité dans l’un des secteurs les plus prisés du 18ᵉ arrondissement.",
+    "reviewNotes": "Full expanded description reviewed. Use 26m2 Carrez, not 32m2 headline or 16m2 terrace. Expanded property details: floor 1 of 9, elevator Yes. No non-standard sale stated.",
+    "propertyType": "Apartment",
+    "city": "Paris",
+    "postalCode": "75018",
+    "sellerType": "AGENCY",
+    "sellerName": "Immopolis Ravignan",
+    "publicationPrecision": "day",
+    "outcome": "ACTIVE"
+  }
+]
