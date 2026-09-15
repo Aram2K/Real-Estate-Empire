@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/b7cb1f73-b5d0-40a2-ae21-ee16dd50d7ff",
+    "outcome": "WITHDRAWN",
+    "reasons": [
+      "NON_STANDARD_SALE",
+      "OCCUPIED_PROPERTY"
+    ],
+    "evidenceExcerpt": "Cet investissement LMNP en résidence Etudiants à Rosny-sous-Bois avec un loyer sécurisé par un bail commercial, une gestion entièrement déléguée",
+    "publicationDate": "2026-09-14",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/022706c4-7f1c-407b-9cfe-28a8c6ae4460",
+    "outcome": "WITHDRAWN",
+    "reasons": [
+      "OCCUPIED_PROPERTY"
+    ],
+    "evidenceExcerpt": "Ce bien est loué jusqu’au 1er juillet 2027, le locataire peut rester si cela vous arrange",
+    "publicationDate": "2026-09-15",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/8c97c556-6685-48eb-b415-21277bf53651",
+    "outcome": "WITHDRAWN",
+    "reasons": [
+      "NON_STANDARD_SALE",
+      "OCCUPIED_PROPERTY"
+    ],
+    "evidenceExcerpt": "Le bien bénéficie actuellement d’un bail commercial en cours jusqu’au 30 juin 2028",
+    "publicationDate": "2026-07-01",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/2e973ed5-5379-49f1-a9d7-8739ba38c2ce",
+    "outcome": "RETRY",
+    "reasons": [
+      "CONFLICTING_SURFACE"
+    ],
+    "evidenceExcerpt": "Title and structured surface say 7 m²; full description says studio de 20m² with mezzanine. Carrez area needs confirmation.",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/dcbc8fc1-f324-4796-b881-e5a452e00060",
+    "outcome": "RETRY",
+    "reasons": [
+      "RESIDENTIAL_USE_UNCONFIRMED"
+    ],
+    "evidenceExcerpt": "Je vends mon atelier / appartement ... Facilement transformable en appartement de charme",
+    "publicationDate": "2026-09-12",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/4f6802d2-103a-4f0e-a3b8-61bcc4533642",
+    "outcome": "RETRY",
+    "reasons": [
+      "FACILITIES_UNCONFIRMED"
+    ],
+    "evidenceExcerpt": "chambre de bonne ... Surface : 9m² ... Coin lavabo et douche privatifs. Kitchen and WC not stated.",
+    "publicationDate": "2026-06-10",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/c088142e-3a7b-4f6b-b79a-02e54176caf9",
+    "outcome": "RETRY",
+    "reasons": [
+      "FACILITIES_UNCONFIRMED"
+    ],
+    "evidenceExcerpt": "STUDIO 11m² ... Pièce à vivre très agréable, comportant une kitchenette et une douche. WC not stated.",
+    "publicationDate": "2026-09-15",
+    "reviewedAt": "2026-09-16",
+    "evidenceType": "excerpt; full description read in authenticated browser"
+  }
+]
