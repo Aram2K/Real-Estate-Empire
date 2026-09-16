@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/5c987850-3eec-4d30-87b9-fc077c19bb12",
+    "title": "Vends t2 - 28 m² - Paris 17ème",
+    "price": 298000,
+    "surface": 28,
+    "postalCode": "75017",
+    "floor": 2,
+    "sellerName": "Saint Ferdinand Batignolles",
+    "description": "EXCLUSIVITE. Le Groupe Saint Ferdinand Immobilier vous propose au 2ème étage d’un immeuble ancien, un magnifique appartement en parfait état de 2 pièces composé de : entrée, séjour avec cuisine ouverte équipée, chambre, salle d’eau-wc et cave. Calme et lumineux. Plan optimisé sans perte d’espace. Idéalement situé, proche des transports et des commerces. Charges annuelles : 1.200 €. Estimation des couts annuels d’énergie : 670€ et 960€. Commission incluse de 4.16 % à la charge de l’acquéreur. Aucune procédure dans la copropriété. Nombre de lots : 24. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques https://www.georisques.gouv.fr\n\nRéférence : 87316967",
+    "rooms": 2,
+    "city": "Paris",
+    "propertyType": "Apartment",
+    "sellerType": "AGENCY",
+    "publicationDate": "2026-09-15",
+    "publicationPrecision": "day",
+    "outcome": "ACTIVE",
+    "reviewNotes": "Full expanded source description reviewed; no disqualifying sale conditions stated. Vacancy not independently confirmed."
+  },
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/691f2b2d-857e-4925-91b8-9abd0bf44899",
+    "title": "Vends appartement rare sur le secteur - 43m² - Paris 18ème",
+    "price": 349000,
+    "surface": 43,
+    "postalCode": "75018",
+    "floor": 5,
+    "hasElevator": false,
+    "dpe": "DPE D",
+    "sellerName": "Moriss Immobilier",
+    "description": "DERNIER ÉTAGE\nDPE D – RARE SUR LE SECTEUR\n\nSitué au cœur du 18ᵉ arrondissement, Moriss Immobilier vous propose cet appartement très calme et lumineux exposé Est, au 5ème et dernier étage sans ascenseur d’un bel immeuble ancien.\n\nIl se compose d’une entrée, d’un bel espace séjour donnant une agréable vue dégagée avec une cuisine ouverte, une chambre spacieuse, une salle d’eau ainsi qu’un WC indépendant.\n\nUne cave saine complète ce bien.\n\nSon véritable atout : son DPE classé D, une performance particulièrement rare pour un appartement situé au dernier étage, où les déperditions énergétiques sont habituellement plus importantes. Un excellent classement qui assure confort thermique et maîtrise de la consommation énergétique.\n\nUn appartement agréable à vivre, idéal pour une résidence principale, un pied-à-terre ou un investissement patrimonial au cœur d’un quartier vivant et recherché.\n\nIl bénéficie d’un emplacement recherché, à proximité immédiate des commerces, des transports et de toutes les commodités du quartier.\n\nCopropriété sécurisée, avec emplacement poubelles et vélos.\n\nUn bien rare sur le secteur, à découvrir rapidement.",
+    "rooms": 2,
+    "city": "Paris",
+    "propertyType": "Apartment",
+    "sellerType": "AGENCY",
+    "publicationDate": "2026-09-15",
+    "publicationPrecision": "day",
+    "outcome": "ACTIVE",
+    "reviewNotes": "Full expanded source description reviewed; no disqualifying sale conditions stated. Vacancy not independently confirmed."
+  }
+]
