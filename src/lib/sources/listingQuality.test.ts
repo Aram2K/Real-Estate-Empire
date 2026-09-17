@@ -5,6 +5,11 @@ const classify = (overrides: Parameters<typeof classifySuspiciousListing>[0]) =>
   classifySuspiciousListing({ priceCents: 250_000_00, surface: 50, propertyType: "Appartement", ...overrides });
 
 describe("classifySuspiciousListing", () => {
+  it("distinguishes shared building expenses from fractional ownership", () => {
+    expect(classify({ description: "Quote-part moyenne du budget prévisionnel 6 276 €/an." }).suspicious).toBe(false);
+    expect(classify({ description: "Quote-part des charges : 1200 euros." }).suspicious).toBe(false);
+    expect(classify({ description: "Vente d’une quote-part de propriété. Quote-part des charges : 1200 euros." }).reasons).toContain("NON_WHOLE_PROPERTY");
+  });
   it("excludes houseboats even when advertised as houses", () => {
     expect(classify({ title: "Maison 9 pièces", description: "Cette péniche de type Freycinet est amarrée sur la Seine." }).reasons).toContain("HOUSEBOAT");
     expect(classify({ title: "Houseboat 160 m²" }).reasons).toContain("HOUSEBOAT");

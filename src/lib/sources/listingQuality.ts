@@ -53,7 +53,7 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
   const nonWholeProperty = [
     /\b(?:multipropriete|time[- ]?share|temps partage)\b/,
     /\b(?:droit de jouissance|droit d'occupation)\b.{0,50}\b(?:semaine|jours? par an|annuel)/,
-    /\b(?:quote[- ]?part|part(?:s)? indivise(?:s)?|fraction (?:de propriete|du bien)|vente fractionnee|propriete fractionnee|vente de parts?)\b/,
+    /\b(?:quote[- ]?part\b(?!\s+(?:(?:moyenne|annuelle)\s+)*(?:du budget|des charges|de charges)\b)|part(?:s)? indivise(?:s)?|fraction (?:de propriete|du bien)|vente fractionnee|propriete fractionnee|vente de parts?)\b/,
     /\b(?:viager|nue[- ]?propriete|usufruit)\b/,
     /\b(?:demembrement|vente a terme)\b/,
     /\b(?:parts?|actions?)\s+(?:de|d')\s*(?:sci|societe immobiliere)\b/,
