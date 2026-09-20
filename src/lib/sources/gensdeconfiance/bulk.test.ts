@@ -5,9 +5,9 @@ describe("Gens de Confiance bulk cards", () => {
   it("parses the current English visible-card format", () => {
     const parsed = parseGensDeConfianceCard({
       url: "https://gensdeconfiance.com/us/ui/post/realestate__sale/ABC-123?from=search",
-      text: "€ 425,000\nApartment · 51.5 m² · 3 rooms\nBoulogne-Billancourt\n(92100)\nDPE C",
+      text: "€ 425,000\nApartment · 51.5 m² · 3 rooms\nRouen\n(76000)\nDPE C",
     });
-    expect(parsed).toMatchObject({ externalId: "abc-123", price: 42_500_000, propertyType: "Appartement", rooms: 3, surface: 51.5, city: "Boulogne-Billancourt", postalCode: "92100", dpe: "C" });
+    expect(parsed).toMatchObject({ externalId: "abc-123", price: 42_500_000, propertyType: "Appartement", rooms: 3, surface: 51.5, city: "Rouen", postalCode: "76000", dpe: "C" });
     expect(parsed?.url).not.toContain("?");
   });
 
@@ -22,15 +22,26 @@ describe("Gens de Confiance bulk cards", () => {
     const parsed = parseGensDeConfianceCard({
       url: "https://www.gensdeconfiance.com/us/ui/post/realestate__sale/a7f1",
       price: 610000,
-      propertyType: "Maison",
-      rooms: 6,
-      surface: 132,
-      city: "Versailles",
-      postalCode: "78000",
+      propertyType: "Appartement",
+      rooms: 4,
+      surface: 92,
+      city: "Orléans",
+      postalCode: "45000",
       sellerType: "INDIVIDUAL",
       sellerName: "Owner",
     });
-    expect(parsed).toMatchObject({ price: 61_000_000, propertyType: "Maison", rooms: 6, surface: 132, sellerType: "INDIVIDUAL", sellerName: "Owner" });
+    expect(parsed).toMatchObject({ price: 61_000_000, propertyType: "Appartement", rooms: 4, surface: 92, sellerType: "INDIVIDUAL", sellerName: "Owner" });
+  });
+
+  it("rejects houses and Paris even when the card is otherwise complete", () => {
+    const base = {
+      url: "https://gensdeconfiance.com/us/ui/post/realestate__sale/scope",
+      price: 300_000,
+      rooms: 3,
+      surface: 70,
+    };
+    expect(parseGensDeConfianceCard({ ...base, propertyType: "House", city: "Rouen", postalCode: "76000" })).toBeNull();
+    expect(parseGensDeConfianceCard({ ...base, propertyType: "Apartment", city: "Paris", postalCode: "75015" })).toBeNull();
   });
 
   it("rejects incomplete, non-IDF and foreign-source records", () => {
@@ -64,8 +75,8 @@ describe("Gens de Confiance bulk cards", () => {
       url: "https://gensdeconfiance.com/us/ui/post/realestate__sale/numeric-outlier",
       propertyType: "Appartement",
       rooms: 1,
-      city: "Paris",
-      postalCode: "75015",
+      city: "Rouen",
+      postalCode: "76000",
     };
     expect(parseGensDeConfianceCard({ ...base, price: 100_000, surface: 4.5 })).toBeNull();
     expect(parseGensDeConfianceCard({ ...base, price: 9_000, surface: 100 })).toBeNull();

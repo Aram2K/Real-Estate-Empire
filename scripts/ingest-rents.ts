@@ -10,7 +10,7 @@
  */
 import { parse } from "csv-parse/sync";
 import { prisma } from "../src/lib/db/prisma";
-import { IDF_DEPARTMENT_CODES } from "../src/lib/constants";
+import { COLLECTION_DEPARTMENT_CODES } from "../src/lib/constants";
 import { fetchJson, fetchText } from "./_lib/http";
 import { log } from "./_lib/log";
 
@@ -72,7 +72,7 @@ async function ingestCarteFile(url: string, segment: string): Promise<number> {
   }) as CarteRow[];
 
   const data = rows
-    .filter((r) => (IDF_DEPARTMENT_CODES as readonly string[]).includes(r.DEP))
+    .filter((r) => (COLLECTION_DEPARTMENT_CODES as readonly string[]).includes(r.DEP))
     .map((r) => {
       const pred = num(r.loypredm2);
       if (pred == null) return null;
@@ -155,9 +155,14 @@ async function ingestParisEncadrement(): Promise<number> {
 async function main() {
   log.step("Ingesting rent references…");
 
-  // idempotent reset for this year
-  await prisma.rentReference.deleteMany({ where: { year: RENT_YEAR } });
-  await prisma.rentReference.deleteMany({ where: { scope: "PARIS_QUARTIER" } });
+  // Replace only the active regional markets. Historical IDF/Paris reference
+  // rows remain available for older listings already in the database.
+  await prisma.rentReference.deleteMany({
+    where: {
+      year: RENT_YEAR,
+      OR: COLLECTION_DEPARTMENT_CODES.map((code) => ({ codeCommune: { startsWith: code } })),
+    },
+  });
 
   const resources = await resolveCarteResources();
   let total = 0;
@@ -172,10 +177,7 @@ async function main() {
     log.ok(`Carte des Loyers ${segment}: ${n} IDF communes`);
   }
 
-  const parisN = await ingestParisEncadrement();
-  log.ok(`Paris encadrement (per arrondissement): ${parisN}`);
-
-  log.ok(`Rent references ingested: ${total + parisN}`);
+  log.ok(`Rent references ingested: ${total}`);
   await prisma.$disconnect();
 }
 

@@ -4,7 +4,7 @@
  * has no credits — the app stays fully functional on open data + demo + manual.
  */
 import { prisma } from "../src/lib/db/prisma";
-import { IDF_DEPARTMENT_CODES } from "../src/lib/constants";
+import { COLLECTION_DEPARTMENT_CODES } from "../src/lib/constants";
 import { getEnabledAdapters } from "../src/lib/sources/registry";
 import { geocodeAddress } from "../src/lib/geo/geocode";
 import { computeAndStoreAnalysis } from "../src/lib/properties/analyzeOne";
@@ -12,6 +12,7 @@ import type { NormalizedListing } from "../src/lib/sources/types";
 import { log } from "./_lib/log";
 
 async function upsertOne(l: NormalizedListing, sourceId: string): Promise<string | null> {
+  if (l.propertyType !== "Appartement") return null;
   let { lat, lon, codeCommune } = l;
 
   // Fill missing geo from the address if needed.
@@ -24,6 +25,7 @@ async function upsertOne(l: NormalizedListing, sourceId: string): Promise<string
     }
   }
   if (lat == null || lon == null || !l.surface) return null;
+  if (!codeCommune || codeCommune.startsWith("75") || !COLLECTION_DEPARTMENT_CODES.some((department) => department === codeCommune!.slice(0, 2))) return null;
 
   const dedupeKey = `${l.sourceKey}:${codeCommune ?? "?"}:${Math.round(
     lat * 1e4
@@ -81,6 +83,7 @@ async function upsertOne(l: NormalizedListing, sourceId: string): Promise<string
       description: l.description ?? null,
       lastSeenAt: new Date(),
       propertyId: property.id,
+      ...(l.publishedAt ? { publishedAt: l.publishedAt } : {}),
     },
     create: {
       sourceId,
@@ -92,6 +95,7 @@ async function upsertOne(l: NormalizedListing, sourceId: string): Promise<string
       title: l.title ?? null,
       description: l.description ?? null,
       propertyId: property.id,
+      publishedAt: l.publishedAt ?? null,
     },
   });
 
@@ -120,8 +124,8 @@ async function main() {
     let listings: NormalizedListing[] = [];
     try {
       listings = await adapter.fetchListings({
-        departements: IDF_DEPARTMENT_CODES,
-        propertyTypes: ["Appartement", "Maison"],
+        departements: COLLECTION_DEPARTMENT_CODES,
+        propertyTypes: ["Appartement"],
         maxPages: 10,
       });
     } catch (e) {
@@ -136,6 +140,7 @@ async function main() {
     }
 
     const ids = new Set<string>();
+    listings.sort((a, b) => (b.publishedAt?.getTime() ?? b.firstSeenAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? a.firstSeenAt?.getTime() ?? 0));
     for (const l of listings) {
       const id = await upsertOne(l, source.id);
       if (id) ids.add(id);

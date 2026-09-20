@@ -17,15 +17,15 @@ vi.mock("@/lib/geo/geocode", () => ({ geocodeAddress: mocks.geocode }));
 vi.mock("@/lib/properties/analyzeOne", () => ({ computeAndStoreAnalysis: mocks.analyze }));
 import { POST } from "./route";
 
-const input = { address: "12 rue de Paris, Sevran", priceEuros: 149500, surface: 32, dpe: "D" };
+const input = { address: "12 rue de la République, Rouen", priceEuros: 149500, surface: 32, dpe: "D" };
 function request(body = input) {
   return new NextRequest("http://localhost/api/properties", { method: "POST", body: JSON.stringify(body) });
 }
 
 beforeEach(() => {
   vi.resetAllMocks();
-  mocks.geocode.mockResolvedValue({ lat: 48.94, lon: 2.53, codeCommune: "93071", label: input.address });
-  mocks.db.commune.findUnique.mockResolvedValue({ code: "93071" });
+  mocks.geocode.mockResolvedValue({ lat: 49.443, lon: 1.099, codeCommune: "76540", label: input.address });
+  mocks.db.commune.findUnique.mockResolvedValue({ code: "76540" });
   mocks.db.propertySource.upsert.mockResolvedValue({ id: "manual" });
   mocks.db.property.upsert.mockResolvedValue({ id: "property" });
   mocks.db.listing.upsert.mockResolvedValue({ id: "listing" });
@@ -60,9 +60,19 @@ describe("manual listing import", () => {
     expect((await POST(request())).status).toBe(503);
     expect(mocks.db.property.upsert).not.toHaveBeenCalled();
   });
-  it("rejects addresses outside IDF before writing", async () => {
+  it("rejects addresses outside the active collection area before writing", async () => {
     mocks.geocode.mockResolvedValue({ lat: 45.76, lon: 4.83, codeCommune: "69123" });
     expect((await POST(request())).status).toBe(422);
+    expect(mocks.db.property.upsert).not.toHaveBeenCalled();
+  });
+  it("accepts Rouen when its market coverage is loaded", async () => {
+    mocks.geocode.mockResolvedValue({ lat: 49.443, lon: 1.099, codeCommune: "76540", label: "Rouen" });
+    mocks.db.commune.findUnique.mockResolvedValue({ code: "76540" });
+    expect((await POST(request({ ...input, address: "Rouen" }))).status).toBe(200);
+  });
+  it("rejects new Paris imports", async () => {
+    mocks.geocode.mockResolvedValue({ lat: 48.86, lon: 2.35, codeCommune: "75101", label: "Paris" });
+    expect((await POST(request({ ...input, address: "Paris" }))).status).toBe(422);
     expect(mocks.db.property.upsert).not.toHaveBeenCalled();
   });
   it("reports missing commune coverage without a foreign-key failure", async () => {

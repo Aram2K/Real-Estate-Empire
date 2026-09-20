@@ -5,9 +5,9 @@ describe("Leboncoin bulk cards", () => {
   it("parses a canonical card and strips tracking from the URL", () => {
     expect(parseLeboncoinCard({
       url: "https://www.leboncoin.fr/ad/ventes_immobilieres/3219139353?foo=bar",
-      text: "Prix: 273 000 €\nAppartement · 2 pièces · 45,5 m²\nSituée à Saint-Maur-des-Fossés 94100.",
+      text: "Prix: 273 000 €\nAppartement · 2 pièces · 45,5 m²\nSituée à Rouen 76000.",
       dpe: "Classe énergie D",
-    })).toMatchObject({ externalId: "3219139353", price: 27_300_000, surface: 45.5, postalCode: "94100", dpe: "D" });
+    })).toMatchObject({ externalId: "3219139353", price: 27_300_000, surface: 45.5, postalCode: "76000", dpe: "D" });
   });
 
   it("maps Paris postcodes to arrondissement INSEE codes", () => {

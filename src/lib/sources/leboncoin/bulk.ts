@@ -1,5 +1,6 @@
 import type { SellerType } from "../sellerType";
 import { classifySuspiciousListing } from "../listingQuality";
+import { isCollectionPostalCode } from "../../constants";
 
 export type LeboncoinCard = { text?: string; url?: string; dpe?: string };
 
@@ -55,8 +56,9 @@ export function parseLeboncoinCard(card: LeboncoinCard): ParsedLeboncoinCard | n
   const ad = card.url?.match(/\/ad\/ventes_immobilieres\/(\d+)/);
   const price = text.match(/Prix:\s*([\d ]+)\s*€/i);
   const facts = text.match(/\b(Appartement|Maison)(?:\s+de\s+ville)?\s*·\s*(\d+)\s*pièces?\s*·\s*([\d.,]+)\s*m²/i);
-  const place = text.match(/Située?\s+à\s+(.+?)\s+((?:7[578]|9[2345])\d{3})(?:\.|\s|$)/im);
+  const place = text.match(/Située?\s+à\s+(.+?)\s+(\d{5})(?:\.|\s|$)/im);
   if (!ad || !price || !facts || !place) return null;
+  if (!isCollectionPostalCode(place[2])) return null;
 
   const priceCents = Number(price[1].replace(/\s/g, "")) * 100;
   const surface = Number(facts[3].replace(",", "."));

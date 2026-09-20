@@ -14,7 +14,7 @@ import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
 import { createCommuneResolver } from "@/lib/sources/leboncoin/bulk";
 import { computeAndStoreAnalysis } from "@/lib/properties/analyzeOne";
-import { IDF_DEPARTMENT_CODES } from "@/lib/constants";
+import { COLLECTION_COMMUNE_CODES, COLLECTION_DEPARTMENT_CODES } from "@/lib/constants";
 import { classifySuspiciousListing } from "@/lib/sources/listingQuality";
 
 export const HarvestedAdSchema = z.object({
@@ -121,6 +121,13 @@ export function dpeOf(energy: string | null | undefined): string | null {
   return /^[A-G]$/.test(e) ? e : null;
 }
 
+export function harvestTimestamp(value: string | null | undefined): number {
+  if (!value) return 0;
+  const normalized = value.trim().replace(" ", "T");
+  const date = new Date(/[zZ]|[+-]\d\d:\d\d$/.test(normalized) ? normalized : `${normalized}+02:00`);
+  return Number.isNaN(date.getTime()) ? 0 : date.getTime();
+}
+
 export async function importHarvestedAds(
   records: HarvestedAd[],
   opts: { dry?: boolean; analyse?: boolean } = {}
@@ -130,7 +137,7 @@ export async function importHarvestedAds(
   // Last one wins per ad id, so re-harvesting a page is harmless.
   const byId = new Map<string, HarvestedAd>();
   for (const r of records) byId.set(r.id, r);
-  const items = [...byId.values()];
+  const items = [...byId.values()].sort((a, b) => harvestTimestamp(b.publishedAt) - harvestTimestamp(a.publishedAt));
 
   const stats: HarvestStats = {
     received: records.length,
@@ -182,7 +189,7 @@ export async function importHarvestedAds(
       !it.rooms ||
       !it.title?.trim() ||
       !it.description?.trim() ||
-      !propertyTypeOf(it.realEstateType)
+      propertyTypeOf(it.realEstateType) !== "Appartement"
     ) {
       stats.skippedIncomplete++;
       continue;
@@ -208,7 +215,11 @@ export async function importHarvestedAds(
       stats.skippedNoCommune++;
       continue;
     }
-    if (!IDF_DEPARTMENT_CODES.some((d) => d === commune.departement)) {
+    if (commune.departement === "75" || !COLLECTION_DEPARTMENT_CODES.some((d) => d === commune.departement)) {
+      stats.skippedOutsideIdf++;
+      continue;
+    }
+    if (!COLLECTION_COMMUNE_CODES.has(commune.code)) {
       stats.skippedOutsideIdf++;
       continue;
     }

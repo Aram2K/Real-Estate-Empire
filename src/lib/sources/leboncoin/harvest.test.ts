@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   HarvestRowSchema,
   dpeOf,
+  harvestTimestamp,
   parsePipeRow,
   propertyTypeOf,
   sellerTypeOf,
@@ -46,6 +47,21 @@ describe("dpeOf", () => {
     for (const v of ["v", "", null, undefined, "vierge", "1"]) {
       expect(dpeOf(v)).toBeNull();
     }
+  });
+});
+
+describe("harvestTimestamp", () => {
+  it("orders source timestamps newest first and puts missing dates last", () => {
+    const rows = [
+      { publishedAt: null },
+      { publishedAt: "2026-09-18 10:00:00" },
+      { publishedAt: "2026-09-20T08:00:00+02:00" },
+    ].sort((a, b) => harvestTimestamp(b.publishedAt) - harvestTimestamp(a.publishedAt));
+    expect(rows.map((row) => row.publishedAt)).toEqual([
+      "2026-09-20T08:00:00+02:00",
+      "2026-09-18 10:00:00",
+      null,
+    ]);
   });
 });
 

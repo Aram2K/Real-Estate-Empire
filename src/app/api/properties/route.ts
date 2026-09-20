@@ -5,7 +5,7 @@ import { getProperties } from "@/lib/properties/query";
 import { parseFilterParams, PRESETS } from "@/lib/filters/schema";
 import { geocodeAddress } from "@/lib/geo/geocode";
 import { computeAndStoreAnalysis } from "@/lib/properties/analyzeOne";
-import { IDF_DEPARTMENTS } from "@/lib/constants";
+import { COLLECTION_COMMUNE_CODES } from "@/lib/constants";
 
 export async function GET(req: NextRequest) {
   const sp = req.nextUrl.searchParams;
@@ -68,8 +68,8 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  if (!geo.codeCommune || !IDF_DEPARTMENTS.some((dep) => geo.codeCommune!.startsWith(dep.code))) {
-    return NextResponse.json({ error: "Please use an address in Île-de-France." }, { status: 422 });
+  if (!geo.codeCommune || !COLLECTION_COMMUNE_CODES.has(geo.codeCommune)) {
+    return NextResponse.json({ error: "This address is outside the current non-Paris collection area." }, { status: 422 });
   }
   const commune = await prisma.commune.findUnique({ where: { code: geo.codeCommune } });
   if (!commune) {

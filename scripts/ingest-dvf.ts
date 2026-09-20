@@ -16,7 +16,7 @@
 import { createHash } from "node:crypto";
 import { parse } from "csv-parse/sync";
 import { prisma } from "../src/lib/db/prisma";
-import { DVF_YEARS, IDF_DEPARTMENT_CODES } from "../src/lib/constants";
+import { DVF_YEARS, COLLECTION_DEPARTMENT_CODES } from "../src/lib/constants";
 import { fetchGzipText } from "./_lib/http";
 import { log } from "./_lib/log";
 
@@ -60,7 +60,7 @@ function parseArgs() {
     }
   }
   return {
-    deps: deps.length ? deps : IDF_DEPARTMENT_CODES,
+    deps: deps.length ? deps : COLLECTION_DEPARTMENT_CODES,
     years,
   };
 }
@@ -134,7 +134,8 @@ async function ingestDeptYear(dep: string, year: number): Promise<number> {
     skip_empty_lines: true,
     relax_column_count: true,
   }) as DvfRow[];
-  const comps = buildComps(rows);
+  const knownCommunes = new Set((await prisma.commune.findMany({ select: { code: true } })).map((commune) => commune.code));
+  const comps = buildComps(rows).filter((comp) => knownCommunes.has(comp.codeCommune));
 
   // idempotent: clear this dept-year, then insert fresh
   await prisma.saleComparable.deleteMany({

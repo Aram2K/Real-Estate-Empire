@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import { z } from "zod";
 import { prisma } from "../src/lib/db/prisma";
 import { computeAndStoreAnalysis } from "../src/lib/properties/analyzeOne";
-import { IDF_DEPARTMENT_CODES } from "../src/lib/constants";
+import { COLLECTION_COMMUNE_CODES } from "../src/lib/constants";
 import { classifySeller } from "../src/lib/sources/sellerType";
 import { classifySuspiciousListing } from "../src/lib/sources/listingQuality";
 
@@ -35,9 +35,10 @@ async function main() {
   const communes = await prisma.commune.findMany({ where: { code: { in: records.map((r) => r.communeCode) } } });
   for (const r of records) {
     const commune = communes.find((c) => c.code === r.communeCode);
-    if (!commune || !IDF_DEPARTMENT_CODES.some((d) => d === commune.departement)) {
-      throw new Error(`Missing IDF commune coverage: ${r.communeCode}`);
+    if (!commune || !COLLECTION_COMMUNE_CODES.has(r.communeCode)) {
+      throw new Error(`Missing active-market commune coverage: ${r.communeCode}`);
     }
+    if (r.propertyType !== "Appartement") throw new Error(`Only apartments are accepted in the current collection scope: ${r.url}`);
     if (new Date(r.observedAt).getTime() > Date.now()) throw new Error("Observation cannot be in the future");
     const quality = classifySuspiciousListing({
       description: r.notes,

@@ -39,6 +39,12 @@ function toCents(v: unknown): number | null {
   return Number.isFinite(n) ? Math.round(n * 100) : null;
 }
 
+function toDate(v: unknown): Date | null {
+  if (typeof v !== "string") return null;
+  const date = new Date(v);
+  return Number.isNaN(date.getTime()) ? null : date;
+}
+
 function mapDocument(doc: Record<string, unknown>): NormalizedListing | null {
   const priceEuros = pick<number>(doc, ["price", "amount", "salePrice"]);
   const priceCents = toCents(priceEuros);
@@ -75,7 +81,8 @@ function mapDocument(doc: Record<string, unknown>): NormalizedListing | null {
     lon: lon ?? null,
     codeCommune:
       pick<string>(doc, ["inseeCode", "cityInseeCode", "citycode"])?.toString() ?? null,
-    firstSeenAt: null,
+    firstSeenAt: toDate(pick(doc, ["createdAt", "created_at", "indexedAt"])),
+    publishedAt: toDate(pick(doc, ["publishedAt", "publicationDate", "firstPublicationDate"])),
     raw: doc,
   };
 }
@@ -124,6 +131,7 @@ export const meloAdapter: ListingSourceAdapter = {
           const dep = mapped.codeCommune.slice(0, 2);
           if (!params.departements.includes(dep)) continue;
         }
+        if (params.propertyTypes?.length && (!mapped.propertyType || !params.propertyTypes.includes(mapped.propertyType))) continue;
         out.push(mapped);
       }
       const next = json["hydra:view"]?.["hydra:next"];
@@ -131,6 +139,6 @@ export const meloAdapter: ListingSourceAdapter = {
       page++;
     }
 
-    return out;
+    return out.sort((a, b) => (b.publishedAt?.getTime() ?? b.firstSeenAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? a.firstSeenAt?.getTime() ?? 0));
   },
 };

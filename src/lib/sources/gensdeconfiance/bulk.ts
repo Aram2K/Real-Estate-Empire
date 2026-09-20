@@ -1,6 +1,7 @@
 import { parseSellerBadge, type CommuneCandidate } from "../leboncoin/bulk";
 import type { SellerType } from "../sellerType";
 import { classifySuspiciousListing } from "../listingQuality";
+import { isCollectionPostalCode } from "../../constants";
 
 export type GensDeConfianceCard = {
   url?: string;
@@ -38,8 +39,6 @@ export type ParsedGensDeConfianceCard = {
   sellerName: string | null;
   publishedAt: Date | null;
 };
-
-const IDF_POSTAL_CODE = /^(?:75|77|78|91|92|93|94|95)\d{3}$/;
 
 function finitePositive(value: unknown): number | null {
   const number = typeof value === "string" ? Number(value.replace(/\s/g, "").replace(",", ".")) : Number(value);
@@ -83,9 +82,9 @@ export function parseGensDeConfianceCard(card: GensDeConfianceCard, observedAt =
     : finitePositive(priceMatch?.[1]?.replace(/[\s,.]/g, ""));
 
   const explicitPostal = card.postalCode?.trim();
-  const postalCode = explicitPostal && IDF_POSTAL_CODE.test(explicitPostal)
+  const postalCode = explicitPostal && isCollectionPostalCode(explicitPostal)
     ? explicitPostal
-    : text.match(/\b((?:75|77|78|91|92|93|94|95)\d{3})\b/)?.[1];
+    : [...text.matchAll(/\b(\d{5})\b/g)].map((match) => match[1]).find(isCollectionPostalCode);
   const cityFromParenthesizedPostal = postalCode
     ? text.match(new RegExp(`(?:^|\\n)\\s*([^\\n()]+?)\\s*(?:\\n\\s*)?\\(${postalCode}\\)`, "i"))?.[1]
     : null;
@@ -94,7 +93,7 @@ export function parseGensDeConfianceCard(card: GensDeConfianceCard, observedAt =
     : null;
   const city = card.city?.trim() || cityFromParenthesizedPostal?.trim() || cityFromPostalLine?.trim();
 
-  if (!propertyType || !surface || !rooms || !Number.isInteger(rooms) || !euroPrice || !postalCode || !city) return null;
+  if (propertyType !== "Appartement" || !surface || !rooms || !Number.isInteger(rooms) || !euroPrice || !postalCode || !city) return null;
   if (classifySuspiciousListing({
     title: card.title,
     description: text,

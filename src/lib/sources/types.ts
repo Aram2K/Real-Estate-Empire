@@ -20,6 +20,7 @@ export interface NormalizedListing {
   lon?: number | null;
   codeCommune?: string | null;
   firstSeenAt?: Date | null;
+  publishedAt?: Date | null;
   raw?: unknown;
 }
 

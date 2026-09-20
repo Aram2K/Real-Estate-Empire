@@ -5,7 +5,7 @@
  * as the single commune 75056.
  */
 import { prisma } from "../src/lib/db/prisma";
-import { IDF_DEPARTMENTS } from "../src/lib/constants";
+import { COLLECTION_DEPARTMENTS } from "../src/lib/constants";
 import { fetchJson } from "./_lib/http";
 import { log } from "./_lib/log";
 
@@ -121,15 +121,21 @@ async function ingestParisArrondissements(): Promise<number> {
 }
 
 async function main() {
-  log.step("Ingesting IDF commune boundaries…");
+  log.step("Ingesting active-market commune boundaries…");
+  const requested = process.argv.slice(2).filter((value) => /^\d{2,3}$/.test(value));
+  const departments = requested.length
+    ? COLLECTION_DEPARTMENTS.filter((department) => requested.includes(department.code))
+    : COLLECTION_DEPARTMENTS;
   let total = 0;
-  for (const { code, name } of IDF_DEPARTMENTS) {
+  for (const { code, name } of departments) {
     const n = await ingestDepartment(code);
     total += n;
     log.ok(`${code} ${name}: ${n} communes`);
   }
-  const arr = await ingestParisArrondissements();
-  log.ok(`Paris arrondissements: ${arr}`);
+  // Preserve the historical Paris comparison layer on full refreshes, but do
+  // not touch it when ingesting one of the new regional markets.
+  const arr = requested.length ? 0 : await ingestParisArrondissements();
+  if (arr) log.ok(`Paris arrondissements preserved: ${arr}`);
   log.ok(`Communes ingested: ${total + arr}`);
   await prisma.$disconnect();
 }

@@ -6,6 +6,7 @@ import { isGensDeConfianceCard, parseGensDeConfianceCard } from "@/lib/sources/g
 import type { SellerType } from "@/lib/sources/sellerType";
 import { propertyFacts } from "@/lib/sources/propertyFacts";
 import { classifySuspiciousListing } from "@/lib/sources/listingQuality";
+import { COLLECTION_COMMUNE_CODES, isCollectionPostalCode } from "@/lib/constants";
 
 type Card = {
   floor?: number;
@@ -45,6 +46,7 @@ const parseLeboncoinPublishedAt = (value?: string) => {
 export async function POST(request: Request) {
   const cards = await request.json() as Card[];
   if (!Array.isArray(cards) || cards.length > 2_000) return NextResponse.json({ error: "Invalid batch (maximum 2,000 cards)" }, { status: 400 });
+  cards.sort((a, b) => (parseLeboncoinPublishedAt(b.publishedAt)?.getTime() ?? 0) - (parseLeboncoinPublishedAt(a.publishedAt)?.getTime() ?? 0));
   const communes = await prisma.commune.findMany({ select: { code: true, nom: true, departement: true } });
   const sources = {
     leboncoin: await prisma.propertySource.upsert({ where: { key: "leboncoin-bulk" }, update: { enabled: true }, create: { key: "leboncoin-bulk", label: "Leboncoin · public search results", enabled: true } }),
@@ -66,15 +68,19 @@ export async function POST(request: Request) {
     const lbcFacts = text.match(/\b(Appartement|Maison)(?:\s+de\s+ville)?\s*·\s*(\d+)\s*pièces?\s*·\s*([\d.,]+)\s*m²/i);
     const gdcFacts = text.match(/\b(Apartment|House)\s*·\s*([\d.,]+)\s*m²\s*·\s*(\d+)\s*rooms?/i);
     const place = gdc
-      ? text.match(/\n\s*([^\n]+?)\s*\n+\s*\(((?:7[578]|9[2345])\d{3})\)/i)
-      : text.match(/Située?\s+à\s+([^\n.]*?)\s+((?:7[578]|9[2345])\d{3})/i);
+      ? text.match(/\n\s*([^\n]+?)\s*\n+\s*\((\d{5})\)/i)
+      : text.match(/Située?\s+à\s+([^\n.]*?)\s+(\d{5})/i);
     if (!gdc && (!lbcAd || !price || !lbcFacts || !place)) { skipped++; continue; }
     const propertyType = parsedGdc?.propertyType ?? lbcFacts![1];
+    if (propertyType.toLowerCase() !== "appartement") { skipped++; continue; }
     const surface = parsedGdc?.surface ?? Number(lbcFacts![3].replace(",", "."));
     const rooms = parsedGdc?.rooms ?? Number(lbcFacts![2]);
-    const postal = parsedGdc?.postalCode ?? place![2], dep = postal.slice(0, 2), city = norm(parsedGdc?.city ?? place![1]);
+    const postal = parsedGdc?.postalCode ?? place![2];
+    if (postal.startsWith("75") || !isCollectionPostalCode(postal)) { skipped++; continue; }
+    const dep = postal.slice(0, 2), city = norm(parsedGdc?.city ?? place![1]);
     const commune = postal.startsWith("75") ? communes.find(c => c.code === `751${postal.slice(-2)}`) : communes.find(c => c.departement === dep && norm(c.nom) === city) ?? communes.find(c => c.departement === dep && (norm(c.nom).includes(city) || city.includes(norm(c.nom))));
     if (!commune) { skipped++; continue; }
+    if (!COLLECTION_COMMUNE_CODES.has(commune.code)) { skipped++; continue; }
     const externalId = parsedGdc?.externalId ?? lbcAd![1];
     const url = parsedGdc?.url ?? `https://www.leboncoin.fr/ad/ventes_immobilieres/${externalId}`;
     let exactLocation: { lat: number; lon: number; label: string } | null = null;

@@ -9,7 +9,8 @@
  */
 (async () => {
   const CONFIG = { maxScrollRounds: 250, settledRounds: 10, scrollDelayMs: 900 };
-  const IDF_POSTAL = /\b((?:75|77|78|91|92|93|94|95)\d{3})\b/;
+  const COLLECTION_DEPARTMENTS = ["76", "45", "51", "80", "10", "27", "28", "60", "89", "72", "14", "37"];
+  const COLLECTION_POSTAL = new RegExp(`\\b((?:${COLLECTION_DEPARTMENTS.filter((department) => department !== "75").join("|")})\\d{3})\\b`);
   const links = new Map();
   let unchanged = 0;
 
@@ -38,8 +39,8 @@
       const card = cardFor(anchor);
       const text = (card.innerText || "").replace(/\u00a0|\u202f/g, " ").trim();
       const title = (card.querySelector("h1, h2, h3, [role=heading]")?.textContent || anchor.getAttribute("aria-label") || "").trim();
-      const postalCode = text.match(IDF_POSTAL)?.[1];
-      if (!postalCode || !/\b(appartement|maison|apartment|house)\b/i.test(text) || !/\b\d+[,.]?\d*\s*m[²2]\b/i.test(text) || !/[€]\s*[\d ]+|[\d ]+\s*€/i.test(text)) continue;
+      const postalCode = text.match(COLLECTION_POSTAL)?.[1];
+      if (!postalCode || !/\b(appartement|apartment)\b/i.test(text) || !/\b\d+[,.]?\d*\s*m[²2]\b/i.test(text) || !/[€]\s*[\d ]+|[\d ]+\s*€/i.test(text)) continue;
       const time = card.querySelector("time")?.dateTime || card.querySelector("time")?.getAttribute("datetime") || undefined;
       links.set(url, { url, text, ...(title ? { title } : {}), ...(time ? { publishedAt: time } : {}) });
     }
@@ -57,7 +58,7 @@
     console.log(`GDC scan ${round + 1}: ${links.size} complete distinct IDF adverts`);
   }
 
-  const rows = [...links.values()];
+  const rows = [...links.values()].sort((a, b) => Date.parse(b.publishedAt ?? "") - Date.parse(a.publishedAt ?? "") || 0);
   const payload = JSON.stringify(rows);
   if (typeof copy === "function") copy(payload);
   else await navigator.clipboard.writeText(payload);

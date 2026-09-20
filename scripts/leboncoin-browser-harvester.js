@@ -23,6 +23,9 @@
     ],
     ownerTypes: ["pro", "private"],
     maxPagesPerSegment: 100,
+    // Leboncoin department location tokens. Override this list when rolling
+    // out another configured market; Paris (d_75) is always rejected below.
+    departments: ["76", "45", "51", "80", "10", "27", "28", "60", "89", "72", "14", "37"],
   };
 
   const attr = (ad, key) => (ad.attributes || []).find((item) => item.key === key);
@@ -55,8 +58,10 @@
 
   const template = new URL(location.href);
   template.searchParams.set("category", "9");
-  template.searchParams.set("locations", "r_12");
-  template.searchParams.set("real_estate_type", "2,1");
+  const departments = CONFIG.departments.filter((department) => /^\d{2,3}$/.test(department) && department !== "75");
+  if (!departments.length) throw new Error("CONFIG.departments must contain at least one non-Paris department");
+  template.searchParams.set("locations", departments.map((department) => `d_${department}`).join(","));
+  template.searchParams.set("real_estate_type", "2");
   template.searchParams.set("immo_sell_type", "old");
   template.searchParams.set("sort", "time");
   template.searchParams.set("order", "desc");
@@ -123,7 +128,9 @@
       }
     }
     await Promise.all(Array.from({ length: CONFIG.concurrency }, worker));
-    const rows = [...found.values()];
+    const rows = [...found.values()]
+      .filter((row) => row.realEstateType === "2" && !String(row.zipcode ?? "").startsWith("75"))
+      .sort((a, b) => Date.parse(b.publishedAt ?? "") - Date.parse(a.publishedAt ?? "") || 0);
     totals.pages += pageCount;
     totals.harvested += rows.length;
     await importRows(rows, totals);
