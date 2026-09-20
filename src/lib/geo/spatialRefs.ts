@@ -1,6 +1,7 @@
 import { prisma } from "@/lib/db/prisma";
 import type { TransportInputs } from "@/lib/scoring";
 import { nearest, within, type LatLon } from "./distance";
+import { nearestParisConnectedStation } from "./regionalParisAccess";
 
 export interface SpatialRefs {
   stations: { lat: number; lon: number; lines: string; nom: string }[];
@@ -48,6 +49,7 @@ export function transportInputsForPoint(
   const nearStation = nearest(point, refs.stations);
   const nearFuture = nearest(point, refs.futures);
   const nearHub = nearest(point, refs.hubs);
+  const nearParis = nearestParisConnectedStation(point, refs.stations);
 
   const lineSet = new Set<string>();
   for (const s of within(point, refs.stations, 1000)) {
@@ -61,6 +63,8 @@ export function transportInputsForPoint(
     futureStationOpeningYear: nearFuture?.item.openingYear ?? null,
     distinctNearbyLines: lineSet.size,
     nearestHubM: nearHub?.metres ?? null,
+    nearestParisStationM: nearParis?.metres ?? null,
+    parisAccessLevel: nearParis?.item.accessLevel ?? null,
   };
 }
 

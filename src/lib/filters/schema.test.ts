@@ -12,4 +12,10 @@ describe("property filter parameters", () => {
     const filter = parseFilterParams(new URLSearchParams("rooms=2,nope,-1,4.5"));
     expect(filter.roomCounts).toEqual([2]);
   });
+
+  it("parses the strict positive cash-flow switch only when explicitly enabled", () => {
+    expect(parseFilterParams(new URLSearchParams("cashFlowPositiveOnly=true")).cashFlowPositiveOnly).toBe(true);
+    expect(parseFilterParams(new URLSearchParams("cashFlowPositiveOnly=false")).cashFlowPositiveOnly).toBe(false);
+    expect(parseFilterParams(new URLSearchParams()).cashFlowPositiveOnly).toBe(false);
+  });
 });

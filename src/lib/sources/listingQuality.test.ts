@@ -69,4 +69,25 @@ describe("classifySuspiciousListing", () => {
       description: "Appartements neufs du studio au 5 pièces, à partir de 321 500 €; plusieurs biens disponibles.",
     }).reasons).toContain("MULTI_UNIT_PROGRAM");
   });
+
+  it.each([
+    ["Appartement en multi-propriété", "NON_WHOLE_PROPERTY"],
+    ["Vente avec réserve d'usufruit", "NON_WHOLE_PROPERTY"],
+    ["Appartement en bail réel solidaire", "NON_WHOLE_PROPERTY"],
+    ["Vente judiciaire sur saisie immobilière", "NON_STANDARD_SALE"],
+    ["Bien occupé, bail jusqu'en 2028", "OCCUPIED_PROPERTY"],
+  ])("covers another explicit exclusion variant: %s", (title, reason) => {
+    expect(classify({ title }).reasons).toContain(reason);
+  });
+
+  it("routes photo/contact concerns to review without claiming fraud", () => {
+    const noPhotos = classify({ title: "Appartement 2 pièces", photoCount: 0 });
+    expect(noPhotos.suspicious).toBe(false);
+    expect(noPhotos.reviewReasons).toContain("NO_PHOTO_EVIDENCE");
+
+    const contact = classify({ description: "Contactez-moi uniquement sur WhatsApp pour les détails." });
+    expect(contact.suspicious).toBe(false);
+    expect(contact.reviewReasons).toContain("POSSIBLE_CONTACT_SPAM");
+    expect(classify({ description: "Agence joignable par téléphone ou WhatsApp." }).reviewRecommended).toBe(false);
+  });
 });

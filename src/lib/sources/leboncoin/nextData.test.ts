@@ -10,6 +10,7 @@ describe("extractLeboncoinNextData", () => {
       owner: { type: "private", name: "Alice" },
       subject: "Appartement lumineux Paris 15e",
       body: "Appartement entier avec balcon.",
+      images: { urls_large: ["https://img.test/1.jpg", "https://img.test/2.jpg"] },
       location: { city: "Paris", zipcode: "75015", lat: 48.84, lng: 2.29, source: "city" },
       attributes: [
         { key: "real_estate_type", value: "2" },
@@ -25,6 +26,7 @@ describe("extractLeboncoinNextData", () => {
       originType: "city",
       title: "Appartement lumineux Paris 15e",
       description: "Appartement entier avec balcon.",
+      photoCount: 2,
     });
   });
 

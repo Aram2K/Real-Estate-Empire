@@ -10,6 +10,10 @@ export interface TransportInputs {
   distinctNearbyLines: number;
   /** metres to nearest major employment hub. */
   nearestHubM: number | null;
+  /** Distance to a station with a maintained direct-service class to Paris. */
+  nearestParisStationM?: number | null;
+  /** Service class only; this deliberately does not encode a live journey time. */
+  parisAccessLevel?: "HIGH_SPEED_DIRECT" | "INTERCITY_DIRECT" | "REGIONAL_DIRECT" | null;
 }
 
 /**
@@ -49,6 +53,20 @@ export function transportCatalystScore(i: TransportInputs): number {
 
   if (i.distinctNearbyLines >= 3) s += 15;
   else if (i.distinctNearbyLines >= 2) s += 10;
+
+  // Regional markets do not benefit from GPE proximity or Paris employment
+  // hubs. Reward practical access to a station with a maintained direct Paris
+  // service class, while discounting stations that are not locally walkable.
+  const parisM = i.nearestParisStationM;
+  if (parisM != null && parisM < 5000 && i.parisAccessLevel) {
+    const servicePoints = i.parisAccessLevel === "HIGH_SPEED_DIRECT"
+      ? 30
+      : i.parisAccessLevel === "INTERCITY_DIRECT"
+        ? 25
+        : 20;
+    const accessPenalty = parisM < 1000 ? 0 : parisM < 2500 ? 5 : 10;
+    s += servicePoints - accessPenalty;
+  }
 
   return clamp(s);
 }

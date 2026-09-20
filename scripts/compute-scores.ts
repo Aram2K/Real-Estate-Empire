@@ -15,6 +15,7 @@ import {
   weighted,
 } from "../src/lib/scoring";
 import { haversineMetres, nearest, within } from "../src/lib/geo/distance";
+import { nearestParisConnectedStation } from "../src/lib/geo/regionalParisAccess";
 import { log } from "./_lib/log";
 
 function median(nums: number[]): number | null {
@@ -27,7 +28,7 @@ async function main() {
   log.step("Computing area scores…");
 
   const stations = await prisma.station.findMany({
-    select: { lat: true, lon: true, lines: true },
+    select: { lat: true, lon: true, lines: true, nom: true },
   });
   const futures = await prisma.futureTransportProject.findMany({
     select: { lat: true, lon: true, line: true, openingYear: true },
@@ -69,6 +70,7 @@ async function main() {
     const nearStation = nearest(from, stations);
     const nearFuture = nearest(from, futures);
     const nearHub = nearest(from, hubs);
+    const nearParis = nearestParisConnectedStation(from, stations);
 
     // distinct lines within 1 km (existing + future)
     const lineSet = new Set<string>();
@@ -83,6 +85,8 @@ async function main() {
       futureStationOpeningYear: nearFuture?.item.openingYear ?? null,
       distinctNearbyLines: lineSet.size,
       nearestHubM: nearHub?.metres ?? null,
+      nearestParisStationM: nearParis?.metres ?? null,
+      parisAccessLevel: nearParis?.item.accessLevel ?? null,
     });
 
     const apt = aptByCommune.get(c.code);

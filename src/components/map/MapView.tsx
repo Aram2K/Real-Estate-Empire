@@ -128,6 +128,9 @@ export default function MapView() {
   const [listings, setListings] = useState<PropertyListItem[]>([]);
   const [metricKey, setMetricKey] = useState<MetricKey>("hotspotScore");
   const [inventoryColors, setInventoryColors] = useState(true);
+  const [positiveCashFlowOnly, setPositiveCashFlowOnly] = useState(
+    searchParams.get("cashFlowPositiveOnly") === "true"
+  );
   const [error, setError] = useState<string | null>(null);
   const [show, setShow] = useState({
     hotspots: true,
@@ -143,7 +146,7 @@ export default function MapView() {
     Promise.all([
       fetch("/api/hotspots?segment=APT").then((r) => r.json()),
       fetch("/api/stations").then((r) => r.json()),
-      fetch("/api/properties?limit=10000&includeDemo=false").then((r) => r.json()),
+      fetch(`/api/properties?limit=10000&includeDemo=false${positiveCashFlowOnly ? "&cashFlowPositiveOnly=true" : ""}`).then((r) => r.json()),
     ])
       .then(([h, s, p]) => {
         setHotspots(h);
@@ -152,7 +155,7 @@ export default function MapView() {
       })
       .catch(() => setError("Could not load map data. Please refresh to try again."))
       .finally(() => setLoading(false));
-  }, []);
+  }, [positiveCashFlowOnly]);
 
   const cfg = getMetric(metricKey);
   const mapped = useMemo(() => groupMapListings(listings), [listings]);
@@ -435,6 +438,22 @@ export default function MapView() {
               </option>
             ))}
           </select>
+          <div className="mb-3 rounded-md border border-emerald-200 bg-emerald-50 p-2">
+            <label className="flex cursor-pointer items-start gap-2 font-medium text-emerald-950">
+              <input
+                type="checkbox"
+                className="mt-0.5"
+                checked={positiveCashFlowOnly}
+                onChange={(e) => setPositiveCashFlowOnly(e.target.checked)}
+              />
+              <span>
+                Net cash-flow positive only
+                <span className="block text-[11px] font-normal text-emerald-800">
+                  Show listings estimated above €0 per month after financing and operating costs.
+                </span>
+              </span>
+            </label>
+          </div>
           <div className="mb-1 font-semibold">Layers</div>
           {(
             [
@@ -456,7 +475,7 @@ export default function MapView() {
             </label>
           ))}
           <div className="mt-2 border-t pt-2 text-xs text-slate-600">
-            {listings.length} real listings · {mapped.groups.length} map locations.
+            {listings.length} {positiveCashFlowOnly ? "cash-flow-positive" : "real"} listings · {mapped.groups.length} map locations.
             <p className="mt-1">Numbered circles group listings at the town centre when the exact address is unknown. Click to see every property.</p>
             <p className="mt-1">Uncolored towns have no listings loaded in this app.</p>
             {error && <p role="alert" className="text-red-700">{error}</p>}

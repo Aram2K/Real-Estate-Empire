@@ -42,6 +42,30 @@ describe("transportCatalystScore", () => {
     // +30 (future <500) +15 (big travel improvement) = 45
     expect(s).toBe(45);
   });
+
+  it("rewards a walkable regional station with direct high-speed Paris access", () => {
+    const s = transportCatalystScore({
+      nearestExistingStationM: 650,
+      nearestFutureStationM: null,
+      distinctNearbyLines: 1,
+      nearestHubM: null,
+      nearestParisStationM: 650,
+      parisAccessLevel: "HIGH_SPEED_DIRECT",
+    });
+    expect(s).toBe(40); // local station 10 + direct high-speed class 30
+  });
+
+  it("discounts distant Paris-connected stations and ignores those beyond 5 km", () => {
+    const base = {
+      nearestExistingStationM: 3000,
+      nearestFutureStationM: null,
+      distinctNearbyLines: 0,
+      nearestHubM: null,
+      parisAccessLevel: "REGIONAL_DIRECT" as const,
+    };
+    expect(transportCatalystScore({ ...base, nearestParisStationM: 3000 })).toBe(10);
+    expect(transportCatalystScore({ ...base, nearestParisStationM: 5000 })).toBe(0);
+  });
 });
 
 describe("rentalDemandScore", () => {

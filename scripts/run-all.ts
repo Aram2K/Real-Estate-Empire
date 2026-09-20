@@ -14,6 +14,7 @@ const STEPS: [string, string][] = [
   ["GPE future stations", "scripts/seed-gpe.ts"],
   ["Employment hubs", "scripts/seed-employment-hubs.ts"],
   ["Rail stations", "scripts/ingest-stations.ts"],
+  ["National SNCF passenger stations", "scripts/ingest-national-stations.ts"],
   ["Paris arrondissement populations", "scripts/ingest-population.ts"],
   ["DVF transactions (all IDF, all years)", "scripts/ingest-dvf.ts"],
   ["Rent references", "scripts/ingest-rents.ts"],

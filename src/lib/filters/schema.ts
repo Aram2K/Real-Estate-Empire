@@ -18,6 +18,7 @@ export interface PropertyFilter {
   grossYieldMin?: number;
   allInYieldMin?: number;
   cashFlowMinCents?: number;
+  cashFlowPositiveOnly?: boolean;
   dscrMin?: number;
   whiteStatus?: string[];
   investmentScoreMin?: number;
@@ -77,6 +78,7 @@ export function parseFilterParams(sp: URLSearchParams): PropertyFilter {
     grossYieldMin: num(sp.get("grossYieldMin")),
     allInYieldMin: num(sp.get("allInYieldMin")),
     cashFlowMinCents: eurToCents(sp.get("cashFlowMin")),
+    cashFlowPositiveOnly: sp.get("cashFlowPositiveOnly") === "true",
     dscrMin: num(sp.get("dscrMin")),
     whiteStatus: list(sp.get("whiteStatus")),
     investmentScoreMin: num(sp.get("investmentScoreMin")),

@@ -4,6 +4,8 @@ export type ListingQualityInput = {
   priceCents?: number | null;
   surface?: number | null;
   propertyType?: string | null;
+  /** Number stated by the source payload. Omit when the source exposes no photo metadata. */
+  photoCount?: number | null;
 };
 
 export type SuspiciousReason =
@@ -20,6 +22,8 @@ export type SuspiciousReason =
 export type ListingQualityResult = {
   suspicious: boolean;
   reasons: SuspiciousReason[];
+  reviewRecommended: boolean;
+  reviewReasons: ("NO_PHOTO_EVIDENCE" | "POSSIBLE_CONTACT_SPAM")[];
 };
 
 function normalized(value: string | null | undefined): string {
@@ -51,17 +55,17 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
   }
 
   const nonWholeProperty = [
-    /\b(?:multipropriete|time[- ]?share|temps partage)\b/,
+    /\b(?:multipropriete|multi[- ]?propriete|time[- ]?share|temps partage)\b/,
     /\b(?:droit de jouissance|droit d'occupation)\b.{0,50}\b(?:semaine|jours? par an|annuel)/,
     /\b(?:quote[- ]?part\b(?!\s+(?:(?:moyenne|annuelle)\s+)*(?:du budget|des charges|de charges)\b)|part(?:s)? indivise(?:s)?|fraction (?:de propriete|du bien)|vente fractionnee|propriete fractionnee|vente de parts?)\b/,
-    /\b(?:viager|nue[- ]?propriete|usufruit)\b/,
-    /\b(?:demembrement|vente a terme)\b/,
+    /\b(?:viager(?:e)?|nue[- ]?propriete|usufruit|usufructuaire)\b/,
+    /\b(?:demembrement|vente a terme|bail reel solidaire|bail emphyteotique)\b/,
     /\b(?:parts?|actions?)\s+(?:de|d')\s*(?:sci|societe immobiliere)\b/,
     /\bbouquet\b.{0,80}\b(?:rente|viager)\b|\brente\b.{0,80}\bviager\b/,
   ].some((pattern) => pattern.test(text));
   if (nonWholeProperty) reasons.add("NON_WHOLE_PROPERTY");
 
-  if (/\b(?:vente aux encheres|adjudication|mise a prix|prix de depart|vente interactive|credit vendeur)\b/.test(text)) {
+  if (/\b(?:vente aux encheres|vente judiciaire|saisie immobiliere|adjudication|mise a prix|prix de depart|vente interactive|encheres? interactive(?:s)?|credit vendeur)\b/.test(text)) {
     reasons.add("NON_STANDARD_SALE");
   }
 
@@ -75,7 +79,7 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
     reasons.add("MULTI_UNIT_PROGRAM");
   }
 
-  if (/\b(?:vendu(?:e)? (?:occupe(?:e)?|loue(?:e)?)|vente occupee|locataire en place|bail en cours|loue(?:e)? jusqu|occupation a vie|lmnp|bail commercial|loyers? garantis?|gestionnaire de residence|ne peut pas etre occupe)\b/.test(text)) {
+  if (/\b(?:vendu(?:e)? (?:occupe(?:e)?|loue(?:e)?)|vendu(?:e)? avec locataire|vente occupee|bien occupe|locataire en place|bail en cours|bail jusqu|loue(?:e)? jusqu|occupation a vie|lmnp|bail commercial|loyers? garantis?|gestionnaire de residence|ne peut pas etre occupe)\b/.test(text)) {
     reasons.add("OCCUPIED_PROPERTY");
   }
 
@@ -106,5 +110,19 @@ export function classifySuspiciousListing(input: ListingQualityInput): ListingQu
     }
   }
 
-  return { suspicious: reasons.size > 0, reasons: [...reasons] };
+  const reviewReasons = new Set<"NO_PHOTO_EVIDENCE" | "POSSIBLE_CONTACT_SPAM">();
+  // These signals are deliberately review-only. Missing photos and unusual
+  // contact instructions can have innocent explanations and must never be
+  // presented as proof that an advertiser is a bot.
+  if (input.photoCount === 0) reviewReasons.add("NO_PHOTO_EVIDENCE");
+  if (/\b(?:contact(?:ez)?[- ]?moi|reponds?|joignable)\b.{0,45}\b(?:uniquement|seulement)\b.{0,25}\b(?:whatsapp|telegram)\b|\b(?:paiement|acompte)\b.{0,35}\b(?:crypto|bitcoin|western union)\b/.test(text)) {
+    reviewReasons.add("POSSIBLE_CONTACT_SPAM");
+  }
+
+  return {
+    suspicious: reasons.size > 0,
+    reasons: [...reasons],
+    reviewRecommended: reviewReasons.size > 0,
+    reviewReasons: [...reviewReasons],
+  };
 }

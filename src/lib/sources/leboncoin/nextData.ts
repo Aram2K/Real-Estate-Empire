@@ -33,6 +33,9 @@ export function extractLeboncoinNextData(payload: unknown): HarvestedAd[] {
     const square = attribute(ad, "square").value;
     const rooms = attribute(ad, "rooms").value;
     const realEstateType = attribute(ad, "real_estate_type").value;
+    const images = record(ad.images);
+    const imageUrls = [images.urls_large, images.urls, images.urls_thumb]
+      .find(Array.isArray) as unknown[] | undefined;
     if (id == null) return [];
 
     return [{
@@ -59,6 +62,9 @@ export function extractLeboncoinNextData(payload: unknown): HarvestedAd[] {
       publishedAt: typeof ad.first_publication_date === "string"
         ? ad.first_publication_date
         : typeof ad.index_date === "string" ? ad.index_date : null,
+      // `undefined` means the payload did not expose photo metadata; zero is
+      // explicit evidence that this search result has no listing photos.
+      photoCount: imageUrls?.length,
     }];
   });
 }

@@ -36,6 +36,7 @@ export const HarvestedAdSchema = z.object({
   title: z.string().nullish(),
   description: z.string().nullish(),
   publishedAt: z.string().nullish(),
+  photoCount: z.number().int().nonnegative().nullish(),
 });
 
 export type HarvestedAd = z.infer<typeof HarvestedAdSchema>;
@@ -189,6 +190,7 @@ export async function importHarvestedAds(
       !it.rooms ||
       !it.title?.trim() ||
       !it.description?.trim() ||
+      it.photoCount === 0 ||
       propertyTypeOf(it.realEstateType) !== "Appartement"
     ) {
       stats.skippedIncomplete++;
@@ -200,6 +202,7 @@ export async function importHarvestedAds(
       priceCents: it.priceCents,
       surface: it.square,
       propertyType: propertyTypeOf(it.realEstateType),
+      photoCount: it.photoCount,
     }).suspicious) {
       stats.skippedSuspicious++;
       if (!dry) {

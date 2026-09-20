@@ -43,6 +43,15 @@ export interface PropertyListItem {
   futureYear: number | null;
 }
 
+export function matchesCashFlowFilter(
+  monthlyCashFlowCents: number,
+  filter: Pick<PropertyFilter, "cashFlowMinCents" | "cashFlowPositiveOnly">
+): boolean {
+  if (filter.cashFlowMinCents != null && monthlyCashFlowCents < filter.cashFlowMinCents) return false;
+  if (filter.cashFlowPositiveOnly && monthlyCashFlowCents <= 0) return false;
+  return true;
+}
+
 /** One row of the list query: a property, its cheapest active listing and its analysis. */
 interface ListRow {
   id: string;
@@ -285,8 +294,7 @@ export async function getProperties(
     if (f.priceMaxCents != null && i.priceCents > f.priceMaxCents) return false;
     if (f.grossYieldMin != null && i.grossYieldPct < f.grossYieldMin) return false;
     if (f.allInYieldMin != null && i.allInGrossYieldPct < f.allInYieldMin) return false;
-    if (f.cashFlowMinCents != null && i.monthlyCashFlowCents < f.cashFlowMinCents)
-      return false;
+    if (!matchesCashFlowFilter(i.monthlyCashFlowCents, f)) return false;
     if (f.dscrMin != null && i.dscr < f.dscrMin) return false;
     if (f.whiteStatus?.length && !f.whiteStatus.includes(i.whiteStatus)) return false;
     if (f.investmentScoreMin != null && i.investmentScore < f.investmentScoreMin)

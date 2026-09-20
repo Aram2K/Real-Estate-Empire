@@ -19,6 +19,7 @@
     "prisma:studio": "prisma studio",
     "ingest:communes": "tsx scripts/ingest-communes.ts",
     "ingest:stations": "tsx scripts/ingest-stations.ts",
+    "ingest:stations:national": "tsx scripts/ingest-national-stations.ts",
     "ingest:dvf": "tsx scripts/ingest-dvf.ts",
     "ingest:rents": "tsx scripts/ingest-rents.ts",
     "ingest:population": "tsx scripts/ingest-population.ts",
@@ -37,7 +38,8 @@
     "import:harvest": "tsx scripts/import-leboncoin-harvest.ts",
     "resolve:sellers": "tsx scripts/resolve-seller-types.ts",
     "review:gdc": "tsx scripts/review-gdc-listings.ts",
-    "review:leboncoin": "tsx scripts/review-leboncoin-details.ts"
+    "review:leboncoin": "tsx scripts/review-leboncoin-details.ts",
+    "audit:listings": "tsx scripts/audit-listing-quality.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.1.0",
