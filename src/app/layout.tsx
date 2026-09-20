@@ -3,7 +3,7 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "IDF Investment Radar",
+  title: "Investment Radar",
   description:
     "Map, score and stress-test rental-investment opportunities across Île-de-France.",
 };
@@ -28,11 +28,8 @@ export default function RootLayout({
         <div className="flex min-h-screen flex-col">
           <header className="sticky top-0 z-[1000] border-b border-slate-200 bg-white/95 backdrop-blur">
             <div className="mx-auto flex h-14 max-w-[1600px] items-center gap-6 px-4">
-              <Link href="/" className="flex items-center gap-2 font-semibold">
-                <span className="grid h-7 w-7 place-items-center rounded-md bg-slate-900 text-white">
-                  ◎
-                </span>
-                <span>IDF Investment Radar</span>
+              <Link href="/" className="font-semibold">
+                <span>Investment Radar</span>
               </Link>
               <nav className="flex items-center gap-1 text-sm">
                 {NAV.map((n) => (
