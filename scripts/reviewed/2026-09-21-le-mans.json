@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-le-mans-r463502247",
+    "observedAt": "2026-09-21T03:55:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 365000,
+    "surface": 162,
+    "rooms": 5,
+    "propertyType": "Appartement",
+    "chargesAnnualEuros": 1000,
+    "taxeFonciereAnnualEuros": 2026,
+    "publicationDate": "2026-09-10",
+    "photoCount": 11,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/74/b7/74b71a1bc28a94275452dc9c7ef1b40b/7-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G35/2247. Private-owner five-room family apartment in central Le Mans. The full advert describes 162 m2, four bedrooms and a complete recent refurbishment with high ceilings and quality materials. It includes a 20 m2 principal suite with a large dressing room, three children's bedrooms designed by an architect, a large bathroom, a shower room with WC, a separate WC and a 25 m2 cellar. The condominium also has a shared 400 m2 garden and large bicycle room. The advert places the property within walking distance of the station, schools, city centre, shops and tram. Annual condominium charges are EUR 1,000 and taxe fonciere is EUR 2,026. The detail page exposed eleven property photos; the retained URL is the first source photo. No DPE letter was exposed in accessible text."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-le-mans-r464802051",
+    "observedAt": "2026-09-21T03:55:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 209000,
+    "surface": 78,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 6,
+    "hasElevator": true,
+    "dpe": "C",
+    "chargesAnnualEuros": 1705,
+    "publicationDate": "2026-09-10",
+    "photoCount": 12,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/5f/b3/5fb3e863f15f935ab9e6a2f85cbdd285/5-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G48/2051. Private-owner renovated T3 on avenue Bollee near central Le Mans and the Jacobins district. The full advert states 78.22 m2 Carrez and about 105.40 m2 floor area on the sixth and top floor of a 1952 building. The lift stops on the fifth floor, followed by 16 broad steps. The through-apartment has south-facing living areas without overlooking neighbours, quiet courtyard-facing sleeping rooms, a living room and open equipped kitchen exceeding 52 m2 floor area, one large bedroom with fitted storage and a second 10.94 m2 floor-area room, bathroom, shower room and separate WC. It was fully renovated in 2020 and includes a cellar. The apartment is explicitly free and available. Annual budget share is about EUR 1,705 including collective heating, lift and common areas; no condominium procedure is reported. DPE and GES are C. The page exposed twelve property photos; the retained URL is the first source photo."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-le-mans-72000-r464500379",
+    "observedAt": "2026-09-21T03:55:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 79999,
+    "surface": 27,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "publicationDate": "2026-09-17",
+    "photoCount": 6,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/00/9c/009cb1b064502ec530da0570f0a02662/0-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G45/0379. Private-owner studio in Le Mans, six minutes on foot from the station and five minutes from the tram. The full advert describes 27 m2, renovated condition, a setting beside the Sarthe in a small wooded park, a private parking place secured by barrier and badge, and a private cellar. The apartment is explicitly free. The detail page exposed six property photos; the retained URL is the first source photo. No DPE letter, charge amount or property-tax amount was exposed in accessible text."
+  }
+]

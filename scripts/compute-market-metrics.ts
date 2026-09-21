@@ -25,6 +25,8 @@ interface RentRow {
 async function main() {
   log.step("Computing market metrics…");
 
+  const requestedCodes = process.argv.slice(2).filter((value) => /^\d{5}$/.test(value));
+
   // rent lookup maps keyed by `${code}:${segment}`
   const rents = await prisma.rentReference.findMany();
   const rentMap = new Map<string, RentRow>();
@@ -45,11 +47,18 @@ async function main() {
   const houseRent = (code: string) => rentMap.get(`${code}:HOUSE`) ?? null;
 
   const communes = await prisma.commune.findMany({
-    where: { code: { not: "75056" } }, // exclude Paris aggregate (arrondissements cover it)
+    where: requestedCodes.length
+      ? { code: { in: requestedCodes } }
+      : { code: { not: "75056" } }, // exclude Paris aggregate (arrondissements cover it)
     select: { code: true },
   });
 
-  await prisma.marketMetric.deleteMany({ where: { period: MARKET_PERIOD } });
+  await prisma.marketMetric.deleteMany({
+    where: {
+      period: MARKET_PERIOD,
+      ...(requestedCodes.length ? { communeCode: { in: requestedCodes } } : {}),
+    },
+  });
 
   let written = 0;
   for (const { code } of communes) {
