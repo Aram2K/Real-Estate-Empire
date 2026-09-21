@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-compiegne-60200-r465101037",
+    "observedAt": "2026-09-21T11:30:00+02:00",
+    "communeCode": "60159",
+    "priceEuros": 210000,
+    "surface": 79,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "chargesAnnualEuros": 2320,
+    "taxeFonciereAnnualEuros": 1680,
+    "publicationDate": "2026-09-17",
+    "photoCount": 8,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/b6/0c/b60c190aa736ba703040eb2999e44f89/b-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G51/1037. Direct private-owner sale in the Triangle d'Or/Sablons area of Compiegne. The full advert describes a through four-room apartment with no overlooking, fully renovated with quality materials: bright living room, modern fitted kitchen with built-in appliances and dining area, adjoining pantry, three bedrooms with integrated storage, fitted dressing room, bathroom and separate WC. A private parking place, fitted cellar and bicycle room are included in the landscaped residence. Collective heating and hot and cold water are included. The condominium reports no proceeding. Charges of EUR 580 per quarter are recorded as EUR 2,320 annually; taxe fonciere is EUR 1,680. The detail page exposed eight property photos; the retained URL is the first source photo. No energy grade is asserted because accessible page text only showed the empty rating scale."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-compiegne-60200-r465102216",
+    "observedAt": "2026-09-21T11:30:00+02:00",
+    "communeCode": "60159",
+    "priceEuros": 240000,
+    "surface": 71,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": false,
+    "publicationDate": "2026-09-07",
+    "photoCount": 9,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/36/29/3629e974cd311dadd2b3d0a9b1a00aaf/3-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G51/2216. Direct private-owner sale of a fully renovated four-room apartment on the third and top floor of a central Compiegne building, immediately near shops and five minutes on foot from the SNCF station. The full advert describes a living room, one bedroom, fitted kitchen, shower room, separate WC and electric heating with radiators. Double glazing, shutters and a cellar are included, and parking may be possible in the building's interior courtyard. The advert separately mentions an option to acquire the loft above, but the offered apartment itself is the existing 71 m2 dwelling. The detail page exposed nine property photos; the retained URL is the first source photo. Charges, taxe fonciere and energy grade are not exposed in accessible page text."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-compiegne-60200-r465202263",
+    "observedAt": "2026-09-21T11:30:00+02:00",
+    "communeCode": "60159",
+    "priceEuros": 355000,
+    "surface": 95,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "chargesAnnualEuros": 1200,
+    "publicationDate": "2026-09-12",
+    "photoCount": 11,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/fa/21/fa21af2ce3a2cdfd4f83d038946e354c/f-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G52/2263. Direct private-owner sale of a renovated, bright four-room duplex in a small residence in the Avenues/Triangle d'Or area of Compiegne. The full advert describes an entrance with storage, 30 m2 living room with balcony, separate fitted kitchen and utility room with WC and washbasin. Upstairs are three bedrooms, including a principal suite with private bathroom and large balcony, plus a shower room with WC. A large cellar and private enclosed garage are included. Shops, transport, schools and the forest are nearby, and the residence has a maintained enclosed garden. Charges of about EUR 100 monthly are recorded as EUR 1,200 annually. The detail page exposed eleven property photos; the retained URL is the first source photo. Taxe fonciere and energy grade are not exposed in accessible page text."
+  }
+]
