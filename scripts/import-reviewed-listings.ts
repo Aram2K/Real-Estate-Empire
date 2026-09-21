@@ -20,6 +20,9 @@ const RecordSchema = z.object({
   dpe: z.enum(["A", "B", "C", "D", "E", "F", "G"]).optional(),
   chargesAnnualEuros: z.number().nonnegative().optional(),
   taxeFonciereAnnualEuros: z.number().nonnegative().optional(),
+  publicationDate: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
+  photoCount: z.number().int().nonnegative().optional(),
+  photoUrls: z.array(z.string().url()).optional(),
   // Optional: state the advertiser kind when the advert makes it explicit.
   // Omit it and the classifier derives one from the publisher domain and the
   // note text; anything unprovable stays UNKNOWN.
@@ -45,6 +48,7 @@ async function main() {
       priceCents: Math.round(r.priceEuros * 100),
       surface: r.surface,
       propertyType: r.propertyType,
+      photoCount: r.photoCount,
     });
     if (quality.suspicious) throw new Error(`Suspicious listing ${r.url}: ${quality.reasons.join(", ")}`);
   }
@@ -72,6 +76,9 @@ async function main() {
         charges: r.chargesAnnualEuros == null ? null : Math.round(r.chargesAnnualEuros * 100 / 12),
         taxeFonciere: r.taxeFonciereAnnualEuros == null ? null : Math.round(r.taxeFonciereAnnualEuros * 100),
         status: "ACTIVE", lastSeenAt: seen,
+        publicationDate: r.publicationDate ?? null,
+        photoCount: r.photoCount ?? null,
+        photoUrls: r.photoUrls ? JSON.stringify(r.photoUrls) : null,
         sellerType: seller.type, sellerName: seller.name,
       };
       const listing = await tx.listing.upsert({

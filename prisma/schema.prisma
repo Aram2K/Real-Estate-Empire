@@ -196,22 +196,24 @@ model Property {
 }
 
 model Listing {
-  id           String    @id @default(cuid())
-  sourceId     String
-  externalId   String
-  url          String?
-  title        String?
-  description  String?
-  price        Int // cents
-  charges      Int? // monthly copro charges
-  taxeFonciere Int? // annual
-  firstSeenAt  DateTime  @default(now())
-  lastSeenAt   DateTime  @default(now())
-    publishedAt  DateTime? // source publication time when the advert exposes it
-    publicationDate String? // YYYY-MM-DD when source exposes a date without a time
-  daysOnMarket Int?
-  status       String    @default("ACTIVE") // ACTIVE | SOLD | WITHDRAWN
-  propertyId   String
+  id              String    @id @default(cuid())
+  sourceId        String
+  externalId      String
+  url             String?
+  title           String?
+  description     String?
+  price           Int // cents
+  charges         Int? // monthly copro charges
+  taxeFonciere    Int? // annual
+  firstSeenAt     DateTime  @default(now())
+  lastSeenAt      DateTime  @default(now())
+  publishedAt     DateTime? // source publication time when the advert exposes it
+  publicationDate String? // YYYY-MM-DD when source exposes a date without a time
+  photoCount      Int?
+  photoUrls       String? // JSON array; only source-exposed URLs, never guessed
+  daysOnMarket    Int?
+  status          String    @default("ACTIVE") // ACTIVE | SOLD | WITHDRAWN
+  propertyId      String
 
   // Who is advertising: AGENCY | INDIVIDUAL | UNKNOWN. Only ever set from an
   // explicit signal (publisher domain, portal badge, or named advertiser) —
