@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-sens-89100-r464102103",
+    "observedAt": "2026-09-21T18:25:00+02:00",
+    "communeCode": "89387",
+    "priceEuros": 80000,
+    "surface": 67,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "hasElevator": true,
+    "chargesAnnualEuros": 2160,
+    "taxeFonciereAnnualEuros": 1500,
+    "publicationDate": "2026-09-10",
+    "photoCount": 7,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G41/2103. Whole T3 on an upper floor with lift in Sens. The full advert describes an entrance, dressing, living room, two bedrooms, shower room, separate WC, fitted independent kitchen renewed in 2022 and a ground-floor cellar. It states the apartment is immediately habitable, the electrical installation was updated in 2026, building insulation and entrances were renovated in 2023, no condominium proceeding or collective work is pending, annual charges including district heating are EUR 2,160 and local property tax is EUR 1,500. PAP exposed 7 property photos and the detail page displayed a publication date of 10 September 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-sens-89100-r462901764",
+    "observedAt": "2026-09-21T18:25:00+02:00",
+    "communeCode": "89387",
+    "priceEuros": 189000,
+    "surface": 121,
+    "rooms": 5,
+    "propertyType": "Appartement",
+    "publicationDate": "2026-07-16",
+    "photoCount": 11,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G29/1764. Whole five-room duplex apartment in Sens' Amandes district. The full advert describes a large living room, equipped kitchen, three completed bedrooms plus one room to finish, two bathrooms with WC and a 14 m2 terrace. Recent roof, terrace and stair works are described as professionally completed with a ten-year guarantee. This is a conventional renovation listing without auction, occupied-sale or special-sale language. PAP exposed 11 property photos and the detail page displayed a publication date of 16 July 2026. The advert says the prior DPE was F before work and a new assessment is pending, so no current DPE grade is asserted."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-rouen-76000-r462803430",
+    "observedAt": "2026-09-21T18:25:00+02:00",
+    "communeCode": "76540",
+    "priceEuros": 72900,
+    "surface": 16.35,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "hasElevator": false,
+    "dpe": "E",
+    "publicationDate": "2026-08-13",
+    "photoCount": 1,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G28/3430. Whole furnished studio on the ground floor of a three-storey building without lift in Rouen's Pasteur district. The complete concise advert describes a main room with equipped kitchenette and washing machine, intercom, individual electric heating and good overall condition. It states DPE E and climate grade B. PAP exposed positive property-photo evidence and the detail page displayed a publication date of 13 August 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-herouville-saint-clair-14200-r465202521",
+    "observedAt": "2026-09-21T18:25:00+02:00",
+    "communeCode": "14327",
+    "priceEuros": 196000,
+    "surface": 56.16,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": true,
+    "chargesAnnualEuros": 1224,
+    "publicationDate": "2026-09-16",
+    "photoCount": 7,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G52/2521. Whole T3 on the third floor with lift in a secured 2012 residence in Herouville-Saint-Clair's Montmorency sector. The full advert describes an entrance, bright living area with fitted open kitchen, two bedrooms, shower room with WC, south-east balcony overlooking the Orne canal, and two private parking places including one indoors. It states excellent move-in condition, individual gas heating and annual charges of approximately EUR 1,224. PAP exposed 7 property photos and a publication date of 16 September 2026. No reliable DPE grade or property tax was exposed."
+  }
+]
