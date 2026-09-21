@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-caen-14000-r463601951",
+    "observedAt": "2026-09-21T04:20:00+02:00",
+    "communeCode": "14118",
+    "priceEuros": 161000,
+    "surface": 66,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": true,
+    "dpe": "D",
+    "publicationDate": "2026-09-18",
+    "photoCount": 12,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/00/c6/00c63374f8fe28667a8e05f42e5ecb3b/0-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G36/1951. Private-owner T3 in Caen's La Folie-Couvrechef district. The full advert describes a bright 66 m2 through-apartment on the first floor of a calm secure three-storey condominium, with a lift renewed in 2022, digicode and intercom. It includes an entrance with fitted storage, south-east-facing living room opening through a large window onto a balcony, equipped kitchen, two bright bedrooms, separate dressing room, bathroom, separate WC and a healthy 5 m2 cellar. Shared facilities include a large bicycle room and plentiful free residence parking. The advert places it near the CHU, Memorial, schools, shops, employers and public transport. It states DPE D from June 2026 and explicitly says the apartment is sold free of occupation. The detail page exposed twelve property photos; the retained URL is the first source photo."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-caen-14000-r463501799",
+    "observedAt": "2026-09-21T04:20:00+02:00",
+    "communeCode": "14118",
+    "priceEuros": 240000,
+    "surface": 55,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "publicationDate": "2026-09-15",
+    "photoCount": 6,
+    "photoUrls": ["https://cdn.pap.fr/photos/pap/ae/f4/aef4ac8e4852c75cb43140a6069b28f2/a-p1.jpg"],
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G35/1799. Private-owner two-room character apartment near Place Saint-Sauveur in Caen. The full advert describes 55 m2 on the second floor of an older building with very low charges, high ceilings, original features, fireplaces and a view of the Abbaye aux Hommes. The layout comprises a large bright equipped kitchen used as a living area, a spacious sitting room with fireplace, a corridor with fitted storage and one quiet courtyard-facing bedroom. Double glazing and extensive integrated storage are stated. The property is near shops, restaurants and Caen's historic centre. The detail page exposed six property photos; the retained URL is the first source photo. No DPE letter, exact charge amount or property-tax amount was exposed in accessible text."
+  }
+]
