@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-tours-37000-r463600578",
+    "observedAt": "2026-09-21T18:45:00+02:00",
+    "communeCode": "37261",
+    "priceEuros": 230000,
+    "surface": 69,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "chargesAnnualEuros": 1200,
+    "publicationDate": "2026-08-27",
+    "photoCount": 7,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G36/0578. Whole three-room apartment in Tours near the Coty market, shops, buses and tram. The complete concise advert states the home was renovated in 2019 with quality finishes, is in perfect condition, sits in a secure small residence with a green and peaceful setting, and includes a closed garage. Annual condominium charges are EUR 1,200. PAP exposed 7 property photos and the detail page displayed a publication date of 27 August 2026. No reliable floor, DPE grade or property tax was exposed."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-tours-quartier-cathedrale-r462700742",
+    "observedAt": "2026-09-21T18:45:00+02:00",
+    "communeCode": "37261",
+    "priceEuros": 240000,
+    "surface": 59.8,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "chargesAnnualEuros": 1200,
+    "taxeFonciereAnnualEuros": 1117,
+    "publicationDate": "2026-08-13",
+    "photoCount": 14,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G27/0742. Whole two-room duplex on the first and top floor of an 1850 former private mansion in Tours' Cathedral district. The full advert describes an entrance, north-east living room, equipped open kitchen and separate WC downstairs, plus a large bedroom, dressing space and en-suite bathroom upstairs. A secured courtyard parking place is included. It states individual electric heating, annual charges of EUR 1,200 and property tax of EUR 1,117. PAP exposed 14 property photos plus a virtual tour and the detail page displayed a publication date of 13 August 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-tours-37000-r465002383",
+    "observedAt": "2026-09-21T18:45:00+02:00",
+    "communeCode": "37261",
+    "priceEuros": 209000,
+    "surface": 67,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "publicationDate": "2026-09-17",
+    "photoCount": 9,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G50/2383. Whole furnished T2 on the third and top floor near Tours station. The full advert describes a renovated traversing apartment with a large living room and fitted open kitchen, one current bedroom with storage, large bathroom, separate WC, reserved parking and bicycle room in a secured residence with guardian. The former second bedroom was opened into the living room; the advert clearly markets the present configuration as a T2 and shows a reversible T3 plan. No work is required and no occupancy is stated. PAP exposed 9 property photos and a publication date of 17 September 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465001732",
+    "observedAt": "2026-09-21T18:45:00+02:00",
+    "communeCode": "51454",
+    "priceEuros": 177000,
+    "surface": 80,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": true,
+    "publicationDate": "2026-08-29",
+    "photoCount": 12,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G50/1732. Whole three-room apartment on the first floor with lift in a quiet, closed and secured Reims residence near Parc de Champagne. The full advert describes a large entrance with storage, bright living and dining area, two quiet bedrooms, shower room, separate WC, private cellar and a badge-controlled private parking place. A different covered parking space is separately offered for EUR 12,000 and is not treated as included in the apartment price. PAP exposed 12 property photos and the detail page displayed a publication date of 29 August 2026. No reliable DPE grade, charges or property tax was exposed."
+  }
+]
