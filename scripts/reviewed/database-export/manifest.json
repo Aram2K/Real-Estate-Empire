@@ -1,13 +1,13 @@
 {
   "format": "idf-investment-radar/source-listings-jsonl-v1",
-  "generatedAt": "2026-09-30T21:25:05.257Z",
+  "generatedAt": "2026-09-30T21:41:46.104Z",
   "filters": [
     "ACTIVE",
     "isDemo=false",
     "HTTPS source URL",
     "complete core property fields"
   ],
-  "records": 5317,
+  "records": 5325,
   "chunkSize": 500,
   "files": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "file": "listings-0011.jsonl",
-      "records": 317
+      "records": 325
     }
   ]
 }
