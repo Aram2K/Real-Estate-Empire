@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-rouen-76000-r465402957",
+    "observedAt": "2026-09-30T23:40:00+02:00",
+    "communeCode": "76540",
+    "priceEuros": 82000,
+    "surface": 43,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "dpe": "E",
+    "chargesAnnualEuros": 1600,
+    "taxeFonciereAnnualEuros": 1224,
+    "publicationDate": "2026-09-28",
+    "photoCount": 9,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G54/2957. Whole 42.70 m2 F1-bis apartment in souplex configuration near place du Vieux-Marche in Rouen, explicitly stated immediately available. The complete advert describes an entrance-office, 19 m2 living room with fireplace, semi-open fitted kitchen, separate bedroom with adjoining bathroom and independent WC, plus a large cellar. It states double glazing, intercom, video-secured residence, collective gas heating, no current coprocedure, DPE E, annual charges of EUR 1,600 and property tax of EUR 1,224. PAP exposed 9 property photos and a publication date of 28 September 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-mainvilliers-28300-r461301469",
+    "observedAt": "2026-09-30T23:40:00+02:00",
+    "communeCode": "28229",
+    "priceEuros": 110000,
+    "surface": 56,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "hasElevator": true,
+    "dpe": "E",
+    "chargesAnnualEuros": 1300,
+    "taxeFonciereAnnualEuros": 1370,
+    "publicationDate": "2026-09-10",
+    "photoCount": 12,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G13/1469. Whole two-room apartment explicitly stated vacant and immediately habitable, on the fourth and top floor with lift in a maintained Mainvilliers residence. The complete advert describes an entrance with wardrobe, approximately 20 m2 living room, 15 m2 bedroom, fitted kitchen, bathroom with storage and separate WC. A basement parking space is included. It states programmable electric heating, DPE E, annual charges of EUR 1,300 and property tax of EUR 1,370. PAP exposed 12 property photos and a publication date of 10 September 2026."
+  }
+]
