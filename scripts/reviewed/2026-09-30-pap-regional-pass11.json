@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-orleans-45000-r462301908",
+    "observedAt": "2026-09-30T23:51:00+02:00",
+    "communeCode": "45234",
+    "priceEuros": 132000,
+    "surface": 40,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "dpe": "D",
+    "publicationDate": "2026-09-26",
+    "photoCount": 9,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G23/1908. Whole two-room ground-floor apartment explicitly stated free of occupation in a 1992 residence near central Orleans. The complete advert describes an entrance with storage, 17.5 m2 living room, separate fitted kitchen, bedroom, bathroom with WC and a 7 m2 terrace. A cellar and basement parking space are included, and the coproperty has a tennis court. It states DPE D and GES B. PAP exposed 9 property photos and a publication date of 26 September 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401329",
+    "observedAt": "2026-09-30T23:51:00+02:00",
+    "communeCode": "51454",
+    "priceEuros": 150000,
+    "surface": 49,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "dpe": "D",
+    "chargesAnnualEuros": 1440,
+    "taxeFonciereAnnualEuros": 1277,
+    "publicationDate": "2026-09-24",
+    "photoCount": 9,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G54/1329. Whole two-room apartment in Reims' Clairmarais district near the TGV station. The complete advert describes an entrance with large cupboard, bright living room, independent fitted kitchen, bedroom, bathroom, WC and videophone. The sale includes a secured private tandem parking space, cellar and bicycle room. It states DPE D dated 1 June 2026, monthly condominium charges of EUR 120 including heating and water, and property tax of EUR 1,277. PAP exposed 9 property photos and a publication date of 24 September 2026."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465400793",
+    "observedAt": "2026-09-30T23:51:00+02:00",
+    "communeCode": "51454",
+    "priceEuros": 152000,
+    "surface": 53,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "publicationDate": "2026-09-23",
+    "photoCount": 12,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G54/0793. Whole two-room ground-floor apartment in a secured 2011 residence in Reims, around 15 minutes on foot from the station. The complete advert describes an entrance with storage, bright living room with open fitted kitchen, bedroom, bathroom and separate WC, plus a private 22 m2 terrace. A covered secured basement parking space is included. It states individual electric heating and hot water; DPE is explicitly still in progress and is therefore not inferred. PAP exposed 12 property photos and a publication date of 23 September 2026."
+  }
+]
