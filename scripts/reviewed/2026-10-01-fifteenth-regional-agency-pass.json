@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-rouen-76100-a743c196-b26c-4f53-8e9c-1cfee4a778c4/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "76540",
+    "priceEuros": 132000,
+    "surface": 69.7,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "dpe": "C",
+    "chargesAnnualEuros": 1621,
+    "taxeFonciereAnnualEuros": 1700,
+    "photoCount": 7,
+    "sellerType": "AGENCY",
+    "notes": "Orpi Jeanne d'Arc ref a743c196-b26c-4f53-8e9c-1cfee4a778c4. Active resale detail page in the current Rouen results, read in full, with seven property photos and a complete description. Ground-floor Rouen Joffre-Mutualite T3 in a secure residence, with entrance/closet, living room, fitted kitchen, two large bedrooms, bathroom, separate WC and closed basement garage. Price EUR 132,000, 69.70 m² and three rooms verified. Individual electric heating, double glazing, DPE C/GES B; 133-lot copropriete with EUR 1,621 annual charges and EUR 1,700 taxe fonciere. The complete detail text contains no tenant, lease, rented or occupied-sale wording and no special-sale or new-build status."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15863471902/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 129500,
+    "surface": 61.98,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 5,
+    "chargesAnnualEuros": 2898,
+    "taxeFonciereAnnualEuros": 1038,
+    "photoCount": 8,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony ref 44569. Active resale detail page read in full, with eight property photos and a complete description. Renovated Le Mans F3 immediately near the station, fifth floor with lift, with entrance and closet, 16.2 m² living room, separate fitted and equipped 8.6 m² kitchen, two bedrooms, bathroom, WC, 2.6 m² loggia, 4.1 m² cellar and exterior parking. Price EUR 129,500, 61.98 m², three rooms and two bedrooms verified. Built 1970; collective gas heating and hot water; 219-lot copropriete, EUR 2,898 annual charges, EUR 1,038 taxe fonciere and no procedure. DPE dated 2026-09-23 but grade not exposed. Full-detail review found no current occupancy or excluded sale status."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15715618515/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "28085",
+    "priceEuros": 124900,
+    "surface": 63.67,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "chargesAnnualEuros": 1908.92,
+    "taxeFonciereAnnualEuros": 1348,
+    "photoCount": 11,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Maitrejean ref 28126. Active resale detail page read in full, with eleven property photos and a complete description. Ground-floor Chartres apartment in the historic lower town near the Eure and five minutes from the centre, with living/dining room, separate salon, bedroom, independent kitchen, shower room, private enclosed approximately 100 m² garden without vis-a-vis and 10 m² cellar; renovation needed. Price EUR 124,900, 63.67 m² Carrez, approximately 65 m² floor area and three rooms verified. Individual electric heating and hot water; seven-lot copropriete, EUR 1,908.92 annual charges, EUR 1,348 taxe fonciere and no procedure. DPE dated 2026-07-08 but grade not exposed. The generic investor suitability wording does not state occupancy; the full text contains no tenant, lease, loue, rented or current-occupancy wording and no excluded sale type."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15454388003/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "28085",
+    "priceEuros": 171500,
+    "surface": 87.01,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "chargesAnnualEuros": 2542,
+    "taxeFonciereAnnualEuros": 1970,
+    "photoCount": 12,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Maitrejean ref 27703. Active resale detail page read in full, with twelve property photos and a complete description. Fourth-floor Chartres F4 with lift, under ten minutes on foot from the station and with cathedral view, comprising entrance, 36 m² double living room that can form a third bedroom, two existing bedrooms, 9.2 m² kitchen, bathroom, WC, storage, balcony, closed garage and exterior parking. Price EUR 171,500, 87.01 m², four rooms and two bedrooms verified. Built 1979; individual gas central heating and hot water; 241-lot copropriete, EUR 2,542 annual charges, EUR 1,970 taxe fonciere and no procedure. DPE dated 2026-04-20 but grade not exposed. Full-detail review found no current occupancy or excluded sale status."
+  }
+]
