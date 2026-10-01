@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-reims-51100-bd4eb4c6-23ca-429d-b245-62e2e3a1afda/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "51454",
+    "priceEuros": 222500,
+    "surface": 67,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "dpe": "C",
+    "chargesAnnualEuros": 1066,
+    "photoCount": 9,
+    "sellerType": "AGENCY",
+    "notes": "Orpi Murs et Pierres ref bd4eb4c6-23ca-429d-b245-62e2e3a1afda. Active resale detail page read in full, with nine property photos, a virtual tour and a complete description. Third-floor Reims centre T3 in a recent four-storey building, comprising open kitchen and 25 m² living room, two bedrooms, two terraces and a parking space in the residence. Price EUR 222,500, 67 m² and three rooms verified. Central gas heating, double glazing, 30-lot copropriete and EUR 1,066 annual charges. DPE C at 134 kWh/m²/year and GES C. Full-detail review found no current occupancy or excluded sale status."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15989229989/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 125500,
+    "surface": 73.77,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "chargesAnnualEuros": 2689.84,
+    "taxeFonciereAnnualEuros": 1311,
+    "photoCount": 7,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony ref 44590. Active resale detail page read in full, with seven property photos, a virtual tour and a complete description. Renovated ground-floor Le Mans Bollee T3 with living area opening to a balcony, two bedrooms, separate kitchen, bathroom, WC, cellier and storage, plus a 21 m² cellar and optional garage purchase. Price EUR 125,500, 73.77 m², three rooms and two bedrooms verified. Built 1970; collective district heating and hot water; 56-lot copropriete, EUR 2,689.84 annual charges, EUR 1,311 taxe fonciere and no procedure. DPE dated 2025-01-27 but grade not exposed. Full-detail review found no current occupancy or excluded sale status."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15792886472/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 119500,
+    "surface": 48.66,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "chargesAnnualEuros": 633,
+    "taxeFonciereAnnualEuros": 827,
+    "photoCount": 8,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony ref 44493. Active resale detail page read in full, with eight property photos, a virtual tour and a complete description. First-floor Le Mans Jaures F2 near tram and amenities, comprising entrance, 23.2 m² living room with open 5.8 m² kitchenette, 9.8 m² bedroom, bathroom with WC, storage and private parking. Price EUR 119,500, 48.66 m² and two rooms verified. Built 2006; individual electric heating and hot water; 82-lot copropriete, EUR 633 annual charges, EUR 827 taxe fonciere and no procedure. DPE dated 2026-07-13 but grade not exposed. Full-detail review found no current occupancy or excluded sale status."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15771282144/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 129500,
+    "surface": 56.1,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "hasElevator": true,
+    "chargesAnnualEuros": 946.76,
+    "taxeFonciereAnnualEuros": 1113,
+    "photoCount": 7,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony ref 44479. Active resale detail page read in full, with seven property photos and a complete description. Ground-floor Le Mans Saint-Aubin T3 with lift, habitable without work, comprising 28 m² living room, bedrooms of 8.3 and 9.2 m², shower room, separate WC, storage, 5 m² cellar and exterior parking. Price EUR 129,500, 56.10 m², three rooms and two bedrooms verified. Built 2008; collective electric underfloor heating, individual electric hot water and air conditioning; 52-lot copropriete, EUR 946.76 annual charges, EUR 1,113 taxe fonciere and no procedure. DPE dated 2023-12-14 but grade not exposed. Full-detail review found no current occupancy or excluded sale status."
+  }
+]
