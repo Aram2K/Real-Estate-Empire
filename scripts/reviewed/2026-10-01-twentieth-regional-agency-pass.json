@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-tours-37000-a6f5dfd6-ca50-4743-bc43-b19c858fddd5/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "37261",
+    "priceEuros": 165000,
+    "surface": 61.2,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "hasElevator": true,
+    "dpe": "C",
+    "chargesAnnualEuros": 1224,
+    "photoCount": 9,
+    "sellerType": "AGENCY",
+    "notes": "Orpi BP Immo ref a6f5dfd6-ca50-4743-bc43-b19c858fddd5. Active whole-apartment resale detail page read in full, with nine property photos and a complete description. Ground-floor Tours Nord T3 in a secure lift-served 2015 residence near Petite Arche, comprising a bright 29.59 m² living room with open fitted kitchen and west-facing terrace, two bedrooms, shower room, separate WC and private basement parking. Price EUR 165,000, 61.20 m² and three rooms verified. Central electric heating, double glazing, 99-lot copropriete and EUR 1,224 annual charges. DPE C at 96 kWh/m²/year and GES C. The page exposes no original publication timestamp, so none is inferred. Full-detail review found clear whole-property resale terms, no current occupancy and no excluded sale status or conflicting facts."
+  },
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-auxerre-89000-43d8ee2c-af09-48d7-b5d7-308978c858fd/",
+    "observedAt": "2026-10-01T00:00:00+02:00",
+    "communeCode": "89024",
+    "priceEuros": 139000,
+    "surface": 85,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "hasElevator": true,
+    "dpe": "D",
+    "photoCount": 11,
+    "sellerType": "AGENCY",
+    "notes": "Orpi Auxerre Transactions Immobilieres ref 43d8ee2c-af09-48d7-b5d7-308978c858fd. Active whole-apartment resale detail page read in full, with eleven property photos and a complete description. Auxerre Saint-Gervais-Brazza T3 in a secure lift-served residence, comprising entrance, 34.60 m² living room, fully fitted and equipped kitchen, cellier, shower room, two bedrooms, dressing, two balconies, cellar and private parking. Price EUR 139,000, 85 m² and three rooms verified. Collective gas heating, double glazing and DPE D at 198 kWh/m²/year with GES D. The page exposes no original publication timestamp or floor number, so neither is inferred. Full-detail review found clear whole-property resale terms, no current occupancy and no excluded sale status or conflicting facts."
+  }
+]
