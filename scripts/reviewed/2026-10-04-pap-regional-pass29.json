@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-chartres-28000-r465000629",
+    "observedAt": "2026-10-04T01:55:00+02:00",
+    "communeCode": "28085",
+    "priceEuros": 94000,
+    "surface": 31,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "publicationDate": "2026-09-10",
+    "photoCount": 12,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G50/0629. Whole furnished two-room apartment on the first floor of an old building in central Chartres. The complete advert describes a parquet living room with fitted open kitchen, a separate bedroom with shower room, separate WC, a private laundry room on the landing, attic and cellar. The advertised EUR 94,000 is the full apartment price including the furniture; the optional nearby Q-Park subscription is clearly separate and is not treated as part of the sale. The live text presents the home for principal, secondary or rental use and contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. PAP exposed 12 property photos and a publication date of 10 September 2026. No elevator, energy class, charges or other unexposed facts are inferred."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-chartres-28000-r464002738",
+    "observedAt": "2026-10-04T01:55:00+02:00",
+    "communeCode": "28085",
+    "priceEuros": 92000,
+    "surface": 45.77,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "elevator": true,
+    "publicationDate": "2026-09-17",
+    "photoCount": 6,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G40/2738. Whole two-room apartment on the fourth floor with elevator in a quiet Chartres residence. The complete advert describes a bright home set back from the street with balcony, living room, hallway storage, kitchen, one bedroom, bathroom and separate WC. It explicitly exposes individual heating, an electric hot-water tank replaced in 2025, and some renovation work to plan. The live text contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. PAP exposed 6 property photos and a publication date of 17 September 2026. No energy class, charges or other unexposed facts are inferred."
+  }
+]
