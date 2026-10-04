@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+    "observedAt": "2026-10-04T18:42:57+02:00",
+    "communeCode": "72181",
+    "priceEuros": 134800,
+    "surface": 64.63,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "hasElevator": true,
+    "chargesAnnualEuros": 2760,
+    "taxeFonciereAnnualEuros": 961,
+    "photoCount": 6,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Gambetta Le Mans ref 19381, live source detail ID 16073542642. Active conventional resale apartment read in full from the source page. The six-photo gallery and complete room schedule show a 64.63 m2 ground-floor F4 in a traditional 1960 building: entrance, hall, living room, fitted kitchen, three bedrooms, shower room, separate WC and 6 m2 cellar. The source explicitly exposes an elevator, collective gas heating, hot-water tank, recent window work, no work planned, EUR 230 monthly charges exactly matching EUR 2,760 annual current charges, EUR 961 property tax, 302 copropriete lots and no proceeding. The readable detail exposes a DPE assessment date and energy-cost range but no energy or GES letter, so none is inferred. No publication date is exposed. Full-text review found no tenant, lease, occupied-sale, delayed vacancy, new-build, commercial, managed-residence, special ownership or starting-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16176498583/",
+    "observedAt": "2026-10-04T18:42:57+02:00",
+    "communeCode": "72181",
+    "priceEuros": 80000,
+    "surface": 27.41,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "chargesAnnualEuros": 877,
+    "taxeFonciereAnnualEuros": 549,
+    "photoCount": 4,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony Le Mans ref 44623, live source detail ID 16176498583. Active whole-studio resale detail read in full with a four-photo property gallery. The first-floor 27.41 m2 apartment comprises an entrance into the living room with storage, an open fitted and equipped kitchen, and a shower room with WC. The source exposes individual electric heating and hot water, intercom, EUR 877 annual current copropriete charges, EUR 549 property tax, 20 lots and no proceeding. No elevator fact is exposed, so none is inferred. The readable detail exposes a DPE assessment date and energy-cost range but no energy or GES letter, so none is inferred. No publication date is exposed. Full-text review found no tenant, lease, occupied-sale, delayed vacancy, new-build, commercial, managed-residence, special ownership or partial-price language."
+  }
+]
