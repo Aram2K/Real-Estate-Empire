@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295740682A1KIVHAP000",
+    "observedAt": "2026-10-04T18:09:00+02:00",
+    "communeCode": "45234",
+    "priceEuros": 299000,
+    "surface": 105,
+    "rooms": 5,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "dpe": "D",
+    "ges": "D",
+    "photoCount": 3,
+    "sellerType": "INDIVIDUAL",
+    "sellerName": "Edith L.",
+    "notes": "ParuVendu reference WI177986009. Whole five-room apartment offered directly by its private owners in the Faubourg Bannier area of Orleans, within the configured commune allowlist. The complete live detail describes an approximately 105 m2 first-floor home in a small owner-occupied building near the city centre and station. It comprises an east-west double living room, three bedrooms, separate kitchen, bathroom with window, separate WC, individual condensing boiler and water meter, extensive storage, glazed parquet floors, alarm and safe. A private 11 m2 cellar, common bicycle and stroller room, and an outdoor parking space nearby are also described. The source exposes DPE D and GES D and the full EUR 299,000 apartment price. The wording that the building's two other households are owner-occupiers refers to neighbouring units, not a tenant or occupancy of the apartment for sale. The live text contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. ParuVendu exposed three property photos and a last-update timestamp of 27 September 2026 at 18:42; it did not expose a distinct publication date, so none is inferred. No lift, charges, tax or other unexposed facts are inferred."
+  }
+]
