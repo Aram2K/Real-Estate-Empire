@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15800908783/",
+    "observedAt": "2026-10-04T19:40:45+02:00",
+    "communeCode": "49007",
+    "priceEuros": 99000,
+    "surface": 18.9,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "chargesAnnualEuros": 360,
+    "photoCount": 5,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1133, live source detail ID 15800908783. Active conventional whole-apartment resale read in full with five property photos. The 18.90 m2 ground-floor studio near Angers Saint-Laud comprises a main room and shower room with WC; the source states that no work is required and mentions investment or short-term-rental potential without saying that the unit is currently let. It exposes individual electric heating and hot water, intercom, EUR 360 annual current charges, 11 copropriete lots and no proceeding. No elevator, property tax, publication date, energy letter or GES letter is exposed, so none is inferred. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16134766131/",
+    "observedAt": "2026-10-04T19:40:45+02:00",
+    "communeCode": "49007",
+    "priceEuros": 107000,
+    "surface": 29,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": false,
+    "chargesAnnualEuros": 480,
+    "photoCount": 4,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1151, live source detail ID 16134766131. Active conventional whole-apartment resale read in full with four property photos. The 29 m2 La Doutre studio is explicitly on the first floor without elevator and comprises a living room, separate kitchen, and shower room with WC. The source exposes individual electric heating and hot water, EUR 480 annual current charges, 15 copropriete lots and no proceeding. No property tax, publication date, energy letter or GES letter is exposed, so none is inferred. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/14277155833/",
+    "observedAt": "2026-10-04T19:40:45+02:00",
+    "communeCode": "49007",
+    "priceEuros": 160000,
+    "surface": 32.33,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "chargesAnnualEuros": 650,
+    "taxeFonciereAnnualEuros": 784,
+    "photoCount": 3,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 925, live source detail ID 14277155833. Active conventional whole-apartment resale read in full with three property photos. The source consistently presents the 32.33 m2 ground-floor home as a T1 bis with two structural rooms: an entrance with kitchen, bedroom, bathroom and separate WC. It explicitly states that the unit is free of any tenancy. The source exposes individual electric heating and hot water, intercom, EUR 650 annual current charges, EUR 784 property tax, four copropriete lots and no proceeding. No elevator, publication date, energy letter or GES letter is exposed, so none is inferred. Full-text review found no occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  }
+]
