@@ -27,6 +27,8 @@ function median(nums: number[]): number | null {
 async function main() {
   log.step("Computing area scores…");
 
+  const requestedCodes = process.argv.slice(2).filter((value) => /^\d{5}$/.test(value));
+
   const stations = await prisma.station.findMany({
     select: { lat: true, lon: true, lines: true, nom: true },
   });
@@ -38,7 +40,11 @@ async function main() {
   });
 
   const communes = await prisma.commune.findMany({
-    where: { code: { not: "75056" }, lat: { not: null }, lon: { not: null } },
+    where: {
+      code: requestedCodes.length ? { in: requestedCodes } : { not: "75056" },
+      lat: { not: null },
+      lon: { not: null },
+    },
     select: { code: true, lat: true, lon: true, population: true, departement: true },
   });
 

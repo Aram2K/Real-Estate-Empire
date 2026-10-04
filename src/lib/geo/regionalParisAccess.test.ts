@@ -5,6 +5,9 @@ describe("regional Paris rail access", () => {
   it("normalizes accents and punctuation in official station names", () => {
     expect(parisAccessLevelForStation("Évreux-Normandie")).toBe("INTERCITY_DIRECT");
     expect(parisAccessLevelForStation("Saint-Pierre-des-Corps")).toBe("HIGH_SPEED_DIRECT");
+    expect(parisAccessLevelForStation("Angers Saint-Laud")).toBe("HIGH_SPEED_DIRECT");
+    expect(parisAccessLevelForStation("Poitiers")).toBe("HIGH_SPEED_DIRECT");
+    expect(parisAccessLevelForStation("Rennes")).toBe("HIGH_SPEED_DIRECT");
   });
 
   it("does not infer Paris access for an unreviewed station", () => {

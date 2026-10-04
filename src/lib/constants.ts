@@ -31,6 +31,9 @@ export const COLLECTION_DEPARTMENTS = [
   { code: "72", name: "Sarthe (Le Mans)" },
   { code: "14", name: "Calvados (Caen)" },
   { code: "37", name: "Indre-et-Loire (Tours)" },
+  { code: "49", name: "Maine-et-Loire (Angers)" },
+  { code: "86", name: "Vienne (Poitiers)" },
+  { code: "35", name: "Ille-et-Vilaine (Rennes)" },
 ] as const;
 
 /** Process these markets in this order, beginning with the closest large hubs. */
@@ -41,6 +44,9 @@ export const COLLECTION_MARKETS = [
   { city: "Amiens", department: "80", communeCodes: ["80021", "80489", "80164", "80674", "80725", "80131"] },
   { city: "Troyes", department: "10", communeCodes: ["10387", "10362", "10081", "10333", "10297", "10343"] },
   { city: "Le Mans", department: "72", communeCodes: ["72181", "72003", "72095", "72008", "72058", "72065"] },
+  { city: "Angers", department: "49", communeCodes: ["49007", "49015", "49020", "49353", "49246", "49267"] },
+  { city: "Poitiers", department: "86", communeCodes: ["86194", "86041", "86214", "86158", "86062", "86297"] },
+  { city: "Rennes", department: "35", communeCodes: ["35238", "35051", "35278", "35055", "35047", "35024"] },
   { city: "Tours", department: "37", communeCodes: ["37261", "37122", "37233", "37214", "37195", "37050"] },
   { city: "Caen", department: "14", communeCodes: ["14118", "14327", "14437", "14341", "14167", "14181"] },
   { city: "Chartres", department: "28", communeCodes: ["28085", "28218", "28229", "28220", "28110", "28070"] },
