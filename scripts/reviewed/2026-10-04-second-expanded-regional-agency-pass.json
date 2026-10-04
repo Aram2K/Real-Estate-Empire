@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/13686989367/",
+    "observedAt": "2026-10-04T18:55:46+02:00",
+    "communeCode": "72181",
+    "priceEuros": 145000,
+    "surface": 76.91,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": true,
+    "chargesAnnualEuros": 2012,
+    "taxeFonciereAnnualEuros": 1262,
+    "photoCount": 17,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony Le Mans ref 43533, live source detail ID 13686989367. Active conventional whole-apartment resale read in full with seventeen property photos and a virtual tour. The 76.91 m2 third-floor T3 comprises an entrance with storage, parquet living room, separate kitchen that can be opened to the living room, two bedrooms, bathroom and WC, plus a covered parking place. The source explicitly exposes an elevator, individual electric heating and hot water, EUR 2,012 annual charges, EUR 1,262 property tax, 29 copropriete lots and no proceeding. The readable detail exposes a DPE assessment date and energy-cost range but no energy or GES letter, so none is inferred. No publication date is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16643633867/",
+    "observedAt": "2026-10-04T18:55:46+02:00",
+    "communeCode": "49007",
+    "priceEuros": 161500,
+    "surface": 68.32,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "hasElevator": true,
+    "chargesAnnualEuros": 1152,
+    "taxeFonciereAnnualEuros": 1204,
+    "photoCount": 13,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1159, live source detail ID 16643633867. Active conventional apartment resale detail read in full with thirteen property photos and a video. The second-floor 68.32 m2 T3 in the Lac de Maine area comprises an entrance, bright living room, independent kitchen, two bedrooms, bathroom, WC and storage. The source explicitly exposes an elevator, balcony, individual electric heating, EUR 1,152 annual current charges, EUR 1,204 property tax, 34 copropriete lots and no proceeding. The readable detail exposes a DPE assessment date and energy-cost range but no energy or GES letter, so none is inferred. No publication date is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16134741051/",
+    "observedAt": "2026-10-04T18:55:46+02:00",
+    "communeCode": "49007",
+    "priceEuros": 114000,
+    "surface": 24,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "chargesAnnualEuros": 600,
+    "photoCount": 5,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1148, live source detail ID 16134741051. Active conventional whole-apartment resale detail read in full with five property photos. The quiet ground-floor 24 m2 T1 bis near Angers Saint-Laud station is structured as two rooms by the source and comprises a living room with kitchenette, a separate room used as a bedroom, shower room and separate WC. The source exposes individual electric heating and hot water, EUR 600 annual current charges, 11 copropriete lots and no proceeding. No elevator, property tax, publication date, energy letter or GES letter is exposed, so none is inferred. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  }
+]
