@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295592935A1KIVHAP000",
+    "observedAt": "2026-10-04T19:17:00+02:00",
+    "communeCode": "51454",
+    "priceEuros": 274000,
+    "surface": 80,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": true,
+    "dpe": "D",
+    "ges": "D",
+    "photoCount": 3,
+    "sellerType": "INDIVIDUAL",
+    "sellerName": "Loris G.",
+    "notes": "ParuVendu reference WI177966840. Whole three-room apartment offered directly by its private owner in Reims, within the configured Reims commune allowlist. The complete live detail describes an 80 m2 Loi Carrez home on the third and top floor of a bourgeois building with a lift. It comprises an entrance with cupboard, an approximately 30 m2 living and dining room, a new independent 12 m2 kitchen, two bedrooms with their own bathing spaces, a separate WC and an approximately 16 m2 vaulted cellar. The owner states that the apartment has been fully renovated, is ready to live in and requires no work. The source exposes DPE D, GES D and the full EUR 274,000 apartment price. The live text contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. ParuVendu exposes three property photos and a last-update timestamp of 22 September 2026 at 16:22; it does not expose a distinct publication date, so none is inferred. No charges, tax or other unexposed facts are inferred."
+  }
+]
