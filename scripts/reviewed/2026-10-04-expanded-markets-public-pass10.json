@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
+    "observedAt": "2026-10-04T21:10:00+02:00",
+    "communeCode": "49007",
+    "priceEuros": 225000,
+    "surface": 63,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "hasElevator": true,
+    "dpe": "D",
+    "publicationDate": "2026-09-24",
+    "photoCount": 6,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G53/0259. Current live private-owner advert for a whole three-room apartment in Angers, within the configured Angers commune allowlist. PAP exposes the full EUR 225,000 price, 63 m2, three rooms and two bedrooms. The complete description places it on the ground floor of a four-storey 1993 building with a lift and PMR access, and describes a 29 m2 living space with fitted open kitchen, two bedrooms, shower room with laundry area, separate WC, terrace, parking place and a 17 m2 basement box. It states individual electric heating, DPE D and GES B; only DPE is stored because the reviewed-record schema does not accept GES independently. PAP exposes six current property photos and publication on 24 September 2026. The advert explicitly asks agencies not to contact the owner and contains no tenant, lease, occupied-sale, delayed-vacancy, managed or commercial lease, or special ownership wording. No unexposed charges, tax, seller name, exact address or other facts are inferred."
+  }
+]
