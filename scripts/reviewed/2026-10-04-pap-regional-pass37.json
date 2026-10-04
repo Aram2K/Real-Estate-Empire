@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-compiegne-60200-r464202485",
+    "observedAt": "2026-10-04T03:56:33+02:00",
+    "communeCode": "60159",
+    "priceEuros": 189000,
+    "surface": 70,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "dpe": "C",
+    "publicationDate": "2026-09-03",
+    "photoCount": 10,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G42/2485. Whole three-room apartment offered directly by its owner in Compiègne's Terrasses de Beaulieu residence. The complete live advert describes a move-in-ready 70 m2 home with a large bright living room, equipped kitchen, two bedrooms with built-in cupboards, one opening to a balcony, bathroom and separate WC. A private underground garage box and a second private residence parking space are included in the stated EUR 189,000 full-apartment price. It exposes DPE C at 135 kWh/m2/year and GES A at 4 kg/m2/year. The source contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. PAP exposed 10 property photos and a publication date of 3 September 2026. No floor, lift, charges, tax or other unexposed fact is inferred."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-compiegne-60200-r464800965",
+    "observedAt": "2026-10-04T03:56:33+02:00",
+    "communeCode": "60159",
+    "priceEuros": 110000,
+    "surface": 80,
+    "rooms": 5,
+    "propertyType": "Appartement",
+    "hasElevator": true,
+    "publicationDate": "2026-10-01",
+    "photoCount": 12,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G48/0965. Whole five-room apartment offered by a private owner in Compiègne, near the UTC, centre and Oise riverbanks. The complete live advert describes 80 m2 with an equipped kitchen and adjoining utility area, 16 m2 living room opening to a balcony, three bedrooms, separate WC, shower room with double basin, storage cupboard and a private cellar. The building exposes two lifts and a caretaker; parking is freely available on the public/residence frontage rather than represented as a private included lot. The advert refers only to the last rent as EUR 890 including charges and does not state a current tenant or lease. The stated EUR 110,000 is the full apartment price. It contains no occupied-sale, delayed-vacancy, managed-residence or special ownership wording. PAP exposed 12 property photos and a publication date of 1 October 2026. No floor, energy class, charges, tax or other unexposed fact is inferred."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-compiegne-60200-r464701790",
+    "observedAt": "2026-10-04T03:56:33+02:00",
+    "communeCode": "60159",
+    "priceEuros": 83000,
+    "surface": 54.7,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": false,
+    "chargesAnnualEuros": 1080,
+    "taxeFonciereAnnualEuros": 1005,
+    "publicationDate": "2026-10-01",
+    "photoCount": 10,
+    "sellerType": "INDIVIDUAL",
+    "notes": "PAP reference G47/1790. Whole three-room apartment offered by a private owner in Compiègne, near ESCOM, the forest and public transport. The complete live advert describes a renovated 54.70 m2 apartment on the third floor without a lift, with a living room, kitchen, two bedrooms of approximately 10 and 12 m2, shower room and private cellar. It exposes recently replaced electric heating and windows with electric shutters, quarterly coproperty charges of EUR 270, and annual taxe fonciere of EUR 1,005. The stated EUR 83,000 is the full apartment price. The source contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. PAP exposed 10 property photos and a publication date of 1 October 2026. No energy class or other unexposed fact is inferred."
+  }
+]
