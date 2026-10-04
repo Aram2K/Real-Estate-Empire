@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295763434A1KIVHAP000",
+    "observedAt": "2026-10-04T18:58:00+02:00",
+    "communeCode": "35238",
+    "priceEuros": 209000,
+    "surface": 54,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "hasElevator": true,
+    "dpe": "C",
+    "ges": "C",
+    "photoCount": 3,
+    "sellerType": "INDIVIDUAL",
+    "notes": "ParuVendu reference WI177990910. Whole three-room BBC apartment offered directly by a private owner in Rennes, within the enabled Rennes commune allowlist. The complete live detail describes an approximately 54 m2 home with a 23 m2 living room, two bedrooms, bathroom, separate WC, 12 m2 east-facing terrace, secured covered garage space and lift access. The owner states that the apartment is available, quiet, well insulated and has no planned work. The source exposes DPE C, GES C and the full EUR 209,000 apartment price. The live text contains no tenant, lease, occupied-sale, delayed-vacancy, managed-residence or special ownership wording. ParuVendu exposes three property photos and a last-update timestamp of 30 September 2026 at 10:37; it does not expose a distinct publication date, so none is inferred. No floor, charges, tax, seller name or other unexposed facts are inferred."
+  }
+]
