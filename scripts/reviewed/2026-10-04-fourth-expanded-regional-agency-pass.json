@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16134772049/",
+    "observedAt": "2026-10-04T19:25:06+02:00",
+    "communeCode": "49007",
+    "priceEuros": 124800,
+    "surface": 35.2,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "chargesAnnualEuros": 720,
+    "photoCount": 5,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1152, live source detail ID 16134772049. Active conventional whole-apartment resale read in full with five property photos. The 35.20 m2 ground-floor T2 in La Doutre comprises a living room with fitted kitchen, a bedroom, and a shower room with WC. The source exposes individual electric heating and hot water, EUR 720 annual current charges, 15 copropriete lots and no proceeding. No elevator, tax, publication date, energy letter or GES letter is exposed, so none is inferred. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/16458694716/",
+    "observedAt": "2026-10-04T19:25:06+02:00",
+    "communeCode": "49007",
+    "priceEuros": 186500,
+    "surface": 67.8,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "dpe": "C",
+    "chargesAnnualEuros": 1304,
+    "taxeFonciereAnnualEuros": 1499,
+    "photoCount": 6,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1154, live source detail ID 16458694716. Active conventional apartment resale read in full with six property photos. The 67.80 m2 accessible ground-floor T3 in the Madeleine area comprises an entrance, large bright living room, independent kitchen, two bedrooms, bathroom, separate WC, storage and a secured underground parking space. The source explicitly exposes DPE C, individual electric heating and hot water, EUR 1,304 annual current charges, EUR 1,499 property tax, 222 copropriete lots and no proceeding. No elevator, GES letter or publication date is exposed, so none is inferred. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  }
+]
