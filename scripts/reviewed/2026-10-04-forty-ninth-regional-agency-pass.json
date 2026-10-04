@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-le-mans-72000-794db605-c386-4149-995a-5092a95c8a59/",
+    "observedAt": "2026-10-04T12:08:00+02:00",
+    "communeCode": "72181",
+    "priceEuros": 191700,
+    "surface": 90.18,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "dpe": "E",
+    "ges": "B",
+    "chargesAnnualEuros": 1327.72,
+    "photoCount": 8,
+    "sellerType": "AGENCY",
+    "notes": "Orpi Formery et Associes ref 794db605-c386-4149-995a-5092a95c8a59, agency ref 271. Active whole-apartment resale detail page read in full, with eight property photos and a complete description. First-floor Le Mans hyper-centre T3 in a six-main-lot copropriete, offering 90.18 m² with a 41.20 m² living room, fitted and equipped kitchen, two bedrooms with built-in wardrobes, recent shower room, laundry, separate WC and private garage. Price EUR 191,700, 90.18 m² and three rooms verified. Individual electric heating and double glazing; annual copropriete charges are stated as EUR 1,327.72. DPE E at 286 kWh/m²/year and GES B at 9 kgCO2/m²/year are exposed. No elevator fact or publication timestamp is exposed by the live source, so neither is inferred. The generic investor-suitability wording does not state an existing tenancy; full-detail review and vacant-room photos found no tenant, lease, current occupancy, managed lease, special-sale structure or conflicting core fact."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15064256876/",
+    "observedAt": "2026-10-04T12:10:00+02:00",
+    "communeCode": "76540",
+    "priceEuros": 113000,
+    "surface": 41.12,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": true,
+    "chargesAnnualEuros": 1567,
+    "taxeFonciereAnnualEuros": 1300,
+    "photoCount": 8,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Harmony Rouen ref 33874, source detail ID 15064256876. Active whole-apartment resale detail page read in full, with eight property photos and a complete description. First-floor Rouen Hotel de Ville F2 in a secured residence with caretaker and elevator, offering 41.12 m² with entrance and storage, 19.2 m² living room, separate fitted and equipped kitchen, bedroom with storage, recently renovated shower room, separate WC and cellar. Price EUR 113,000, 41.12 m² and two rooms verified. Collective gas heating and water are included in charges; the 100-lot copropriete reports EUR 1,567 annual current charges, EUR 1,300 property tax and no ongoing procedure. The separate EUR 131 monthly charge display is consistent with the annual figure within ordinary rounding. A DPE assessment date is exposed but no reliable energy or GES letter is readable, so no rating is inferred. No publication timestamp is exposed by the live source, so none is invented. Generic investor-suitability wording does not state a tenancy; full-detail review found no tenant, lease, current occupancy, managed lease, special-sale structure or conflicting core fact."
+  }
+]
