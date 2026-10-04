@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15869211693/",
+    "observedAt": "2026-10-04T19:12:57+02:00",
+    "communeCode": "49007",
+    "priceEuros": 159900,
+    "surface": 67.19,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": false,
+    "chargesAnnualEuros": 2495,
+    "taxeFonciereAnnualEuros": 1366,
+    "photoCount": 7,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1140, live source detail ID 15869211693. Active conventional apartment resale read in full with seven property photos and a video. The 67.19 m2 third-floor T4 in the Arboretum area comprises an entrance, fitted kitchen, bright living room opening onto a balcony, three bedrooms, shower room, separate WC, storage and an 11.7 m2 cellar. The source explicitly says there is no elevator and exposes collective gas heating, EUR 2,495 annual current charges, EUR 1,366 property tax, 65 copropriete lots and no proceeding. The optional inclusion of some furniture does not create an occupancy or managed-sale arrangement. The readable detail exposes a DPE assessment date and energy-cost range but no energy or GES letter, so none is inferred. No publication date is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, special ownership or partial-price language."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15910181215/",
+    "observedAt": "2026-10-04T19:12:57+02:00",
+    "communeCode": "49007",
+    "priceEuros": 199900,
+    "surface": 73,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "hasElevator": false,
+    "chargesAnnualEuros": 720,
+    "photoCount": 7,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1142, live source detail ID 15910181215. Active conventional whole-apartment resale read in full with seven property photos. The 73 m2 second-floor T3 near Angers Saint-Laud station comprises an entrance, large bright living room, kitchen, two bedrooms, shower room and separate WC. The source explicitly states that there is no elevator and exposes individual electric heating and hot water, EUR 720 annual current charges, 11 copropriete lots and no proceeding. A parking space is offered separately in addition to the apartment price, so it is not stored as part of this sale. The readable detail exposes a DPE assessment date and energy-cost range but no energy or GES letter, so none is inferred. No tax or publication date is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial apartment price."
+  },
+  {
+    "url": "https://www.century21.fr/trouver_logement/detail/15854277093/",
+    "observedAt": "2026-10-04T19:12:57+02:00",
+    "communeCode": "49007",
+    "priceEuros": 159900,
+    "surface": 61.3,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "chargesAnnualEuros": 600,
+    "photoCount": 10,
+    "sellerType": "AGENCY",
+    "notes": "Century 21 Agence Plantagenet Angers ref 1138, live source detail ID 15854277093. Active conventional whole-apartment resale read in full with ten property photos. The source describes a T3 bis with four principal rooms, 61.30 m2 habitable and 70.10 m2 total floor area; the regulated habitable surface is retained. On the third and final floor near Angers Saint-Laud station, it comprises an entrance, living room with open kitchen, two bedrooms, a separate office, shower room and separate WC. The source exposes individual gas heating and hot water, EUR 600 annual current charges, 11 copropriete lots and no proceeding. No elevator, tax, publication date, energy letter or GES letter is exposed, so none is inferred. Full-text review found no tenant, lease, occupied sale, delayed vacancy, new-build, commercial use, managed residence, special ownership or partial-price language."
+  }
+]
