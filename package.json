@@ -39,7 +39,8 @@
     "resolve:sellers": "tsx scripts/resolve-seller-types.ts",
     "review:gdc": "tsx scripts/review-gdc-listings.ts",
     "review:leboncoin": "tsx scripts/review-leboncoin-details.ts",
-    "audit:listings": "tsx scripts/audit-listing-quality.ts"
+    "audit:listings": "tsx scripts/audit-listing-quality.ts",
+    "enforce:price-cap": "tsx scripts/enforce-priority-market-price-cap.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.1.0",

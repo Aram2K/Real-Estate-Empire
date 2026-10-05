@@ -59,6 +59,9 @@ export const COLLECTION_MARKETS = [
 
 export const COLLECTION_COMMUNE_CODES = new Set<string>(COLLECTION_MARKETS.flatMap((market) => [...market.communeCodes]));
 
+/** User-approved ceiling for every newly collected purchase listing. */
+export const MAX_PURCHASE_PRICE_EUROS = 400_000;
+
 export const COLLECTION_DEPARTMENT_CODES = COLLECTION_DEPARTMENTS.map((d) => d.code);
 
 export function isCollectionPostalCode(postalCode: string): boolean {

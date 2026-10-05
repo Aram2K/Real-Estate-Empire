@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import { z } from "zod";
 import { prisma } from "../src/lib/db/prisma";
 import { computeAndStoreAnalysis } from "../src/lib/properties/analyzeOne";
-import { COLLECTION_COMMUNE_CODES } from "../src/lib/constants";
+import { COLLECTION_COMMUNE_CODES, MAX_PURCHASE_PRICE_EUROS } from "../src/lib/constants";
 import { classifySeller } from "../src/lib/sources/sellerType";
 import { classifySuspiciousListing } from "../src/lib/sources/listingQuality";
 
@@ -11,7 +11,7 @@ const RecordSchema = z.object({
   url: z.string().url().refine((s) => s.startsWith("https://")),
   observedAt: z.string().datetime({ offset: true }),
   communeCode: z.string().regex(/^\d{5}$/),
-  priceEuros: z.number().positive().max(20_000_000),
+  priceEuros: z.number().positive().max(MAX_PURCHASE_PRICE_EUROS),
   surface: z.number().positive(),
   rooms: z.number().int().positive(),
   propertyType: z.enum(["Appartement", "Maison"]).default("Appartement"),
