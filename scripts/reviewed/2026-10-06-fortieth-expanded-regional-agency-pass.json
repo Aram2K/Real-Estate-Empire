@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/rouen-droite/acheter/rouen/appartement-2-pieces-52514802",
+    "observedAt": "2026-10-06T16:26:19+02:00",
+    "communeCode": "76540",
+    "priceEuros": 130000,
+    "surface": 34.2,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "dpe": "E",
+    "ges": "B",
+    "chargesAnnualEuros": 936,
+    "photoCount": 9,
+    "sellerType": "AGENCY",
+    "notes": "Laforet Rouen Droite ref 9777, live web ID 52514802. Active conventional resale garden-level apartment between Rouen prefecture and station read in full with nine listing-specific property photos plus a 3D tour. The source explicitly flags itemNeuf false and itemViager false. The complete purchase price is EUR 130,000 with seller-paid fees; it is within the EUR 400,000 cap and has no starting or optional-component wording. The 34.2 m2 two-room apartment is on the ground-floor garden level and comprises an entrance, living room, lounge, fitted kitchen, one bedroom and shower room with WC. A private garden or terrace and one outdoor parking space are explicitly confirmed by both the narrative and page characteristics. Analytics metadata says itemParking false despite that direct source evidence; the discrepancy is preserved and the supported parking fact retained. Analytics itemBalcon false is not treated as contradictory because a balcony is not the same as the described ground-level terrace or garden. The source exposes electric heating, 16 copropriete lots, EUR 78 monthly and EUR 936 annual charges, which are exactly consistent, and no safeguarding procedure in progress. DPE E at 308 kWhEP/m2/year and GES B at 9 kg CO2/m2/year are exposed, with EUR 810 to EUR 1,140 estimated annual energy cost indexed over 2021 through 2023; final energy is not exposed. The page links to Georisques but states no specific property risk. No publication date, property tax or named seller agent is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, commercial use, managed residence or special ownership language."
+  }
+]
