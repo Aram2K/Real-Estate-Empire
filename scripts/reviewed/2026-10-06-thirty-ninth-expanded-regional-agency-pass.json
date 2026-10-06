@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/rouen-droite/acheter/rouen/appartement-3-pieces-52759243",
+    "observedAt": "2026-10-06T15:46:53+02:00",
+    "communeCode": "76540",
+    "priceEuros": 159000,
+    "surface": 50.19,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "hasElevator": false,
+    "dpe": "E",
+    "ges": "C",
+    "chargesAnnualEuros": 1499.8,
+    "photoCount": 10,
+    "sellerType": "AGENCY",
+    "notes": "Laforet Rouen Droite ref 10311, live web ID 52759243. Active conventional furnished resale apartment by Rouen station read in full with ten listing-specific property photos plus a virtual tour. The source explicitly flags itemNeuf false and itemViager false. The complete purchase price is EUR 159,000 including a source-stated 7.43 percent buyer fee, with EUR 148,000 stated excluding fees; the EUR 11,000 difference is arithmetically consistent, the price is within the EUR 400,000 cap, and there is no starting or optional-component wording. The 50.19 m2 three-room apartment is on the top floor without lift and comprises an east-west through living space with open view, fitted and equipped kitchen, two bedrooms, shower room and separate WC. The narrative explicitly says it is sold furnished, while site metadata says itemMeuble false; this discrepancy is preserved and no furnishing inventory is inferred. The source exposes electric heating, seven copropriete lots, EUR 124.98 monthly and EUR 1,499.80 annual charges, which are consistent after rounding, and no safeguarding procedure in progress. DPE E at 294 kWhEP/m2/year primary and 155 final and GES C at 11 kg CO2/m2/year are exposed, with EUR 1,570 to EUR 2,160 estimated annual energy cost indexed over 2021 through 2023. The page links to Georisques but states no specific property risk. No publication date, property tax or named seller agent is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, commercial use, managed residence or special ownership language; investment is a prospective use suggestion only."
+  }
+]
