@@ -1,6 +1,6 @@
 [
   {
-    "reviewStatus": "PENDING_PHOTO_REVIEW",
+    "reviewStatus": "PENDING_DUPLICATE_AND_GES_REVIEW",
     "url": "https://www.seloger.com/annonce/achat/pays-de-la-loire/sarthe-72/le-mans-72000/26CVN2QSZY8Q",
     "sourceTitle": "Appartement à vendre T3/F3 90 m² 184625 € Université-Ribay-Ardriers Le Mans (72000)",
     "observedAt": "2026-10-07T14:28:21+02:00",
@@ -13,10 +13,44 @@
     "hasElevator": false,
     "dpe": "E",
     "photoCount": 10,
-    "photoUrls": [],
+    "photoUrls": [
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_15.jpg?fit=contain&h=950&q=90&s=1cd456d48e98caed638672371013ee43&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_6.jpg?fit=contain&h=950&q=90&s=f5155db023678b4cacc6999f69ad164a&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_3.jpg?fit=contain&h=950&q=90&s=5debcd60bf9ccd3d1611b98fb0b802f3&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_12.jpg?fit=contain&h=950&q=90&s=139f2b89889e37718df13d0faf6cc34e&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_8.jpg?fit=contain&h=950&q=90&s=9a051c5744c840ac3b4f805c1e507da9&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_2.jpg?fit=contain&h=950&q=90&s=00b4d25a46a6256c410bc9393a163ffc&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_9.jpg?fit=contain&h=950&q=90&s=51bc5e4048a9fbbc88574e2c4616ced2&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_10.jpg?fit=contain&h=950&q=90&s=0e3bc4cb20b15e548dcf6ad95883b4e8&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_13.jpg?fit=contain&h=950&q=90&s=9c2aab62382d678b7697dd19164d02ae&w=1400",
+      "https://assets.adaptimmo.com/photos-biens/13007/130074604_14.jpg?fit=contain&h=950&q=90&s=82c8773fa9a801e095ba813e6dc86bc2&w=1400"
+    ],
     "sellerType": "AGENCY",
     "sellerName": "Saint Joseph Immobilier; named contact: Miryam Herveau",
     "sourceDescription": "Saint Joseph Immobilier vous propose cet appartement, idéalement situé dans un quartier très recherché (hyper centre du Mans), au premier étage d'une petite copropriété composée de seulement six lots Dès l'entrée, vous pourrez constater la belle perspective qui s'offre à vous avec une spacieuse et lumineuse pièce de vie permettant aussi d'y organiser un espace bureau idéal pour le télétravail ou une activité professionnelle. Dans le prolongement, vous trouverez la cuisine aménagée et équipée lumineuse également et très bien agencée. L'appartement se poursuit par l'espace nuit qui débute par un couloir desservant : deux belles chambres lumineuses avec placards intégrés, une salle d'eau récente au design contemporain, une buanderie pratique (un peu avant le couloir), des WC séparés. En dehors de l'appartement, ce bien est complété également par un garage privatif et une cave offrant un espace de stockage : deux atouts supplémentaires facilitant la vie au quotidien, de même que l'accessibilité aux transports liée à la très bonne localisation : arrêts de bus à seulement 3 minutes à pied, accès rapide aux lignes de tramway T1 et T2, gares SNCF et routière à proximité. En conclusion, ce bien rare saura vous séduire, que vous soyez habitué d'une vie citadine, actif recherchant une bonne accessibilité ou investisseur recherchant une belle acquisition dans un quartier stratégique. Alors contactez moi vite pour le visiter , Miryam Herveau, Saint Joseph Immobilier.",
-    "notes": "SeLoger reference 26CVN2QSZY8Q; agency reference 130074604_1. The live detail exposes the whole price EUR 184,625 including buyer-paid fees (EUR 175,000 excluding fees plus EUR 9,625 fees), 90 m2, three rooms, two bedrooms, first floor of a two-storey building and explicitly no elevator. SeLoger states that ten photos are available. The source lists individual electric heating, DPE E, GES E and estimated annual energy cost EUR 2,010–2,760. No source publication date or time is exposed; publicationDate is intentionally absent. First seen 7 October 2026 at 14:28 Paris time. The listing is present as an active sale on SeLoger; no current occupancy or lease facts are stated. The cited source text describes a conventional apartment sale and exposes one complete inclusive price. Pending visual review: SeLoger’s image link returned an agency-logo/portrait image URL, not a listing-specific property photo; I could not access the ten property images through the available browser tools, so no property photo URL is claimed and the record is not import-ready."
+    "notes": "Original first-seen remains 2026-10-07T14:28:21+02:00 from SeLoger. Current primary agency source: https://www.saintjosephimmobilier.fr/fr/detail.htm?cle=130074604&monnaie=2 (title and agency ref preserved separately); SeLoger cross-list: https://www.seloger.com/annonce/achat/pays-de-la-loire/sarthe-72/le-mans-72000/26CVN2QSZY8Q. Agency source exposes full inclusive EUR 184,625 (EUR 175,000 excluding fees + EUR 9,625 buyer-paid fees), first floor, six-lot copropriété and the full advert text; SeLoger exposes 90 m2, 3 rooms, two bedrooms, no elevator and GES E. No publication timestamp is exposed by either accessible listing; publishedAt/publicationDate remain absent. Ten exact photo URLs were clicked from the Saint Joseph source page and visually inspected; notes identify the actual scenes. Strict dedupe: likely same dwelling as reviewed Orpi Formery et Associés ref 271 / Orpi ref 794db605-c386-4149-995a-5092a95c8a59 at https://www.orpi.com/annonce-vente-appartement-t3-le-mans-72000-794db605-c386-4149-995a-5092a95c8a59/ (EUR 191,700, 90.18 m2); see duplicateAssessment. Source conflict: GES E on SeLoger vs GES B/9 on Orpi; preserve both as unresolved. Do not import unless distinct-unit identity is established.",
+    "agencyUrl": "https://www.saintjosephimmobilier.fr/fr/detail.htm?cle=130074604&monnaie=2",
+    "agencySourceTitle": "Appartement agréable, fonctionnel et bien situé au Mans : à visiter sans tarder !",
+    "agencyReference": "130074604_1 (Saint Joseph Immobilier key 130074604; agency ref 3906)",
+    "crossListedUrls": [
+      "https://www.seloger.com/annonce/achat/pays-de-la-loire/sarthe-72/le-mans-72000/26CVN2QSZY8Q",
+      "https://www.orpi.com/annonce-vente-appartement-t3-le-mans-72000-794db605-c386-4149-995a-5092a95c8a59/"
+    ],
+    "duplicateCandidateReference": "Orpi Formery et Associés ref 794db605-c386-4149-995a-5092a95c8a59; agency ref 271",
+    "agencySourceDescription": "Saint Joseph Immobilier vous propose cet appartement, idéalement situé dans un quartier très recherché (hyper centre du Mans), au premier étage d'une petite copropriété composée de seulement six lots Dès l’entrée, vous pourrez constater la belle perspective qui s'offre à vous avec une spacieuse et lumineuse pièce de vie permettant aussi d’y organiser un espace bureau idéal pour le télétravail ou une activité professionnelle. Dans le prolongement, vous trouverez la cuisine aménagée et équipée lumineuse également et très bien agencée. L'appartement se poursuit par l’espace nuit qui débute par un couloir desservant : deux belles chambres lumineuses avec placards intégrés, une salle d’eau récente au design contemporain, une buanderie pratique (un peu avant le couloir), des WC séparés. En dehors de l'appartement, ce bien est complété également par un garage privatif et une cave offrant un espace de stockage : deux atouts supplémentaires facilitant la vie au quotidien, de même que l'accessibilité aux transports liée à la très bonne localisation : arrêts de bus à seulement 3 minutes à pied, accès rapide aux lignes de tramway T1 et T2, gares SNCF et routière à proximité. En conclusion, ce bien rare saura vous séduire, que vous soyez habitué d'une vie citadine, actif recherchant une bonne accessibilité ou investisseur recherchant une belle acquisition dans un quartier stratégique. Alors contactez moi vite pour le visiter au 06 99 57 93 60, Miryam Herveau, Saint Joseph Immobilier.",
+    "visuallyInspectedPhotoNotes": [
+      "130074604_15.jpg: street-facing residential building facade",
+      "130074604_6.jpg: apartment entry/hallway",
+      "130074604_3.jpg: bright living room",
+      "130074604_12.jpg: cupboard/storage recess",
+      "130074604_8.jpg: fitted kitchen",
+      "130074604_2.jpg: bedroom with closet and window",
+      "130074604_9.jpg: second bedroom with green wall",
+      "130074604_10.jpg: shower room/bathroom",
+      "130074604_13.jpg: laundry/utility area",
+      "130074604_14.jpg: private garage with a car"
+    ],
+    "gesConflict": "Unresolved source conflict: the SeLoger detail reviewed on 2026-10-07 showed DPE E / GES E; Orpi cross-list live detail reviewed 2026-10-08 shows DPE E (286 kWh/m2.an) / GES B (9 kgCO2/m2.an). Preserve both source-attributed values; do not choose one without resolution.",
+    "duplicateAssessment": "Likely duplicate of the existing reviewed Orpi listing, not safe to import as a separate dwelling. Both sources describe an unusually specific match: Le Mans hyper-centre, first floor, six-main-lot copropriété, about 90 m2, T3/two bedrooms with built-in closets, recent shower room, laundry, separate WC, private garage, same bus/tram access and same DPE E/286. Saint Joseph/SeLoger asks EUR 184,625 (90 m2); Orpi ref 271 asks EUR 191,700 (90.18 m2). Orpi photo alt text describes a green-wall bedroom, facade and entry matching scenes in the visually inspected Saint Joseph photo set. Orpi source-signed image URLs returned HTTP 401 when opened, so no attempt to bypass access controls or directly compare those image files was made. Keep pending and exclude from import absent evidence these are distinct units."
   }
 ]
