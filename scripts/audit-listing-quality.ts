@@ -1,6 +1,6 @@
 /** Audit stored active listings with the current evidence-based classifier. */
 import { prisma } from "../src/lib/db/prisma";
-import { classifySuspiciousListing, type SuspiciousReason } from "../src/lib/sources/listingQuality";
+import { classifySuspiciousListing, descriptionForQualityAudit, type SuspiciousReason } from "../src/lib/sources/listingQuality";
 
 const apply = process.argv.includes("--apply");
 const parisOnly = process.argv.includes("--paris");
@@ -25,7 +25,7 @@ async function main() {
   const findings = listings.flatMap((listing) => {
     const quality = classifySuspiciousListing({
       title: listing.title,
-      description: listing.description,
+      description: descriptionForQualityAudit(listing.source.key, listing.description),
       priceCents: listing.price,
       surface: listing.property.surface,
       propertyType: listing.property.propertyType,

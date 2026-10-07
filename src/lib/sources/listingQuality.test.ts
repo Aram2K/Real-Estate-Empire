@@ -1,10 +1,18 @@
 import { describe, expect, it } from "vitest";
-import { classifySuspiciousListing } from "./listingQuality";
+import { classifySuspiciousListing, descriptionForQualityAudit } from "./listingQuality";
 
 const classify = (overrides: Parameters<typeof classifySuspiciousListing>[0]) =>
   classifySuspiciousListing({ priceCents: 250_000_00, surface: 50, propertyType: "Appartement", ...overrides });
 
 describe("classifySuspiciousListing", () => {
+  it("audits source wording without mistaking a review checklist for sale conditions", () => {
+    const wrap = (wording: string) => `Review header\n\nSource description:\n${wording}\n\nReview notes:\nNo viager or timeshare conditions found.`;
+    const freeSale = wrap("Appartement vendu libre de toute occupation.");
+    expect(classify({ description: descriptionForQualityAudit("reviewed-public", freeSale) }).suspicious).toBe(false);
+    expect(classify({ description: descriptionForQualityAudit("reviewed-public", wrap("Vendu occupé, locataire en place.")) }).reasons).toContain("OCCUPIED_PROPERTY");
+    expect(descriptionForQualityAudit("leboncoin", freeSale)).toBe(freeSale);
+    expect(descriptionForQualityAudit("reviewed-public", "Vente en viager occupé")).toBe("Vente en viager occupé");
+  });
   it("distinguishes shared building expenses from fractional ownership", () => {
     expect(classify({ description: "Quote-part moyenne du budget prévisionnel 6 276 €/an." }).suspicious).toBe(false);
     expect(classify({ description: "Quote-part des charges : 1200 euros." }).suspicious).toBe(false);

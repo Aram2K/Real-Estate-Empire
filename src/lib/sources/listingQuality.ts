@@ -26,6 +26,18 @@ export type ListingQualityResult = {
   reviewReasons: ("NO_PHOTO_EVIDENCE" | "POSSIBLE_CONTACT_SPAM")[];
 };
 
+/** Extract the advert wording from our reviewed-import wrapper, without treating
+ * a reviewer's checklist of excluded sale types as seller evidence. */
+export function descriptionForQualityAudit(sourceKey: string, description: string | null): string | null {
+  if (sourceKey !== "reviewed-public" || description == null) return description;
+  const startMarker = "\n\nSource description:\n";
+  const endMarker = "\n\nReview notes:\n";
+  const start = description.indexOf(startMarker);
+  const end = description.lastIndexOf(endMarker);
+  if (start < 0 || end <= start + startMarker.length) return description;
+  return description.slice(start + startMarker.length, end);
+}
+
 function normalized(value: string | null | undefined): string {
   return (value ?? "")
     .normalize("NFD")
