@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-4-pieces-52366145",
+    "observedAt": "2026-10-07T14:24:16+02:00",
+    "communeCode": "49007",
+    "priceEuros": 251000,
+    "surface": 92.4,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 10,
+    "hasElevator": true,
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 2309,
+    "photoCount": 16,
+    "sellerType": "AGENCY",
+    "notes": "Laforet Angers ref 4091, live web ID 52366145. Active conventional whole-apartment resale in Angers' Louis-Gain and Mail area, read in full with 16 listing-specific property photos and a virtual visit offered on request. The source explicitly flags itemNeuf false and itemViager false. The complete purchase price is EUR 251,000 with seller-paid fees and EUR 490 deed-drafting fees included; it is within the EUR 400,000 cap and has no starting-price or separately priced component wording. The 92.4 m2 four-room apartment is on the tenth floor with several lifts and comprises an entrance with storage, an independent fitted kitchen that can be opened to the living area, a south-east living room, three bedrooms between about 12 and 16 m2, shower room, separate WC and storage. A basement cellar and small balcony are explicitly included. Site analytics says itemCave false and itemBalcon false despite those direct narrative and page-characteristic facts; the discrepancy is preserved and the supported inclusions retained. The source exposes 258 copropriete lots, EUR 2,309 annual charges, a caretaker and no safeguarding procedure. Facade and terrace works have already been approved and are explicitly payable by the seller; that copropriete risk fact is preserved. DPE C at 176 kWhEP/m2/year and GES A at 5 kg CO2/m2/year are exposed, with EUR 1,278 to EUR 1,835 estimated annual energy cost indexed over 2021 through 2023. The page links to Georisques but states no specific property risk. No source publication date, property tax or named seller agent is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, commercial use, managed residence or special ownership language."
+  },
+  {
+    "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-3-pieces-52511855",
+    "observedAt": "2026-10-07T14:24:16+02:00",
+    "communeCode": "51454",
+    "priceEuros": 134900,
+    "surface": 60.45,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": false,
+    "dpe": "E",
+    "ges": "E",
+    "chargesAnnualEuros": 2728,
+    "photoCount": 4,
+    "sellerType": "AGENCY",
+    "notes": "Laforet Reims Sud ref 5579, live web ID 52511855. Active conventional whole-apartment resale in a secured Reims residence, read in full with four listing-specific property photos plus a source-linked presentation video. The source explicitly flags itemNeuf false and itemViager false. The complete purchase price is EUR 134,900 with seller-paid fees; it is within the EUR 400,000 cap and has no starting-price or separately priced component wording. The 60.45 m2 three-room apartment is on the first floor without lift and comprises an entrance, fitted and equipped kitchen, bright living room opening to a balcony, two bedrooms and a bathroom or shower room; the source narrative and characteristic label differ on the precise bathroom type, so only the existence of one washroom is treated as established. A private outdoor parking place and cellar are explicitly included by both the narrative and page characteristics. Site analytics says itemBalcon false, itemParking false and itemCave false despite that direct source evidence; the discrepancy is preserved and the supported inclusions retained. The source exposes gas heating, 111 copropriete lots, EUR 2,728 annual charges and no safeguarding procedure in progress. DPE E at 261 kWhEP/m2/year primary and 255 final and GES E at 64 kg CO2/m2/year are exposed, with EUR 1,220 to EUR 1,660 estimated annual energy cost indexed over 2021 through 2023. The page links to Georisques but states no specific property risk. No source publication date, property tax or named seller agent is exposed. Full-text review found no tenant, lease, occupied sale, delayed vacancy, commercial use, managed residence or special ownership language; investment is a prospective use suggestion only."
+  }
+]
