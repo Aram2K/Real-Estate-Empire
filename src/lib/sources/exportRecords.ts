@@ -2,6 +2,12 @@ export type ExportableListing = {
   source: string;
   externalId: string;
   url: string;
+  title?: string | null;
+  description?: string | null;
+  chargesMonthlyCents?: number | null;
+  propertyTaxAnnualCents?: number | null;
+  photoCount?: number | null;
+  photoUrls?: string | null;
   status: "ACTIVE";
   firstSeenAt: string;
   lastSeenAt: string;
