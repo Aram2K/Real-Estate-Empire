@@ -1,0 +1,76 @@
+[
+  {
+    "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP406-972904",
+    "sourceId": "TAPP406-972904",
+    "observedAt": "2026-10-08T19:13:58+02:00",
+    "communeCode": "51454",
+    "priceEuros": 371000,
+    "surface": 91.6,
+    "rooms": 5,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 1670,
+    "taxeFonciereAnnualEuros": 1236,
+    "sourceTitle": "Appartement à vendre 5 pièces 91.6m² - Reims (51)",
+    "sourceDescription": "Appartement duplex traversant 5 pièces – Charme de l’ancien – Hyper centre de Reims\n\nÀ vendre, en plein hyper centre de Reims, découvrez ce superbe appartement duplex traversant de 5 pièces, situé au 4ᵉ et dernier étage d’une petite copropriété.\n\nDès l’entrée, vous serez séduit par le charme authentique de l’ancien et les beaux volumes qu’offre ce bien. Moulures, belle hauteur sous plafond, cheminée et éléments anciens lui confèrent une élégance intemporelle et une atmosphère chaleureuse.\n\nSon caractère traversant lui apporte une agréable luminosité ainsi qu’une belle circulation de la lumière tout au long de la journée.\n\nL’appartement est organisé sur deux niveaux.\n\nAu premier niveau, vous découvrirez une belle pièce de vie ainsi que deux chambres spacieuses, bénéficiant de volumes généreux et du cachet de l’ancien.\n\nLe second niveau, plus intimiste, accueille une troisième chambre avec sa salle de bains attenante, ainsi que la climatisation, apportant un confort supplémentaire à cet espace indépendant.\n\nCôté prestations, l’appartement bénéficie également d’une chaudière à condensation récemment changée.\n\nUne cave complète ce bien.\n\nSon emplacement est idéal, au cœur de l’hyper centre de Reims, avec toutes les commodités accessibles à pied : Monoprix à proximité immédiate, G20 et Intermarché à quelques minutes, ainsi que les écoles et commerces du centre-ville.\n\nLa Gare de Reims – Centre se trouve à seulement 4 minutes à pied, avec le tramway et de nombreuses lignes de bus.\n\nLes Basses Promenades et le Square Colbert sont également à proximité pour profiter d’espaces verts au cœur de la ville.\n\nUn appartement traversant de caractère, rare sur le marché, réunissant le charme de l’ancien, de beaux volumes et un emplacement privilégié en hyper centre.\n\nPrix : 371 000 €\n\nÀ découvrir sans tarder.\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "sellerName": "Citya Champagne",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://www.citya.com/media/images/agences/biens/406/vente/0eb4c46f-6d3a-4865-a2d2-4e647368b19a.webp",
+      "https://www.citya.com/media/images/agences/biens/406/vente/17852bc5-4a6f-4038-a480-c79ed75199f0.webp",
+      "https://www.citya.com/media/images/agences/biens/406/vente/8cb98d46-6b9a-4d34-a0fd-1d73682db0db.webp",
+      "https://www.citya.com/media/images/agences/biens/406/vente/df23bdee-bd19-44f5-9788-626e3c56dc36.webp",
+      "https://www.citya.com/media/images/agences/biens/406/vente/b8f88a00-3485-4085-9c14-fe8dae824159.webp",
+      "https://www.citya.com/media/images/agences/biens/406/vente/3b067ed7-f966-4d84-b516-6c046d6c912e.webp",
+      "https://www.citya.com/media/images/agences/biens/406/vente/f3b76a77-e9f8-4dd3-b1a7-2a7725b4d4ef.webp"
+    ],
+    "sellerType": "AGENCY",
+    "reviewStatus": "PENDING_CROSS_SOURCE_FACT_CONFLICT",
+    "crossSourceConflicts": {
+      "citya": {
+        "sourceId": "TAPP406-972904",
+        "coproLots": 9,
+        "chargesAnnualEuros": 1670,
+        "feeBearer": "SELLER",
+        "dpe": "C",
+        "dpeKwhPerM2Year": 123,
+        "ges": "C",
+        "gesKgCo2PerM2Year": 24
+      },
+      "victoriaKeys": {
+        "url": "https://reims.victoria-keys.com/annonces/appartement-a-vendre-reims-iv2-6560/",
+        "sourceId": "19292",
+        "coproLots": 5,
+        "chargesAnnualEuros": 1240,
+        "feeBearer": "BUYER",
+        "priceExcludingFeesEuros": 350000,
+        "dpeKwhPerM2Year": 158,
+        "gesKgCo2PerM2Year": 31
+      },
+      "logicImmoSeLogerSyndication": {
+        "seLogerUrl": "https://www.seloger.com/annonce/achat/grand-est/marne-51/reims-51100/26FJB9RDRAR2",
+        "logicImmoUrl": "https://www.logic-immo.com/detail-annonce/vente/grand-est/marne-51/reims-51100/26FJB9RDRAR2",
+        "sourceId": "IV2-6560",
+        "coproLots": 5,
+        "chargesAnnualEuros": 1680,
+        "feeBearer": "BUYER",
+        "priceExcludingFeesEuros": 350000,
+        "hasElevator": false,
+        "constructionYear": 1920,
+        "dpe": "D",
+        "ges": "D"
+      },
+      "leFigaroProperties": {
+        "url": "https://proprietes.lefigaro.fr/annonces/appartement-marne-champagne%2Bardenne-france/108661205/",
+        "sourceId": "108661205",
+        "chargesAnnualEuros": 1680,
+        "taxeFonciereAnnualEuros": 1236,
+        "dpeKwhPerM2Year": 123,
+        "gesKgCo2PerM2Year": 24
+      }
+    },
+    "notes": "Pending rather than trusted because the same physical duplex is currently advertised by Citya Champagne and Victoria Keys with unresolved material legal and financial discrepancies. The Citya page was freshly fetched and read in full on 2026-10-08. Citya exposes the complete EUR 371,000 seller-fee-inclusive asking price, 91.6 m², five rooms, fourth/top floor of a four-storey building, 25.34 m² séjour, two shower rooms, individual gas radiator heating, nine copropriété lots, EUR 1,670 annual current charges and EUR 1,236 annual property tax. Citya exposes DPE C at 123 kWhEP/m²/year and GES C at 24 kg CO2/m²/year, plus an unusual exact-equal EUR 1,315 to EUR 1,315 annual energy-cost estimate. Lift status is not exposed by Citya and is therefore left unknown rather than inferred. All seven current original Citya gallery files, including every lazy-loaded carousel URL, were downloaded and individually visually inspected at original-source resolution. Images 1 through 5 are coherent complementary real views of the same furnished first-level living/dining/open-kitchen space, showing the fireplace, mouldings, wood floor and internal white stair; image 6 shows the building's common entrance corridor and mailboxes; image 7 shows a wooden communal or circulation stair. No image is labelled virtual staging or AI-generated, and no obvious synthetic edit, house, boat, commercial premises, tenancy document or mismatched stock scene was found. The gallery does not show any of the three bedrooms, either bathroom/shower room or the cellar, so those remain text-supported and not visually confirmed. A current exact-description and dimensional search found Victoria Keys Reims official ref 19292, SeLoger/Logic-Immo ref IV2-6560 and Propriétés Le Figaro ref 108661205 for the same EUR 371,000, 91.56 m², five-room, three-bedroom, fourth-floor hyper-centre duplex with fireplace, open kitchen, cave and 144 m² floor area. Victoria Keys' own current wording reports five copropriété lots, EUR 1,240 annual charges, buyer-paid 6% fees on EUR 350,000 excluding fees and energy values 158/31; Logic-Immo/SeLoger reports five lots, EUR 1,680 annual charges, buyer-paid fees, no lift, construction year 1920 and DPE/GES D; Propriétés Le Figaro reports EUR 1,680 annual charges, EUR 1,236 tax and Citya-matching 123/24 energy values. Citya instead reports nine lots, EUR 1,670 charges, seller-paid fees and C/C. The asking price and physical identity agree, but lot count, legal fee bearer, charges and energy facts do not. This record must remain pending until the mandate/DPE/copropriété documents establish the current facts and the preferred canonical source. The Citya page exposes no labelled publication or update date; search-engine crawl recency is not stored as publicationDate. Full Citya description review found no current tenant, lease, occupied sale, delayed vacancy, viager, bare ownership, fractional ownership, timeshare, auction, starting price, commercial/managed lease, houseboat or ancillary-only sale. Exact source ID and first-photo URL scans across all current reviewed and pending evidence plus the database export found no prior record, and a current active-export near-unit scan for Reims five-room apartments of 84–100 m² priced EUR 320,000–400,000 returned no record. The live cross-source match was nonetheless identified and is the reason this candidate is withheld."
+  }
+]

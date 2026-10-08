@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92153",
+    "externalId": "TAPP142-92153",
+    "observedAt": "2026-10-08T17:09:51Z",
+    "firstSeenAt": "2026-10-08T17:09:51Z",
+    "communeCode": "72181",
+    "priceEuros": 110000,
+    "surface": 59.62,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "publicationDate": "2026-09-10",
+    "chargesAnnualEuros": 1373,
+    "sellerType": "AGENCY",
+    "sellerName": "Citya Termeau Garnier",
+    "sourceTitle": "Appartement à vendre 3 pièces 59.62m² - Le Mans (72)",
+    "sourceDescription": "CITYA TERMEAU GARNIER vous propose en exclusivité cet appartement T3 situé en plein cœur de ville.\n\n\n\nInstallé au calme, au sein d’une cour intérieure, cet appartement bénéficie d’un emplacement privilégié tout en offrant un environnement agréable et préservé des nuisances de la rue. En bon état général et actuellement loué, il représente une opportunité intéressante pour un investisseur à la recherche d’un bien immédiatement occupé.\n\n\n\nL’appartement se développe sur plusieurs niveaux et propose une distribution originale et fonctionnelle.\n\n\n\nDès l’entrée, vous découvrirez un espace accueillant qui dessert un WC indépendant, une pièce de rangement ainsi qu’une cuisine aménagée et équipée. Quelques marches permettent ensuite d’accéder à un séjour-salon surélevé d’environ 20 m², constituant une agréable pièce de vie.\n\n\n\nLe dernier niveau est consacré à l’espace nuit. Un petit palier dessert deux chambres. La première, située sur la gauche, offre une superficie d’environ 9 m². La seconde, située sur la droite, développe environ 11 m² et bénéficie d’un espace dressing permettant de disposer d’un rangement appréciable.\n\n\n\nEntre les deux chambres se trouve une salle de douche équipée d’un sèche-serviettes et bénéficiant d’un Velux, apportant une belle luminosité naturelle à la pièce.\n\n\n\nL’appartement est actuellement loué 652 € par mois charges comprises, ce qui permet à l'acquéreur de bénéficier d'un investissement locatif déjà en place. Le chauffage et la production d’eau chaude sont individuels.\n\n\n\nAutre atout, CITYA TERMEAU GARNIER connaît parfaitement l’immeuble puisqu’elle en assure également la fonction de syndic de copropriété, permettant ainsi un suivi privilégié de la résidence.\n\n\n\nCe bien séduira particulièrement les investisseurs à la recherche d’un appartement en bon état, bénéficiant d’un emplacement central, d’une configuration atypique et d’un locataire déjà en place.\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "photoCount": 11,
+    "photoUrls": [
+      "https://www.citya.com/media/images/agences/biens/142/vente/835bc98e-6a12-40ad-b2d7-5f089f1eaa47.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/aae5d530-3bad-4614-9728-a4eb3be5e418.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/40348796-0e72-4892-91b9-bfe836811c79.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/0fa37853-7270-4775-9800-137161b325a9.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/0986ec74-89db-4a26-8394-36377de4b055.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/c0ffeecf-0a60-4444-80c5-094bd7e803eb.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/d1842cc0-dfb8-4b3c-91d1-a2e830bfa993.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/b71950bb-a09f-4b0f-ae6a-e39e51cfbd59.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/d7cd1480-3356-493d-8e9e-724d60ca91d4.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/8c1bb062-416d-4883-90fc-b67e07b84d09.webp",
+      "https://www.citya.com/media/images/agences/biens/142/vente/454cbbb1-a5a2-4cc0-8bca-d73f7d9ccae5.webp"
+    ],
+    "notes": "Excluded without import: full primary description explicitly states actuellement loue 652 EUR/month charges comprises and locataire deja en place. Definitive current-tenanted sale, outside scope. All11 gallery URLs preserved but photos NOT inspected because complete source wording is decisive; never trusted. Floor2/top2 with internal split levels,1989 building,26lots,individual electric heat,DPE D/GES A. Lift and tax unknown; publication time omitted.",
+    "dpe": "D",
+    "ges": "A",
+    "status": "EXCLUDED_OCCUPIED_PROPERTY"
+  }
+]
