@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-52m2/r2117120",
+    "externalId": "2117120",
+    "observedAt": "2026-10-08T22:41:36.994346+00:00",
+    "firstSeenAt": "2026-10-08T22:41:36.994346+00:00",
+    "reviewedAt": "2026-10-08T22:47:59.309598+00:00",
+    "communeCode": "51454",
+    "priceEuros": 148000,
+    "surface": 52,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Marie-Antoinette Itier-Nunes",
+    "sourceTitle": "Appartement à vendre 3 pièces à Reims (51100), 52 m²",
+    "sourceDescription": "Centre-ville de Reims – Appartement T3 de 52 m²\nSitué dans un quartier dynamique et commerçant du centre-ville de Reims, découvrez cet appartement T3 de 52 m² en loi Carrez et 57 m² au sol, bénéficiant d’un DPE classé D.\n\nDes travaux d’embellissement sont à prévoir, offrant la possibilité de personnaliser le logement selon vos envies.\n\nL’appartement se compose :\n\nd’une entrée,\n\nd’une cuisine indépendante,\n\nd’une salle d’eau,\n\nd’un WC indépendant,\n\nde deux chambres,\n\nd’une pièce de vie agréable.\n\nLa copropriété est récente.\n\nUn bien idéal pour un premier achat ou un investissement locatif, au cœur d’un secteur recherché et proche des commerces et commodités.\n\nJe reste à votre disposition pour organiser une visite\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 5 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 80€ par mois (soit 960 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Marie-Antoinette Itier-Nunes mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 419978713, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-22",
+    "publicationDateEvidence": "Current primary page embedded firstPublishDate; corroborated by JSON-LD Offer.validFrom. Date only; no publication time exposed. Photo folder dates and Offer.priceValidUntil are not publication dates.",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c87aa412f08f59886993c0e99d6b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf9d4cd06b7ee2d190dd87e8.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf9d72a2d94fa3182eabb189.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf8eccbb40dab45bc3f75908.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864ed0e5bb8020ac97c5b914325.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cfa0b20038f9e09628b313c4.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf97d615824a7e78c1ae7d1f.jpg?format=auto&width=1170"
+    ],
+    "chargesAnnualEuros": 960,
+    "ges": "B",
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c87aa412f08f59886993c0e99d6b.jpg?format=auto&width=1170",
+        "sha256": "6bf89b84b558314632314f878d052883c2a6229bcb1f5617dc9866c7351599f1",
+        "observation": "Plan identifies living room, two bedrooms, independent kitchen, shower room and separate WC. No dimensions shown."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf9d4cd06b7ee2d190dd87e8.jpg?format=auto&width=1170",
+        "sha256": "4b55dabb3ca36309e244f87394151c6e67978e3d80571ccdf68edef49322a426",
+        "observation": "Empty room with wood patterned floor, white walls, window and electric radiator."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf9d72a2d94fa3182eabb189.jpg?format=auto&width=1170",
+        "sha256": "22eaab1e9515f5669e3d790454688dc19c8dbce3d44d6cacafbae81cba4ca61d",
+        "observation": "Second empty room with matching wood patterned floor, window and electric radiator."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf8eccbb40dab45bc3f75908.jpg?format=auto&width=1170",
+        "sha256": "9fe7365fc8dd2e2554dbee73b5de4acafad530a5cb4ab1c3ebc564e05d3cf4e9",
+        "observation": "Empty room under sloping ceiling with dormer window and radiator."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864ed0e5bb8020ac97c5b914325.jpg?format=auto&width=1170",
+        "sha256": "a9bc3f6274f71f7f71d4b29780516a25ac96dc1992b1b5669451ff5b9b14c923",
+        "observation": "Independent kitchen under roof with skylight, sink, black cupboards and visible service pipes."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cfa0b20038f9e09628b313c4.jpg?format=auto&width=1170",
+        "sha256": "aebc1ec35e80a10c69bd125bc5acb4bd788dcdb7c01c434e44a50123f640f537",
+        "observation": "Original shower enclosure, tiled walls and visible pipes."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/22/01a0c864cf97d615824a7e78c1ae7d1f.jpg?format=auto&width=1170",
+        "sha256": "a12e46a5cabc582a30b73f1396692a4d3f59406c2f2860e6d1c2f6aa3639719d",
+        "observation": "Matching vanity and basin; shower visible in mirror."
+      }
+    ],
+    "dpe": "D",
+    "reviewStatus": "REVIEWED_APPROVED",
+    "notes": "Full current primary description including all seller legal wording read. Complete listing-specific gallery individually inspected in original sequence; no reliance on similar-item thumbnail galleries. All source IDs and photo identities checked across approved, pending and excluded evidence and all 5549 database exports; no exact matches. Whole purchase price includes seller-paid agency fees, below EUR 400000. No current tenancy, viager, bare/fractional/timeshare ownership, auction/starting/partial price, mandatory commercial/managed lease, ancillary-only property, boat, spam or impossible room/surface combination established in the full wording. Furnishings and empty photos do not establish legal vacancy. Advertiser claims about location, transport, schools, quietness and demand are preserved without independent endorsement. Publication is the explicit source firstPublishDate, date only. ALL 7 images reviewed: one floor plan and six original empty interiors establish coherent living and two bedroom spaces, independent kitchen and shower room. No enhanced-image label or unexplained geometry mismatch observed. Surface is 52 m² Carrez and 57 m² floor area, consistent with roof slopes in photos; use 52 m². Works of embellishment explicitly anticipated. Five copropriété lots, one sale lot, no ongoing proceedings, annual charges EUR 960. DPE D235 / GES B9, diagnostic date 2026-06-12, energy estimate EUR 1120–1560/year as exposed in current primary state. Electric heating and interphone explicitly exposed. Floor number, lift, property tax and construction year are not exposed and are omitted; roof geometry is not a numeric floor fact. Near-size existing Reims PAP G54/1329 is 49 m² T2 with one bedroom, tandem parking and heating included in charges; PAP G54/0793 is 53 m² T2 ground floor in a 2011 residence with 22 m² terrace and parking. Neither matches this T3 with two bedrooms and sloping roof. Local Reims 2025 commune rent references and 2021–2025 DVF apartment metric with 9836 comparables verified before importing for analysis."
+  }
+]

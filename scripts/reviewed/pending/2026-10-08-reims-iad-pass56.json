@@ -1,0 +1,181 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-40m2/r2112105",
+    "externalId": "2112105",
+    "observedAt": "2026-10-08T22:41:37.059741+00:00",
+    "firstSeenAt": "2026-10-08T22:41:37.059741+00:00",
+    "reviewedAt": "2026-10-08T22:47:59.309598+00:00",
+    "communeCode": "51454",
+    "priceEuros": 135000,
+    "surface": 39.69,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Marie-Antoinette Itier-Nunes",
+    "sourceTitle": "Appartement à vendre 3 pièces à Reims (51100), 39.69 m²",
+    "sourceDescription": "À VENDRE EN EXCLUSIVITÉ- REIMS GARE CENTRE\n\nÀ seulement quelques minutes de la gare de Reims Centre et à proximité du futur campus de NEOMA Business School, découvrez ce charmant appartement en triplex de 36,69 m² Loi Carrez (49,69 m² au sol), offrant le confort comme une petite maison au sein d'un environnement calme et préservé.\n\nLes atouts du bien :\nSitué en fond de cour, au calme absolu\nRénovation intégrale récente\nDPE : C\nPetite terrasse privative ensoleillée\n\nDès l'entrée, vous profiterez d'un agréable espace de vie comprenant une cuisine équipée ainsi qu'un toilette indépendant. Cet espace donne directement accès à une charmante terrasse privatve.\n\nAu premier niveau, une spacieuse chambre offre un espace nuit confortable et chaleureux avec sa salle de couche attenante.\n\nAu dernier étage, une seconde chambre ou un bureau selon vos besoins, parfait pour le télétravail ou l'accueil d'un invité.\n\nChauffage individuel par climatisation réversible\nFibre optique\nAccès sécurisé par digicode\n\nIdéal pour un premier achat ou un investissement locatif.\n\nPour plus d'informations ou pour organiser une visite, contactez-moi dès maintenant.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 5 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 70€ par mois (soit 840 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Marie-Antoinette Itier-Nunes mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 419978713, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-21",
+    "publicationDateEvidence": "Current primary page embedded firstPublishDate; corroborated by JSON-LD Offer.validFrom. Date only; no publication time exposed. Photo folder dates and Offer.priceValidUntil are not publication dates.",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367bf81620d8dc34b4bc0f55ceb.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba7296087bebd3c38899cf24.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba303e62ca41176f06c3bd94.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367bac4920744b7277a35a2d865.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba6c860d0f769dbe16671e94.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba913876ad1a93261303b34c.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367bac95f922a90003eaf0df188.jpg?format=auto&width=1170"
+    ],
+    "chargesAnnualEuros": 840,
+    "ges": "A",
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367bf81620d8dc34b4bc0f55ceb.jpg?format=auto&width=1170",
+        "sha256": "070b9408b237265b6799e93b044f8e708a04c6619ae20202a8e8f5f18fb9510c",
+        "observation": "Courtyard terrace with matching exterior entry, ground window and outdoor heat pump unit."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba7296087bebd3c38899cf24.jpg?format=auto&width=1170",
+        "sha256": "d8cf086f79235a31b84912f53dc8c8e85dfd74eed46d1b17d700b3a8519d7820",
+        "observation": "Empty ground living area with fitted kitchenette, oven and wall mounted air conditioning."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba303e62ca41176f06c3bd94.jpg?format=auto&width=1170",
+        "sha256": "9bb4e977eb7b814298912aa925b15a554f1e70316a02898f8e6efefeac942a2b",
+        "observation": "Bedroom seen past built in wardrobe, matching wood patterned flooring and air conditioning."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367bac4920744b7277a35a2d865.jpg?format=auto&width=1170",
+        "sha256": "40294242df21d7662548e61f09fec249927a1adc7e05e50cf7a4d176333f57ca",
+        "observation": "Same bedroom reverse angle with large window and air conditioning."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba6c860d0f769dbe16671e94.jpg?format=auto&width=1170",
+        "sha256": "2eeade212e5906009c6c9a53e48b90a8053c68d17b341360f9715f2771df3599",
+        "observation": "Same bedroom reverse angle towards wardrobe and adjoining shower area."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367ba913876ad1a93261303b34c.jpg?format=auto&width=1170",
+        "sha256": "011458a17ebcd75e4b86bb1906a5f77da253f107e410cf50901a285cc15c2dd1",
+        "observation": "Small vanity and basin with tiled splashback."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/21/01a0c367bac95f922a90003eaf0df188.jpg?format=auto&width=1170",
+        "sha256": "1de6abe7d24fba9a5df902c7ab212f4203a2b6390e3cf6cf5f8f8e3667eaf7c8",
+        "observation": "Matching shower enclosure with tiled walls. Upper bedroom or office and full internal stairs are not independently shown."
+      }
+    ],
+    "dpe": "C",
+    "reviewStatus": "PENDING_CARREZ_SURFACE_CLARIFICATION",
+    "notes": "Full current primary description including all seller legal wording read. Complete listing-specific gallery individually inspected in original sequence; no reliance on similar-item thumbnail galleries. All source IDs and photo identities checked across approved, pending and excluded evidence and all 5549 database exports; no exact matches. Whole purchase price includes seller-paid agency fees, below EUR 400000. No current tenancy, viager, bare/fractional/timeshare ownership, auction/starting/partial price, mandatory commercial/managed lease, ancillary-only property, boat, spam or impossible room/surface combination established in the full wording. Furnishings and empty photos do not establish legal vacancy. Advertiser claims about location, transport, schools, quietness and demand are preserved without independent endorsement. Publication is the explicit source firstPublishDate, date only. ALL 7 photos inspected: courtyard entry/terrace with heat pump, ground fitted kitchenette/living room, multiple views of one bedroom with air conditioning and adjoining shower room. Upper bedroom/office and complete stairs are not independently shown. Structured/header surface 39.69 m² conflicts with full description 36.69 m² Loi Carrez and 49.69 m² floor area. Retain structured 39.69 only as an untrusted candidate value; do not select a definitive Carrez area or compute analysis. Request would require source clarification, not contacted. Triplex explicitly advertised as an apartment in a five-lot copropriété; comme une petite maison is a comparison, not evidence that it is a house. Full price EUR 135000, annual charges EUR 840, no copropriété proceedings. DPE C161/GES A6, diagnostic date 2026-05-06, annual energy EUR 670–930. Construction 1945, reversible individual air conditioning, fibre, digicode and interphone exposed. Structured 10 m² plot area is not assumed to be a legally measured terrace area. Floor, lift and property tax absent and omitted. Near-size existing Laforet 52667729 is a 40 m² two-room duplex on levels 1/2, built 2012 with DPE D192 and one sleeping area; PAP F49/1630 is a two-room third-floor loft with 32 m² Carrez, exposed beams and DPE G. Different layout, diagnosis and construction facts distinguish both."
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-29m2/r2097524",
+    "externalId": "2097524",
+    "observedAt": "2026-10-08T22:41:36.982753+00:00",
+    "firstSeenAt": "2026-10-08T22:41:36.982753+00:00",
+    "reviewedAt": "2026-10-08T22:47:59.309598+00:00",
+    "communeCode": "51454",
+    "priceEuros": 109000,
+    "surface": 29.44,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Nataliya Neau",
+    "sourceTitle": "Appartement à vendre 1 pièce à Reims (51100), 29.44 m²",
+    "sourceDescription": "Reims – Secteur Courlancy / Parc Léo Lagrange – Studio 30 m²\nEmplacement privilégié, idéal pour un investissement locatif ou un premier achat.\nDécouvrez ce studio de 30 m² situé au sein d’une résidence de bon standing, parfaitement entretenue et bénéficiant d’un environnement calme et résidentiel.\nSon emplacement constitue un véritable atout : tramway, parc Léo Lagrange, stade de Reims, NEOMA, URCA et commerces du centre-ville sont accessibles à proximité immédiate.\nLe studio se compose d’une agréable pièce de vie avec coin cuisine, d’une salle d’eau avec WC ainsi que de plusieurs espaces de rangement.\n\nLes atouts du bien :\n\n- Résidence de bon standing, entretenue\n- Emplacement recherché\n- Environnement calme et résidentiel\n- Proximité immédiate du tramway\n- Cave\n- Faibles charges de copropriété\n- DPE : D\n- Secteur bénéficiant d’une demande locative soutenue\n\nInformations complémentaires :\n\n- Charges de copropriété : 82 € / mois\n- Chauffage individuel électrique\n- Taxe foncière : 750 € / an\n\nUn bien particulièrement adapté à un investissement locatif, mais également à un premier achat ou à un pied-à-terre à Reims.\nPour plus d’informations ou pour organiser une visite, contactez-moi directement.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 50 lots au total et faisant l'objet d'une ou plusieurs procédures en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 82.67€ par mois (soit 992 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Nataliya Neau mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 823580105, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-21",
+    "publicationDateEvidence": "Current primary page embedded firstPublishDate; corroborated by JSON-LD Offer.validFrom. Date only; no publication time exposed. Photo folder dates and Offer.priceValidUntil are not publication dates.",
+    "photoCount": 9,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e46ebe022038eb22d23ea458.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e4e2bf5ea830009676937f42.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e576d1db70eae92dca7d57ba.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d0189bfb7027020c55dae0d5be9.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e544ce16a655842bb4ccfdb2.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e4d791b724aeb3624dc5246b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e62508f61fb008591a02ef91.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e53f0770d2ef915623fb2f4a.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e5ff1676e4fb6f27be68a5cf.jpg?format=auto&width=1170"
+    ],
+    "chargesAnnualEuros": 992,
+    "ges": "B",
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e46ebe022038eb22d23ea458.jpg?format=auto&width=1170",
+        "sha256": "64776b74a64a14a9775cd31afea9879bcf63670ed1ee7821a4f4fedf405a6c9a",
+        "observation": "Furnished studio with bed, armchair, desk, wardrobe and glazed partition to kitchen."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e4e2bf5ea830009676937f42.jpg?format=auto&width=1170",
+        "sha256": "5843ed518e89f5599230bcc39427a57cfeacd4a1c749ca972ba9bb2cc1c052c9",
+        "observation": "Kitchen explicitly labelled Amélioré avec l’IA par nodalview shows proposed fitted cupboards and appliances."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e576d1db70eae92dca7d57ba.jpg?format=auto&width=1170",
+        "sha256": "510db20d27920cf25cc5beb1281d2a05083436f3335e80363337d47781bfab98",
+        "observation": "Original same kitchen is empty with shelves, heater and exposed service points; image 2 is not evidence of an installed kitchen."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d0189bfb7027020c55dae0d5be9.jpg?format=auto&width=1170",
+        "sha256": "57517ab533f4adb73d0f264e508ab25a7bc15edcfc25ee7719834b73698f33a0",
+        "observation": "Matching reverse studio view with same furnishings and entrance door."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e544ce16a655842bb4ccfdb2.jpg?format=auto&width=1170",
+        "sha256": "4743eedcae74974df81d6c17544e33deab719873e0ac5d2b37380f094adf12c6",
+        "observation": "Shower room with WC, basin, tiled floor and towel heater."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e4d791b724aeb3624dc5246b.jpg?format=auto&width=1170",
+        "sha256": "564daeadc45db022ee839a8501d7acb9d3aae1df5ba404908fe48c2a34a44270",
+        "observation": "Entry and storage area with matching wood floor and furniture."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e62508f61fb008591a02ef91.jpg?format=auto&width=1170",
+        "sha256": "48a6ab5333e2c6d770225ad41079045b96d8d6c4c5fed45a65e84254c9fdd05e",
+        "observation": "View over roofs, trees and parking; does not prove any parking entitlement."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e53f0770d2ef915623fb2f4a.jpg?format=auto&width=1170",
+        "sha256": "6efc6367b8e9298cbc27a53a10442e982fa4ec79756f2784a582a8bc3f107a10",
+        "observation": "Common entrance hall with mailboxes."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/29/01a04d01e5ff1676e4fb6f27be68a5cf.jpg?format=auto&width=1170",
+        "sha256": "5335aebc8daae2801c16822c1d2457a8447ae828f0be1e300cc245f7e6c3531c",
+        "observation": "Apartment building facade, entrance numbered 32; no street inferred."
+      }
+    ],
+    "floor": 3,
+    "hasElevator": true,
+    "taxeFonciereAnnualEuros": 750,
+    "reviewStatus": "PENDING_DPE_AND_COPROPRIETE_CLARIFICATION",
+    "sourceEnergyEvidence": {
+      "descriptionDpe": "D",
+      "widgetDpe": "E",
+      "primaryStateDpe": "E",
+      "primaryStateConsumption": 285,
+      "primaryStateGes": "B",
+      "primaryStateGesConsumption": 9,
+      "diagnosticDate": "2022-06-20"
+    },
+    "notes": "Full current primary description including all seller legal wording read. Complete listing-specific gallery individually inspected in original sequence; no reliance on similar-item thumbnail galleries. All source IDs and photo identities checked across approved, pending and excluded evidence and all 5549 database exports; no exact matches. Whole purchase price includes seller-paid agency fees, below EUR 400000. No current tenancy, viager, bare/fractional/timeshare ownership, auction/starting/partial price, mandatory commercial/managed lease, ancillary-only property, boat, spam or impossible room/surface combination established in the full wording. Furnishings and empty photos do not establish legal vacancy. Advertiser claims about location, transport, schools, quietness and demand are preserved without independent endorsement. Publication is the explicit source firstPublishDate, date only. ALL 9 photos inspected. Matching original furnished studio, entry/storage, shower room/WC, common hall, facade and roof/parking outlook support plausible studio geometry. Photo 2 explicitly labelled Amélioré avec IA par nodalview depicts fitted kitchen cupboards/appliances; original photo 3 shows empty kitchen with shelves and service points. Proposed kitchen must not be described as installed. Full description says DPE D while current energy widget and primary state say E285/GES B9, diagnostic date 2022-06-20. Omit definitive DPE pending clarification; no trusted import or analysis. Annual energy EUR 576–780 exposed. Source describes ongoing copropriété procedures with 50 lots and two sale lots; nature, stage and financial impact unknown. Monthly charges narrative EUR 82 versus statutory EUR 82.67 / EUR 992 annual; preserve statutory 992 as source-attributed candidate, not harmonized. Property tax EUR 750/year, floor 3, lift, 1986 building, electric heating, cave, fibre, digicode/interphone explicitly exposed. Exact address omitted; facade number alone does not establish a street. Existing PAP G54/1319 is 30.83 m² near boulevard Lundy in a 1991 building, DPE C and EUR 600 charges / EUR 895 tax; materially distinct from this Courlancy E285/1986/992/750 studio. No legal occupancy conclusion from furnishings."
+  }
+]
