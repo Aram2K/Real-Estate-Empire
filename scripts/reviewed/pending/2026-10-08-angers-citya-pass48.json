@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967740",
+    "observedAt": "2026-10-08T16:53:14Z",
+    "communeCode": "49007",
+    "priceEuros": 237000,
+    "surface": 63.63,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "sourceTitle": "Appartement à vendre 3 pièces 63.63m² - Angers (49)",
+    "sourceDescription": "À vendre à Angers, dans le quartier prisé des Hauts de Saint-Aubin, découvrez ce charmant appartement de 73,97 m² situé au 3ème étage. Ce bien offre deux chambres spacieuses, idéales pour un couple ou une petite famille. Profitez d'une salle de bain moderne et d'une excellente isolation thermique grâce à un DPE classé C.\n\n\n\nIdéalement situé, vous serez à seulement 4 minutes à pied de l'arrêt de bus Aquavita, desservi par les lignes 5, 33, 37, 181, 411, et E21, facilitant vos déplacements quotidiens. Les gares d'Angers St-Laud et Angers Maître-École sont également à proximité, à 4 minutes en voiture.\n\n\n\nProposé à 237 000€, cet appartement est une opportunité à ne pas manquer pour vivre confortablement dans un cadre agréable et bien desservi. Contactez-nous pour organiser une visite.\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "sellerType": "AGENCY",
+    "sellerName": "Citya Saint Laud",
+    "photoCount": 10,
+    "photoUrls": [
+      "https://www.citya.com/media/images/agences/biens/139/vente/ee9a49a6-818a-4c10-b2fd-74fe2da98629.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/e2891ca0-58ab-4736-a863-b92660781160.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/3f79cd97-73f8-4fc5-9c3f-402609b6e949.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/df5d347a-e1ce-4d2b-91bd-19edf390da6c.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/f7d92782-710b-4f14-a616-0634ffbac6b6.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/7a5284a5-e256-44aa-9944-28b6b1ee4c2d.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/284f3750-4803-4a8b-badf-fefbfac081fe.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/16204664-223a-4cd3-98bf-8eb9ec0d1ff9.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/eed1e227-0fe7-435b-abf2-540ca3884d37.webp",
+      "https://www.citya.com/media/images/agences/biens/139/vente/e4070609-4d87-4e6d-8554-5a753cac127c.webp"
+    ],
+    "dpe": "C",
+    "ges": "C",
+    "reviewStatus": "PENDING_SOURCE_FACT_CONFLICT",
+    "floor": 3,
+    "publicationDate": "2026-10-07",
+    "chargesAnnualEuros": 18000,
+    "taxeFonciereAnnualEuros": 130,
+    "sourceSurfaceConflict": {
+      "headlineAndSchemaM2": 63.63,
+      "descriptionM2": 73.97
+    },
+    "notes": "Pending: newest primary source publication label 7 October 2026. Whole asking price EUR 237,000 with seller fees, third/top floor of three, 2016 building, Hauts de Saint Aubin, two bedrooms, individual gas heating and DPE C/GES C. Full description read; no occupied/tenanted or special-sale wording found, but vacancy is unconfirmed. Current headline/schema surface is 63.63 m2 while description says 73.97 m2. Source also shows EUR 18,000 annual copropriete charges, only two total lots and EUR 130 annual property tax. These exposed inconsistencies are preserved without correcting them or guessing a decimal swap. All ten exact source gallery images individually inspected: 1-2 exterior pedestrian path/residence, 3-4 matching furnished living/open kitchen, 5 matching dark fitted kitchen/boiler, 6 balcony, 7 roof/street view, 8 double bedroom, 9 distinct smaller bedroom with bed/cat furniture, 10 bath/laundry room. Photos provide internally coherent apartment evidence and carry no AI labels, but cannot resolve floor area or charge/tax figures. Furnishings are not proof of tenancy. ID absent from all reviews/pending/export. The previous PAP 60.6 m2 Hauts de Saint Aubin advert is a possible broad-area lead but has EUR 210,000 price, EUR 1440 annual charges and EUR 1627 tax; physical-unit identity is not settled while this source area conflicts. Keep pending until area/charges/tax and any potential cross-source match are confirmed. Bus/rail times in wording are advertiser claims only. Lift not exposed; unknown. Not imported or analyzed."
+  }
+]
