@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-rouen-72m2/r2121633",
+    "externalId": "r2121633",
+    "priceEuros": 229000,
+    "surface": 72.44,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "communeCode": "76540",
+    "sourceTitle": "Vente appartement à Rouen (76000) : appartement 4 pièces 72 m² - 2121633 - iad",
+    "sourceDescription": "Dans un quartier recherché de Rouen, à proximité de la gare et des écoles, découvrez cet appartement T4 de 72,4 m², situé au 3ᵉ étage avec ascenseur d’une résidence bien entretenue.\n\nRénové avec goût, il se compose d’une entrée avec placards, d’une cuisine de 10 m² ouverte sur un séjour-salon de 30 m² avec accès à un balcon exposé sud-est, de deux chambres, d’une salle de bains et d’un WC indépendant.\n\nLe bien est vendu avec une cave ainsi qu’un droit d’accès aux stationnements libres de la résidence.\n\nLes + :\n\n- Appartement rénové : électricité, double vitrage, cuisine\n- Belle vue dégagée\n- Bel espace de vie de 30 m²\n- 2 chambres avec possibilité d’en créer une 3ᵉ\n- Balcon exposé sud-est\n- Cave et stationnement libre\n- Résidence avec ascenseur\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 78 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 193.6€ par mois (soit 2323.2 € annuel). Honoraires d'agence à la charge du vendeur.\n\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\n\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Matthieu Parrad mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rouen sous le numéro 842428179, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS. Réf : 2121633",
+    "sellerType": "AGENCY",
+    "sellerName": "Matthieu Parrad - iad France",
+    "photoCount": 3,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/25/01a0d96406506c1931f16a418ba9f9df.jpg?format=jpeg&width=1200",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/25/01a0d96407303dcab7431cc431ee2f6b.jpg?format=jpeg&width=1200",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/25/01a0d9640b062ddbf5a45c26e595133d.jpg?format=jpeg&width=1200"
+    ],
+    "observedAt": "2026-10-08T08:22:10Z",
+    "firstSeenAt": "2026-10-08T08:22:10Z",
+    "dpe": "E",
+    "ges": "D",
+    "floor": 3,
+    "hasElevator": true,
+    "chargesAnnualEuros": 2323.2,
+    "notes": "IAD France primary agency detail, reference r2121633; current page advertises whole-apartment price EUR 229,000 with seller-paid agency fees. The page’s Schema.org Offer has validFrom 25/09/2026, but this is not explicitly labelled as a publication date; publicationDate is therefore left null. Source explicitly states third floor with lift; DPE E and GES D are shown in the page’s energy diagnostics; 78 copropriété lots and no ongoing procedure. Downloaded the three source-exposed r2121633 gallery images using their exact image URLs and visually inspected all three: the photographs coherently show furnished living-room and bedroom interiors and the balcony/view matching the stated property; none is a rendering or unrelated building photo. The advert does not state a sale with occupation or tenancy. No mention of a tenant, lease, managed residence, special ownership, auction, starting/partial price, or department 75. Full reviewed JSON and all 12 database-export chunks checked for exact reference/URL; no exact record. Near-unit check found two Rouen listings around 70 m²: PAP ref G53/1760 is a lower-priced courtyard duplex on Rive Droite (no balcony, no lift fact exposed), and Century 21 ref 34161 is a ground-floor Docks 76 unit with terrace and parking; their location/plan/features and prices differ from this third-floor south-east-balcony listing. No same-unit cross-list located. Root also compared the actual IAD balcony photo with the retained actual Figaro/Diez photo for pending GDC75m2 advert60645dfa: IAD has white open vertical railings with a nearby church facade, while Diez has a solid concrete parapet with a green handrail and a more distant cathedral view. The distinct balcony geometry/outlook and different charges support separate dwellings; the pending GDC candidate is not treated as this IAD unit."
+  }
+]
