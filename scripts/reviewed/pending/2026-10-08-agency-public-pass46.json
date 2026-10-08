@@ -1,0 +1,30 @@
+[
+  {
+    "reviewStatus": "CONFIRMED_DUPLICATE",
+    "url": "https://fr.foncia.com/achat/le-mans-72/appartement/00866323.htm",
+    "matchedCentury21Url": "https://www.century21.fr/trouver_logement/detail/15436783726/",
+    "observedAt": "2026-10-08T10:36:47+02:00",
+    "publishedAt": "2026-09-30T09:30:10.950Z",
+    "communeCode": "72181",
+    "priceEuros": 139900,
+    "surface": 73.51,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 5,
+    "hasElevator": false,
+    "dpe": "D",
+    "ges": "D",
+    "sourceTitle": "À vendre Appartement 4 pièces 73.51 m² - Le Mans 72000",
+    "sourceDescription": "À découvrir dans le secteur recherché de Chasse Royale / Rubillard, ce bel appartement T4 de 74 m² offre un cadre de vie agréable, fonctionnel et immédiatement habitable.\n\nParfaitement entretenu, l’appartement ne nécessite aucun travaux : vous pourrez vous installer ou le mettre en location sans attendre. Ses volumes bien répartis et sa configuration permettent de profiter d’un logement confortable, lumineux et adapté aussi bien à une résidence principale qu’à un projet d’investissement.\n\nUn véritable atout pour les investisseurs : la location de type Airbnb est autorisée dans la copropriété, offrant ainsi une possibilité supplémentaire d’exploitation du bien.\n\nPour compléter l’ensemble, l’appartement bénéficie également d’une place de stationnement privative ainsi que d’une cave, particulièrement appréciables au quotidien.\n\nAvec ses 74 m², son absence de travaux, son stationnement, sa cave et la possibilité de location courte durée, cet appartement réunit de nombreux critères recherchés sur le secteur.\n\nUn bien complet et prêt à vivre, à découvrir rapidement !",
+    "sellerName": "Foncia Transaction Le Mans — Léa MINIER",
+    "photoCount": 4,
+    "photoUrls": [
+      "https://storage.fonciamillenium.net/thumbnail/6abb73c584c1b1714e5b6bbd/1/1920/1024",
+      "https://storage.fonciamillenium.net/thumbnail/6abb73ccbe41b782a909f555/1/1920/1024",
+      "https://storage.fonciamillenium.net/thumbnail/6abb73cf2f4d25bc2b6dbc83/1/1920/1024",
+      "https://storage.fonciamillenium.net/thumbnail/6abb73cbb06c65590db3291b/1/1920/1024"
+    ],
+    "sellerType": "AGENCY",
+    "notes": "Confirmed same-unit cross-source duplicate of the active Century 21 record https://www.century21.fr/trouver_logement/detail/15436783726/ and must not create another listing or property. The complete Foncia source record and description were read. All four source gallery files were downloaded and individually visually inspected at original-source resolution: image 1 shows the fitted kitchen; image 2 the living and dining room; images 3 and 4 two bedrooms. They are coherent real residential scenes with matching high-floor outlooks, no virtual-staging label and no bot, house, houseboat or commercial-premises evidence. The retained Century 21 kitchen image was also downloaded and visually inspected. It is the same kitchen as Foncia image 1, with identical cabinet fronts and handles, worktop, sink and window geometry, oven, hob, extractor, refrigerator, radiator, microwave and coffee machine. The sources also match on the unusually exact EUR 139,900 price, 73.51 m2 area, floor 5 and DPE assessment date 2 March 2026, making the same-unit identity decisive. Foncia source facts expose four rooms, three bedrooms, floor 5, no lift, a 1976 building, collective heating, DPE D at 231 kWhEP/m2/year, GES D at 49 kg CO2/m2/year and EUR 1,380 to EUR 1,910 estimated annual energy cost indexed over 2021 through 2023. The full EUR 139,900 price is a conventional complete apartment price. The source API explicitly labels datePublication 2026-09-30T09:30:10.950Z; this primary-source time is preserved. It separately reports lastUpdateDate 2026-09-30T07:48:07.246Z, earlier than publication, so that backend timestamp is not promoted into another user-facing date. Important source conflicts are preserved rather than silently reconciled: Foncia structured flags say no lift, cave unavailable and copro false even though its own narrative says the apartment includes a private parking place and cave and that Airbnb is permitted in the copropriété. The existing Century 21 record says two bedrooms, lift, cellar, parking, 108 copropriété lots, EUR 3,900 annual charges and EUR 1,215 property tax. Foncia exposes none of those cost or legal-lot figures and does not support replacing the retained source-attributed values. The narrative contains no tenant, occupied sale, viager, bare ownership, auction, managed lease or partial-price condition, but qualification is irrelevant because the physical unit is already represented."
+  }
+]

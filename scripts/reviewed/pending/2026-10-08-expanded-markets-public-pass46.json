@@ -1,0 +1,81 @@
+[
+  {
+    "status": "PENDING",
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-60m2/r2095134",
+    "externalId": "r2095134",
+    "priceEuros": 232000,
+    "surface": 60,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "communeCode": "86194",
+    "sourceTitle": "Vente appartement à Poitiers (86000) : appartement 3 pièces 60 m² - 2095134 - iad",
+    "sourceDescription": "Dans une résidence sécurisée, située sur Poitiers à proximité du parc de Blossac. Venez découvrir cet agréable appartement rénové de 60 m², situé au rez-de-chaussée, offrant un cadre de vie confortable et fonctionnel. Dès l’entrée, vous découvrirez un séjour lumineux de 18 m², offrant un espace de vie agréable et bien proportionné. La cuisine équipée et réalisée par un cuisiniste complète cet ensemble et vous permettra de profiter d’un espace pratique au quotidien. Côté nuit, l’appartement dispose de deux chambres, dont une confortable chambre de près de 12 m². Une salle d’eau ainsi que des WC indépendants viennent compléter l’agencement. Vous apprécierez également la terrasse, idéale pour profiter d’un espace extérieur aux beaux jours et au coeur d'un parc boisé privatif. Pour votre confort, le bien dispose d’un parking privatif, d’un chauffage électrique individuel, d’une VMC et d’un interphone. La résidence bénéficie également d’un dispositif de sécurité avec alarme. LES + DU BIEN Appartement rénové 60 m² habitables 2 chambres Terrasse Parking privatif Résidence sécurisée Cuisine équipée WC indépendants Rez-de-chaussée Un bien fonctionnel et agréable, idéal pour une résidence principale. La presente annonce immobiliere vise 1 lot situé dans une copropriété de 40 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 110.25€ par mois (soit 1323 € annuel). Honoraires d'agence à la charge du vendeur. La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr. La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Anthony Joly mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 931264097, titulaire de la carte de démarchage immobilier pour le compte de la société i@d France SAS.",
+    "sellerType": "AGENCY",
+    "sellerName": "Anthony Joly - iad France",
+    "photoCount": 3,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/05/01a07116d9cd8fc6a73464faf56aa275.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/05/01a07116de01ecd07854a32608cc9c83.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/05/01a07116e63ecaf36f266912f51dc889.jpg?format=auto&width=1170"
+    ],
+    "observedAt": "2026-10-08T08:45:17Z",
+    "firstSeenAt": "2026-10-08T08:45:17Z",
+    "publishedAt": null,
+    "publicationDate": null,
+    "floor": 0,
+    "hasElevator": null,
+    "dpe": null,
+    "ges": null,
+    "chargesAnnualEuros": 1323,
+    "crossListedUrls": [
+      "https://immobilier.lefigaro.fr/annonces/annonce-108872737.html",
+      "https://www.lesiteimmo.com/acheter/appartement-3pieces/poitiers-86000/33828646"
+    ],
+    "notes": "PENDING — IAD primary page Schema.org Offer says validFrom 16/09/2026; it is not labelled a publication date, so publicationDate stays null. The exact whole-apartment price is EUR 232,000 and the primary advert states seller-paid agency fees. Page explicitly says ground floor; elevator is not stated. Exact source ID r2095134 and every reviewed JSON/export chunk were checked; no exact database/evidence record. Exact same-unit cross-listings located: Figaro Immobilière ref IMBX/2095134-2095134 at 60 m²/EUR 232,000 and LeSiteImmo ref 2095134 at the same price/area, same Anthony Joly wording and features; these duplicate the IAD source and do not count as separate records. Near-unit reviewed Poitiers 58.93 m² Guy Hoquet ref 1792542 is distinct: second/top floor in a 2007 building, west balcony and two parking spaces at EUR 111,000, versus this ground-floor renovated 60 m² apartment with terrace and one private parking space. Downloaded and visually inspected all three exact IAD photo URLs: they show only the apartment block exterior and the wooded/landscaped courtyard/terrace area; no interior view is exposed in these three images. Pending because this does not provide positive photo evidence of the advertised apartment interior. No forbidden ownership/lease, auction, partial/starting price or commercial terms found in the full IAD wording."
+  },
+  {
+    "status": "PENDING",
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-78m2/r2111912",
+    "externalId": "r2111912",
+    "priceEuros": 167000,
+    "surface": 78,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "communeCode": "86194",
+    "sourceTitle": "Vente appartement à Poitiers (86000) : appartement 4 pièces 78 m² - 2111912 - iad",
+    "sourceDescription": "Appartement T4 – 78 m² – 3 chambres – Poitiers bas du centre-ville sans vis à vis. À découvrir à Poitiers, dans le bas du centre-ville, à proximité de la Promenade des Cours et de l’Îlot Tison, cet appartement de 78 m² bénéficie d’un environnement agréable et verdoyant, tout en restant proche du cœur de ville et de ses commodités. Situé en rez-de-chaussée surélevé d’une résidence construite en 1975, il offre un agencement fonctionnel avec une vraie séparation entre les espaces jour et nuit. L’entrée dessert un séjour lumineux, permettant d’aménager facilement un espace salon et salle à manger, ainsi qu’une cuisine séparée, aménagée et équipée, disposant de nombreux rangements. La partie nuit se compose de trois chambres, offrant différentes possibilités selon vos besoins : chambres d’enfants, chambre d’amis ou espace de télétravail. Une salle de bains et un WC indépendant complètent l’ensemble. L’appartement dispose également d’une cave, pratique pour le stockage, ainsi que d’un stationnement extérieur au sein de la résidence. Côté environnement, la résidence bénéficie d’un agréable jardin commun en bordure du Clain. La proximité de l’Îlot Tison, de la Promenade des Cours et du parc de Blossac permet de profiter facilement de beaux espaces de promenade et de détente, tout en restant à proximité du centre-ville. Un appartement aux beaux volumes et à l’agencement fonctionnel, à découvrir pour sa situation et son cadre de vie. Caractéristiques : Surface : 78 m² 3 chambres Cuisine aménagée et équipée Salle de bains WC indépendant Cave Stationnement extérieur Chauffage collectif au gaz Eau chaude collective Charges de copropriété : 400 € / mois, comprenant notamment le chauffage et l’eau chaude Taxe foncière : 1 158 € DPE : G La presente annonce immobiliare vise 3 lots situés dans une copropriété de 221 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 400€ par mois (soit 4800 € annuel). Honoraires d'agence à la charge du vendeur. La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr. La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Virginie Thillet mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 880515713, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "sellerType": "AGENCY",
+    "sellerName": "Virginie Thillet - iad France",
+    "photoCount": 13,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/16/01a0a9a086f022c24420eb8345ef8c36.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/16/01a0a9a08ae402f9b110b95bdde4f005.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/16/01a0a9a0857b90b4c7b69c5de3eaf077.jpg?format=auto&width=1170",
+      "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/41/c5/L2JpZW5zLzMzODMwMjU1L3g2YWMwMGM2MjZmN2Q0PzIwMjYxMDAzMDczNDM2_rct?func=crop&w=1000&gravity=auto",
+      "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/9e/75/L2JpZW5zLzMzODMwMjU1L3g2YWMwMGM2MjZmN2Q4PzIwMjYxMDAzMDczNDM2_rct?func=crop&w=1000&gravity=auto",
+      "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/b0/98/L2JpZW5zLzMzODMwMjU1L3g2YWMwMGM2MjZmN2RhPzIwMjYxMDAzMDczNDM2_rct?func=crop&w=1000&gravity=auto",
+      "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/ba/6a/L2JpZW5zLzMzODMwMjU1L3g2YWMwMGM2MjZmN2Q2PzIwMjYxMDAzMDczNDM2_rct?func=crop&w=1000&gravity=auto",
+      "https://img.paruvendu.fr/media_ext/_https_/media.studio-net.fr/dc/82/L2JpZW5zLzMzODMwMjU1L3g2YWMwMGM2MjZmN2QwPzIwMjYxMDAzMDczNDM2_rct?func=crop&w=1000&gravity=auto"
+    ],
+    "observedAt": "2026-10-08T08:45:17Z",
+    "firstSeenAt": "2026-10-08T08:45:17Z",
+    "publishedAt": null,
+    "publicationDate": null,
+    "floor": 0,
+    "hasElevator": null,
+    "dpe": "G",
+    "ges": "G",
+    "chargesAnnualEuros": 4800,
+    "sourceUpdateLabel": "ParuVendu page: Mise à jour 03/10/2026 à 07:34",
+    "crossListedUrls": [
+      "https://www.paruvendu.fr/immobilier/vente/appartement/1295432489A1KIVHAP000",
+      "https://www.seloger.com/annonce/achat/nouvelle-aquitaine/vienne-86/poitiers-86000/263WG7KKQMYS",
+      "https://immobilier.lefigaro.fr/annonces/annonce-108873045.html",
+      "https://www.lesiteimmo.com/acheter/appartement-4pieces/poitiers-86000/33830255"
+    ],
+    "notes": "PENDING — IAD primary page Offer validFrom is 16/09/2026 but is not labelled as a publication date. ParuVendu same-unit listing ref 992790520804 explicitly shows last update 03/10/2026 07:34, not publication time. Exact source ID r2111912 and URL were searched in every reviewed evidence JSON, all 12 database-export chunks, and pending records; no existing exact record. Exact same-unit cross-lists confirmed by matching IAD ref 2111912, identical full ad text, EUR 167,000, 78 m², agent Virginie Thillet and the same 13-photo gallery: ParuVendu 1295432489A1KIVHAP000, SeLoger 263WG7KKQMYS, Figaro 108873045 and LeSiteImmo 33830255. Near-unit checks: reviewed ParuVendu/PAP 78.7 m², EUR 98,500, Couronneries, third floor with lift, balcony and distinct layout is a different unit; pending GDC 71 m² EUR 220,000 candidate's cross-list is upper Grand-Rue/plateau on third/top floor, also distinct. This source says rez-de-chaussée surélevé; floor stored as 0, no lift is stated; DPE G is shown on IAD and GES G on the matching ParuVendu listing. IAD detail page advertises 13 photos but initially exposes three direct gallery URLs; exact ParuVendu page exposes five additional image URLs. Downloaded and visually inspected all eight source-exposed URLs (five unique scenes across both sources): furnished living room in two views, fitted kitchen in two views, and the apartment block exterior; these are coherent residential listing photos and provide positive interior evidence. The remaining advertised gallery URLs are not exposed in the public page source I could access, so the candidate remains pending until the full 13-photo gallery can be reviewed. No forbidden sale/tenancy/managed/commercial terms found in the complete source wording."
+  }
+]
+

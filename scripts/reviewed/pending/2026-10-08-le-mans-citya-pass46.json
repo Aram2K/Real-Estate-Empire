@@ -1,0 +1,15 @@
+[
+  {
+    "reviewStatus": "PENDING_OCCUPANCY_CONFIRMATION",
+    "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949657",
+    "observedAt": "2026-10-08T08:39:30.057850Z",
+    "communeCode": "72181",
+    "priceEuros": 73000,
+    "surface": 29.62,
+    "rooms": 1,
+    "sourceTitle": "Appartement à vendre 1 pièce 29.62m² - Le Mans (72)",
+    "sourceDescription": "Spécial investisseur – Opportunité d’investissement au Mans !\n\nSitué dans le quartier Malpalu, au 2ᵉ étage d’une résidence de 6 étages, cet appartement de 29,62 m² constitue une opportunité intéressante pour un investisseur à la recherche d’un bien à budget maîtrisé.\n\nConstruit en 1972 et en bon état général, cet appartement se compose d’une agréable pièce de vie de près de 21 m², d’une cuisine, d’une salle de bains, d’un WC indépendant et d’un dégagement.\n\nLes atouts du bien :\n\nSurface habitable : 29,62 m²\n2ᵉ étage sur 6\nUne pièce principale\nChauffage collectif urbain\nEau chaude collective\nFenêtres en bois avec simple vitrage\nBon état général\n\nInformations financières :\n\nProposé au prix de 73 000 €, cet appartement bénéficie d’un loyer mensuel hors charges de 416,86 €, soit 491,86 € charges comprises. Les charges de copropriété s’élèvent à 1 243,82 € par an et la taxe foncière à 650 €.\n\nCe bien représente une opportunité à étudier pour un investisseur souhaitant développer son patrimoine immobilier et bénéficier de revenus locatifs.\n\nUn investissement à découvrir au Mans, dans le quartier Malpalu !\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "publicationDate": "2026-09-28",
+    "notes": "The full text targets investors and says the apartment benefits from EUR416.86 monthly rent excludingcharges /491.86 includingcharges. This suggests current rentalincome but no explicit vacancy or tenancy endpoint is exposed. Do not infer an unoccupied direct purchase or import a trusted listing. Photo evidence not reviewed because occupancy must first be clarified. Structured floor2,DPE E/GES E,charges1243.82/tax650,161totalcopropriete lots are source facts; further review required."
+  }
+]
