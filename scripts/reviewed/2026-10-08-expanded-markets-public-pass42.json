@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-poitiers-86000-r465300355",
+    "observedAt": "2026-10-08T00:27:57+02:00",
+    "communeCode": "86194",
+    "priceEuros": 98500,
+    "surface": 78.7,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": true,
+    "publicationDate": "2026-09-24",
+    "photoCount": 12,
+    "photoUrls": [
+      "https://cdn.pap.fr/photos/pap/13/20/1320282136b882d30461ebe453c5d871/1-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/3e/e7/3ee7ffc6ac74cef96fda873a68ff4bfc/3-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/d4/d6/d4d6a3b42dcdebc7f8e74bdd45f08916/d-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/d2/54/d2542b9a57d6f54964bd6462cd0a8cf2/d-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/dd/b4/ddb4d5f3461137c909155b0fcae13fd3/d-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/30/6d/306d4cfb0ef7b6ced7eb6f920ed816d8/3-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/f9/8f/f98f328784c4e5b25757065319401159/f-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/4a/33/4a33022832482b5c82c5e4832ae48aff/4-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/12/66/1266200d9045439bff627cbe3b88cea0/1-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/3a/9d/3a9d98e3a6da5d51f522d14fefaef8f7/3-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/06/06/0606283e754363d8df5f6e14cf57c51c/0-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/f4/90/f4900d0a30a504a061074c3dc9fec8ab/f-p1.jpg"
+    ],
+    "sellerType": "INDIVIDUAL",
+    "sourceTitle": "Vente appartement 4 pièces 79 m² Poitiers (86000) 98.500 €",
+    "sourceDescription": "Appartement T4 de 78,7 m², situé au 3ᵉ étage avec ascenseur, dans le quartier des Couronneries à Poitiers.\nIl comprend un séjour, une cuisine, trois chambres, une salle de bains et des wc. Un balcon de 5,9 m² ainsi qu’une cave complètent le bien.\nLe logement bénéficie d’un chauffage collectif et d’une VMC neuve.\nEnvironnement pratique avec commerces, supermarché, pharmacie, boulangerie, écoles maternelles et primaires à proximité. Le quartier est bien desservi par le réseau de bus Vitalis, permettant notamment de rejoindre facilement le centre-ville de Poitiers. Le centre aquatique de la Pépinière et plusieurs équipements sportifs se trouvent également à proximité.\nNombreuses places de stationnement gratuites devant la résidence. Possibilité également d’acquérir séparément une place de parking couverte au sein de la résidence.\nAppartement fonctionnel, adapté à une famille, un premier achat ou un investissement locatif.\nVisites sur rendez-vous.",
+    "notes": "Re-reviewed 2026-10-08 00:27:57 Europe/Paris. Existing database record first seen 2026-10-05T11:34:52Z. PAP listing reference G53/0355. The source's detail page exposes EUR 98,500 as the full price of the apartment (78.7 m², 4 rooms), on the third floor with elevator; the listing header rounds surface to 79 m². A separate covered parking space is optional, while numerous free spaces are available outside; that ancillary optional space is not included in the apartment price and is not represented as an included component. Source says the advert is only on PAP; exact source ID r465300355 already exists in the database and is enriched by source-ID upsert rather than counted as a new listing. Twelve source-exposed PAP image URLs were downloaded and visually inspected: living-room and balcony, other living-room angle, bedroom, bathroom, kitchen (two angles), balcony, entry hall (two angles), and two further bedroom views. Every image depicts the same residential apartment; no stock/spam photos. The detail page displayed publication date 24 September 2026; a later PAP search-index result showed 1 October 2026 for the same ref, so the publication-date discrepancy is noted and the directly opened detail-page date is retained here. No publication time is exposed. No DPE/GES class or value is selected/exposed in the page text. Full description contains no tenant/lease/occupancy, managed/commercial use, viager, bare ownership, timeshare, fractional, auction, starting price, or other special-sale term."
+  },
+  {
+    "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r462503193",
+    "observedAt": "2026-10-08T00:27:57+02:00",
+    "communeCode": "35238",
+    "priceEuros": 279000,
+    "surface": 70,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "dpe": "C",
+    "publicationDate": "2026-10-01",
+    "photoCount": 8,
+    "photoUrls": [
+      "https://cdn.pap.fr/photos/pap/24/62/2462048f0e6fc1b7945510c0a520acd9/2-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/ca/53/ca5334b27b4b6e3b408b3ef49d26de4f/c-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/a4/b7/a4b763a5d7d016d0b7c91e00a283cb77/a-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/66/c7/66c7e1cfb1d6c9af58c536afb4dd2a4b/6-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/58/dd/58dda2340ee639bc652431d42b5312f3/5-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/55/75/5575fff281e3f6b351c1d11714d05ae1/5-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/8a/74/8a74575c6823a64a0e5c14c71d63efe9/8-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/e8/38/e838e857cd2ac5dad37ff13bfb772d80/e-p1.jpg"
+    ],
+    "sellerType": "INDIVIDUAL",
+    "sourceTitle": "Vente appartement 3 pièces 70 m² Rennes (35000) 279.000 €",
+    "sourceDescription": "Vente de particulier à particulier. Appartement idéalement situé dans une rue à sens unique à proximité immédiate de la gare à pied, et des métros.\nAppartement T3 traversant, exposé est-ouest. Situé dans une petite copropriété de 4 étages entièrementk rénovée en 2024.\nL’appartement se compose de :\n• Un salon/séjour de 30 m2 avec deux grands placards intégrés\n• Une cuisine neuve et entièrement équipée de 9m2\n• Une arrière-cuisine/buanderie\n• Une première chambre de 13m2 avec pendrie\n• Une seconde chambre de 11m2\n• Des wc séparés\n• Une cave en sous-sol\n• Local à vélo dans la résidence\nAucun travaux à prévoir, chaudière neuve et peinture faite en 2023. Appartement situé en RDC surélevé, pas de vis-à-vis depuis la rue.\nPossibilité de stationnement dans la cour intérieure.\nEmplacement recherché : à proximité immédiate des commerces, transports et services du centre-ville.\nInformations complémentaires :\n• DPE C (12/25)\n• Taxe foncière 900€\n• Copropriété pas de procédure en cours\nPlus de photo sur demande, pas de démarchage commercial, merci.",
+    "sellerName": "Leandre",
+    "notes": "Re-reviewed 2026-10-08 00:27:57 Europe/Paris. Existing database record first seen 2026-10-05T12:47:01Z. PAP reference G25/3193; PAP full-detail page states posted 1 October 2026 and price reduced by EUR 6,000 (old price EUR 285,000, price decrease described as 13 April without year). Exact SeLoger cross-list https://www.seloger.com/annonces/achat/appartement/rennes-35/sud-gare/26G6J5B42ZEQ.htm has same seller first name, EUR 279,000, 70 m², three rooms and identical full description/photos; count it as the same dwelling and preserve this URL, not a separate record. The PAP source ID already exists in the database; this review enriches that existing dwelling rather than adding another record. The prior review stored publication date 17 August 2026; the currently inspected PAP detail page explicitly labels 1 October 2026 as the publication date. Preserve this discrepancy without assuming a repost or its cause. PAP's narrative calls the floor RDC surélevé; SeLoger structured features it as floor 1/4, which differs from the primary PAP narrative. Retain floor 0 from the explicit PAP RDC wording, with raised-ground-floor precision preserved in the description; elevator is not established by the inspected sources and is left unset. Eight exact PAP-exposed image URLs were downloaded and visually inspected: three living-room views (green feature wall and large windows), two fitted-kitchen views, two bedrooms, and bathroom. Photos are coherent and specific to this apartment. Full price EUR 279,000 with no additional component or starting-price wording. DPE C is shown; GES class/value is not exposed in source text. No current tenant, lease, occupancy, managed/commercial use, viager, bare ownership, timeshare, fractional, auction, house, or other excluded special-sale term is stated. No publication time is exposed.",
+    "taxeFonciereAnnualEuros": 900
+  }
+]
