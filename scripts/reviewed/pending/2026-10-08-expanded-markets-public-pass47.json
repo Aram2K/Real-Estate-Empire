@@ -1,0 +1,83 @@
+[
+  {
+    "status": "PENDING",
+    "url": "https://www.century21.fr/trouver_logement/detail/16977788863/",
+    "externalId": "16977788863",
+    "priceEuros": 194250,
+    "surface": 53.28,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "communeCode": "35238",
+    "sourceTitle": "Appartement T2 à vendre - 2 pièces - 53,28 m2 - Rennes - 35 - BRETAGNE",
+    "sourceDescription": "CENTURY 21 RENNES CENTRE ARB IMMOBILIER\nvous propose, RENNES Moulin du Comte/ stade rue de Lorient\nAu cœur d'une résidence paysagée, calme et très bien entretenue,\nGrand type 2 en parfait état avec balcon sur jardin\npossibilité de créer une pièce de vie de 31 m²,\nchambre, placards, salle d'eau et wc séparé,\nCave et stationnement sécurisé, faibles charges\nInfo sur géorisques\nCentury 21 ARB IMMOBILIER\n1 Boulevard de la Tour d'Auvergne\n35000 RENNES\nTél : 02 99 75 85 08\narb.immobilier@century21.fr\nRenaud CORMIER EI\nPort : 06 60 29 82 50\nrenaud.cormier@century21.fr\nRcs : 411 459 647",
+    "sellerType": "AGENCY",
+    "sellerName": "Century 21 ARB Immobilier; agent Renaud Cormier EI",
+    "photoCount": 9,
+    "photoUrls": [
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_2B48C6DD-7505-467D-B8E2-7F26F4EF448C.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_26964404-674E-41BE-9648-814213CD4734.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_E22566E8-B004-4DD6-98E4-58238C7A3663.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_7CEE7FFD-4830-4AF8-88A5-368B5170D431.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_E1223F6A-F88D-4165-855A-FF0C992BA2DB.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_6D0107A1-FCE7-4249-9FB5-93F4D2CA4AE7.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_9D24ABA5-4AC5-489A-AD78-FF9E313C7106.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_0A1DA260-074E-4CBF-8C06-80E3536E2076.jpg",
+      "https://www.century21.fr/imagesBien/s3/202/3884/c21_202_3884_4187_8_8E882EAB-F85C-4570-9262-8BB6CDEFA447.jpg"
+    ],
+    "observedAt": "2026-10-08T09:00:47Z",
+    "firstSeenAt": "2026-10-08T09:00:47Z",
+    "publishedAt": null,
+    "publicationDate": null,
+    "sourceUpdateLabel": "Ouest-France-Immo syndicated same-unit listing shows reference 2240_202_3884_4187 - 04/10/2026; the date is not explicitly labelled publication time, so not mapped to publicationDate.",
+    "floor": 2,
+    "hasElevator": null,
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 68500,
+    "crossListedUrls": [
+      "https://www.ouestfrance-immo.com/immobilier/vente/appartement/rennes-35-35238/2-pieces-20750955.htm"
+    ],
+    "notes": "PENDING — current Century 21 primary agency detail exposes ID 16977788863, whole T2 at EUR 194,250, 53.28 m² habitable / 57.0 m² total, 2 rooms, one bedroom, Rennes Moulin du Comte / stade rue de Lorient; 2nd floor of 2, and no lift is stated. The full current price is below EUR 400,000; however, the agency detail pairs 'Honoraires charge acquéreur: 2000 % TTC' with 'Prix hors honoraires: 9250€', an incoherent fee breakdown, so the full-price/fee conflict must be resolved before approval. Full description preserved above. Century 21 says 65 copropriété lots, no procedure, charges courantes par an 68,500 euros, while its separate 'À savoir' gives charges/month 55 euros; preserve this conflicting charge data as source-exposed. DPE date is 07/09/2026; Ouest-France-Immo same-unit syndication exposes DPE D / GES 33 and a date string 04/10/2026, not explicitly labelled publication; no primary publication time is exposed. Source exposes exactly nine current photos; downloaded by exact source URLs and visually inspected all nine. Photos 1, 4, 5, 6, 7 show respectively living area, kitchen, bedroom, fitted cupboards, and apartment entry; photos 2-3 show balcony/garden aspect, 8-9 the residence exterior. Interiors are consistent with a residential apartment and stated rooms. Cross-list same unit is Ouest-France-Immo ref 2240_202_3884_4187; treated as syndication, not another record. Exact ID/URL search across all reviewed JSON, all database-export chunks and pending records found no current record; near-unit match scan on Rennes/Moulin du Comte, T2/53.28m², reference 4187 found no different same-unit record. No occupied/tenanted, managed/commercial lease, viager/bare ownership, timeshare/fractional, auction/starting/partial price or house wording found. Pending solely due unresolved advertised fee breakdown and charge disagreement.",
+    "crossListDescription": "CENTURY 21 RENNES CENTRE ARB IMMOBILIER vous propose, RENNES Moulin du Comte/ stade rue de Lorient. Au cœur d'une résidence paysagée, calme et très bien entretenue, Grand type 2 en parfait état avec balcon sur jardin, possibilité de créer une pièce de vie de 31 m², chambre, placards, salle d'eau et wc séparé, Cave et stationnement sécurisé, faibles charges. Réf. 2240_202_3884_4187 - 04/10/2026. Ouest-France-Immo copy also says price 194 250 €, 53 m², 2 pcs, 1 ch, DPE D, 171 kWh/m².an, 33 kgCO2/m².an, second floor of two, 65 lots, 'charges prévisionnelles: 68 500 €', and 'dont 2 000,00% à la charge de l'acquéreur'."
+  },
+  {
+    "status": "PENDING",
+    "url": "https://www.orpi.com/annonce-vente-appartement-t3-rennes-35200-abea763d-bd70-43df-9970-53f50d895d34/",
+    "externalId": "abea763d-bd70-43df-9970-53f50d895d34",
+    "priceEuros": 229900,
+    "surface": 79.87,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "communeCode": "35238",
+    "sourceTitle": "Appartement à vendre 3 pièces • 79,87 m² Rennes",
+    "sourceDescription": "Appartement À Vendre. L'agence Orpi Aristide Briand spécialiste de l’immobilier à Rennes vous propose ce bel appartement lumineux situé à proximité du parc de Bréquigny dans un environnement calme et verdoyant.\nSitué au troisième et dernier étage sans ascenseur, l'appartement séduit par sa clarté et son agencement fonctionnel.\nIl se compose d'une entrée, d'une pièce de vie avec cuisine ouverte donnant sur un grand balcon exposé Ouest, de deux chambres, d'une salle d'eau d'un WC séparé et d'un dressing.\nVous bénéficierez également d'une cave et d'une place de parking.\nCharges de copropriété: 2172 euros annuelle comprenant l'eau chaude, l'eau froide sur compteurs et chauffage urbain\nTaxe foncière: 1447 euros\nAgent commercial : Marie-Cécile Le Blay RSAC : 884 244 534",
+    "sellerType": "AGENCY",
+    "sellerName": "Orpi Aristide Briand; agent Marie-Cécile Le Blay",
+    "photoCount": 6,
+    "photoUrls": [
+      "https://cutjhqvjma.cloudimg.io/_prod_/sweepbright-s3/abea763d-bd70-43df-9970-53f50d895d34--1f23a2b0-2fa0-4f5d-8991-32cfe967615a.jpg?ci_sign=0d882dcc56e0ab19dae2543bcb7c846bc698b93b&ci_url_encoded=1&p=default",
+      "https://cutjhqvjma.cloudimg.io/_prod_/sweepbright-s3/abea763d-bd70-43df-9970-53f50d895d34--85a11081-f406-48b9-ba59-3ca6ad851ea3.jpg?ci_sign=17b7b7e33ca127e3e2a4b1709849a1ffd68fb055&ci_url_encoded=1&p=default",
+      "https://cutjhqvjma.cloudimg.io/_prod_/sweepbright-s3/abea763d-bd70-43df-9970-53f50d895d34--9c7f55ff-87c7-49f5-abaf-e9e3a178b6d5.jpg?ci_sign=b3d3dc9ef1672afd33ba4a9e27b5d7ee30a25700&ci_url_encoded=1&p=default",
+      "https://cutjhqvjma.cloudimg.io/_prod_/sweepbright-s3/abea763d-bd70-43df-9970-53f50d895d34--1e3b1014-cde5-4331-a4a6-270366bb7342.jpg?ci_sign=4a01cda9c235b59f17579d9aeabd4b1717f2b7d4&ci_url_encoded=1&p=default",
+      "https://cutjhqvjma.cloudimg.io/_prod_/sweepbright-s3/abea763d-bd70-43df-9970-53f50d895d34--f58fabd9-80c4-48a6-b13f-a58fac5f70ec.jpg?ci_sign=36a3b8c20669a2246af096b9a882c0b40b253847&ci_url_encoded=1&p=default",
+      "https://cutjhqvjma.cloudimg.io/_prod_/sweepbright-s3/abea763d-bd70-43df-9970-53f50d895d34--1a4ca910-ae7b-4a12-a234-fadc78feb8f1.jpg?ci_sign=ac2fcc8773dbe694540a2c524ef70dac15099d41&ci_url_encoded=1&p=default"
+    ],
+    "observedAt": "2026-10-08T09:00:47Z",
+    "firstSeenAt": "2026-10-08T09:00:47Z",
+    "publishedAt": null,
+    "publicationDate": null,
+    "floor": 3,
+    "hasElevator": false,
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 2305,
+    "notes": "PENDING — primary Orpi detail exposes unique ref abea763d-bd70-43df-9970-53f50d895d34, whole apartment at full price EUR 229,900 including 6% buyer-paid fees (EUR 216,886 excluding fees), 79.87 m², 3 rooms, 2 bedrooms; near Parc de Bréquigny. Explicit third and top floor without lift. Source energy summary C 135 kWh/m²/year and C 14 kgCO2/m²/year. Source page shows 'Prix revisité' but no publication/update date. Listing is a direct agency primary page, current search-index result crawled today; no source publication time is inferred. Exact source ID/URL search across all reviewed evidence JSON, every database-export chunk and pending records found no match; near-unit Rennes/Bréquigny, 79.87 m², T3 scan found no same unit. Full source wording preserved above. The page advertises six actual listing photos and exposes the exact six signed cloud image URLs preserved above; opening each of the six source-exposed photo links returned HTTP 401 Unauthorized, so their content could not be visually verified. No challenge was bypassed, and this remains pending due inaccessible photo evidence. No occupied/tenanted, managed/commercial lease, viager/bare ownership, timeshare/fractional, auction/starting/partial price or house wording found. Annual charges also conflict: the full description states EUR 2,172 while the structured source field states EUR 2,305. Both values are preserved as unresolved source evidence; neither is confirmed. Taxe fonciere EUR 1,447 is explicitly stated in the description.",
+    "taxeFonciereAnnualEuros": 1447,
+    "sourceChargesConflict": {
+      "descriptionAnnualEuros": 2172,
+      "structuredAnnualEuros": 2305
+    }
+  }
+]
