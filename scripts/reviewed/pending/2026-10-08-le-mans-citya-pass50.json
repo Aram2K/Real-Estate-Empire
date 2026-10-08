@@ -1,0 +1,35 @@
+[
+  {
+    "status": "PENDING_PHOTO_CONDITION_REVIEW",
+    "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416935",
+    "externalId": "TAPP141-416935",
+    "observedAt": "2026-10-08T17:25:47Z",
+    "firstSeenAt": "2026-10-08T17:25:47Z",
+    "communeCode": "72181",
+    "priceEuros": 94000,
+    "surface": 47.48,
+    "rooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "dpe": "E",
+    "ges": "E",
+    "publicationDate": "2026-09-17",
+    "chargesAnnualEuros": 2091.41,
+    "taxeFonciereAnnualEuros": 940,
+    "sellerType": "AGENCY",
+    "sellerName": "Citya Horeau Couffon",
+    "sourceTitle": "Appartement à vendre 2 pièces 47.48m² - Le Mans (72)",
+    "sourceDescription": "Appartement T2 rénové - Idéal Investissement - Quartier Jaurès\n\nDécouvrez ce charmant appartement de type 2 d'environ 47 m², entièrement rénové il y a 4 ans, idéalement situé dans le recherché quartier Jaurès. Parfait pour un investissement locatif clé en main ou un premier achat !\n\n\n\nLes atouts du bien :\n\n\n\nPièce de vie avec un séjour accueillant.\n\n\n\nCuisine aménagée et équipée, moderne et fonctionnelle.\n\n\n\nUne chambre confortable au calme.\n\n\n\nSalle d'eau moderne avec WC intégré.\n\n\n\nPlain-pied pratique : Situé en rez-de-chaussée, facilitant l'accès.\n\n\n\nConfort thermique : Chauffage et eau chaude collectifs (inclus dans les charges).\n\n\n\nLe petit plus : Possibilité d'acquérir un garage en sus, un vrai plus dans le secteur.\n\n\n\nInformations pratiques :\n\nQuartier : Jaurès (proche des commodités, des transports et des commerces).\n\n\n\nÉtat général : Rénovation de qualité datant de 4 ans, aucun travaux à prévoir.\n\n\n\nIdéal pour : Investisseurs à la recherche d'une rentabilité sûre ou pour un pied-à-terre pratique.\n\n\n\nPrix : 94000€ \n\n\n\n\n\nContactez-nous dès aujourd'hui pour organiser une visite et découvrir le potentiel de ce bien !\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://www.citya.com/media/images/agences/biens/141/vente/708ab3a9-87bf-49f1-bbda-b06a6207daf0.webp",
+      "https://www.citya.com/media/images/agences/biens/141/vente/e9afc4bc-98f7-48e9-ae19-43c25a5cb27e.webp",
+      "https://www.citya.com/media/images/agences/biens/141/vente/3a87c68b-274e-4b1a-a9b6-a6e6ed70bfd9.webp",
+      "https://www.citya.com/media/images/agences/biens/141/vente/1cdcd0b2-7d4b-4b21-a4be-96c6c636cfab.webp",
+      "https://www.citya.com/media/images/agences/biens/141/vente/f94f1d43-c066-4566-a0df-f92364062ecb.webp",
+      "https://www.citya.com/media/images/agences/biens/141/vente/88b56632-b353-4adf-ab9e-3558e3c466c7.webp",
+      "https://www.citya.com/media/images/agences/biens/141/vente/1809efb0-fd52-44ba-b0a1-d209c66778df.webp"
+    ],
+    "notes": "Pending photo/condition verification, not imported or trusted. Full primary description read and ALL7 gallery images individually inspected. Photos1-5 explicitly watermarked Ameliore avec l IA par Nodalview (2living,1kitchen,1hall,1bedroom). Original photo6 shows shower room/WC with conspicuous dark spotting/staining along ceiling/top wall and window recess, whose cause cannot be diagnosed from a photo. Original photo7 shows the entry with closet, living-room glimpse and bathroom door. Listing claims quality renovation4years ago and aucun travaux a prevoir; actual condition cannot be established from staged main-room photos and visible bathroom staining warrants unresolved review, not an inference of bot fraud or cause. Price fullEUR94000 seller-paid fees,47.48m2T2/1bed,RDC,1965 building4storeys,10coprolots,collective gas heat/hotwater,2091.41annualcharges,tax940. Garage optional in addition, not included. Lift unexposed. Publication explicitly17Sept2026,time not exposed. Vacancy unconfirmed and furnished images do not prove tenancy. Full wording contains no explicit occupied/current lease or special-sale exclusion. ExactID/photo scan across previous reviewed/pending/excluded evidence and currentexport found no record. Nearunit C21ref44493 48.66m2 isfloor1/2006/individualelectric82lots/openkitchen, C21ref44537 50.01m2floor2/1996electric82lots/balcony, Citya52145345.9m2floor1Maillets/individualheat/balcony; PAPG55/3037 47m2GareSud has23m2openliving,separateWC/privatebathroom and undergroundparking, differing from separatekitchen14.83m2living/showerWC of this unit. No same physical-unit match found. No independently verified transit distance/commute. Exactaddress remains unknown."
+  }
+]
