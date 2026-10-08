@@ -1,0 +1,25 @@
+[
+  {
+    "reviewStatus": "PENDING_ORIGINAL_PHOTO_EVIDENCE",
+    "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP934937",
+    "observedAt": "2026-10-08T03:25:00.254864Z",
+    "communeCode": "72181",
+    "priceEuros": 70000,
+    "surface": 28.71,
+    "rooms": 1,
+    "sourceTitle": "Appartement à vendre 1 pièce 28.71m² - Le Mans (72)",
+    "sourceDescription": "Situé dans le secteur des Comtes du Maine, au Mans, cet appartement de 28,71 m² habitables se trouve au 2ᵉ étage d'une résidence de 7 étages, construite en 1970 et équipée d'un ascenseur.\n\nIl se compose d'une entrée de 3,51 m², d'une cuisine aménagée de 7,65 m², d'un séjour de 13,33 m², d'une salle d'eau de 2,79 m², d'un WC séparé de 1,22 m² ainsi que d'un dégagement de 0,21 m².\n\nL'appartement bénéficie d'une exposition nord et d'une vue sur rue. Il dispose d'un chauffage collectif au gaz par radiateurs, d'une production d'eau chaude collective et d'une arrivée d'eau froide individuelle.\n\nLe bien est en bon état général.\n\nInformations financières :\n\nPrix de vente : 70 000 €.\n\nCharges de copropriété : 884 € par an.\n\nTaxe foncière : 702 € par an.\n\nIdéal pour un premier achat ou un investissement locatif, cet appartement bénéficie d'un emplacement dans le secteur des Comtes du Maine, à proximité du centre-ville du Mans.\n\nPour plus de renseignements ou pour organiser une visite, n'hésitez pas à nous contacter.\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "publicationDate": "2026-10-01",
+    "photoUrls": [
+      "https://www.citya.com/media/images/agences/biens/140/vente/06f4ccb8-c639-4739-886c-65d9191c2791.webp",
+      "https://www.citya.com/media/images/agences/biens/140/vente/5aa08278-ea98-42cb-988c-d0d2dba40f28.webp"
+    ],
+    "notes": "Full source narrative reviewed; floor2/lift,DPE D/GES D,charges EUR884,tax EUR702. Both available gallery photos were visually inspected and both are explicitly labeled Ameliore avec IA par Nodalview. No original scene evidence is exposed to verify the current condition. Keep pending; no trusted import based solely on these transformed images."
+  },
+  {
+    "reviewStatus": "UNAVAILABLE_AT_REVIEW",
+    "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-950127",
+    "observedAt": "2026-10-08T03:25:00.254864Z",
+    "notes": "Search cache exposed EUR62000/24.6m2 studio posted30September2026. Live detail redirects to citywide search; not imported as a current advert. No availability inferred from stale cached detail."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "reviewStatus": "CONFIRMED_DUPLICATE",
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/039c0962-50b7-41dc-8161-9a9fa7d2aa6b",
+    "matchedPAPUrl": "https://www.pap.fr/annonces/appartement-le-mans-r463502247",
+    "observedAt": "2026-10-08T05:20:11+02:00",
+    "communeCode": "72181",
+    "priceEuros": 379900,
+    "surface": 165,
+    "rooms": 6,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "dpe": "D",
+    "ges": "D",
+    "sourceTitle": "Vends appartement familial d’exception - 165m² - étage noble",
+    "sourceDescription": "Chers Gens de Confiance, Au sein d’une charmante copropriété intimiste de seulement cinq lots, découvrez ce magnifique appartement de caractère situé à l’étage noble, offrant une surface de 161 m² Carrez, sublimé par de superbes volumes et une belle hauteur sous plafond. Dès l’entrée, vous serez séduit par une vaste pièce de réception de plus de 74 m², baignée de lumière, intégrant un élégant séjour avec cheminée et une cuisine ouverte dînatoire parfaitement aménagée. L’ensemble bénéficie d’une distribution traversante, garantissant une luminosité optimale tout au long de la journée. L’espace nuit se compose de quatre chambres, dont une magnifique suite parentale de 21 m² avec un grand dressing, ainsi qu’une salle de bain et une salle de douche. L’appartement offre une vue dégagée sans aucun vis-à-vis, donnant sur un magnifique jardin paysager de plus de 500 m², ensoleillé, à l’abri des regards et au calme absolu. Un véritable havre de paix en cœur de ville, avec un jardin à usage collectif. Entièrement rénové avec des prestations haut de gamme, ce bien en parfait état conjugue élégance, confort et fonctionnalité. Idéalement situé à proximité immédiate du centre-ville, des commerces et des établissements scolaires de renom, cet appartement rare sur le marché constitue un bien familial d’exception. PREMIER CONTACT PAR SMS POUR UNE RÉPONSE RAPIDE !",
+    "sellerType": "AGENCY",
+    "sellerName": "Philippe-Louis Naon — Capifrance Luxe & Prestige",
+    "chargesAnnualEuros": 600,
+    "taxeFonciereAnnualEuros": 1920,
+    "publicationDate": "2026-06-04",
+    "photoCount": 3,
+    "photoUrls": [
+      "https://tp.gensdeconfiance.com/uc/classifieds/039c0962-50b7-41dc-8161-9a9fa7d2aa6b/1256f6fe-6963-4620-95ee-b8a240f0475d.jpg?twic=v1/resize=1600/output=avif",
+      "https://tp.gensdeconfiance.com/uc/classifieds/039c0962-50b7-41dc-8161-9a9fa7d2aa6b/dd9a5787-357f-410b-9002-c6d38c5bb3bb.jpg?twic=v1/resize=800/output=avif",
+      "https://tp.gensdeconfiance.com/uc/classifieds/039c0962-50b7-41dc-8161-9a9fa7d2aa6b/d44fa927-b8a9-4a48-b9ca-9ddedbd6a448.jpg?twic=v1/resize=800/output=avif"
+    ],
+    "notes": "Confirmed same-unit duplicate of the active PAP record https://www.pap.fr/annonces/appartement-le-mans-r463502247 (PAP G35/2247), so this GDC advert must not create another property or listing. The signed-in Gens de Confiance detail was directly reviewed before the Windows Computer Use safety system later stopped because it could not verify the browser URL. GDC itself exposed the full €379,900 price, apartment type, 165 m² advertised area (161 m² Carrez in its full wording), six rooms, four bedrooms, first floor of three, DPE D, GES D, garden, cellar, east/west orientation, seller Philippe-Louis Naon / Capifrance and the exact publication date 4 June 2026. All three GDC gallery originals were opened and inspected. For the duplicate check, all eleven current PAP gallery originals were also opened and inspected. The match is visually decisive: PAP photo 3 shows the identical open reception/kitchen seen in GDC photos 1 and 2, including the same window geometry, cabinetry, glass partition, pale stone floor and distinctive red refrigerator; PAP photo 5 is the identical principal bedroom shown in GDC photo 3. The exterior and shared garden shown by PAP also match the outlook and collective-garden wording. The unusually specific facts align as well: roughly 161–162 m² Carrez, four bedrooms, a 20–21 m² principal suite with large dressing, complete recent renovation, central Le Mans and a large shared garden. The same dwelling has differing presentations in the previously stored private-owner PAP advert (€365,000, five rooms, 162 m², publication 10 September 2026, €1,000 annual charges, €2,026 taxe foncière) and the agency GDC/Capifrance advert (€379,900, six rooms, 165 m² advertised, publication 4 June 2026). Those differing source-attributed fields are retained here as evidence and are not merged or silently preferred. The exact Capifrance cross-list https://pl-naon.capifrance.fr/fr/immobilier/vente/appartement/le-mans/appartement-familiale-d-exception-etage-noble-jardin-a-usage-collectif/449539 exposes reference 949476 and an older €399,900 price, plus €600 annual charges and €1,920 taxe foncière; its stale asking price is not treated as current. The complete GDC wording contains no excluded sale structure, but qualification is irrelevant because the same physical unit already exists in the database. This record is evidence for future source enrichment only."
+  }
+]

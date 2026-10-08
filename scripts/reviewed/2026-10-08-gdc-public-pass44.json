@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/cc8f061e-a707-4eb7-8e43-4d03c0da4e79",
+    "observedAt": "2026-10-08T05:29:14+02:00",
+    "communeCode": "72181",
+    "priceEuros": 157500,
+    "surface": 52.2,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "hasElevator": true,
+    "dpe": "C",
+    "ges": "C",
+    "sourceTitle": "Appartement récent avec terrasse à vendre au Mans, en centre-ville calme – séjour double, chambre avec dressing, plus de 50 m²",
+    "sourceDescription": "APPARTEMENT RECENT AVEC TERRASSE – CALME en CENTRE-VILLE. Coldwell Banker Val Property vous présente cet appartement récent de plus de 50 m², situé au 2ème étage d'une petite copropriété de seulement quatre étages avec ascenseur. Son véritable atout : une belle terrasse de plus de 6 m² donnant sur cour, parfaitement au calme. Accessible directement depuis le séjour, elle devient aux beaux jours une véritable pièce supplémentaire, idéale pour déjeuner, recevoir ou simplement profiter de l'extérieur en plein cœur de la ville. L'appartement offre une distribution particulièrement agréable avec une grande entrée dotée de rangements, un séjour double lumineux ouvert sur la terrasse, une cuisine aménagée et équipée, ainsi qu'une chambre bénéficiant de son dressing. Une très belle salle de bains complète l'ensemble. Entièrement rénové, l'appartement ne nécessite aucun travaux et bénéficie d'un chauffage individuel au gaz. Une adresse idéale pour celles et ceux qui recherchent le confort d'un appartement prêt à vivre, le calme d'une terrasse sur cour et la possibilité de tout faire à pied. Un bien rare par son équilibre entre emplacement, rénovation, calme et véritable espace extérieur. Stationnement souterrain possible en sus avec possibilité d'installation de prise pour voiture électrique. Honoraires à la charge de l'acquéreur.",
+    "sellerType": "AGENCY",
+    "sellerName": "Frédérique Frecaut — Coldwell Banker Maine Prestige",
+    "chargesAnnualEuros": 1056,
+    "taxeFonciereAnnualEuros": 1038,
+    "photoCount": 9,
+    "photoUrls": [
+      "https://media.jalis.pro/images/bc144392-9e4a-416d-9342-828b5b804005/large.webp",
+      "https://media.jalis.pro/images/033f700e-c10d-4a56-8ed6-8f7ee0db7832/large.webp",
+      "https://media.jalis.pro/images/88f98811-cd79-4c81-87ef-a08fb8eb65f1/large.webp",
+      "https://media.jalis.pro/images/c70f65e1-3454-4667-baeb-2b74b17016d8/large.webp",
+      "https://media.jalis.pro/images/25e160b4-ff9f-4bef-a09c-c5f97ef26bde/large.webp",
+      "https://media.jalis.pro/images/2b477cb8-389a-4ba6-b816-404fb40be818/large.webp",
+      "https://media.jalis.pro/images/3242ff71-ceda-406b-965c-3e006c743b92/large.webp",
+      "https://media.jalis.pro/images/6b94cd4f-2a04-42b3-b746-d1783152dde9/large.webp",
+      "https://media.jalis.pro/images/7e7f77df-b6e3-4ed3-b915-7ae66653bfa1/large.webp"
+    ],
+    "notes": "Description provenance: the retained full wording and nine photos are from the matched Coldwell Banker Maine Prestige agency cross-list; the GDC evidence is its public card. GDC signed-in wording was not inspected for this candidate. Gens de Confiance UUID cc8f061e-a707-4eb7-8e43-4d03c0da4e79 was directly observed on the public Le Mans results card with €157,500, 52.2 m², three rooms, one bedroom, a terrace and advertiser Frédérique Frecaut. The signed-in detail became unavailable to this worker after the Windows Computer Use safety system stopped because it could not verify the browser URL, so no unexposed GDC field or exact GDC date is inferred. The card was independently matched to the live Coldwell Banker Maine Prestige page https://www.maineprestige.fr/details-appartement+recent+avec+terrasse+a+vendre+au+mans+en+centre-ville+calme+sejour+double+chambre+avec+dressing+plus+de+50+m-1077 and SeLoger identifier 26MTQH6UWB4Z by exact full price, room/bedroom count, terrace, seller, wording and agency reference BERTRAND. The agency page reports 57 m² while GDC and SeLoger expose 52.2 m²; this evidence preserves the card/portal value and does not silently reconcile the discrepancy. The full cross-list wording contains no tenant, occupied sale, viager, bare ownership, auction, timeshare, managed lease, fractional ownership or partial-price condition. The €157,500 is the complete apartment asking price including the stated 5% buyer fee; €150,000 is explicitly the net seller amount and is not used. Underground parking is optional and priced separately, while the advertised apartment itself is offered as a complete direct purchase. All nine source-exposed Coldwell Banker images were opened and visually inspected: they coherently show one ordinary renovated apartment (living room, fitted kitchen, entrance, dining area, bedroom, bathroom, terrace and floor plan), with no house, houseboat, ancillary-only asset, bot collage or impossible layout. SeLoger independently exposes second floor of four, elevator, DPE C, GES C, 55 copropriété lots, €1,056 annual charges and no proceeding; the agency page exposes €1,038 taxe foncière. The agency page says it was published on 21 September 2026, but that is the agency cross-list date, not a GDC publication date, so publicationDate and publishedAt remain unset. A current database check found neither the GDC UUID, SeLoger identifier, agency reference nor another same-unit Le Mans listing among active two-to-four-room apartments of 48–60 m² and the nearby price band."
+  }
+]

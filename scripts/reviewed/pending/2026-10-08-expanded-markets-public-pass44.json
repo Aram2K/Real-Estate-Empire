@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/60645dfa-1090-4663-ab78-a2fd0106a483",
+    "observedAt": "2026-10-08T00:00:00+02:00",
+    "communeCode": "76540",
+    "priceEuros": 230000,
+    "surface": 75,
+    "rooms": 4,
+    "propertyType": "Appartement",
+    "photoUrls": [
+      "https://lh3.googleusercontent.com/MoXLhhks2a5mHTiXVB_6G9gYProgxUHlNciReOVCs7jDM178Qg7NgQLrYQUjp9iHOmkH-i0jAA-6tS5PtsNc0XUYR0C5tRCr2JAr%3Drw-w940-h605-l80",
+      "https://lh3.googleusercontent.com/DtPP_xq2POsq1ldWbbHD8WGYfMAuA_anvjc_gd_u_t85dYeYjyakjAFd08q4HjsQNk6qOROI6tXc0eLzkkey_P5oOeEpNqDZ8QeyEQ%3Drw-w940-h605-l80"
+    ],
+    "sellerType": "UNKNOWN",
+    "sellerName": "Stéphane",
+    "sourceTitle": "Vends appartement rénové - 75m² - avec balcon et parking",
+    "notes": "PENDING — Gens de Confiance public search card showed EUR 230,000, 75 m², 4 rooms, 2 bedrooms, Rouen, posted 'il y a 6 jours'; card link resolves to this GDC UUID. The GDC detail route returned HTTP 403, so its full primary-source description and its own photo URLs could not be checked. Exact-looking independent cross-list: https://www.logic-immo.com/detail-annonce/vente/normandie/seine-maritime-76/rouen-76000/26LC9RJEEZHN (DIEZ IMMOBILIER, ref 13312026), with the same price, area, rooms, bedroom count, headline wording and listing facts; no exact cross-list ID or GDC UUID was found in reviewed evidence/database-export chunks. The cross-list exposed 12 images; only the two directly exposed Figaro image URLs retained here were downloaded and visually inspected. First shows an occupied-looking balcony with a Rouen/cathedral view; second is visibly labeled 'Photo non contractuelle exemple de projet' and is not actual-property evidence. Thus photo evidence is incomplete and candidate remains pending. Cross-list floor is not exposed; lift is asserted by a Figaro feature badge but no floor is established. Cross-list DPE/GES E/E; do not transfer as GDC facts until source provenance is resolved. No exact publication date/time exposed. No special-sale or tenant term was found in the cross-list wording.",
+    "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+    "reviewedAt": "2026-10-08T03:26:09.679332Z",
+    "crossListDescription": "Rouen, appartement T4 rénové, traversant et lumineux, au calme, d'une surface de 75m² carrez, avec vue dégagée sur jardin. Dans une résidence sécurisée avec balcon sud-est, parking extérieur et une cave. comprenant: entrée rangements, séjour (28,60) avec balcon au sud-est, cuisine aménagée et équipée, 2 chambres dont une avec balcon et l'autre vue seine, salle de douche, WC. 300 euros de charges par mois, chauffage, eau chaude et eau froide inclus. CLASSE ENERGIE, DPE : E 228 KWHep/m² an. CLASSE CLIMAT, GES : E 50 éqco²/m² an. Consommation énergie primaire : 228 kWh/m²/an. Consommation énergie finale : Non communiquée. Montant estimé des dépenses annuelles d'énergie pour un usage standard entre 1 890 euros et 2 610 euros pour année de référence 2023. Ce bien est soumis au statut de la copropriété. Nombre de lots existants: 12 lots Montant annuel moyen des charges: 3600 euros chauffage eau chaude et eau froide inclus. Pas de procédure en cours. Les informations sur les risques (ERP) auxquels ce bien est exposé sont disponibles sur le site Géorisques : et vous seront fournis lors de la première visite. PRIX DE VENTE HONORAIRES INCLUS: 230 000€ TTC HONORAIRES de négociation: 10 000€ TTC (4,5% TTC) inclus à charge acquéreur. PRIX HORS HONORAIRES D'AGENCE: 220 000€ Tarifs et barème des honoraires de négociation de l'agence: diez-immobilier.fr/rubrique.php?rub=3 Contact : Stéphane Ferraro"
+  },
+  {
+    "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/6a2d39da-6294-47d2-963d-ea22522248db",
+    "observedAt": "2026-10-08T00:00:00+02:00",
+    "communeCode": "76540",
+    "priceEuros": 237000,
+    "surface": 97,
+    "rooms": 5,
+    "propertyType": "Appartement",
+    "photoUrls": [],
+    "sellerType": "UNKNOWN",
+    "sellerName": "Stéphane",
+    "sourceTitle": "Vends appartement 97m² T5 en RDJ au calme centre ville",
+    "notes": "PENDING — Gens de Confiance public search card showed EUR 237,000, 97 m², 5 rooms, 3 bedrooms, Rouen, posted 'il y a 6 jours'; card link resolves to this GDC UUID. GDC detail route returned HTTP 403, so primary-source full description and photo URLs are unavailable. Strong independent cross-list at https://www.seloger.com/annonces/achat/appartement/rouen-76/170003903.htm (DIEZ IMMOBILIER, agency ref 13262026): same exact title, EUR 237,000, 97 m², 5 rooms, 3 bedrooms, and address context; no exact source ID or GDC UUID found in reviewed evidence/database-export chunks. SeLoger says 9 photos are available but its direct HTML request returned an anti-bot challenge; no photo URLs could be inspected. Cross-list facts only: ground-floor/garden level, no lift information, DPE C/GES A, 47 lots, EUR 1,200 annual charges, and an ongoing coprocedure described as façade work to redo. Keep all these as cross-list facts pending primary-source confirmation; the current procedure and photo unavailability prevent admission. No exact GDC publication date/time exposed.",
+    "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+    "reviewedAt": "2026-10-08T03:26:09.679353Z",
+    "crossListDescription": "Centre historique de Rouen, entre le musée des beaux arts et la gare, beau T5 rénové par professionnels aux normes (électricité, isolation,fenêtres, murs, sol )en RDJ de 97m² carrez, immeuble sécurisé, au calme. Comprenant: séjour avec parquets cuisine ouverte, salle de bain parquets WC, salle de douche avec WC, 3 chambres. Chauffage individuel. DPE : C 146 KWHep/m² an. GES : A 4 Kg éqco²/m² an. Consommation énergie primaire : 146 kWh/m²/an. Consommation énergie finale : Non communiquée. Ce bien est soumis au statut de la copropriété. Nombre de lots existants: 47 Montant annuel moyen des charges: 1200 euros eau froide incluse. Une procédure en cours. PRIX DE VENTE HONORAIRES INCLUS: 237 000€ TTC HONORAIRES de négociation: 10 000€ TTC (4,4% TTC) inclus à charge acquéreur. PRIX HORS HONORAIRES D'AGENCE: 227 000€ Tarifs et barème des honoraires de négociation de l'agence: ?rub=3 Les informations sur les risques (ERP) auxquels ce bien est exposé sont disponibles sur le site Géorisques : et vous seront fournis lors de la première visite. Diez immobilier depuis 1970. Contact: Stéphane Ferraro"
+  },
+  {
+    "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/ca067a96-3d99-4361-897b-6c80f972f8f7",
+    "observedAt": "2026-10-08T00:00:00+02:00",
+    "communeCode": "86194",
+    "priceEuros": 220000,
+    "surface": 71,
+    "rooms": 3,
+    "propertyType": "Appartement",
+    "photoUrls": [],
+    "sellerType": "UNKNOWN",
+    "sellerName": "Louis",
+    "sourceTitle": "Appartement · 71 m² · 3 pièces · 2 chambres",
+    "notes": "PENDING — Gens de Confiance public sale card showed EUR 220,000, 71 m², 3 rooms, 2 bedrooms, Poitiers, posted 'il y a 18 jours'; its UUID-specific detail route returned HTTP 403. Possible independent cross-list at https://www.dansnosvilles.fr/annonce/33083468/vente-appartement-71m2-3-pieces-poitiers-86000 shows a 71 m², 3-room apartment at EUR 212,500, reference 5882, in the upper Grand-Rue/plateau area, on the third and last floor, with two bedrooms and a semi-open equipped kitchen. Price differs by EUR 7,500, so this cross-list identity is not confirmed. No exact source ID match was found in reviewed evidence/database-export chunks, but this candidate cannot be admitted pending resolution of price/source identity. GDC detail and exact photo URLs were inaccessible (403); no photos visually inspected. Cross-list date not exposed and is not attributed to GDC. Cross-list elevator, seller, DPE/GES and floor-lift metadata are not established.",
+    "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+    "reviewedAt": "2026-10-08T03:26:09.679358Z",
+    "crossListDescription": "En haut de la Grand-Rue, au coeur du plateau de Poitiers. Venez découvrir ce bel appartement au troisième et dernier étage d'une résidence sécurisée en excellent état. Il comprend une entrée desservant une grande pièce de vie avec cuisine semi-ouverte, aménagée et équipée, une salle de bains, un WC séparé, un petit dressing et deux chambres. A visiter rapidement !"
+  }
+]
