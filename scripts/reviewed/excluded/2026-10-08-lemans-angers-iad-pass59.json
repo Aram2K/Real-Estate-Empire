@@ -1,0 +1,336 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-55m2/r2100516",
+    "observedAt": "2026-10-08T23:25:29.246454+00:00",
+    "externalId": "2100516",
+    "firstSeenAt": "2026-10-08T23:25:29.246454+00:00",
+    "reviewedAt": "2026-10-09T06:08:55.183108+00:00",
+    "communeCode": "72181",
+    "priceEuros": 107000,
+    "surface": 55,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Celine Genuit",
+    "sourceTitle": "Appartement 3 pièces de 55 m² à Le Mans (72000)",
+    "sourceDescription": "LE MANS - APPARTEMENT - T3 55M² - TRÈS BON ÉTAT - LUMINEUX\n\nSans travaux à prévoir, appartement en location de 55 m² habitables au 2ème étage avec une double exposition est/ouest qui lui confère une bonne luminosité tout au long de la journée.\n\nL'entrée distribue les différentes pièces de l'appartement. Il y a une cuisine, équipée et aménagée,  2 chambres,  une salle d'eau et un WC indépendant.\n\nCôté équipements, la résidence est sécurisée avec un interphone et le chauffage est au gaz.\n\nL'appartement est situé près de la gare nord.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 130 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 200€ par mois (soit 2400 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Celine Genuit mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de LE MANS sous le numéro 945355154, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-01",
+    "publicationDateEvidence": "Primary embedded firstPublishDate; date only, no publication time exposed.",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/08/26/01a04014fe91906e7887130b274143e7.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/27/01a04017d335726ca730267d59b6caad.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/26/01a04014feccc144268bd96f92109480.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/27/01a04017d3657b944584d37bcbb64d0c.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/26/01a04014fe83d6c7a72628e9d4bb04b3.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/01/01a05d0ccb9b98a1e16ec4601efa93f5.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/01/01a05d0cec678e2b4da971dd8caa1270.jpg?format=auto&width=1170"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/26/01a04014fe91906e7887130b274143e7.jpg?format=auto&width=1170",
+        "sha256": "dbb852acc6f5c70daf17c5095d124c55a31509d08250a0bfd81b134e192ab893",
+        "observation": "Living/dining area with wood floor, yellow central wall, blue kitchen/entry and multicolored wall."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/27/01a04017d335726ca730267d59b6caad.jpg?format=auto&width=1170",
+        "sha256": "f1ed8c285dc12bb7d08707b0e4a952c73a8d0a898c2d80ffea96137cbf459d33",
+        "observation": "White fitted kitchen, yellow wall, patterned splashback, oven and visible peeling wall paint near window."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/26/01a04014feccc144268bd96f92109480.jpg?format=auto&width=1170",
+        "sha256": "0c6e546b7bddc9b9801c7e4c10e7087d9b7d5362fb4bdd693498fd9ae733fbd4",
+        "observation": "Bedroom with bed, desk, yellow chair, wood floor and tall window with railing."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/27/01a04017d3657b944584d37bcbb64d0c.jpg?format=auto&width=1170",
+        "sha256": "7465c3995e5d6486ec24e70022ce789d1eaa469c42429b741f22261383efe99c",
+        "observation": "Second bedroom with geometric dark wall, bed, desk, yellow chair and matching floor/windows."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/26/01a04014fe83d6c7a72628e9d4bb04b3.jpg?format=auto&width=1170",
+        "sha256": "6462e985b53cf50074571c3da179dee93500cec8eb7b947b1c8fc787ad3fe4f1",
+        "observation": "Shower room with glass enclosure, white vanity, washing machine and red accent wall."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/01/01a05d0ccb9b98a1e16ec4601efa93f5.jpg?format=auto&width=1170",
+        "sha256": "47fc3ce7e4bd91b1d25f7f9a18e6d1e7625df6d84ee1f7840c0da68340ca2694",
+        "observation": "Common entry hall with red mailboxes, tiled floor and internal steps; no step-free claim inferred."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/01/01a05d0cec678e2b4da971dd8caa1270.jpg?format=auto&width=1170",
+        "sha256": "3c29954a1b45161f7a20ff65badc69178d29058e6c64889643c2ca7c1a95d24c",
+        "observation": "Exterior of multistorey residential building with window railings and shutters."
+      }
+    ],
+    "dpe": "E",
+    "ges": "E",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-01-15",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 274
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 60
+      },
+      "amount": {
+        "min": 1210,
+        "max": 1670
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 130,
+      "annualFees": 2400,
+      "proceedingsUnderway": false
+    },
+    "chargesAnnualEuros": 2400,
+    "sourceConstructionYear": 1960,
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1960"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "107 000 €",
+      "formattedPerSurface": "1 945 € / m²"
+    },
+    "dedupeEvidence": {
+      "recordsChecked": 5558,
+      "exactSourceAndGalleryPathMatches": [],
+      "nearUnitUrlsCompared": [
+        "https://www.century21.fr/trouver_logement/detail/15771282144/",
+        "https://www.paruvendu.fr/immobilier/vente/appartement/1295670205A1KIVHAP000",
+        "https://www.orpi.com/annonce-vente-appartement-t3-le-mans-72000-b4c61262-85d9-4526-af63-077ef5a2766a/",
+        "https://gensdeconfiance.com/us/ui/post/realestate__sale/cc8f061e-a707-4eb7-8e43-4d03c0da4e79",
+        "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-56m2/r2131237"
+      ],
+      "result": "No same physical unit established; floor, layout, building, copropriete and heating facts compared."
+    },
+    "notes": "Full primary description including complete legal/seller wording read; all listing-specific gallery photos individually inspected in source order. Publication date is embedded firstPublishDate; image-folder dates are not publication evidence. Full source wording preserved verbatim. Unknown publication time, property tax and exact address omitted. Furnishings and empty scenes do not establish legal occupancy. Locality and transport claims remain advertiser assertions. Excluded without import or rental analysis: primary full description expressly says appartement en location. This is evidence of a current tenanted sale, despite the ordinary sale title. Seven gallery images inspected; coherent apartment with two furnished bedrooms, living/kitchen, shower room, common hall and facade. Floor2, lift unexposed,1960/130lots/EUR2400 annual charges/naturalgas. Furnishings alone are not the exclusion evidence. Nearby C21ref44479 is RDC/2008/52lots; Orpi206287 is53.02m2/377lots; GDC/Coldwell BERTRAND is52.2m2/one bedroom/55lots/terrace; IAD2131237 isfloor8/1962/260lots; ParuVenduWI177977592 has distinct turquoise-sofa/dark-floor-kitchen/red-bedroom scenes. No existing same unit established for withdrawal. Source IDs and every gallery image-path identity checked across approved, pending, excluded evidence and 5558 database exports; no exact match. ",
+    "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+    "analysisStatus": "NOT_COMPUTED_EXCLUDED_SALE"
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-73m2/r2107354",
+    "observedAt": "2026-10-08T23:25:29.584547+00:00",
+    "externalId": "2107354",
+    "firstSeenAt": "2026-10-08T23:25:29.584547+00:00",
+    "reviewedAt": "2026-10-09T06:08:55.183108+00:00",
+    "communeCode": "49007",
+    "priceEuros": 188000,
+    "surface": 73.48,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Charlène Morinière",
+    "sourceTitle": "Appartement 4 pièces de 73 m² à Angers (49100)",
+    "sourceDescription": "ANGERS - APPARTEMENT - T4 73M² - 3 CHAMBRES - BALCON - CAVE\n\nA proximité immédiate du tram et des commerces, situé au dernier étage, venez découvrir cet appartement entièrement rénové, lumineux et bien agencé.  \n\nD'une surface habitable de 73m², il se compose d'une entrée qui dessert un spacieux séjour avec accès direct au balcon. La cuisine séparée, entièrement aménagée et équipée, complète l'espace de vie. \nL'espace nuit comprend 3 chambres dont une avec un petit dressing. \nUne salle d'eau avec douche à l'italienne ainsi qu'un wc indépendant complète ce bien.\n\nLe balcon, orienté sud-est, offre une bonne exposition. \nEn annexe, une cave idéal pour du stockage.\nPlaces de stationnement gratuit et facile au sein de la résidence.\n\nPossibilité d'acquérir ce bien meublé en RÉSIDENCE PRINCIPAL ou en INVESTISSEMENT LOCATIF.\nActuellement loué (colocation), bonne rentabilité, fin du bail: 5 Juillet 2027.\n\nContactez-moi pour organiser une visite!\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 95 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 202.19€ par mois (soit 2426.28 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Charlène Morinière mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 897584975, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-18",
+    "publicationDateEvidence": "Primary embedded firstPublishDate; date only, no publication time exposed.",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3ee01d993d446e91d3134c3739b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3d13a911be4623ec2f243482042.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3db2ace34cdda2b0303daf8a00f.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3e9ed26922226aa1b3c4205daf5.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3db2a7af00513b6ad00666604c3.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3dc399c056c4e681eb6ac5b7b78.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3d13ace5f8c7e9636ce824e5bdd.jpg?format=auto&width=1170"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3ee01d993d446e91d3134c3739b.jpg?format=auto&width=1170",
+        "sha256": "8f6172b9014813be3d436218c5a55f01916056cafc270043f30643bd64ecd656",
+        "observation": "Living/dining room with table, sofa and glazed balcony doors; bedroom visible through doorway."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3d13a911be4623ec2f243482042.jpg?format=auto&width=1170",
+        "sha256": "e85276788612459dbc009219ee2487d7c5c58024c267bd90d45362ee5717f5d9",
+        "observation": "Separate white fitted kitchen with green tiled splashback, wood worktop and patterned floor."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3db2ace34cdda2b0303daf8a00f.jpg?format=auto&width=1170",
+        "sha256": "e3438bcb5af99f159b677b70a6b9d37d4d616771a7490a59b4b308a81bc16479",
+        "observation": "Balcony with blue railing, chair, artificial grass and residential parking outlook."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3e9ed26922226aa1b3c4205daf5.jpg?format=auto&width=1170",
+        "sha256": "8ba1230b2f6372346ed396dfc5f16211b98da17177cdd5a49872839f28e10861",
+        "observation": "Bedroom with green bedcover, desk and wide glazing."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3db2a7af00513b6ad00666604c3.jpg?format=auto&width=1170",
+        "sha256": "2d53662afc98b121eca8ebdbbf4b140a5e5b6836ea50f5d8d31bf346ab967a3f",
+        "observation": "Second bedroom with gray bedcover, wardrobe, desk and window."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3dc399c056c4e681eb6ac5b7b78.jpg?format=auto&width=1170",
+        "sha256": "c0f72c50a52f412307b18fa1b79c2445543af7c3bc1bc1afed76bb3708fa0171",
+        "observation": "Third bedroom with patterned bedcover, desk and window."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/18/01a0b3d13ace5f8c7e9636ce824e5bdd.jpg?format=auto&width=1170",
+        "sha256": "4bcd4e573f32276747427033656de2e36f6cfb1a2348da80116b7194e39c19c0",
+        "observation": "Shower room with glass enclosure, white tile, wood vanity and matching mirror cabinet."
+      }
+    ],
+    "dpe": "E",
+    "ges": "D",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2022-10-04",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 256
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 37
+      },
+      "amount": {
+        "min": 1320,
+        "max": 1830
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 95,
+      "annualFees": 2426.28,
+      "proceedingsUnderway": false
+    },
+    "chargesAnnualEuros": 2426.28,
+    "sourceConstructionYear": 1974,
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1974"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Porte blindée"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "188 000 €",
+      "formattedPerSurface": "2 559 € / m²"
+    },
+    "dedupeEvidence": {
+      "recordsChecked": 5558,
+      "exactSourceAndGalleryPathMatches": [],
+      "nearUnitUrlsCompared": [
+        "https://www.pap.fr/annonces/appartement-angers-49000-r463000178",
+        "https://www.pap.fr/annonces/appartement-angers-49000-r465403047",
+        "https://www.century21.fr/trouver_logement/detail/15910181215/",
+        "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52909529",
+        "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-5-pieces-52918165"
+      ],
+      "result": "No same physical unit established; floor, layout, building, copropriete and heating facts compared."
+    },
+    "notes": "Full primary description including complete legal/seller wording read; all listing-specific gallery photos individually inspected in source order. Publication date is embedded firstPublishDate; image-folder dates are not publication evidence. Full source wording preserved verbatim. Unknown publication time, property tax and exact address omitted. Furnishings and empty scenes do not establish legal occupancy. Locality and transport claims remain advertiser assertions. Excluded without import or ordinary-rental analysis: full primary text expressly states Actuellement loue (colocation) and fin du bail: 5 Juillet 2027. Advertiser lease-end date is not a promise of vacant possession. All seven gallery images inspected: coherent living/dining, separate kitchen, balcony, three bedrooms and shower room. Floor4 last, lift unexposed,1974/95lots/two sale lots,EUR2426.28 charges,districtheat. Structured bathroom category differs from actual shower evidence; both retained. Near PAPr463000178 isT3/Haussmann10lots/floor4/no lift; PAPr465403047 T3/floor3; C21ref1142 floor2/11lots; Laforet52909529 floor2/143lots; Laforet52918165 has different five-room/four-bed claim and D249B6. No same unit established for withdrawal. Source IDs and every gallery image-path identity checked across approved, pending, excluded evidence and 5558 database exports; no exact match. ",
+    "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+    "analysisStatus": "NOT_COMPUTED_EXCLUDED_SALE"
+  }
+]
