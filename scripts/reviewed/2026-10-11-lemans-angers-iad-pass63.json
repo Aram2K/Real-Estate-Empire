@@ -1,0 +1,464 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-64m2/r2068528",
+    "observedAt": "2026-10-11T13:55:43.581774+00:00",
+    "httpStatus": 200,
+    "externalId": "2068528",
+    "firstSeenAt": "2026-10-11T13:55:43.581774+00:00",
+    "reviewedAt": "2026-10-11T19:52:16.666369+00:00",
+    "communeCode": "72181",
+    "priceEuros": 99000,
+    "surface": 64,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Virginie TOUET",
+    "sourceTitle": "Appartement à Le Mans (72000)",
+    "sourceDescription": "A découvrir, T3, quartier de la Libération, appartement proche commerces et transports en commun.\nCe bien se compose, d'un salon séjour lumineux, une cuisine, deux chambres, une salle de douche, WC. Une cave. Place de parking exterieur.\nA préciser que le raccordement au réseau de chaleur urbain s’effectuera en fin d'année. Les travaux ont été effectué.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 302 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 240€ par mois (soit 2880 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Virginie TOUET mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de LE MANS sous le numéro 847895935, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-08",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;no exposed time.",
+    "photoCount": 4,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c44b34e2ab7c4d484726ca34e0e.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c44d69808535515335304484816.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c44f8923495c90336e95c7acfc9.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c451befa8e2fd612244e825c6ca.jpg?format=auto&width=1170"
+    ],
+    "dpe": "E",
+    "ges": "E",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-07-07",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 309
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 57
+      },
+      "amount": {
+        "min": 1700,
+        "max": 2350
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 302,
+      "annualFees": 2880,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1970,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "99 000 €",
+      "formattedPerSurface": "1 547 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "Construit en 1970"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c44b34e2ab7c4d484726ca34e0e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "7ecfe45e011ab1ef8c9ed6ae56c5ffe68890b29431410eac7159f4831b559622",
+        "observation": "Actual combined living/dining room with dark floor, two separate windows and crossbeam. Mostly empty, with mattress, small fridge and bench; furnishings do not establish legal occupancy."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c44d69808535515335304484816.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "d3df172aeb0643acf231c19faf094856d05713396146aa9c543e0c5b450854d5",
+        "observation": "Older separate kitchen, basic sink cabinet, brown tiled floor, stripped wall surfaces and ceiling marks; renovation needs/cause not diagnosed."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c44f8923495c90336e95c7acfc9.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "4ed27363fd5a027729807e843734703cf36e0317389e8b5d613235f74d7919fb",
+        "observation": "Original shower room with curved enclosure, pale blue cabinets, white vanity and pink door surround. Source mainFeature bath conflicts with prose shower; actual shower corroborates prose."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3c451befa8e2fd612244e825c6ca.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "47cc6f8f1def2f7c4e8b2b73983ba4326055df709dffa6a9ed10f696d487fdb4",
+        "observation": "Original empty bedroom with purple carpet/walls, shelving, window and pink curtains. Second bedroom not pictured; source count remains attributed."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllPhotoPathScan": "No matches across all prior approved,pending,excluded evidence and5571exported listings.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/14509366587/",
+          "surface": 66.73,
+          "rooms": 3,
+          "floor": 0
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15238847025/",
+          "surface": 60.39,
+          "rooms": 3,
+          "floor": 3
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15863471902/",
+          "surface": 61.98,
+          "rooms": 3,
+          "floor": 5
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "surface": 64.63,
+          "rooms": 4,
+          "floor": 0
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949476",
+          "surface": 69,
+          "rooms": 3,
+          "floor": 2
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416388",
+          "surface": 62.27,
+          "rooms": 3,
+          "floor": 3
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416403",
+          "surface": 59.64,
+          "rooms": 3,
+          "floor": 2
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416861",
+          "surface": 67.24,
+          "rooms": 2,
+          "floor": 2
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92255",
+          "surface": 68,
+          "rooms": 3,
+          "floor": 5
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP943377",
+          "surface": 63.01,
+          "rooms": 3,
+          "floor": 8
+        }
+      ],
+      "originalPhotoComparison": [
+        {
+          "sourceUrl": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "photoUrl": "https://www.century21.fr/imagesBien/s3/202/2145/c21_202_2145_19381_8_5E15646F-463B-415C-8BC7-0691F82A3A16.jpg",
+          "sha256": "4c6be3b3f6d78a97fbfaaae2deaa146c0e59f18658e2b42d39dbb290184dc77d",
+          "observation": "Ground-level triple-panel window, single living space, beige walls and light laminate, unlike IAD double reception with two separated windows and crossbeam."
+        },
+        {
+          "sourceUrl": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "photoUrl": "https://www.century21.fr/imagesBien/s3/202/2145/c21_202_2145_19381_8_1A259F7F-9712-4DAD-B9C0-54B29BE50B2F.jpg",
+          "sha256": "3d45c264115716c3086c56aeca814c517f6caa2c13cc5169bb8180eeb73766e6",
+          "observation": "Reverse same single living space with grey entry door and light laminate, unlike IAD dark-floor double reception."
+        },
+        {
+          "sourceUrl": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "photoUrl": "https://www.century21.fr/imagesBien/s3/202/2145/c21_202_2145_19381_8_0ABB6E15-FB5E-4B7D-A8B4-E2D6B41F443B.jpg",
+          "sha256": "2c9b8de9e5108b432ba576bd3f7fdd4c8d915882d9491f246fc9b5373e0edb9a",
+          "observation": "C21 entry hall with large mirror, light laminate and grey doors; distinct from IAD gallery."
+        }
+      ]
+    },
+    "notes": "Full primary description, including legal and seller wording, individually read and preserved verbatim. Every listing-specific exposed gallery image individually visually inspected in source order, excluding related images. Publication is exposed firstPublishDate date only, no time invented. First-seen is actual full-page fetch time. Whole full price under400000 includes applicable agency fees. Furniture/empty scenes do not establish legal occupancy; advertiser availability not independently confirmed. Exact address,publication time and property tax unexposed,omitted. Transport/proximity/orientation claims remain advertiser assertions. Full wording establishes no evidence-backed current tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/partial price,managed/commercial lease,ancillary-only property,boat,spam or impossible surface/room combination. Whole apartment99000 seller fees included,64m2,T3/two source bedrooms,1970 building,302 total copropriete lots/two sale lots,no proceeding,2880annualcharges. Lift explicit in primary feature; floor not exposed,omitted. Full narrative says urban heating connection at year end and works already performed; future connection not treated as installed heat. All4 available originals inspected; one bedroom pictured,second source-attributed. Existing C21ref19381 has64.63m2/same302total lots but ground floor1960/three bedrooms and2760charges. Fresh C21 original comparisons1-3 show a single triple-panel low window,lighter laminate,beige single living room and grey entry door; IAD actual double reception has crossbeam,two separated windows,dark floor and purple bedroom. Different layout/window geometry,not inferred distinct from decor alone. Other nearby units differ in copropriete302 versus32/282/219/218/60/89/48/351,building/layout/floor facts. No same unit established. Before analysis checked local2025 ALL_APT rent and actual2021-2025 apartmentDVF: LeMans1177cents/m2 from25658rentobs,6535actualsales and matchingAPTmetric.",
+    "hasElevator": true,
+    "chargesAnnualEuros": 2880,
+    "reviewStatus": "APPROVED"
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-58m2/r2133811",
+    "observedAt": "2026-10-11T13:55:43.591200+00:00",
+    "httpStatus": 200,
+    "externalId": "2133811",
+    "firstSeenAt": "2026-10-11T13:55:43.591200+00:00",
+    "reviewedAt": "2026-10-11T19:52:16.768920+00:00",
+    "communeCode": "49007",
+    "priceEuros": 135000,
+    "surface": 58,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Frédéric Lemaire",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "En exclusivité, bel appartement T3 rénové, idéal 1ère acquisition ou investissement, au 1er étage (58m², 2 chambres), à Angers, tramway immédiat, 1 cave individuelle et parking collectif de la résidence.\n\nCet appartement dispose de toutes les qualités essentielles de fond et offre un vrai attrait compte tenu des atouts évidents dont il dispose :\n\n1/ Environnement et extérieurs : \n- La proximité du Tramway (ligne B) à 1 minute (Arrêt Europe) sans les nuisances sonores. Centre des congrès en 12 minutes + liaison ligne A, université en 14 min. \n-  A 1 minute de la place de l’Europe en pleine métamorphose avec tous les commerces utiles, les écoles, salles de sport… \n- Exposition idéale Nord/Sud: appartement très lumineux avec de grandes ouvertures côté parc très arboré. Vue très agréable et dégagée. Calme absolu.\n- Une grande cave très accessible de  5,4m² facilement accessible et un local à vélo avec une pente douce à côté de l’entrée.\n- Résidence en parfait état extérieur.\n\n2/ Agencement et équipements :\n- Au 1er étage sur élevé, très belle vue et lumière.\n- Traversant donc très efficace pour optimiser le confort d’été.\n- Coin vie et coin nuit parfaitement séparés.\n- Cuisine aménagée et équipée totalement neuve hormis lave-vaisselle à compléter et réfrigérateur congélateur. \n- Sol de l’appartement neuf en parquet stratifié et peinture refaite. \n- Un 1er espace de 26m² composé d’un salon orienté sud, d’une petite entrée et d’une cuisine séparée aménagée et semi équipée.\n- La partie nuit est constituée de 2 chambres non mitoyennes de 11 et 9,3m² séparée par un placard/dressing à aménager selon les besoins, d’un WC indépendant et d’une salle d’eau avec cabine de douche et sol en parquet massif pont de bateau en teck.\n- VMC naturelle.\n- Chauffage au sol collectif alimenté par le réseau de chauffage urbain (inclus dans les charges de copro), donc pas de place perdue sur les murs avec des radiateurs.\n- Ballon d’eau chaude individuel et emplacement lave-linge discrètement installés dans un espace dédié clos.\n\nBref, un appartement très bien conçu, traversant, bien fini, bien situé, lumineux…\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 226 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 141.67€ par mois (soit 1700 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Frédéric Lemaire mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Angers sous le numéro 824726152, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-09",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;no exposed time.",
+    "photoCount": 12,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04daea6024d7064c5c27a1f5.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04b4ec7affabd7babfa4c4fd.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf07a92185508b1593cb66859d.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf047a520913225c7ccee8535b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04987a34baa7dd74a0ff1dc4.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04b9cc0c9bb28ca23bdcf864.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04cf35c17e49c4d39ce05880.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04c3123fa7be3471eb7c97e7.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04dfd46d5818414bfd8a5895.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf0523aae5383bf9b829209455.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf053ba9ae27e4e3c1a1fd7ee2.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121c3b22feb247a8446d1e8baa168.jpg?format=auto&width=1170"
+    ],
+    "dpe": "D",
+    "ges": "C",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2023-03-01",
+      "year": 2025,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 207
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 19
+      },
+      "amount": {
+        "min": 900,
+        "max": 1270
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 226,
+      "annualFees": 1700,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1970,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "135 000 €",
+      "formattedPerSurface": "2 328 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1970"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04daea6024d7064c5c27a1f5.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "25b3772ac02bcba71a17369936ed1155547e6b9f9ad05ea7bdb8b0042f3a0e8e",
+        "observation": "Actual separate fitted kitchen: white cabinets, black sink/hob, wood counter, fridge and large window."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04b4ec7affabd7babfa4c4fd.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "737a520e93c83ed5dd8280bf1590f7427dc8322914ea596dbaf9a78ff6389cbf",
+        "observation": "Original empty living room, wood-effect floor, white fold-down cabinet and broad Juliet door with blue railing."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf07a92185508b1593cb66859d.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "495f6a583eb32cadb554f1cb760fe174d8379eb2caa3da673548611e736248ab",
+        "observation": "Park outlook through blue Juliet railing; private garden or walkout balcony not inferred."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf047a520913225c7ccee8535b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "c67ce0b5eaa4db098dcdd0b3fc34d933a465dc51493d495db266e42000dac9d4",
+        "observation": "Reverse living room with same fold-down cabinet, two wall lights and wood-effect floor."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04987a34baa7dd74a0ff1dc4.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "dda557a0b1d0ff292098b2a6e9838b348880c1b9134dbf5b67f6f8338de6ef51",
+        "observation": "One original empty bedroom with grey wood-effect floor, white walls and Juliet window-door."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04b9cc0c9bb28ca23bdcf864.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "48251284b8fd738ca72d28deeeb933d70dfc77cd7163bd52211a66a955f281be",
+        "observation": "Outlook from that bedroom window onto shared planting and parked cars; no private parking allocation proved."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04cf35c17e49c4d39ce05880.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "92b1188d2ca2e107e2ecf9922f859b0d4c2e0c8b57260c9450407551a04a90c7",
+        "observation": "Second original bedroom with bed base/mattress, wood-effect floor and leafy Juliet outlook; bed does not prove tenancy."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04c3123fa7be3471eb7c97e7.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "bd6747af6a178a3ec33351364a8f763864e5207626a55f80276dbc000e51754f",
+        "observation": "Actual shower room with curved enclosure, dark wood vanity and wood-strip deck floor."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf04dfd46d5818414bfd8a5895.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "153240d4c075c6a5d136075c2d1a01fee307b955ef0a912bfb564df10f6e584b",
+        "observation": "Enclosed hot-water tank and washing-machine recess with shelves/pipes; no installed washer pictured."
+      },
+      {
+        "number": 10,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf0523aae5383bf9b829209455.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "f5544448495a6504e6c89bce86d9caf605a041eacdedcce4a6da90c534c295e0",
+        "observation": "Apartment building facade with blue Juliet rails and shared green grounds."
+      },
+      {
+        "number": 11,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121bf053ba9ae27e4e3c1a1fd7ee2.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "01623a15db95875a209f7f16fdf3cb0c24684cbdaa2869433c23a6a4c9dab722",
+        "observation": "Another view of same long building, entrances and common paths; no lift evidence exposed."
+      },
+      {
+        "number": 12,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/09/01a121c3b22feb247a8446d1e8baa168.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "5a5f7b1dd94440d48ae1318956acbb61a6f573733f7dd31a79595ff94a7bc229",
+        "observation": "Floor plan shows two separate bedrooms, dressing, separate WC, shower room, living room and independent kitchen, consistent with prose and photos."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllPhotoPathScan": "No matches across all prior approved,pending,excluded evidence and5571exported listings.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15854277093/",
+          "surface": 61.3,
+          "rooms": 4,
+          "floor": 3
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967744",
+          "surface": 59.7,
+          "rooms": 3,
+          "floor": 2
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-62m2/r2107149",
+          "surface": 62.03,
+          "rooms": 2,
+          "floor": 1
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
+          "surface": 63,
+          "rooms": 3,
+          "floor": 0
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465301989",
+          "surface": 54.68,
+          "rooms": 2,
+          "floor": 6
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465502843",
+          "surface": 60.6,
+          "rooms": 3,
+          "floor": null
+        }
+      ]
+    },
+    "notes": "Full primary description, including legal and seller wording, individually read and preserved verbatim. Every listing-specific exposed gallery image individually visually inspected in source order, excluding related images. Publication is exposed firstPublishDate date only, no time invented. First-seen is actual full-page fetch time. Whole full price under400000 includes applicable agency fees. Furniture/empty scenes do not establish legal occupancy; advertiser availability not independently confirmed. Exact address,publication time and property tax unexposed,omitted. Transport/proximity/orientation claims remain advertiser assertions. Full wording establishes no evidence-backed current tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/partial price,managed/commercial lease,ancillary-only property,boat,spam or impossible surface/room combination. Whole apartment135000 seller fees included,58m2,T3/two bedrooms,floor1 sur-eleve explicit,1970 building,226total copropriete lots/two sale lots,no proceeding,1700annualcharges including collective underfloor district heat; individual hot-water tank. Lift unexposed,omit. Parking is collective residence parking,not privately assigned. Cave5.4m2 and travel times are source claims. All12original gallery entries including two bedrooms and floor plan inspected; coherent renovated ordinary apartment. Kitchen described new except fridge/freezer and dishwasher to complete,not fully new appliance package. Fold-down cabinet in living not counted as bedroom. Near C21ref1138 floor3/11lots/station T3bis andCitya967744 floor2/1975/57lots/25.55terrace differ; IAD2107149 floor1/1949/20lots/one bedroom, PAP63ground1993/electric,PAP54.68floor6onebed1965,PAP60.6HautsStAubin/privateundergroundparking differ. No same physical unit established. Before analysis checked local2025 ALL_APT rent and actual2021-2025 apartmentDVF: Angers1456cents/m2 from29741rentobs,8943actualsales and matchingAPTmetric.",
+    "floor": 1,
+    "chargesAnnualEuros": 1700,
+    "reviewStatus": "APPROVED"
+  }
+]
