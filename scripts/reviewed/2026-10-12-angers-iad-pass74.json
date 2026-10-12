@@ -1,0 +1,506 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-67m2/r2063981",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T20:41:01.630077+00:00",
+    "externalId": "2063981",
+    "firstSeenAt": "2026-10-12T20:41:01.630077+00:00",
+    "reviewedAt": "2026-10-12T20:55:34.159572+00:00",
+    "communeCode": "49007",
+    "priceEuros": 181000,
+    "surface": 67.12,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Charlène Morinière",
+    "sourceTitle": "Appartement à Angers (49000)",
+    "sourceDescription": "ANGERS - ORGEMONT/Parc de l'Arboretum - APPARTEMENT LIBRE DE TOUTE OCCUPATION - T4 67M² - 3 CHAMBRES - BALCON - CAVE\n\nCoup de cœur assuré pour cet appartement entièrement rénové, lumineux et traversant situé au 3ème étage, au sein d'une résidence dans un cadre verdoyant et à proximité des écoles et des commerces.\n\nLe bien dispose d'une spacieuse pièce de vie de 29m² avec cuisine ouverte aménagée et équipée, 3 chambres dont deux avec placards intégrés, une salle d'eau (avec douche à l'italienne et sèche-serviette), un wc séparé. \nUn balcon prolonge agréablement le séjour avec une vue dégagée sur les jardins de la résidence.\n\nEn annexe, une cave de 8m² qui offre un bel espace de rangement.\nPlaces de stationnement facile et gratuit au sein de la résidence.\n\nHuisseries en double vitrage récentes, nouveau système de chauffage collectif en biomasse inclus dans les charges ainsi que l'eau de l'appartement.\n\nIdéal pour de la résidence principale ou investissement locatif!\n\nContactez-moi pour organiser une visite!\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 91 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 211€ par mois (soit 2532 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Charlène Morinière mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 897584975, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-01",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time not exposed.",
+    "photoCount": 9,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1e220fa8b1748585dd10845ab3df.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/14/01a09f66ec4063b3fd880daca0885279.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1de6c27db37be89f265c7e8f9954.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1de6c2bb2a8679e0a7adf06ed809.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1df131c5d3ea2ddea83b3e6660f9.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1e1bf84333c5d577f66fb9c6e2f2.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1dfc2c75d9210f34af2eebed2cf2.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1e1bf7cbb43216802aca560e9c12.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1de6c17f7feb8c208d5a37d60e7d.png?format=auto&width=1170"
+    ],
+    "dpe": "E",
+    "ges": "E",
+    "chargesAnnualEuros": 2532,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2023-02-06",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 242
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 52
+      },
+      "amount": {
+        "min": 850,
+        "max": 1210
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 91,
+      "annualFees": 2532,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1963,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "181 000 €",
+      "formattedPerSurface": "2 697 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1963"
+        },
+        {
+          "text": "Étage : 3"
+        },
+        {
+          "text": "Porte blindée"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 67.12,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1e220fa8b1748585dd10845ab3df.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "88a76d512f8288c25299ba7f5d94740df56e759b6e9cd9ecdef4d9d1d8978dbe",
+        "observation": "Furnished living/dining reverse view with green sofa, rounded white dining table, copper wire pendants, dark wood-pattern floor tiles and open kitchen; white washer below three-panel kitchen window. Furnishings alone do not establish occupancy."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/14/01a09f66ec4063b3fd880daca0885279.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "9ccccae83286ded62e1e4771f42bc62b04949fa6caa2cc884176dfea9a49759a",
+        "observation": "Forward view of the same living/dining geometry with broad three-panel balcony opening, blue sofa and wood TV sideboard. Furniture differs from photo1; do not assert both sofa configurations are current or infer completed works or AI solely from this variation."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1de6c27db37be89f265c7e8f9954.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "efd3f2380bd468dd1ca9f8694672bc5fcc591815d6c070b6ee0b99a083202fda",
+        "observation": "Balcony with concrete floor, white vertical metal railing, brown handrail, wicker chairs/table and treed residential outlook. Measurements and legal annex allocation not established by image."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1de6c2bb2a8679e0a7adf06ed809.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "0ab69935a0d7eb4b8be4d2398d3cac73310d1487179a293c82affefc663a8271",
+        "observation": "Open kitchen with wood units, black handles/counter, white brick-pattern backsplash, hood, white washer and three-panel window; coherent with photo1."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1df131c5d3ea2ddea83b3e6660f9.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "88386061db1046e3227b72c6c6bd07fa2f387f1ec7343919e546c8e1a921708d",
+        "observation": "Bedroom reverse view with wood desk/laptop, white open wardrobe, wall shelves, bed and doorway to hall. Do not count an extra distinct bedroom from a reverse angle alone."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1e1bf84333c5d577f66fb9c6e2f2.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "34d071a3db98add4cbd10d12f091cf0c12ca2be5362528886967dcbebb2ef6d3",
+        "observation": "Bedroom with blue accent wall, double bed, green chair, three-panel window and white water radiator."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1dfc2c75d9210f34af2eebed2cf2.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "4710667438b77b53e1209c328bd790b84ab366f122293da35a139c8faba143c3",
+        "observation": "Bedroom with green accent wall, long wooden desk/shelves, wicker pendant, bed, three-panel window and water radiator. Source asserts three bedrooms; gallery alone does not independently prove three separate bedrooms."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1e1bf7cbb43216802aca560e9c12.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "83507f5727b65e04c748e3b831e5519008f655a1697b24816aea21c72e5165bf",
+        "observation": "Another reverse view of living/dining connecting blue bedroom doorway, entry door, open kitchen, rounded white table and TV sideboard; no additional room inferred."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1de6c17f7feb8c208d5a37d60e7d.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6f0055103086da20fca0ec90e01825c8d2cd91cb89809d76b80a681c89604373",
+        "observation": "Shower room with grey tiles, dark brick-pattern accent, black-framed rain-shower screen, grey vanity and two-panel opaque window. Separate WC, cellar and assigned private parking not demonstrated by gallery."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-67m2/r2063981",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T20:55:33.553477+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15869211693/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15869211693/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67.19,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15990000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16458694716/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16458694716/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67.8,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 18650000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16643633867/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16643633867/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 68.32,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 16150000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-65m2/r2078199",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-65m2/r2078199",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 65,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "B",
+            "ges": "A"
+          },
+          "priceCents": 14600000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-67m2/r2110656",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-67m2/r2110656",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 18500000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-69m2/r2096546",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-69m2/r2096546",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 69,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 20900000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52909529",
+          "property": {
+            "dedupeKey": "reviewed:https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52909529",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 71,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 17999000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52971007",
+          "property": {
+            "dedupeKey": "reviewed:https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52971007",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 65,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 20900000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-angers-citya-pass48.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967740",
+          "surface": 63.63,
+          "priceEuros": 237000,
+          "reviewStatus": "PENDING_SOURCE_FACT_CONFLICT",
+          "floor": 3,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-12-angers-iad-pass72.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-70m2/r2051691",
+          "surface": 70,
+          "priceEuros": 139000,
+          "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+          "floor": 2,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "Whole EUR181000 apartment asking price, seller fees,67.12m2 actual primary surface (headline rounded67),T4/source three bedrooms,floor3 explicit, lift unexposed and unknown. Source1963 construction,2sale lots/91TOTALcoownership lots,EUR2532annual/EUR211monthly charges,no stated proceeding. Open29m2living/kitchen,balcony,8m2cellar,free collective residence parking; no exclusive assigned space or garage inferred. Source new collective biomass heating compatible with district-heating tag; do not invent installation date or certify works. Preserve older2023-02-06 DPE E242/GES E52 indexed2021 energyEUR850-1210; no upgrade from heating claim. All9ownphotos inspected: coherent open wood/black kitchen,rounded table/dark wood-pattern tiles,living/dining,bedroom views,grey/dark-brick shower and concrete balcony. Furniture colour variation noted without inferring current contents or AI. Source explicit libre de toute occupation retained as advertiser claim, independently unconfirmed. No currenttenanted/occupiedsale,viager,bare/fractional/timeshareownership,auction/starting/partialprice,managed/commerciallease,ancillary-onlyasset,boat,spam or impossible room/surface combination found in complete wording/photos. ExactID/allownimage paths absent across prior approved,pending,excluded,duplicates and database exports. Near C21ref1140 initially possible from67.19T4/floor3/Arboretum, but freshHTTP200 full prose and ALL14current ownphotos individually compared: separate6.2m2U-shaped grey/white kitchen,16.7m2brick-wall living,white fish-border shower,patterned-tile/awning balcony,three bedrooms,65lots/11.7m2cellar/collectivegas/2495charges/DPE2022 differ from open29m2wood-black kitchen,grey black-frame shower,concretebalcony,91lots/8m2cellar/biomass/2532charges/DPE2023 here. No same physical unit established. Other active near C21ref1154floor0Madeleine/T3,ref1159floor2WITHliftLacMaine/T3;IAD2078199floor5WITHlift/612lots/garage;2110656groundPlaceNey/77lots;2096546lastfloor3ConservatoireMontaigne/separate2025kitchen/backkitchen/1063lots;Laforet52909529floor2NOliftT3/twobalconies;52971007floor2NOliftT3/station1948/four-unitbuilding all materially differ. NonactiveCityaHautsSaintAubin2016T3/twobeds/surface-chargeconflicts and excludedIAD2051691HautsPasteurfloor2WITHlift/T3/currenttenancy/72lots also distinct.",
+      "livePrimaryComparison": {
+        "url": "https://www.century21.fr/trouver_logement/detail/15869211693/",
+        "httpStatus": 200,
+        "recheckedAt": "2026-10-12T20:49:26.777847+00:00",
+        "sourceDescription": "Description\n   \n      APPARTEMENT T4  3 CHAMBRES  BALCON \n\nANGERS ARBORETUM\n\nDans le secteur recherché de l'Arboretum, au calme et à proximité immédiate des commodités, votre agence Century 21 Plantagenêt vous propose en exclusivité ce bel appartement T4 aux volumes agréables et à la belle luminosité.\n\nSitué au 3ème étage d'une résidence de bon standing, sans ascenseur, cet appartement bénéficie d'un agencement fonctionnel et parfaitement adapté à une vie de famille.\n\nDès l'entrée, vous découvrirez une cuisine entièrement aménagée et équipée, un agréable salon-séjour baigné de lumière ouvrant sur un balcon bien exposé, idéal pour profiter des beaux jours.\n\nL'espace nuit se compose de trois chambres, d'une salle d'eau et de WC séparés.\n\nL'appartement offre un cadre de vie confortable et chaleureux, sans perte d'espace. Pour les acquéreurs souhaitant une installation simplifiée, une partie ou l'ensemble du mobilier pourra également être compris dans la transaction.\n\nUn bien idéal pour une résidence principale, un premier achat ou un investissement locatif à Angers.\n\nContactez votre agence Century 21 Plantagenêt pour organiser une visite et découvrir cet appartement.",
+        "comparisonPhotoReview": [
+          {
+            "number": 1,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_113EF6FE-B62D-4455-8AB4-3AC55275CB49.jpg",
+            "httpStatus": 200,
+            "sha256": "3c790717d2902ef891e21f7d1117b1dd905fc962623127efff98da1faa0deb88",
+            "observation": "Living/dining with brick-pattern accent wall, white rectangular table, black sofa and pale wood floor; closed 16.7m2 living geometry differs from IAD open29m2 living/kitchen."
+          },
+          {
+            "number": 2,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_1D96AF94-1DE1-4EE0-ABF5-8A0A694753CC.jpg",
+            "httpStatus": 200,
+            "sha256": "49d8766329787ec76387ca9be41542531ec7e1dc9bb1b2fc8d0d67f89643066d",
+            "observation": "Orange-wall bedroom with three-panel window, radiator on left, desk and bed."
+          },
+          {
+            "number": 3,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_EFDBF3B6-A821-4AAB-810A-D5AA461E4B23.jpg",
+            "httpStatus": 200,
+            "sha256": "c6f75941d8cfe2a46288c99dfc35b0e5e1010d3966b7c9a89f669161a2819da4",
+            "observation": "Reverse of orange-wall bedroom, freestanding wardrobe and metal shelves; not an extra bedroom."
+          },
+          {
+            "number": 4,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_F93E4888-1CE0-4648-A1BB-34F2800EB6C7.jpg",
+            "httpStatus": 200,
+            "sha256": "642f8cf25701dced68bb654ba79f0bb80fc0d92e3e05a82f6a36cd0c65b342d1",
+            "observation": "Another bedroom with white walls, three-panel window, left radiator and metal desk/shelves."
+          },
+          {
+            "number": 5,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_E6C4DA26-F772-4CBC-BD14-3E4A3C4AC2A2.jpg",
+            "httpStatus": 200,
+            "sha256": "e4e621ed8ac7c8735720c89a2f43ffd20e695d8c99f2e9f11fe0838ac4d684ff",
+            "observation": "Reverse living/dining, same brick-pattern wall, rectangular table and three-panel balcony opening."
+          },
+          {
+            "number": 6,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_40795376-F6C3-428A-96B9-CE26C8CF2503.jpg",
+            "httpStatus": 200,
+            "sha256": "2d9db37ae67bf4e2566c3e649e965fb0e2ddb4082b4cc4022df52cb77323718e",
+            "observation": "Separate narrow U-shaped kitchen with grey lower/white upper units, wood counter, radiator under three-panel window, washer, oven and hood; differs from IAD open wood/black kitchen and washer below window."
+          },
+          {
+            "number": 7,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_F4799524-1305-4496-9B30-9E09F9651495.jpg",
+            "httpStatus": 200,
+            "sha256": "cfa294e5c471e085de1d66652cfda5dc5ff8018757cead2aa3e61c74a6866a21",
+            "observation": "Shower room with white square tiles, fish-pattern border, white-framed cubicle, washer and vanity; differs from IAD grey/dark-brick shower, black frame and opaque window."
+          },
+          {
+            "number": 8,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_BE5C14D0-CCA8-4CF6-B04E-B5115D291E60.jpg",
+            "httpStatus": 200,
+            "sha256": "ced3620b75ca3072d34af108e0bf8cc2babb051b7d2ea609e136fb8dc70582ea",
+            "observation": "Another angle of first orange-wall bedroom with three-panel window and desk."
+          },
+          {
+            "number": 9,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_B4E43798-6C2E-427F-902D-D88A33C9BB6E.jpg",
+            "httpStatus": 200,
+            "sha256": "8f62d326c73e76a38d44b04d8d03be741d8afd35d03aff224629d8ced8ec46a4",
+            "observation": "Reverse orange bedroom with recessed wardrobe/curtain and door to hallway."
+          },
+          {
+            "number": 10,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_AC362C93-859D-4C31-B7B0-A49D65FA16B1.jpg",
+            "httpStatus": 200,
+            "sha256": "477709f815f224f15b55e26dd7d143a7116a3365dd226a65fe49c7e980808d21",
+            "observation": "Third bedroom with orange accent wall, two-panel glazed balcony door, right radiator and desk."
+          },
+          {
+            "number": 11,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_4FD76626-414B-4A63-8ED5-D3756AD9A3D1.jpg",
+            "httpStatus": 200,
+            "sha256": "773a5664580e5ecc15c737f585b373ebb30c8781ebf4dbb2a1bb550f33b0f365",
+            "observation": "Reverse third bedroom showing recessed wardrobe and hallway door."
+          },
+          {
+            "number": 12,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_DD5A48B1-A36D-4496-B505-DB2121ECFB1B.jpg",
+            "httpStatus": 200,
+            "sha256": "8e7fa87f7b77e1e60a615c438dfd0a3129dbdd74b20a2d4cdc0f0b89f58642fe",
+            "observation": "Balcony with brown patterned tiles, striped awning and white railing; different floor finish from IAD concrete-floor balcony."
+          },
+          {
+            "number": 13,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_4B398651-99E7-428E-B27D-D45C9A435824.jpg",
+            "httpStatus": 200,
+            "sha256": "b1ab7ed2890f1b786ab8841dde9b28683e1d80fdd2eb781f8626d45ee2bcab73",
+            "observation": "Reverse brick-wall living room with door opening through separate entry toward narrow kitchen; confirms separate-room geometry."
+          },
+          {
+            "number": 14,
+            "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_1140_1_4F9D00AA-600A-4D1E-847B-E14424E24766.jpg",
+            "httpStatus": 200,
+            "sha256": "404cb5ab913a176a66754c915ef834034bf9ea8245cb97b2cd35d8a38a766adf",
+            "observation": "Another reverse living view showing same entry opening, closed doors, pale wood floor and brick-pattern wall."
+          }
+        ],
+        "result": "DISTINCT_PHYSICAL_UNIT"
+      }
+    },
+    "notes": "Full primary description including all legal and seller wording individually read and preserved verbatim. Every listing-specific exposed gallery photo individually visually inspected in source order; related listings excluded. Primary firstPublishDate is date only: publication time unexposed, no invented time, and image dates are not publication dates. First-seen is actual initial full-page HTTP200 timestamp. Furnished/empty scenes do not establish legal tenancy or vacant possession. Location,quietness,measurements,condition and completion claims remain advertiser assertions. Exact address and publication time omitted. Whole EUR181000 apartment asking price, seller fees,67.12m2 actual primary surface (headline rounded67),T4/source three bedrooms,floor3 explicit, lift unexposed and unknown. Source1963 construction,2sale lots/91TOTALcoownership lots,EUR2532annual/EUR211monthly charges,no stated proceeding. Open29m2living/kitchen,balcony,8m2cellar,free collective residence parking; no exclusive assigned space or garage inferred. Source new collective biomass heating compatible with district-heating tag; do not invent installation date or certify works. Preserve older2023-02-06 DPE E242/GES E52 indexed2021 energyEUR850-1210; no upgrade from heating claim. All9ownphotos inspected: coherent open wood/black kitchen,rounded table/dark wood-pattern tiles,living/dining,bedroom views,grey/dark-brick shower and concrete balcony. Furniture colour variation noted without inferring current contents or AI. Source explicit libre de toute occupation retained as advertiser claim, independently unconfirmed. No currenttenanted/occupiedsale,viager,bare/fractional/timeshareownership,auction/starting/partialprice,managed/commerciallease,ancillary-onlyasset,boat,spam or impossible room/surface combination found in complete wording/photos. ExactID/allownimage paths absent across prior approved,pending,excluded,duplicates and database exports. Near C21ref1140 initially possible from67.19T4/floor3/Arboretum, but freshHTTP200 full prose and ALL14current ownphotos individually compared: separate6.2m2U-shaped grey/white kitchen,16.7m2brick-wall living,white fish-border shower,patterned-tile/awning balcony,three bedrooms,65lots/11.7m2cellar/collectivegas/2495charges/DPE2022 differ from open29m2wood-black kitchen,grey black-frame shower,concretebalcony,91lots/8m2cellar/biomass/2532charges/DPE2023 here. No same physical unit established. Other active near C21ref1154floor0Madeleine/T3,ref1159floor2WITHliftLacMaine/T3;IAD2078199floor5WITHlift/612lots/garage;2110656groundPlaceNey/77lots;2096546lastfloor3ConservatoireMontaigne/separate2025kitchen/backkitchen/1063lots;Laforet52909529floor2NOliftT3/twobalconies;52971007floor2NOliftT3/station1948/four-unitbuilding all materially differ. NonactiveCityaHautsSaintAubin2016T3/twobeds/surface-chargeconflicts and excludedIAD2051691HautsPasteurfloor2WITHlift/T3/currenttenancy/72lots also distinct. Before analysis verified local2025ALL_APT rent1456cents/m2 from29741observations,8943actual apartmentDVFsales/matchingAPTmetric2021-2025.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "49007",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1456,
+      "nbObs": 29741,
+      "actualApartmentDVFSales": 8943,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 8943
+      }
+    }
+  }
+]

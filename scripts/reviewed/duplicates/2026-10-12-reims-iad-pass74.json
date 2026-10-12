@@ -1,0 +1,275 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-31m2/r2132870",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T20:42:53.536189+00:00",
+    "externalId": "2132870",
+    "firstSeenAt": "2026-10-12T20:42:53.536189+00:00",
+    "reviewedAt": "2026-10-12T20:55:34.209050+00:00",
+    "communeCode": "51454",
+    "priceEuros": 116000,
+    "surface": 31,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Christelle Thévin",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "A ne pas manquer appartement en centre ville de Reims au Rez de chaussée d'un immeuble moderne de 1991 de 3 étages !\n\nComposé d'une grande entrée avec placard, une salle à manger lumineuse, une grande cuisine!\nDPE C et très faible charge de copropriété \n\nBien sans risque idéalement placé ou il est bon d'investir!\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 18 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 50€ par mois (soit 600 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Christelle Thévin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 940226566, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-11",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time not exposed.",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1314bfe4847700d98f904720a6ae1.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1314bfe3d427cb5793b6ce643acc4.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb1ccde4d7b3a8e0714e0915.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb059e1cb2b8fa834a87ae96.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb1b6a2012f39abe60c943f6.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb1a45db70ea5a1dca9a111e.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1314bfdfd24c6e5a91cced924a3b4.jpg?format=auto&width=1170"
+    ],
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 600,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-06-01",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 170
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 6
+      },
+      "amount": {
+        "min": 560,
+        "max": 800
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 18,
+      "annualFees": 600,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1991,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "116 000 €",
+      "formattedPerSurface": "3 742 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [],
+      "secondary": [
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1991"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 31,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1314bfe4847700d98f904720a6ae1.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "78c1c74a6ab54d859e4870ce69bf537cb428fc8199fa1ed9b8cf73bd7c91a730",
+        "observation": "Cream modern residential corner-building exterior, upper balconies and ground street windows; exact street address not inferred from facade."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1314bfe3d427cb5793b6ce643acc4.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "0cc86673c2ecb5c474d57a8fcf756b8e72bb8d3a96cabebc67166986879fd923",
+        "observation": "Common entrance hall with grey doors/tiles and visible building lift on the right. Common hall is not additional private apartment area; unit-specific lift service unconfirmed."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb1ccde4d7b3a8e0714e0915.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "f3bef1278c04508d6d8329dc3ada840c681f05c2039092819a8362139000d83e",
+        "observation": "Empty main room with two separate street-facing windows, electric wall convector between them and wood-pattern floor tiles. Empty scene does not establish vacant possession."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb059e1cb2b8fa834a87ae96.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "69bce8e0681f5a35d10c67d2a2150588c8f459e8ac01da3e2fae7c2152815d6d",
+        "observation": "Reverse view of the same main room with matching floor tiles, white half-glazed internal door, wall casing and columns; no second living room or separate bedroom inferred."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb1b6a2012f39abe60c943f6.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "25040705df7b2e08b76c609a75ed2f25f004121f93d4d1344107207fe2513b66",
+        "observation": "Separate kitchen with white base units, wood counter, cream fridge and square white floor/backsplash tiles, opening toward wood-pattern main-room floor."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/08/01a11ccfcb1a45db70ea5a1dca9a111e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "46c4ccbbc212b7c2dfdc0441720df949da0cf77d9a0704ecf9f2f3904c7a4ef2",
+        "observation": "Reverse view of the same kitchen, cream fridge/white units and window; not another kitchen or bedroom."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1314bfdfd24c6e5a91cced924a3b4.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "3b33b370d76afcbc8facc98f579bf676215818ead28ed74f3abfd05c49fbc8f4",
+        "observation": "Bathroom with bathtub on right, WC on left, beige vanity/basin/mirror in middle, salmon walls, exposed salmon pipes below basin, square floor tiles and grey marble-pattern bath surround. This resolves sanitation omitted from brief prose and exactly matches canonical PAP bathroom photo5."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-31m2/r2132870",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T20:55:33.500772+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401319",
+          "property": {
+            "id": "cmuokqlw8001bh8x8jdcpu00b",
+            "codeCommune": "51454",
+            "surface": 30.83,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 11500000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-1-piece-52934532",
+          "property": {
+            "id": "cmuynsblv000bh8as1gyag59k",
+            "codeCommune": "51454",
+            "surface": 33.43,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 11990000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-reims-iad-pass56.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-29m2/r2097524",
+          "surface": 29.44,
+          "priceEuros": 109000,
+          "reviewStatus": "PENDING_DPE_AND_COPROPRIETE_CLARIFICATION",
+          "floor": 3,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-reims-citya-pass52.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP406-972889",
+          "surface": 35,
+          "priceEuros": 153000,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": 1,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "DUPLICATE of existing active PAP G54/1319 URL https://www.pap.fr/annonces/appartement-reims-51100-r465401319, propertycmuokqlw8001bh8x8jdcpu00b. Primary wholeEUR116000selleragencyfees,31m2T1/zero separatebedrooms,floor0rezdechaussee,1991building,1sale lot/18TOTALlots,EUR600annual50monthly,noproceeding,electricheating,DPE C170/GES A6 assessed2026-06-01. Correct Reims INSEE51454 verified; no inferred publication time. All7ownphotos individually inspected including bathroom7 which exposes sanitation omitted from prose. Fresh live PAP fullprose read via web afterdirectHTTP403; live primary displaysEUR115000,30.83Carrez/T1/1991/electric/EUR600charges/tax895/DPE C170 assessed2026-06-01 and date-onlypublication2026-10-08 (oldcanonicaldate remains historical). PAPbathroomphoto5 has identical original salmonwalls/pipes,leftWC,middlebeigevanity/rightbathtub,grey marbledtiles andfloor; PAPcommonhallphoto11 matchesIAD2grey doors/partition/fire extinguisher/lift. PAPphoto1 apparentdigitalfurnishing compatiblemainroomgeometry not proofinstalledfurniture. Original distinctivebathroom establishes physicalidentity; hall alone insufficient. PAP wording salle d eau conflicts with photographedbathtub, preserve without deletingfixtureevidence. Price and surface differences between sources retained, no choice of assumed correct price/measurement. Commonhall lift visible but unitservice unconfirmed: IADliftflag remainsunknown. BriefBien sans risque claim unverified, no guarantee adopted. ExistingLaforetClairmarais33.43openkitchen/terrace1960/electric/E297/360charges differs;pendingIAD2097524Courlancy29.44floor3WITHlift1986/50lots/E285/992charges differs;excludedCitya35T2firstoldbuilding/openkitchen/currentrent575 differs. New sourceID andimagepaths absent from earlier evidence/exports, but cross-source physicalduplicate confirmed. Canonical remains one inventory entry; no duplicateimport or investmentanalysis.",
+      "livePrimaryComparison": {
+        "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401319",
+        "accessMethod": "web open primary source; direct requests HTTP403, no bypass attempted",
+        "readAt": "2026-10-12T20:55:34.229352+00:00",
+        "publicationDateExposed": "2026-10-08",
+        "priceEuros": 115000,
+        "surfaceCarrez": 30.83,
+        "sourceDescription": "Secteur boulevard Lundy. T1 de 31 m2 - Emplacement privilégié, idéal premier achat ou investissement.\nDPE C : 170 KWh/m²/AN en date du 01/06/2026.\nSurface Loi Carrez : 30,83 m²\nSitué sur le très recherché boulevard Lundy, découvrez ce T1 offrant un fort potentiel, au sein d'une résidence de bon standing construite en 1991 et parfaitement entretenue.\nSon emplacement privilégié séduira aussi bien un étudiant, un jeune actif, une personne seule ou un investisseur à la recherche d'un bien dans un secteur où la demande locative est particulièrement soutenue.\nL'appartement se compose d'une agréable pièce de vie, d'une cuisine indépendante, d'une salle d'eau avec wc et d'une entrée avec un espace de rangement.\nUn appartement décoration refaite entièrement et entièrement carrelé.\nLes atouts du bien\n- Résidence de 1991, bien entretenue.\n- Appartement de 31 m2.\n- Cuisine indépendante.\n- DPE : C, garantissant une bonne performance énergétique.\n- Quartier résidentiel prisé.\n- Forte demande locative.\n- Idéal pour un premier achat, un pied-à-terre ou un investissement patrimonial.\nInformations complémentaires\n- Charges de copropriété 50 EUR par mois\n- Chauffage individuel électrique\n- Taxe foncière 895 EUR par an.\nUn emplacement privilégié\nVivre proche du boulevard Lundy, c'est profiter d'un environnement recherché alliant calme et proximité de toutes les commodités :\n- Centre-ville accessible en moins de 10 minutes à pied.\n- Gare TGV de Reims Centre à environ 15 minutes à pied.\n- Halles du Boulingrin, commerces, restaurants et services à proximité immédiate.\n- Transports en commun au pied de la résidence.\n- Accès rapide aux établissements d'enseignement supérieur et aux principaux axes routiers.\nUne belle opportunité d'acquérir un appartement offrant un excellent potentiel de valorisation dans l'un des secteurs les plus recherchés de Reims.",
+        "comparisonPhotoReview": [
+          {
+            "number": 1,
+            "url": "https://cdn.pap.fr/photos/pap/3b/9d/3b9dfbc3f9fa77efa0cfadaf6d1289ed/3-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "eb5f413afaad2917abf0869cf0c4078f9f4aadcdec247ee3cf662d93cb9581d2",
+            "observation": "Apparent digitally furnished main room with two windows and middle radiator matching IAD original geometry. Added furnishings/curtains not current-condition evidence; duplicate decision supported by original bathroom, not staging alone."
+          },
+          {
+            "number": 5,
+            "url": "https://cdn.pap.fr/photos/pap/34/41/3441a457a2d2d3117a4bded44592844b/3-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "e7202af4fa3e5f62d1d0b7c49ff7ad56be50f46c2f4970218cc705fd511827bf",
+            "observation": "Original bathroom: identical salmon walls/exposed pipes, left WC, middle beige vanity/mirror, right bath, grey marble-pattern surround and square floor tiles to IAD photo7. Distinctive original fixed fixtures establish same physical unit despite PAP wording salle d eau."
+          },
+          {
+            "number": 11,
+            "url": "https://cdn.pap.fr/photos/pap/d1/9c/d19c22b13fb3fcaca415635acbb327dd/d-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "0118cf879d444eea5d63288ce3386b8a2a90057783c2d76c0b91cb02cad2d27f",
+            "observation": "Original common hall with same grey doors/partition, red fire extinguisher, ceiling lights and visible lift as IAD photo2. Building evidence corroborates bathroom match; hall alone would not identify unit."
+          }
+        ],
+        "result": "SAME_PHYSICAL_UNIT_ORIGINAL_BATHROOM_MATCH"
+      }
+    },
+    "notes": "Full primary description including all legal and seller wording individually read and preserved verbatim. Every listing-specific exposed gallery photo individually visually inspected in source order; related listings excluded. Primary firstPublishDate is date only: publication time unexposed, no invented time, and image dates are not publication dates. First-seen is actual initial full-page HTTP200 timestamp. Furnished/empty scenes do not establish legal tenancy or vacant possession. Location,quietness,measurements,condition and completion claims remain advertiser assertions. Exact address and publication time omitted. DUPLICATE of existing active PAP G54/1319 URL https://www.pap.fr/annonces/appartement-reims-51100-r465401319, propertycmuokqlw8001bh8x8jdcpu00b. Primary wholeEUR116000selleragencyfees,31m2T1/zero separatebedrooms,floor0rezdechaussee,1991building,1sale lot/18TOTALlots,EUR600annual50monthly,noproceeding,electricheating,DPE C170/GES A6 assessed2026-06-01. Correct Reims INSEE51454 verified; no inferred publication time. All7ownphotos individually inspected including bathroom7 which exposes sanitation omitted from prose. Fresh live PAP fullprose read via web afterdirectHTTP403; live primary displaysEUR115000,30.83Carrez/T1/1991/electric/EUR600charges/tax895/DPE C170 assessed2026-06-01 and date-onlypublication2026-10-08 (oldcanonicaldate remains historical). PAPbathroomphoto5 has identical original salmonwalls/pipes,leftWC,middlebeigevanity/rightbathtub,grey marbledtiles andfloor; PAPcommonhallphoto11 matchesIAD2grey doors/partition/fire extinguisher/lift. PAPphoto1 apparentdigitalfurnishing compatiblemainroomgeometry not proofinstalledfurniture. Original distinctivebathroom establishes physicalidentity; hall alone insufficient. PAP wording salle d eau conflicts with photographedbathtub, preserve without deletingfixtureevidence. Price and surface differences between sources retained, no choice of assumed correct price/measurement. Commonhall lift visible but unitservice unconfirmed: IADliftflag remainsunknown. BriefBien sans risque claim unverified, no guarantee adopted. ExistingLaforetClairmarais33.43openkitchen/terrace1960/electric/E297/360charges differs;pendingIAD2097524Courlancy29.44floor3WITHlift1986/50lots/E285/992charges differs;excludedCitya35T2firstoldbuilding/openkitchen/currentrent575 differs. New sourceID andimagepaths absent from earlier evidence/exports, but cross-source physicalduplicate confirmed. Canonical remains one inventory entry; no duplicateimport or investmentanalysis.",
+    "reviewStatus": "DUPLICATE_PHYSICAL_UNIT",
+    "canonicalUrl": "https://www.pap.fr/annonces/appartement-reims-51100-r465401319",
+    "canonicalPropertyId": "cmuokqlw8001bh8x8jdcpu00b",
+    "analysisComputed": false,
+    "sourceFactDifferences": [
+      {
+        "field": "price",
+        "IAD": 116000,
+        "PAP": 115000
+      },
+      {
+        "field": "surface",
+        "IAD": 31,
+        "PAPCarrez": 30.83
+      },
+      {
+        "field": "bathroom",
+        "PAPProse": "salle d eau avec wc",
+        "bothOriginalGalleries": "bathtub with WC and beige vanity"
+      }
+    ]
+  }
+]
