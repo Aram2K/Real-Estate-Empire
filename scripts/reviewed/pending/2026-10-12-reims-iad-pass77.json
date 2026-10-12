@@ -1,0 +1,212 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2130143",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T21:35:09.372189+00:00",
+    "externalId": "2130143",
+    "firstSeenAt": "2026-10-12T21:35:09.372189+00:00",
+    "reviewedAt": "2026-10-12T21:48:41.253113+00:00",
+    "communeCode": "51454",
+    "priceEuros": 88000,
+    "surface": 33.6,
+    "rooms": 2,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Myriam Fallon",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "REIMS -Secteur Saint Marceau, Clemenceau, appartement de T2 de 33M² en rez-de-chaussée sécurisé, avec une terrasse privée de 20 m2, cave, entrée indépendante dans  petite copropriété bénévole de 4 lots.\nL'appartement se compose, de 2 pièces principales, une pièce de vie et une chambres avec salle de douche WC . Le bien nécessite des travaux de rénovation, ce qui représente une réelle possibilité pour le personnaliser entièrement à votre goût et lui apporter une plus-value significative.\nLa terrasse constitue un atout appréciable pour profiter de l'extérieur, tandis que la cave offre un espace de rangement supplémentaire, utile dans un appartement compact.\n\nPrenez contact pour organiser une visite et découvrir le potentiel de ce bien.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 4 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 0€ par mois (soit 0 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Myriam Fallon mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 391655487, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-06",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time unexposed.",
+    "dpe": "G",
+    "ges": "F",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-03-04",
+      "year": 2021,
+      "epc": {
+        "status": "available-excessive",
+        "class": "G",
+        "consumption": 606
+      },
+      "ges": {
+        "status": "available-excessive",
+        "class": "F",
+        "consumption": 134
+      },
+      "amount": {
+        "min": 7240,
+        "max": 9840
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 4,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "88 000 €",
+      "formattedPerSurface": "2 619 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Rez-de-chaussée"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 33.6,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 20,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoCount": 3,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/06/01a110a9155aab5323499c9957748749.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/06/01a110d8fcc0ef7e442393b974d7b896.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/06/01a110cd889a30e9a89c34983bc13037.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/06/01a110a9155aab5323499c9957748749.jpg",
+        "httpStatus": 200,
+        "sha256": "7b70be665f115b93f599bd1a413917fa5f7ad80c372803d8a6508f3277fea89e",
+        "observation": "Courtyard/deck scene photographed from a screen with moire and black border: staged-looking wooden terrace, table, pergola, greenery and two-storey cream facade with brick window surrounds. Apparent digital illustration/enhancement; no visible AI label. No matching original exterior provided. This cannot verify the current terrace condition, area, or the exact apartment; the exterior alone does not make this a house sale."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/06/01a110d8fcc0ef7e442393b974d7b896.jpg",
+        "httpStatus": 200,
+        "sha256": "0ea5e8618ef5a49db9c5d163b25f9a1af0f0db9f610a364e7828cc41f0420517",
+        "observation": "Small original kitchen/living view, old white cabinets with dark worktop, wall boiler and metal flue, window and radiator, dark wood floor and worn walls. Supports stated renovation need; cannot establish separate bedroom count."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/06/01a110cd889a30e9a89c34983bc13037.jpg",
+        "httpStatus": 200,
+        "sha256": "8b96e7548ef57729b338a2ad1535e37b15c5c0d5bae96213468de7b0622dddbd",
+        "observation": "Original empty separate room with old plank floor, grey wall, window, radiator and exposed low pipes. Could be the bedroom asserted in prose, but photos do not resolve structured zero bedrooms. Shower/WC and cave not photographed."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2130143",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T21:48:06.639424+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401319",
+          "property": {
+            "id": "cmuokqlw8001bh8x8jdcpu00b",
+            "codeCommune": "51454",
+            "surface": 30.83,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 11500000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-1-piece-52934532",
+          "property": {
+            "id": "cmuynsblv000bh8as1gyag59k",
+            "codeCommune": "51454",
+            "surface": 33.43,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 11990000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-reims-citya-pass52.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP406-972889",
+          "surface": 35,
+          "priceEuros": 153000,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": 1,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\duplicates\\2026-10-12-reims-iad-pass74.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-31m2/r2132870",
+          "surface": 31,
+          "priceEuros": 116000,
+          "reviewStatus": "DUPLICATE_PHYSICAL_UNIT",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_SOURCE_FACT_AND_PHOTO_CLARIFICATION: whole EUR 88,000 asking price, source T2/two rooms but bedroomsCount zero versus one bedroom explicitly in prose; structured living-area 33.6 m2, rounded URL 34 m2 and prose 33 m2 preserved without certified-area invention. Ground floor explicit, lift and construction year unknown. Terrace 20 m2 is separate outside area, not living area; cave and independent entrance asserted. One sale lot in four TOTAL coownership lots; no stated proceeding. Structured annualFees absent, while seller prose declares zero monthly/annual charges; preserve that assertion without inventing an actual cost estimate. DPE G606 / GES F134 assessed 2026-03-04, indexed 2021, energy estimate EUR 7,240-9,840 preserved; unusually high estimate for this small unit may involve diagnostic coverage inconsistency and requires clarification, not correction. All three own photos inspected: screen-photographed enhanced-looking courtyard without matching original, and two original worn interior views showing boiler/radiator/old floor. Current terrace condition, bathroom and cave unverified. Bedroom discrepancy, area discrepancy and unreliable exterior presentation prevent trusted import/analysis. No evidence-backed excluded ownership, occupied sale, lease or partial price established. Nearby Laforet52934532 is renovated 33.43 m2 T1 Clairmarais with 8 lots, 1960, E297/B11 and EUR 360 charges; its open studio layout and kitchen condition differ. PAP465401319 and known IAD2132870 alias are 30.83/31 m2 renovated ground-floor studios, 1991/C170/EUR 600 charges, without this 20 m2 terrace assertion. Excluded Citya TAPP406-972889 is 35 m2 on first floor, current EUR 575 tenant, high moulded ceilings, EUR 936 charges and EUR 484 tax. Full preserved descriptions compared; suspicious new record remains pending. Exact source ID and all three own image paths absent across approved/pending/excluded/duplicates/exports."
+    },
+    "notes": "Full primary description, every legal and seller paragraph, individually read and preserved verbatim. All own exposed gallery photos individually visually inspected in source order; related-advert media excluded. First-seen is actual initial full-page HTTP 200 observation. Exposed publication date is date only; no publication time invented. Exact address and legal occupancy independently unconfirmed. Dimensions, condition and proximity remain advertiser assertions; furniture or empty scenes alone do not establish legal occupancy. Fresh scoped first-page feeds found no unreviewed eligible Le Mans or Angers IDs; next newest unreviewed Reims adverts selected without claiming all market pages exhausted. PENDING_SOURCE_FACT_AND_PHOTO_CLARIFICATION: whole EUR 88,000 asking price, source T2/two rooms but bedroomsCount zero versus one bedroom explicitly in prose; structured living-area 33.6 m2, rounded URL 34 m2 and prose 33 m2 preserved without certified-area invention. Ground floor explicit, lift and construction year unknown. Terrace 20 m2 is separate outside area, not living area; cave and independent entrance asserted. One sale lot in four TOTAL coownership lots; no stated proceeding. Structured annualFees absent, while seller prose declares zero monthly/annual charges; preserve that assertion without inventing an actual cost estimate. DPE G606 / GES F134 assessed 2026-03-04, indexed 2021, energy estimate EUR 7,240-9,840 preserved; unusually high estimate for this small unit may involve diagnostic coverage inconsistency and requires clarification, not correction. All three own photos inspected: screen-photographed enhanced-looking courtyard without matching original, and two original worn interior views showing boiler/radiator/old floor. Current terrace condition, bathroom and cave unverified. Bedroom discrepancy, area discrepancy and unreliable exterior presentation prevent trusted import/analysis. No evidence-backed excluded ownership, occupied sale, lease or partial price established. Nearby Laforet52934532 is renovated 33.43 m2 T1 Clairmarais with 8 lots, 1960, E297/B11 and EUR 360 charges; its open studio layout and kitchen condition differ. PAP465401319 and known IAD2132870 alias are 30.83/31 m2 renovated ground-floor studios, 1991/C170/EUR 600 charges, without this 20 m2 terrace assertion. Excluded Citya TAPP406-972889 is 35 m2 on first floor, current EUR 575 tenant, high moulded ceilings, EUR 936 charges and EUR 484 tax. Full preserved descriptions compared; suspicious new record remains pending. Exact source ID and all three own image paths absent across approved/pending/excluded/duplicates/exports.",
+    "reviewStatus": "PENDING_SOURCE_FACT_AND_PHOTO_CLARIFICATION",
+    "analysisComputed": false,
+    "sourceFactConflicts": [
+      {
+        "field": "bedrooms",
+        "structured": 0,
+        "description": 1
+      },
+      {
+        "field": "surface",
+        "structuredLivingArea": 33.6,
+        "urlRounded": 34,
+        "description": 33
+      }
+    ],
+    "sourceDeclaredChargesAnnualEuros": 0,
+    "sourceDeclaredChargesMonthlyEuros": 0,
+    "sourceTerraceAreaM2": 20,
+    "energyEstimateReview": "Unusually high estimate preserved; diagnostic coverage needs clarification.",
+    "exteriorPhotoReview": "Screen-photographed apparent enhanced/project view; original current exterior absent."
+  }
+]
