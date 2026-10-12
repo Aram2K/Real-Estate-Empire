@@ -1,0 +1,222 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-le-mans-65m2/r2127672",
+    "observedAt": "2026-10-11T23:54:20.236644+00:00",
+    "httpStatus": 200,
+    "externalId": "2127672",
+    "firstSeenAt": "2026-10-11T23:54:20.236644+00:00",
+    "reviewedAt": "2026-10-12T07:28:34.826887+00:00",
+    "communeCode": "72181",
+    "priceEuros": 80000,
+    "surface": 64.7,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Marc Dachert",
+    "sourceTitle": "Appartement à Le Mans (72100)",
+    "sourceDescription": "T4 avec place de parking et cave. \nAu premier étage, appartement avec séjour en continuité avec un pièce servant soit de bureau soit de salon télé. La cuisine est fermée. Dans le couloir deux grands placards très pratiques, deux chambres, une salle de bain avec wc. \nElectricité aux normes, double vitrage PVC. Dans la copropriété: pas d'ascenseur, chauffage urbain, toit terrasse isolé refait. \nPrésence de locataires ( fin du bail 2029)\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 433 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 169.3€ par mois (soit 2031.64 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Marc Dachert mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de LEMANS sous le numéro 439 443 334, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-07",
+    "publicationDateEvidence": "Primary firstPublishDate exposes date only; no publication time.",
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a117867d2b3626231a94912fa8ecfb.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a117869b67f28a58cbd2d32cedb919.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a11786958e4c99d1fa9ac4feb968af.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a117867a33897ce8a09db58742c6b9.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a117867ba25e437e84f0874c594e46.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a1178a4e75834c8af8cb9a6781f7ef.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/07/01a116165adc8c7da07f83d460528fa5.jpg?format=auto&width=1170"
+    ],
+    "dpe": "D",
+    "ges": "D",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2022-09-15",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 235
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 35
+      },
+      "amount": {
+        "min": 910,
+        "max": 1270
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 433,
+      "annualFees": 2031.64,
+      "proceedingsUnderway": false
+    },
+    "chargesAnnualEuros": 2031.64,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "80 000 €",
+      "formattedPerSurface": "1 236 € / m²"
+    },
+    "sourceConstructionYear": 1961,
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1961"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "dedupeEvidence": {
+      "exactSourceIdAndAllPhotoPathScan": "No prior matches across all approved,pending,excluded artifacts and5575database export rows.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/14509366587/",
+          "property": {
+            "surface": 66.73,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15238847025/",
+          "property": {
+            "surface": 60.39,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": true
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15863471902/",
+          "property": {
+            "surface": 61.98,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "property": {
+            "surface": 64.63,
+            "rooms": 4,
+            "floor": 0,
+            "hasElevator": true
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92255",
+          "property": {
+            "surface": 68,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": true
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416861",
+          "property": {
+            "surface": 67.24,
+            "rooms": 2,
+            "floor": 2,
+            "hasElevator": null
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416388",
+          "property": {
+            "surface": 62.27,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949476",
+          "property": {
+            "surface": 69,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP943377",
+          "property": {
+            "surface": 63.01,
+            "rooms": 3,
+            "floor": 8,
+            "hasElevator": true
+          }
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-64m2/r2068528",
+          "property": {
+            "surface": 64,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": true
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416987",
+          "property": {
+            "surface": 66.21,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": false
+          }
+        }
+      ]
+    },
+    "notes": "Full primary description including complete legal and seller wording individually read and preserved verbatim. Publication is source firstPublishDate date only; no exposed time invented and image dates are not publication evidence. First-seen is actual full-page HTTP200 fetch timestamp. Whole apartment asking price includes seller-paid agency fees and is within EUR400000 cap. Exact address,publication time and property tax unexposed,omitted. Locality,orientation,transport,security and travel claims remain advertiser assertions. EXCLUDED_CURRENTLY_TENANTED: source explicitly says Presence de locataires (fin du bail2029). Lease-end2029 does not imply immediate vacant possession. Do not import or analyze. Full80000EUR,64.7m2,T4/two existing bedrooms plus adjoining living/office,firstfloor WITHOUT lift,1961/433total copropriete lots/three sale lots/no proceeding,annualcharges2031.64EUR. Prose district heating and structured naturalgas retained without choosing fuel. Seven available gallery URLs preserved but not visually reviewed: explicit tenant wording alone establishes exclusion. Exact source ID/all7 gallery paths absent from prior artifacts/5575exports. Nearby C21ref19381 and IAD2068528 are302lots rather than433; othernear units32/282/219/218/48/89/88/351/59lots with different rooms/floors/buildings. No established same unit to withdraw from active records. ",
+    "hasElevator": false,
+    "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+    "analysisComputed": false,
+    "photoEvidenceReviewed": false,
+    "exclusionEvidence": "Présence de locataires ( fin du bail 2029)"
+  }
+]
