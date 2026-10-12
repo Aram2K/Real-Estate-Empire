@@ -1,0 +1,835 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-65m2/r2055767",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T08:05:23.039019+00:00",
+    "externalId": "2055767",
+    "firstSeenAt": "2026-10-12T08:05:23.039019+00:00",
+    "reviewedAt": "2026-10-12T08:12:09.490366+00:00",
+    "communeCode": "72181",
+    "priceEuros": 137200,
+    "surface": 65.3,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Ludovic MENARD",
+    "sourceTitle": "Appartement à Le Mans (72100)",
+    "sourceDescription": "LE MANS - APPARTEMENT - T3 65M² - PARKING - TRÈS BON ÉTAT - LUMINEUX\n\nDécouvrez à Le Mans cet appartement qui allie confort, luminosité et praticité au sein d'une résidence sécurisée. Situé au 3e étage d'un immeuble de 4 niveaux construit en 2006, ce 3 pièces de 65 m² bénéficie d'une exposition Ouest et d'un cadre de vie bien desservi.\n\nL'entrée s'ouvre sur un séjour de 28 m², vaste et lumineux, constitue le cœur du logement et offre un espace de vie agréable. La cuisine en prolongement accentue l'effet d'espace de cette belle pièce de vie. L'appartement dispose de 2 chambres, dont une orientée Est pour des réveils au rythme du soleil. A découvrir également une salle de bain, un WC indépendant et une buanderie fonctionnelle. Des travaux de rafraîchissement sont à prévoir (peinture essentiellement), offrant la possibilité de personnaliser entièrement le bien selon vos goûts.\n\nL'appartement est accompagné d'une cave et d'une place de parking, atouts pratiques du quotidien. La résidence sécurisée est équipée d'un ascenseur accessible sans marche.\nLe chauffage individuel électrique assure une gestion autonome des dépenses énergétiques.\n\nÀ pied, une pharmacie et des médecins se trouvent dans un rayon de 100m. Vous trouverez également une supérette à 130 m et le tramway à 230 m, plaçant ce bien dans un environnement pratique au quotidien.\n\nContactez-moi pour que nous organisions une visite de cet appartement.\nPour une meilleure organisation de notre premier contact, privilégiez les sms.\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 264 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 92.83€ par mois (soit 1114 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Ludovic MENARD mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Le Mans sous le numéro 904201779, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-06-25",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;time not exposed.",
+    "photoCount": 4,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/06/25/019eff596c016c0a3df1e05b465e695b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/06/25/019eff596b4287dfe7f10eed666cb841.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/06/25/019eff596c5361f86854c44718db01cf.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/06/28/019f0dbb2e123e797acf116c0302d1c8.jpg?format=auto&width=1170"
+    ],
+    "dpe": "C",
+    "ges": "A",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-02-02",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 122
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 4
+      },
+      "amount": {
+        "min": 790,
+        "max": 1120
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 264,
+      "annualFees": 1114,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 2006,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "137 200 €",
+      "formattedPerSurface": "2 101 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 2006"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 3"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "chargesAnnualEuros": 1114,
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/06/25/019eff596c016c0a3df1e05b465e695b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "c218f0cd673d557119908a0d7e2d2174ed0e5a470edf25bd25e3e23c3cd85d1a",
+        "observation": "Original furnished living/dining room with pale tiled floor, broad window bay, red curtains and wide opening into fitted kitchen. Furniture does not establish legal tenancy or vacant possession."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/06/25/019eff596b4287dfe7f10eed666cb841.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "826b190af909cad237d5669309df337605b1b0e73b7eb3cda129156241496120",
+        "observation": "Original fitted white kitchen with large window, tiled floor, sink, hob/oven, hood and washing machine; physically consistent with living-room opening in photo1."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/06/25/019eff596c5361f86854c44718db01cf.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "4e58c722a79af6263dead0ff5408b9007a9a7f256bf3753701df812c30808e8f",
+        "observation": "Original furnished bedroom with pale laminate, narrow window/door, curtains and electric heater. Only one bedroom photographed; second bedroom remains source-attributed and appears in advertiser plan."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/06/28/019f0dbb2e123e797acf116c0302d1c8.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "c984c51c62f968a3f19c0fa2cd3b4824f5fbcd02780834e818899b78a962524e",
+        "observation": "Advertiser architectural plan labels the offered white-area T3 as65.30m2, with two bedrooms11.16/9.55m2, living27.71m2, kitchen4.92m2, bathroom, separate WC, circulation and laundry. Grey neighbouring T2:39.28m2 is outside the offered white T3 and is not added to its surface or treated as fractional ownership. Plan is advertiser evidence, not an independently authenticated survey."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllGalleryPaths": "No matches across all earlier approved,pending,excluded artifacts and5580 database-export rows.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/14509366587/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/14509366587/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 66.73,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15600000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15238847025/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15238847025/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 60.39,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 12170000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15863471902/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15863471902/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 61.98,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 12950000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16073542642/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 64.63,
+            "rooms": 4,
+            "floor": 0,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 13480000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/6346770660/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/6346770660/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 70.96,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 16100000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949476",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949476",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 69,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 19400000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416388",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416388",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 62.27,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 12100000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416403",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416403",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 59.64,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 9400000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416861",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416861",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67.24,
+            "rooms": 2,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "A"
+          },
+          "priceCents": 12700000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92255",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92255",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 68,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 13300000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP943377",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP943377",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 63.01,
+            "rooms": 3,
+            "floor": 8,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "A"
+          },
+          "priceCents": 12700000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-60m2/r2088191",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-60m2/r2088191",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 60.26,
+            "rooms": 2,
+            "floor": 1,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 7900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-64m2/r2068528",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-64m2/r2068528",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 64,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 9900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-70m2/r2109374",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-70m2/r2109374",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 70.38,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 14000000
+        }
+      ],
+      "resolution": "Whole EUR137200 seller-paid fees, precise65.30m2 (rounded65m2 prose), T3/two existing source bedrooms, floor3 in four-level building2006 WITH lift explicitly accessible without steps. Parking space/cellar accompany apartment, three sale lots within264total copropriete lots, no proceeding,EUR1114annual charges (roundedEUR92.83monthly). Individual electric heating; DPE C122/GES A4 assessed2026-02-02,EUR790-1120indexed2023. Cosmetic paint refresh remains source-advised despite headline tres bon etat. All4 available gallery entries individually inspected, three actual scenes and one plan. Bathroom, second bedroom, lift, cellar and allocated parking are not independently photographed. Grey neighbouring T2 on plan is not sold surface. Fourteen active near-size records compared: samefloorC21ref19227 is60.39m2/282lots/balconies/separatekitchen, Citya416388 is62.27m2/floor3of9/1970/218lots/collectivegas/living16.45m2 versus2006/264lots/individualelectric/living28m2 here. Other units differ in floor, building, lot count or layout. PendingCitya416987 is1969/floor3NOlift/59lots; IAD2066401 is1974/70.13m2/acceptedoffer; pending2099619 is1999/floor1/78lots. No same physical unit established."
+    },
+    "reviewStatus": "APPROVED",
+    "notes": "Full primary description including complete legal and seller wording individually read and preserved verbatim. Every listing-specific available gallery entry individually visually inspected in source order; related listings excluded from evidence. PublicationDate is exposed firstPublishDate date only, no time invented and photo-folder dates not used as publication evidence. First-seen is actual full-page HTTP200 observation. Apartments only, outside department75, full purchase price withinEUR400000. Exact address,publication time and property tax unexposed,omitted. Empty/furnished scenes do not establish legal tenancy or vacant possession; availability remains unconfirmed with advertiser. Orientation,transport,proximity,quietness,renovation and security claims remain source assertions. Full wording establishes no evidence-backed occupied or current-tenanted sale,viager,bare/fractional/timeshare ownership,auction/starting or misleading partial price,commercial/managed lease,ancillary-only property,houseboat,spam or impossible surface/room combination. Whole EUR137200 seller-paid fees, precise65.30m2 (rounded65m2 prose), T3/two existing source bedrooms, floor3 in four-level building2006 WITH lift explicitly accessible without steps. Parking space/cellar accompany apartment, three sale lots within264total copropriete lots, no proceeding,EUR1114annual charges (roundedEUR92.83monthly). Individual electric heating; DPE C122/GES A4 assessed2026-02-02,EUR790-1120indexed2023. Cosmetic paint refresh remains source-advised despite headline tres bon etat. All4 available gallery entries individually inspected, three actual scenes and one plan. Bathroom, second bedroom, lift, cellar and allocated parking are not independently photographed. Grey neighbouring T2 on plan is not sold surface. Fourteen active near-size records compared: samefloorC21ref19227 is60.39m2/282lots/balconies/separatekitchen, Citya416388 is62.27m2/floor3of9/1970/218lots/collectivegas/living16.45m2 versus2006/264lots/individualelectric/living28m2 here. Other units differ in floor, building, lot count or layout. PendingCitya416987 is1969/floor3NOlift/59lots; IAD2066401 is1974/70.13m2/acceptedoffer; pending2099619 is1999/floor1/78lots. No same physical unit established. Before analysis checked local2025 ALL_APT rent and actual2021-2025 apartmentDVF: LeMans1177cents/m2 from25658observations,6535actualsales/matchingAPTmetric."
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-72m2/r2084025",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T08:05:27.114766+00:00",
+    "externalId": "2084025",
+    "firstSeenAt": "2026-10-12T08:05:27.114766+00:00",
+    "reviewedAt": "2026-10-12T08:12:09.498772+00:00",
+    "communeCode": "49007",
+    "priceEuros": 299000,
+    "surface": 72,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Olivier Pipala",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "ANGERS HYPER CENTRE – L’ADRESSE DES AMOUREUX DE LA VILLE\n\nVous rêvez d’un appartement ancien au cœur de l’effervescence angevine, face à la magnifique  l’Esplanade  de la Maine ?\n\nNe cherchez plus…\n\nDerrière sa belle façade, cet appartement rénové a su conserver toute l’âme de l’ancien : poutres apparentes, murs en tuffeau et charme authentique, subtilement associés à une rénovation actuelle et soignée.\n\nIl offre une belle pièce de vie, deux chambres ainsi qu’un bureau, pouvant parfaitement être aménagé en petite chambre selon vos besoins.\n\nUne adresse idéale pour celles et ceux qui souhaitent vivre pleinement Angers, tout faire à pied et profiter d’un véritable art de vivre urbain.\n\n Un appartement de caractère, une situation exceptionnelle, une vraie vie de centre-ville.\n\n Vous êtes un véritable hyper-urbain ? Alors cet appartement est fait pour vous.\n\nFaites vite… ce type de bien ne reste jamais longtemps sur le marché !\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 24 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 96.92€ par mois (soit 1163 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Olivier Pipala mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 489957753, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-31",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;time not exposed.",
+    "photoCount": 15,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af59a0db763bfab5393083cb.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e510fb2bde8b453c57f93172.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e500e9a35e63368414ad3387.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e500ced2651dd026236b803b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af70930d5cc43b4aca9eb841.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af6360445dc85d37b9404fbd.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af5bd29ca792f6e6dc064c68.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af687eae0bacb20f05247ed9.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af61cac6493b24a9bd7c5b62.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e4fdd7e956283246f6a7165e.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e5020bdfaea0a1c138550216.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e4efa0f864fdeff7f51916a0.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e5389b5e812f9a197658d18a.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e507ce440fca47b736bba2d0.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e4eff1d23caf32ed4e0b948b.jpg?format=auto&width=1170"
+    ],
+    "dpe": "D",
+    "ges": "B",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2021-10-22",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 212
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 6
+      },
+      "amount": {
+        "min": 970,
+        "max": 1340
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 24,
+      "annualFees": 1163,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1900,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "299 000 €",
+      "formattedPerSurface": "4 153 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1900"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "chargesAnnualEuros": 1163,
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af59a0db763bfab5393083cb.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "96154e8be14cc7d1dde8330d07669e086414fa98ddbb7e462e3d4a0d77cd1b9f",
+        "observation": "Explicit Photographie retouchee label: staged furnished living room with exposed beams and tuffeau block wall. Furniture/fitout depiction is a proposal; compare original empty photo3 for current physical geometry."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e510fb2bde8b453c57f93172.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "38cba7e674d36cf175f7bda20faeef9b3fad53c6a5e4eb967bcf7bb4881a56da",
+        "observation": "Original street/tramway/esplanade outlook from a window area. Public surroundings, not private land or apartment area; service schedules and commute not verified."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e500e9a35e63368414ad3387.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "e5501fd786207386d3011db216f7208eb84d6a4f5ac9c28672d77ddcc3ef09c9",
+        "observation": "Original empty living area with exposed beams, tuffeau wall, window and pale wood-effect floor; confirms shell corresponding to retouched photo1."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e500ced2651dd026236b803b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "5a05e74cc17226ad2df5a5913be7597e74a07f47f6b3ddb2930e188b732b6b5c",
+        "observation": "Original empty reception area, two differently oriented windows, exposed beams, tuffeau wall and electric panel heaters. Current scene supports layout independently of staging."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af70930d5cc43b4aca9eb841.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "4195b3fd762c691018c9ff770c091eacb9921f0336924832bb117c42c17dcd2f",
+        "observation": "Explicit Photographie retouchee living-room staging; compare original photo14. Added sofa, chair, artwork and furnishings are not current installed assets."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af6360445dc85d37b9404fbd.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "d997c5ba51a4f3b3d4dfc23d08f244cffbd5f704f46d85df175469d78ddfe7bc",
+        "observation": "Explicit Photographie retouchee kitchen staging with stools and decor; original photo15 separately shows installed white cabinets, black hood/hob and counter. Added stools/decor not current evidence."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af5bd29ca792f6e6dc064c68.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "26fde09e1b4cfd57d206a3d3205a522d6f0356b46127c47c83803bb4313a9965",
+        "observation": "Explicit Photographie retouchee bedroom staging with bed, furnishings, beams and window. Bedroom designation/count remains advertiser-attributed; staged furniture is not evidence of an existing equipped bedroom or tenancy."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af687eae0bacb20f05247ed9.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "41414daff6eb9e0b12e496787e3973146e28128af54ef2e613710795f08b94c7",
+        "observation": "Explicit Photographie retouchee second bedroom staging. Added bed and furnishings do not prove current furniture or separately measured bedroom size."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/31/019fb7c5af61cac6493b24a9bd7c5b62.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "67ec22671056ab1522ac5ad45313511d7ebc5e820536b07648389f7729f14b66",
+        "observation": "Original empty hallway with beams and wood-effect floor linking rooms; visible threshold step means step-free internal access is not inferred from lift presence."
+      },
+      {
+        "number": 10,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e4fdd7e956283246f6a7165e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "aca1a3114d94bc55cef99ef79fe70e2dd6259796137e7003ec19377fa4551feb",
+        "observation": "Original small empty room with blue door, tall window, beams and electric panel heater. Could correspond to described office; no independent bedroom area or legal habitability inferred."
+      },
+      {
+        "number": 11,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e5020bdfaea0a1c138550216.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "79518b09ba13f4942c2c975b9c645c90e631d4a73773ab23ca8338823cb8a171",
+        "observation": "Original empty living/reception view with tuffeau block wall, beams, tall window and wood-effect floor; consistent with photos3/4/14."
+      },
+      {
+        "number": 12,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e4efa0f864fdeff7f51916a0.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "fb6b5e15ac0abc50aecec089dc574425fada1da259b2333c417c2a18e39a869f",
+        "observation": "Original empty narrow room with recessed tall window, exposed beams and electric panel heater. No room dimension or extra bedroom count inferred."
+      },
+      {
+        "number": 13,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e5389b5e812f9a197658d18a.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b06fe6c2d300a95978ff5966d8e2d5c56a7b10422e7ba7d3432f26879dc9f259",
+        "observation": "Another original view of same recessed-window room as photo12; not counted as a different room."
+      },
+      {
+        "number": 14,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e507ce440fca47b736bba2d0.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "360d6bf7576ab458c961a413fca9005e24a20dc324103a7af99569a9ea1d0ab4",
+        "observation": "Original empty reception view with two windows and tuffeau wall, corresponding to retouched photo5; furnishings excluded from current-condition evidence."
+      },
+      {
+        "number": 15,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/01/019fbc71e4eff1d23caf32ed4e0b948b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "d9c24be8e2069fb92b111518842e3f8db8b8ff94fb15ef834d95a98e74d5b4b1",
+        "observation": "Original fitted kitchen with white cabinets, dark backsplash, black sink/hob/hood, oven and breakfast counter; corresponds to retouched photo6 without added stools/decor. Bathroom not pictured in available gallery."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllGalleryPaths": "No matches across all earlier approved,pending,excluded artifacts and5580 database-export rows.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15869211693/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15869211693/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67.19,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15990000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15910181215/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15910181215/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 19990000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16458694716/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16458694716/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67.8,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 18650000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16643633867/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16643633867/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 68.32,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 16150000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-67m2/r2110656",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-67m2/r2110656",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 18500000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-69m2/r2096546",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-69m2/r2096546",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 69,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 20900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-74m2/r2097759",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-74m2/r2097759",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73.72,
+            "rooms": 4,
+            "floor": 4,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 16000000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52909529",
+          "property": {
+            "dedupeKey": "reviewed:https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52909529",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 71,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 17999000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r463000178",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r463000178",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 72,
+            "rooms": 3,
+            "floor": 4,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 31000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465101806",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465101806",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 78,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 22000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465403047",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465403047",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 18500000
+        }
+      ],
+      "resolution": "Whole EUR299000 seller-paid fees,72m2,T4 including TWO existing source bedrooms plus office; office as third small bedroom is only a possible future use, not counted as an existing third bedroom or rental room. Floor1 and WITH lift explicitly exposed by primary features; construction1900 source-attributed. One sale lot in24total copropriete lots,no proceeding,EUR1163annual charges (roundedEUR96.92monthly),individualelectricheat,DPE D212/GES B6 assessed2021-10-22,EUR970-1340 indexed2021. Hyper-centre EsplanadeMaine location is advertiser statement. All15 gallery entries individually inspected: five explicitly retouched staging entries1/5/6/7/8, original empty shell/living/kitchen/hall/small rooms and public outlook. Retouched images do not establish current furniture; originals3/14/15 corroborate respective living/kitchen physical layouts. Bedroom count is source-attributed; originals do not independently measure both bedrooms/office, and no shower-room photograph is exposed. Threshold step seen, internal step-free access not inferred. Eleven active near-size Angers records compared: PAP463000178 same72m2 isfloor4NOlift/onebed+office/10lots/Haussmannstyle/closedkitchen; PAP465101806 is78m2/floor1WITHlift/256lots/SaintLeonardMadeleine/openkitchen/balcony/privateparking. C21near records differ in floor/building/11or34or65or222lots and layouts; IAD2096546 hasfloor3/1970/1063lots/threebeds, IAD2097759floor4NOlift/210lots/Banchais. PendingIAD2107719 is78m2/floor1NOlift/1974/145lots/Camus/twologgias; pendingLaforet52918165 floor4NOlift/77m2/five-room conflict. ExcludedIAD2107354 floor4/1974/95lots; no same physical unit established."
+    },
+    "reviewStatus": "APPROVED",
+    "notes": "Full primary description including complete legal and seller wording individually read and preserved verbatim. Every listing-specific available gallery entry individually visually inspected in source order; related listings excluded from evidence. PublicationDate is exposed firstPublishDate date only, no time invented and photo-folder dates not used as publication evidence. First-seen is actual full-page HTTP200 observation. Apartments only, outside department75, full purchase price withinEUR400000. Exact address,publication time and property tax unexposed,omitted. Empty/furnished scenes do not establish legal tenancy or vacant possession; availability remains unconfirmed with advertiser. Orientation,transport,proximity,quietness,renovation and security claims remain source assertions. Full wording establishes no evidence-backed occupied or current-tenanted sale,viager,bare/fractional/timeshare ownership,auction/starting or misleading partial price,commercial/managed lease,ancillary-only property,houseboat,spam or impossible surface/room combination. Whole EUR299000 seller-paid fees,72m2,T4 including TWO existing source bedrooms plus office; office as third small bedroom is only a possible future use, not counted as an existing third bedroom or rental room. Floor1 and WITH lift explicitly exposed by primary features; construction1900 source-attributed. One sale lot in24total copropriete lots,no proceeding,EUR1163annual charges (roundedEUR96.92monthly),individualelectricheat,DPE D212/GES B6 assessed2021-10-22,EUR970-1340 indexed2021. Hyper-centre EsplanadeMaine location is advertiser statement. All15 gallery entries individually inspected: five explicitly retouched staging entries1/5/6/7/8, original empty shell/living/kitchen/hall/small rooms and public outlook. Retouched images do not establish current furniture; originals3/14/15 corroborate respective living/kitchen physical layouts. Bedroom count is source-attributed; originals do not independently measure both bedrooms/office, and no shower-room photograph is exposed. Threshold step seen, internal step-free access not inferred. Eleven active near-size Angers records compared: PAP463000178 same72m2 isfloor4NOlift/onebed+office/10lots/Haussmannstyle/closedkitchen; PAP465101806 is78m2/floor1WITHlift/256lots/SaintLeonardMadeleine/openkitchen/balcony/privateparking. C21near records differ in floor/building/11or34or65or222lots and layouts; IAD2096546 hasfloor3/1970/1063lots/threebeds, IAD2097759floor4NOlift/210lots/Banchais. PendingIAD2107719 is78m2/floor1NOlift/1974/145lots/Camus/twologgias; pendingLaforet52918165 floor4NOlift/77m2/five-room conflict. ExcludedIAD2107354 floor4/1974/95lots; no same physical unit established. Before analysis checked local2025 ALL_APT rent and actual2021-2025 apartmentDVF: Angers1456cents/m2 from29741observations,8943actualsales/matchingAPTmetric."
+  }
+]
