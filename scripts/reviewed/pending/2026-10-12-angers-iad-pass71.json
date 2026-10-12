@@ -1,0 +1,386 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-60m2/r2071536",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T08:50:10.101839+00:00",
+    "externalId": "2071536",
+    "firstSeenAt": "2026-10-12T08:50:10.101839+00:00",
+    "reviewedAt": "2026-10-12T08:56:44.481280+00:00",
+    "communeCode": "49007",
+    "priceEuros": 160000,
+    "surface": 60,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Jean-Paul Bonhomme",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "APPARTEMENT AVEC CAVE / BD FOCH / RUE ST-JULIEN / AUX PIEDS DES COMMERCES & SERVICES / AU PIED DU TRAM\n\nAlliant confort et praticité, cet appartement d'Angers bénéficie d'un bon emplacement à deux pas du Boulevard Foch et à 300 m de la Place du Ralliement, au cœur de la vie angevine. Situé au 1er étage d'un immeuble de 3 niveaux avec ascenseur, il offre une surface habitable de 63 m² à rafraîchir, adaptée pour un projet de rénovation personnalisée.\n\nL'entrée dessert l'ensemble des pièces et introduit un séjour de 23 m², lumineux et bien proportionné, qui constitue le cœur de l'appartement. La cuisine séparée, fonctionnelle, offre une vraie indépendance par rapport aux pièces de vie. La chambre, spacieuse avec ses 15 m², assure un espace de repos confortable et bien dimensionné. La salle de bain et le WC indépendant complètent cet agencement pratique et bien pensé.\n\nL'appartement est équipé du chauffage collectif au gaz par radiateurs, de la fibre optique, d'un digicode et d'un interphone pour la sécurité des accès. Une cave privative complète ce bien.\n\n_______________________________________________\n\n« Édifié dans un immeuble ancien Angevins , ce deux pièces allie beaux volumes et fort potentiel de personnalisation.\nÀ moins de 150 m d'un Intermarché Express et à 500 m de l'établissement scolaire Ensemble Saint-Benoît, ce lieu est parfaitement inscrit dans une vie citadine, au cœur d’un quartier vivant et à proximité immédiate de toutes les commodités.»\n\n_______________________________________________\n\nCharges 230 Eur. mensuels incluant l’électricité, le chauffage et l'eau chaude.\nTaxe Foncière 2025 : 1.644 Eur.\nFibre Optique \nForte rentabilité locative mixte\nPhoto non contractuelle\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 18 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 200€ par mois (soit 2400 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Jean-Paul Bonhomme mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Angers sous le numéro 901156521, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-13",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;time not exposed.",
+    "photoCount": 12,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593d46fc1e1411348eb132e4a.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a89ff39399a9d5d202910bf.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593df71b236bc082f166f9aa1.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759ad3978f69ad58e07007ef1c.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a217134fa05d7ccf387dbc4.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593ce62498d2f0990e6bb85f6.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427599c7773073b48e332f0b2a41.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a4ee4a331d7cff852cf3d6b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593c3da453d73e106913c61d1.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a74145fbc36a8de089b1810.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/09/019f461514c0251887d809401d7bc866.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759af671d861e6341d909a0922.jpg?format=auto&width=1170"
+    ],
+    "dpe": "E",
+    "ges": "E",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2023-09-11",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 239
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 52
+      },
+      "amount": {
+        "min": 793,
+        "max": 1073
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 18,
+      "annualFees": 2400,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1972,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "160 000 €",
+      "formattedPerSurface": "2 667 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1972"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 60,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593d46fc1e1411348eb132e4a.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "f1b41972b47fde852533f2a0cf43eae6041fedb66327ed7d35b237d6000de890",
+        "observation": "Explicit Photographie retouchee label: furnished living proposal with sofa, chairs, rug, art and curtains. Compared with original2 same broad opening/window/radiator; proposed furniture is not existing condition."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a89ff39399a9d5d202910bf.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b0cc1519713acd5ae31de343cf04af32d1d334095f964d6410b24122ff5c9a47",
+        "observation": "Original empty living/dining viewed through broad wall opening, pale floor, two-pane window, older radiator, exposed corner pipes and wall cable. Source refresh requirement retained."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593df71b236bc082f166f9aa1.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "473fb4b8c2e015fc2561c574c6c545b7e074f3b899623df45acd5de01c2d8656",
+        "observation": "Explicit Photographie retouchee label: furnished reverse living/dining proposal, sofas/TV/dining furniture added. Checked against original4, not counted as extra room."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759ad3978f69ad58e07007ef1c.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b723708ffb59a1c58903ec086ba911384461cde451bc151f44c765b02be6a5da",
+        "observation": "Original reverse empty living/dining with wide internal wall opening and adjoining circulation. Same room as2; double living opening does not add a second bedroom."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a217134fa05d7ccf387dbc4.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "df6b6e78b285082e2341f969ee0994ab3d6617f63d55ca54424c7e1266707d50",
+        "observation": "Original living/circulation view toward entrance hall with multiple doors and radiator; empty scene does not prove legal vacancy."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593ce62498d2f0990e6bb85f6.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "235ea97d29b6809e13a65fe36a05230d429c2912576039c5720b55cc03beac5d",
+        "observation": "Explicit Photographie retouchee label: kitchen renovation/furnishing proposal replacing dark worktop/backsplash/floor of original7 with light finishes and adding table/decor. Proposed renovated surfaces are not current condition."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427599c7773073b48e332f0b2a41.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "ce902d7a15e4aa43677be13fa482f01512d9695fcb805a614f6264a4da985d04",
+        "observation": "Original separate white fitted kitchen with dark worktop/backsplash, ceramic hob, steel sink and dark floor tiles, exposed high-level pipes and door to hall. Material finish differs from retouched6."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a4ee4a331d7cff852cf3d6b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "8860212fef81183dbf78823f0908f79799bb326971df1b007a7dafab9748b1b5",
+        "observation": "Original kitchen doorway perspective with dark tiles and narrow route toward opening at exterior wall; same kitchen, not ancillary-only premises."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f427593c3da453d73e106913c61d1.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6a3ec60040c465f8e8faf47ed5cfda890b194e48d4f5668f08986258a883e79e",
+        "observation": "Explicit Photographie retouchee label: furnished bedroom proposal with bed, curtains, art, rug and decorative furniture, corresponding to original10. One existing bedroom, no staged extra room."
+      },
+      {
+        "number": 10,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759a74145fbc36a8de089b1810.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6621088871478a71b2dde0b1e5112a8d906900edef0d969f44a1e95848e2886e",
+        "observation": "Original empty bedroom with patterned timber-effect floor, broad window, older radiator/corner pipework and wall fittings. Supports one source bedroom; exact15m2 not measurable from photo."
+      },
+      {
+        "number": 11,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/09/019f461514c0251887d809401d7bc866.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6d063713c303058086194a83942ac7a96dd24c94dbf6138890e2e1348fb9d65c",
+        "observation": "Unlabelled polished bathroom alternative at same camera/fixture geometry as original12 replaces basin unit, taps, wall tiles, lighting, screen and door handle. Apparent renovation projection; no AI provenance asserted and not treated as installed current condition."
+      },
+      {
+        "number": 12,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/08/019f42759af671d861e6341d909a0922.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "da32902079b74c1cdf0c1ba64c7370991bd108dc752698f1be21e6dc4a3c309b",
+        "observation": "Original bathroom with bathtub, opaque bath screen, white tiles with multicoloured border, dark basin cabinet and older radiator/exposed pipework. Existing finishes retained; polished alternative11 is not evidence of completed refurbishment."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "httpStatus": 200,
+      "checkedAt": "2026-10-12T08:56:44.481372+00:00",
+      "fullDescriptionFactsAndGalleryUnchanged": true
+    },
+    "dedupeEvidence": {
+      "exactSourceIdAndAllGalleryPaths": "No earlier approved,pending,excluded,duplicate artifacts or5585database-export rows matched sourceID or any gallery path.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15854277093/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15854277093/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 61.3,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15990000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967744",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967744",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 59.7,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 16960000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-62m2/r2107149",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-62m2/r2107149",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 62.03,
+            "rooms": 2,
+            "floor": 1,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 32900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-58m2/r2099661",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-58m2/r2099661",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 57.6,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "A"
+          },
+          "priceCents": 17000000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-58m2/r2133811",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-58m2/r2133811",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 58,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "C"
+          },
+          "priceCents": 13500000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52971007",
+          "property": {
+            "dedupeKey": "reviewed:https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52971007",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 65,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 20900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 63,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 22500000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465502843",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465502843",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 60.6,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 21000000
+        }
+      ],
+      "pendingNear": "CityaTAPP139-967740,floor3/2016/HautsStAubin/two bedrooms/sourcefactconflicts,distinct pending record.",
+      "resolution": "PENDING_SOURCE_FACT_CONFLICT: current headline/mainSurface60m2 conflicts with narrative habitable63m2, with no Carrez/habitable distinction exposed; no area chosen for analysis. Narrative chargesEUR230monthly including electricity/heating/hotwater implyEUR2760annual whereas legal prose and coOwnership stateEUR200monthly/EUR2400annual. Preserve both, do not invent cause or select cost. Source wholeEUR160000 seller-paid fees,T2/one bedroom15m2/living23m2,floor1 ofthree WITHlift,constructionYear1972 alongside generic immeuble ancien wording,two sale lots/18TOTALcopropriete lots,no proceeding,collectivegas heat,cave,tax2025EUR1644. DPE E239/GES E52 assessed2023-09-11,EUR793-1073 indexed2021. Forte rentabilite locative mixte is promotion, not proof of tenants/income/managed contract. All12 source entries individually inspected: labelled retouched1,3,6,9; original2,4,5,7,8,10,12; unlabelled polished bathroom11 clearly differs from raw12 and treated as apparent renovation proposal without asserting AI provenance. Raw empty living,separate kitchen,one bedroom and older bathtub room coherent but cannot resolve surface/charges. No current renovation or staged furniture inferred. Near-size records differ in room count/floor/location/building. Sameagent IAD2107149 isfloor1/62.03m2/1949/20lots/openkitchen/private8m2terrace/two greniers, distinct from1972/18lots/separatekitchen/collectivegas here. PendingCitya967740 isfloor3/2016/HautsStAubin/two bedrooms and remains separate pending. Do not import, mark trusted or compute analysis until source area and recurring charges resolved."
+    },
+    "notes": "Full primary description, including complete legal/seller wording, individually read and preserved verbatim. All listing-specific available gallery entries individually visually inspected in source order, excluding related-property images. PublicationDate is exposed firstPublishDate date only; no publication time invented and gallery dates not publication evidence. First-seen is actual full-page HTTP200 observation. Whole apartment asking price withinEUR400000, outside department75. Empty/furnished scenes do not establish legal tenancy or vacant possession; availability independently unconfirmed. Exact address and publication time unexposed, omitted. Transport,orientation,security,quietness,condition and profitability claims remain advertiser assertions. Full wording gives no evidence-backed current tenancy/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/misleading partial price,commercial/managed lease,ancillary-only asset,boat,bot/spam or impossible room/surface combination. PENDING_SOURCE_FACT_CONFLICT: current headline/mainSurface60m2 conflicts with narrative habitable63m2, with no Carrez/habitable distinction exposed; no area chosen for analysis. Narrative chargesEUR230monthly including electricity/heating/hotwater implyEUR2760annual whereas legal prose and coOwnership stateEUR200monthly/EUR2400annual. Preserve both, do not invent cause or select cost. Source wholeEUR160000 seller-paid fees,T2/one bedroom15m2/living23m2,floor1 ofthree WITHlift,constructionYear1972 alongside generic immeuble ancien wording,two sale lots/18TOTALcopropriete lots,no proceeding,collectivegas heat,cave,tax2025EUR1644. DPE E239/GES E52 assessed2023-09-11,EUR793-1073 indexed2021. Forte rentabilite locative mixte is promotion, not proof of tenants/income/managed contract. All12 source entries individually inspected: labelled retouched1,3,6,9; original2,4,5,7,8,10,12; unlabelled polished bathroom11 clearly differs from raw12 and treated as apparent renovation proposal without asserting AI provenance. Raw empty living,separate kitchen,one bedroom and older bathtub room coherent but cannot resolve surface/charges. No current renovation or staged furniture inferred. Near-size records differ in room count/floor/location/building. Sameagent IAD2107149 isfloor1/62.03m2/1949/20lots/openkitchen/private8m2terrace/two greniers, distinct from1972/18lots/separatekitchen/collectivegas here. PendingCitya967740 isfloor3/2016/HautsStAubin/two bedrooms and remains separate pending. Do not import, mark trusted or compute analysis until source area and recurring charges resolved.",
+    "reviewStatus": "PENDING_SOURCE_FACT_CONFLICT",
+    "analysisComputed": false,
+    "taxeFonciereAnnualEuros": 1644,
+    "sourceFactConflicts": {
+      "surfaceM2": {
+        "headlineAndMainSurface": 60,
+        "narrativeHabitable": 63
+      },
+      "charges": {
+        "narrativeMonthlyEuros": 230,
+        "impliedNarrativeAnnualEuros": 2760,
+        "legalMonthlyEuros": 200,
+        "legalAndCoOwnershipAnnualEuros": 2400
+      }
+    },
+    "requiredResolution": "Confirm area measurement and annual recurring charges from source evidence; no guess, no automatic trusted status."
+  }
+]
