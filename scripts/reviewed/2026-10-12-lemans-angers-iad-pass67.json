@@ -1,0 +1,252 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-94m2/r2085665",
+    "observedAt": "2026-10-12T07:50:06.750294+00:00",
+    "httpStatus": 200,
+    "externalId": "2085665",
+    "firstSeenAt": "2026-10-12T07:50:06.750294+00:00",
+    "reviewedAt": "2026-10-12T07:58:42.177840+00:00",
+    "communeCode": "49007",
+    "priceEuros": 239000,
+    "surface": 94.42,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Jean-Baptiste Macé",
+    "sourceTitle": "Appartement à Angers (49000)",
+    "sourceDescription": "ANGERS (ORGEMONT) - APPARTEMENT - T4 94 m² - GARAGE - TRÈS BON ÉTAT - LUMINEUX\n\nBien situé à Angers, secteur Orgemont, cet appartement de 4 pièces au 4e et dernier étage d'une résidence sécurisée avec ascenseur bénéficie d'une bonne exposition ouest, gage d'une lumière agréable en fin de journée.\nConstruit en 1977 et entretenu avec soin, il présente un état général très satisfaisant qui permet d'envisager une installation immédiate.\n\nL'entrée distribue les différentes pièces de vie. Le séjour, lumineux grâce à son orientation ouest, constitue le cœur de l'appartement et ouvre sur le balcon, prolongement extérieur appréciable. La cuisine ouverte sur le séjour offre un espace fonctionnel et bien agencé. L'appartement dispose de 3 chambres confortables, bien réparties pour préserver l'intimité de chacun. La salle d'eau et les WC indépendants complètent ce niveau.\n\nLe confort du quotidien est assuré par un système de chauffage individuel via des convecteurs électriques, complété par un plancher chauffant collectif (compris dans les charges).\nLa fibre optique et la VMC sont également présentes. La résidence, sécurisée par un interphone et un accès contrôlé, offre un cadre de vie serein.\nUn garage sécurisé en sous-sol complète les atouts de ce bien en plus des places de parking publics devant la résidence.\n\nTaxe foncière : 1 760 € / an\nCharges électricité : 420 € / an\nCharges de copropriété : 2 976 € / an (incluant entre autres : chauffage au sol jusqu'à 17°C et eau froide)\n\nContactez-moi pour organiser une visite et découvrir cet appartement par vous-même.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 65 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 248€ par mois (soit 2976 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Jean-Baptiste Macé mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Angers sous le numéro 945186807, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-08-12",
+    "publicationDateEvidence": "Primary firstPublishDate is date only; publication time not exposed.",
+    "photoCount": 11,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623c9d2cab4322acde91f571ad5.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623bae406a209309e71aa22f8a3.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff624244fbd24348e1662c9a1233d.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623cbc2d339ab3242e053b4d44f.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff62a0645cb2b74bff997ede93d60.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623c2180a728971c395cf184b34.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff6238d1ce9a5507e3443cb9583d7.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623c3c0fba8ea9051145a4e64a9.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623df768a9bc766d1ad1b8cd0a1.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff6286bcdea02801c45ae49e981e6.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff6290f43d745c48512eab56aa905.png?format=auto&width=1170"
+    ],
+    "dpe": "E",
+    "ges": "B",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-11-04",
+      "year": 2022,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 272
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 8
+      },
+      "amount": {
+        "min": 1979,
+        "max": 2677
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 65,
+      "annualFees": 2976,
+      "proceedingsUnderway": false
+    },
+    "chargesAnnualEuros": 2976,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "239 000 €",
+      "formattedPerSurface": "2 531 € / m²"
+    },
+    "sourceConstructionYear": 1977,
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1977"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623c9d2cab4322acde91f571ad5.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "bec26806f351acadae09c7c1f88b9a0a0a93debfebfa5ae73d537301196dd49e",
+        "observation": "Actual balcony with artificial grass, metal guardrail and retractable awning; glazed access and tree outlook."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623bae406a209309e71aa22f8a3.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "56f9eb24ab460d185ae7db2ffda0d728aaf0b796ef56db683dc343cc7cfe1808",
+        "observation": "Actual largely empty living room with laminate, broad windows, balcony door, glazed kitchen partition and open connecting space."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff624244fbd24348e1662c9a1233d.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "5595a3aa4c89e65b5bbb8e4f1557ad4e51fd87f9ab321bca0c89935ec0886e27",
+        "observation": "Actual fitted kitchen with grey cupboards, light worktops, window and opening towards living/balcony; consistent with photo2."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623cbc2d339ab3242e053b4d44f.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "0707e46ed75e46d26bcbffed40554376912a122df9f1e28b3a5f6f52008be27b",
+        "observation": "First actual bedroom with bed, curtain-front storage, two-panel window and tall electric convector."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff62a0645cb2b74bff997ede93d60.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "4031f944023aa0ceaaa49739914a359e3e0fb000130904daca289067eff05d27",
+        "observation": "Second actual bedroom, empty, with two-panel window, low electric convector and grey laminate."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623c2180a728971c395cf184b34.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "e208223c1fb08ea0a0ae5e4d0aec696e438294482c687b5074ba558ed011c9c9",
+        "observation": "Third actual bedroom with double bed, peach walls, window and low electric convector."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff6238d1ce9a5507e3443cb9583d7.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "23f1187d596922ff9908c8dca9753a205699829c8a393a04408f8ec658af978f",
+        "observation": "Actual shower room with glass screen, tiled shower, basin cabinet and blue curtain."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623c3c0fba8ea9051145a4e64a9.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b075dbce942bd127ebb6f6bccf27433ca4d2c67246ed8ef64d369f621b1d352e",
+        "observation": "Actual entrance with storage and view into the same living room; some furniture appears in this view but empty/furnished scenes do not establish legal occupancy."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff623df768a9bc766d1ad1b8cd0a1.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "f20295e2e04d98d8b5523821c5433138ef3af46fc7ffe659b44f113462c830f9",
+        "observation": "Common building entrance hall with glazing, plants and tiled floor; not private apartment area."
+      },
+      {
+        "number": 10,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff6286bcdea02801c45ae49e981e6.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "8310a0d991048ec47649f22b6f9b51003b6b64d81a1489e0304f80220072daf8",
+        "observation": "Advertiser floor plan and surface schedule label floor4, three bedrooms12.71/13.39/9.79m2, living20.53m2, kitchen14.35m2, halls, storage, shower, WC and basement garage. Listed Carrez spaces sum94.42m2. Balcony7.10m2 and garage13.49m2 are outside Carrez and not added to apartment area. Plan is source evidence, not an independently authenticated survey."
+      },
+      {
+        "number": 11,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/08/12/019ff6290f43d745c48512eab56aa905.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b98a99e51780ea7284144cc0942f030ca62c50d2b02dfffca4d39a0812399781",
+        "observation": "Agent promotional card naming Jean-Baptiste Mace; not a property-condition photograph and not evidence of a spam property advert."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllPhotoPathScan": "No prior identities across all approved,pending,excluded artifacts and5579 exported rows.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-94m2/r2123904",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-94m2/r2123904",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 94,
+            "rooms": 4,
+            "floor": 1,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          }
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-98m2/r2095573",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-98m2/r2095573",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 97.85,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          }
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-4-pieces-52366145",
+          "property": {
+            "dedupeKey": "reviewed:https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-4-pieces-52366145",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 92.4,
+            "rooms": 4,
+            "floor": 10,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "A"
+          }
+        }
+      ]
+    },
+    "notes": "Full primary description including all statutory and seller wording individually read and preserved verbatim. All exposed listing-specific gallery entries individually visually inspected in original order; related-property photos excluded. firstPublishDate exposes date only and no publication time is invented. First-seen is the actual HTTP200 full-description fetch time. Whole purchase price includes seller-paid agency fees and is withinEUR400000. Apartment outside department75. Exact address and legal vacant possession are unconfirmed; furnished/empty scenes do not establish tenancy or vacancy. Locality, orientation, quietness, comfort, transport and future-work claims remain advertiser assertions. Full wording establishes no current tenant or lease, occupied/viager sale, bare/fractional/timeshare ownership, auction or partial/starting price, mandatory commercial/managed lease, ancillary-only asset, boat, spam/bot advert or impossible room/surface combination. Approved fullEUR239000,94.42m2T4 with THREE existing bedrooms,floor4/top4 in1977 building. Elevator expressly stated in full description despite no elevator icon in structured features; hasElevator=true from prose. All11 gallery entries inspected: balcony,actual living/open kitchen,three distinct bedrooms,shower,entrance,common hall,source plan/surface schedule and agent marketing card. No AI/staging label observed. The plan labelsfloor4,three bedrooms12.71/13.39/9.79m2,living20.53m2,kitchen14.35m2 and Carrez spaces totaling94.42m2. Balcony7.10m2 and basementgarage13.49m2 are non-Carrez and not added to area. Garage is source plan/prose evidence; no actual garage photo. Two sale lots,65 total copropriete lots,no proceeding; annualcoproEUR2976 (248monthly) includes collective underfloor heat up to17C and cold water. Individual electric convectors supplement collective floor heat; sourceEUR420 annual electricity is separately preserved and not substituted for copro charges. Property taxEUR1760/year expressly exposed. DPE E272/GES B8 dated2024-11-04,costEUR1979-2677 indexed2022. Residence-adjacent PUBLIC parking is not an included private property right. Vacancy and immediate installation remain unconfirmed advertiser claims. No exact source ID or any gallery-path identity across approved,pending,excluded artifacts and5579 exported rows. All3 Angers exports within7m2 compared: IAD212390494m2 is floor1/1958/13lots/individualgas/Visitation-gare; IAD209557397.85m2 is floor3/4 duplex/1890/60lots/gas/Boisnet; Laforet5236614592.4m2 is floor10/258lots/cellar/LouisGain. None matches this floor4/1977/65lots/Orgemont/apartment with garage. Verified2025 commune ALL_APT rent1456cents/m2 from29741 observations and8943 actual apartmentDVF sales with matching2021-2025 APT metric before analysis.",
+    "reviewStatus": "TRUSTED_REVIEWED",
+    "hasElevator": true,
+    "taxeFonciereAnnualEuros": 1760,
+    "sourceElectricityAnnualEuros": 420
+  }
+]
