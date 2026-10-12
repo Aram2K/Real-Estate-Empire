@@ -1,0 +1,324 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-82m2/r2063783",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T18:16:25.990844+00:00",
+    "externalId": "2063783",
+    "firstSeenAt": "2026-10-12T18:16:25.990844+00:00",
+    "reviewedAt": "2026-10-12T20:36:03.643401+00:00",
+    "communeCode": "49007",
+    "surface": 82,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Kiran Kalar",
+    "sourceTitle": "Appartement à Angers (49000)",
+    "sourceDescription": "QUARTIER ORGEMENT Appartement lumineux situé au 1er étage - TERRASSE sans vis à vis + 2 PARKINGS INT et EXT!\nIl comprend une entrée, une cuisine équipée et aménagée ouverte sur la pièce de vie baignée de lumière donnant un accès direct à la superbe terrasse de 36m². Cette terrasse a également une entrée indépendante. Une arrière cuisine vient compléter cet espace.\nUn couloir aménagé de différents types de rangements mène au 2 chambres, à la salle de bain avec un espace buanderie et au WC.\nProfitez d'un parc au calme ainsi que de 2 places de stationnement, l'un dans un garage au sous-sol et l'autre sur un parking extérieur sécurisé, trouvez également un local à vélo à disposition.\nTravaux récents:\n-Menuiseries et chaudière à gaz.\n\nN'hésitez pas à me contacter pour plus de renseignements et/ou organiser une visite!\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 38 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 183€ par mois (soit 2196 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Kiran Kalar mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de NANTES sous le numéro 833196884, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-01",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time not exposed.",
+    "photoCount": 14,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe34a5c3d8a7f89f87d0f365d.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe2706ae11a4ff567103c5481.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1405657127ba7d9ac32ff92.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1229e8f7f9910fe7b88e07d.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe3783e44f32766346ba3868b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1ee87cb6d04c1f5260e3752.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1a8f24bebfaa00af2765abd.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1d4481cade67e74ef113914.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe154cd84007e8ee442ec4653.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe0b7a199f282b7cb7d1116a8.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe10243c1a26d75e8e3b679e6.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe16609219cc18f17c5879d15.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe2ac7efd0cebe83c2ab038cd.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe3bd914464bd0b13b437b035.jpg?format=auto&width=1170"
+    ],
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 2196,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-03-27",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 187
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 38
+      },
+      "amount": {
+        "min": 1500,
+        "max": 2080
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 38,
+      "annualFees": 2196,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1978,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "229 000 €",
+      "formattedPerSurface": "2 793 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "2 parkings",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1978"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Digicode"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 82,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 36,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe34a5c3d8a7f89f87d0f365d.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "1afe8fb55207d9d134b61d5c095c294de57656c14af240cb6da9f3315e5f571c",
+        "observation": "Original furnished wooden-deck terrace, shade sail, table, black seating and planted privacy wall. Photo cannot establish the stated 36m2 measurement or legal ownership boundary."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe2706ae11a4ff567103c5481.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "94c2a1eb49632f41d284bafeda9ef72cf5eb4140cce2338dff89b2fc49fb0174",
+        "observation": "Original living area with dark sofa, red rattan chairs, record shelves, radiator and broad sliding terrace doors. Furnishings do not prove tenancy or vacant possession."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1405657127ba7d9ac32ff92.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "04e8be135a7fb534c848b3d604a944e0ce40669128819688475886046c01be76",
+        "observation": "Original open kitchen with red cabinets, wood counters, metal hood, gas hob, window and brick-front breakfast counter. Cooking appliance alone is not heating evidence."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1229e8f7f9910fe7b88e07d.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "19fa9ac2a01558cb05d16835014a80c698740bcc92768d439ad423db18b393e9",
+        "observation": "Original bathroom with bathtub, shower screen, grey vanity, washer and cream tiles with dark horizontal trim; not a newly proposed shower-only room."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe3783e44f32766346ba3868b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "82197e5af317f6590b695a731d7e4afbcafe5e0922b67996dcf65af7ca83b98a",
+        "observation": "Another original view of the same living area and terrace opening; not an additional room."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1ee87cb6d04c1f5260e3752.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "fce1b38410dce2fe2f5adacb24c708987ba6b8796219ca65255ec49fe3305f5d",
+        "observation": "Reverse original living/dining view linking the same terrace doors, red rattan chairs, brick-front kitchen counter and dining table."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1a8f24bebfaa00af2765abd.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "959d66c1d656553a7a183d8c2b483d58448bc41d73afeaefd42f16fef4cc5faf",
+        "observation": "Another original view of the same sofa/record shelves/rattan seating in the living room."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe1d4481cade67e74ef113914.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "834d8b27b0256b0df9d78c63aba4f8a561df32e9746b944a2909f7fa602e7a66",
+        "observation": "Original dining area and open red/grey kitchen with brick-front counter; continuous with previously inspected living area."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe154cd84007e8ee442ec4653.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "16809a0dc14d7aecf96efe19528506b6e3d303fd11f1b3681a5a32e9ca11c9ef",
+        "observation": "Original close kitchen view with oven, fridge, red cabinets, dishwasher and wood counter; not a separate kitchen."
+      },
+      {
+        "number": 10,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe0b7a199f282b7cb7d1116a8.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "83abca7fda1dd2ec656d212ebec77c35fb35973ac9a6e2365b3ed75f635906ed",
+        "observation": "Original hallway with mirrored/sliding built-in cupboards and shelving; storage is not a bedroom."
+      },
+      {
+        "number": 11,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe10243c1a26d75e8e3b679e6.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "e9351cacd5875d7c0a082ba3caa764122cbc2c0681beaa0fa22c3a7b1f60f16b",
+        "observation": "Original double bedroom with double bed, grey curtains, two openings and radiator."
+      },
+      {
+        "number": 12,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe16609219cc18f17c5879d15.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "c33721cd76d93081c6d90148cd7d2982e1febd2dde06bfeac9f681783ba3dc6c",
+        "observation": "Original second bedroom with child bed, toy storage, tree mural and double-panel window. Two existing bedrooms supported; no third bedroom inferred."
+      },
+      {
+        "number": 13,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe2ac7efd0cebe83c2ab038cd.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "e0effb8e0a0f7a4e1804e2aaed5621b812cddd7d8518be83e09dd3270c14bb32",
+        "observation": "Original terrace reverse view with shade sail, black seating, planting and timber access gate, coherent with photo1."
+      },
+      {
+        "number": 14,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/01/019f1d0fe3bd914464bd0b13b437b035.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b9dd731419d41d9c54eeb53c423fe1d769193c925680f4b7f4272226b2569a73",
+        "observation": "Original terrace view toward the same sliding living-room doors and kitchen window. No assigned parking spaces, cellar or exclusive closed garage box demonstrated by gallery."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-82m2/r2063783",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T20:36:02.737940+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465101806",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465101806",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 78,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 22000000
+        },
+        {
+          "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293562614A1KIVHAP000",
+          "property": {
+            "dedupeKey": "reviewed:https://www.paruvendu.fr/immobilier/vente/appartement/1293562614A1KIVHAP000",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 80,
+            "rooms": 3,
+            "floor": 13,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 22000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-09-lemans-angers-iad-pass61.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-78m2/r2107719",
+          "surface": 78,
+          "priceEuros": 220000,
+          "reviewStatus": "PENDING_SOURCE_HEATING_CONFLICT",
+          "floor": 1,
+          "hasElevator": false
+        }
+      ],
+      "resolution": "Whole EUR229000 apartment price with seller agency fees,82m2 T4 with TWO existing bedrooms. Floor1 explicit; lift unexposed and left unknown. Source1978 construction, gas boiler/structured natural-gas heating,38 TOTAL copropriete lots,2 sale lots,EUR2196 annual charges/EUR183monthly,no ongoing proceeding. Source36m2 plot-area entry is the advertised terrace, not additional habitable area or independently proven private land. Two parking places asserted: one in basement garage area and one secure exterior place; no exclusive closed box inferred. Gallery14 coherent original photos show wooden terrace with gate/shade sail,red/grey open kitchen with brick-front counter,living/dining,two bedrooms,hall and bathroom/washer. No current tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/misleading partial price,managed/commercial lease,ancillary-only asset,houseboat,bot/spam or impossible room/surface combination established by full wording/photos. Availability independently unconfirmed. PAP465101806 near78m2/floor1 has Saint-Leonard/Madeleine address,balcony,individual electric heat,DPE C,256lots/EUR1856charges; live full PAP prose re-read at https://www.pap.fr/annonces/appartement-angers-49000-r465101806 confirms those distinctions from Orgemont,36m2 terrace,gas,DPE D,38lots here. PV1293562614A1KIVHAP000 is80m2/floor13/LesJustices/11m2balcony/box/cellar. Pending IAD2107719 is78m2/floor1/BdAlbertCamus/NOlift/separate kitchen/two loggias/145lots/EUR3240charges and source heating conflict; separate unit. No same physical unit established."
+    },
+    "notes": "Full primary description including all legal and seller wording individually read and preserved verbatim. Every listing-specific exposed gallery photo individually visually inspected in source order; related listings excluded. Primary firstPublishDate is date only: no publication time invented, and image dates are not publication dates. First-seen is actual initial HTTP200 fetch timestamp. Exact address, publication time and property tax unexposed and omitted. Furnished/empty scenes do not establish legal tenancy or vacant possession. Orientation, neighbourhood, quietness, measurements, condition and completed-work claims remain advertiser assertions. Whole EUR229000 apartment price with seller agency fees,82m2 T4 with TWO existing bedrooms. Floor1 explicit; lift unexposed and left unknown. Source1978 construction, gas boiler/structured natural-gas heating,38 TOTAL copropriete lots,2 sale lots,EUR2196 annual charges/EUR183monthly,no ongoing proceeding. Source36m2 plot-area entry is the advertised terrace, not additional habitable area or independently proven private land. Two parking places asserted: one in basement garage area and one secure exterior place; no exclusive closed box inferred. Gallery14 coherent original photos show wooden terrace with gate/shade sail,red/grey open kitchen with brick-front counter,living/dining,two bedrooms,hall and bathroom/washer. No current tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/misleading partial price,managed/commercial lease,ancillary-only asset,houseboat,bot/spam or impossible room/surface combination established by full wording/photos. Availability independently unconfirmed. PAP465101806 near78m2/floor1 has Saint-Leonard/Madeleine address,balcony,individual electric heat,DPE C,256lots/EUR1856charges; live full PAP prose re-read at https://www.pap.fr/annonces/appartement-angers-49000-r465101806 confirms those distinctions from Orgemont,36m2 terrace,gas,DPE D,38lots here. PV1293562614A1KIVHAP000 is80m2/floor13/LesJustices/11m2balcony/box/cellar. Pending IAD2107719 is78m2/floor1/BdAlbertCamus/NOlift/separate kitchen/two loggias/145lots/EUR3240charges and source heating conflict; separate unit. No same physical unit established. Before analysis verified local2025ALL_APT rent1456cents/m2 from29741observations,8943actual apartmentDVFsales/matchingAPTmetric2021-2025.",
+    "priceEuros": 229000,
+    "floor": 1,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "49007",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1456,
+      "nbObs": 29741,
+      "actualApartmentDVFSales": 8943,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 8943
+      }
+    }
+  }
+]

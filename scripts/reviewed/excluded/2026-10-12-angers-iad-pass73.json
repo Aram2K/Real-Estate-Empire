@@ -1,0 +1,390 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-76m2/r2128856",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T18:16:24.878405+00:00",
+    "externalId": "2128856",
+    "firstSeenAt": "2026-10-12T18:16:24.878405+00:00",
+    "reviewedAt": "2026-10-12T20:36:03.642732+00:00",
+    "communeCode": "49007",
+    "surface": 76,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Tiphaine Grégoire",
+    "sourceTitle": "Appartement à Angers (49000)",
+    "sourceDescription": "VIAGER - OCCUPÉ\n\nImmeuble sécurisé avec ascenseur, ce T4 lumineux offre séjour et salle\nà manger spacieux, cuisine équipée, 3 chambres, salle d’eau et WC\nséparé. Deux balcons plein sud apportent lumière et détente.\n\nConfort : fibre optique, chauffage collectif bois, accès PMR, parking en\nsous-sol. Proche de toutes commodités.\n\nLe bien présente un réel intérêt pour un investissement sécurisé en\nviager.\n\nConditions de la vente:\n\nVente en viager avec réserve de droit d’usage et d’habitation au profit\nde la venderesse.\nFemme : 83 ans\nBouquet : 20 000 €\nRente mensuelle : 790,56€\n\nUn appartement fonctionnel et accueillant, à découvrir sans tarder !\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 30 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 267.33€ par mois (soit 3208 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Tiphaine Grégoire mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 101460467, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-12",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time not exposed.",
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1306df44ea693cb015a5069e29c5b.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a13076271823fae648ce6016abcb0f.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1307a5485d51dbfca7ea35d8a791e.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1307626ccc167427663389e6458a3.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1307626aac64e3dcd66e59924da1e.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/05/01a10b2cc24eff080b3be693bd27b495.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/05/01a10b2bc11b14493c6773edb2cc4100.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/10/05/01a10b2cc1905a84660763195329464e.jpg?format=auto&width=1170"
+    ],
+    "dpe": "D",
+    "ges": "A",
+    "chargesAnnualEuros": 3208,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2022-10-21",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 204
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 3
+      },
+      "amount": {
+        "min": 1080,
+        "max": 1500
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 30,
+      "annualFees": 3208,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1974,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "185 000 €",
+      "formattedPerSurface": "2 434 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.wood"
+          ]
+        },
+        {
+          "text": "Construit en 1974"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 76,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1306df44ea693cb015a5069e29c5b.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "20124864b08b047ed31eed92e038f6562c936a3a001bab0767350ce35dfca48f",
+        "observation": "Original furnished living/dining view with round table, grey sideboard, glass-front cupboard and wood flooring. Occupied-sale exclusion rests on explicit text, not furniture."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a13076271823fae648ce6016abcb0f.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "a8264157463c01fd7e91789ad6af54a936af9066411dfbdc040936e560374661",
+        "observation": "Original bedroom with two single beds and sliding glazed opening onto balcony; number of beds is not room count."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1307a5485d51dbfca7ea35d8a791e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6047e726df3aa94da4280ebbe7d4519bf4e3431d99533b72a09b242ac4f235c0",
+        "observation": "Original another bedroom with double bed, plants by broad sliding opening and wood floor."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1307626ccc167427663389e6458a3.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "281d8d0b77c6cb15b42d6419da709998d45d9f0a09a4f3770cb0b021c3957a38",
+        "observation": "Original narrow shower room with white/green-trim tiles, shower enclosure, basin, washer and broad window."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/12/01a1307626aac64e3dcd66e59924da1e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "c4770b88691672fdbb85d06a6802bfb2d21f234dc2a0ddc433c45ab019ec15ca",
+        "observation": "Original separate white/green kitchen with built-in oven, dishwasher, hob and broad window."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/05/01a10b2cc24eff080b3be693bd27b495.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "fb97249c19538fd0356b8f54bcfb2ad03f97e91a8ca1c19efbbf0cdb0bfa967b",
+        "observation": "Original internal hallway with several doors and decorative panel on far door."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/05/01a10b2bc11b14493c6773edb2cc4100.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "0cf425e93e27680cce5e39b6bb967dc8403710911a9ed781926086ee8d121efe",
+        "observation": "Original reverse living/dining view linking the same cupboard and separate kitchen doorway."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/10/05/01a10b2cc1905a84660763195329464e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "99655e6d343a9e14dba1d87e43be6144caede4b09cef8afe9f87e31f691cfea4",
+        "observation": "Original balcony view with planting, tiled floor and neighbouring residential blocks. No third distinct bedroom, separate WC, cellar or assigned underground parking is separately established by these eight photos."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-76m2/r2128856",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T20:36:02.681306+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15910181215/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15910181215/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 19990000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-72m2/r2084025",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-72m2/r2084025",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 72,
+            "rooms": 4,
+            "floor": 1,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 29900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-74m2/r2097759",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-74m2/r2097759",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73.72,
+            "rooms": 4,
+            "floor": 4,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 16000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r463000178",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r463000178",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 72,
+            "rooms": 3,
+            "floor": 4,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 31000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465101806",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465101806",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 78,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 22000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465403047",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465403047",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 18500000
+        },
+        {
+          "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293562614A1KIVHAP000",
+          "property": {
+            "dedupeKey": "reviewed:https://www.paruvendu.fr/immobilier/vente/appartement/1293562614A1KIVHAP000",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 80,
+            "rooms": 3,
+            "floor": 13,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 22000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-lemans-angers-iad-pass59.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-73m2/r2107354",
+          "surface": 73.48,
+          "priceEuros": 188000,
+          "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+          "floor": 4,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-agency-public-pass44.json",
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-5-pieces-52918165",
+          "surface": 77,
+          "priceEuros": 214390,
+          "reviewStatus": "PENDING_CONFLICTING_ROOM_COUNT",
+          "floor": 4,
+          "hasElevator": false
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-09-lemans-angers-iad-pass61.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-78m2/r2107719",
+          "surface": 78,
+          "priceEuros": 220000,
+          "reviewStatus": "PENDING_SOURCE_HEATING_CONFLICT",
+          "floor": 1,
+          "hasElevator": false
+        }
+      ],
+      "resolution": "EXCLUDED occupied viager: source explicitly says VIAGER - OCCUPÉ and reserves droit d’usage et d’habitation for the83-year-old female seller. EUR20000 bouquet plus lifetime monthly EUR790.56 annuity is not full conventional purchase price; displayed EUR185000 is preserved solely as advertised headline value and not used for investment analysis. Source76m2T4/three-bedroom claim,floor4 WITH lift,1974building,3sale lots/30TOTAL lots,EUR3208annual charges/rounded267.33monthly,DPE D204/GES A3 assessed2022-10-21. All8 original gallery entries individually inspected, furnished living/dining,two distinct photographed bedrooms,separate kitchen,shower room,hall and balcony/residential block view; third bedroom and annex allocations not separately shown. Exact source ID and all ownphoto paths absent from earlier approved,pending,excluded,duplicate artifacts/exports. Near active records have different floor/lift/layout/coownership: C21ref1142floor2NOlift/11lots;IAD2084025floor1ancientcentre/one bedroom;IAD2097759floor4NOlift/210lots;PAP72floor4NOlift/10lots;PAP78floor1/256lots;PAP73floor3NOlift;PV80floor13. Nonactive IAD2107354fourth-last/95lots/currentcolocation;Laforet77fourth-lastNOlift/roomcountconflict;IAD2107719firstNOlift/145lots remain separate. No established same unit/canonical to withdraw. No import or analysis."
+    },
+    "notes": "Full primary description including all legal and seller wording individually read and preserved verbatim. Every listing-specific exposed gallery photo individually visually inspected in source order; related listings excluded. Primary firstPublishDate is date only: no publication time invented, and image dates are not publication dates. First-seen is actual initial HTTP200 fetch timestamp. Exact address, publication time and property tax unexposed and omitted. Furnished/empty scenes do not establish legal tenancy or vacant possession. Orientation, neighbourhood, quietness, measurements, condition and completed-work claims remain advertiser assertions. EXCLUDED occupied viager: source explicitly says VIAGER - OCCUPÉ and reserves droit d’usage et d’habitation for the83-year-old female seller. EUR20000 bouquet plus lifetime monthly EUR790.56 annuity is not full conventional purchase price; displayed EUR185000 is preserved solely as advertised headline value and not used for investment analysis. Source76m2T4/three-bedroom claim,floor4 WITH lift,1974building,3sale lots/30TOTAL lots,EUR3208annual charges/rounded267.33monthly,DPE D204/GES A3 assessed2022-10-21. All8 original gallery entries individually inspected, furnished living/dining,two distinct photographed bedrooms,separate kitchen,shower room,hall and balcony/residential block view; third bedroom and annex allocations not separately shown. Exact source ID and all ownphoto paths absent from earlier approved,pending,excluded,duplicate artifacts/exports. Near active records have different floor/lift/layout/coownership: C21ref1142floor2NOlift/11lots;IAD2084025floor1ancientcentre/one bedroom;IAD2097759floor4NOlift/210lots;PAP72floor4NOlift/10lots;PAP78floor1/256lots;PAP73floor3NOlift;PV80floor13. Nonactive IAD2107354fourth-last/95lots/currentcolocation;Laforet77fourth-lastNOlift/roomcountconflict;IAD2107719firstNOlift/145lots remain separate. No established same unit/canonical to withdraw. No import or analysis.",
+    "advertisedHeadlinePriceEuros": 185000,
+    "fullConventionalPurchasePriceEuros": null,
+    "floor": 4,
+    "hasElevator": true,
+    "reviewStatus": "EXCLUDED_VIAGER_OCCUPIED",
+    "analysisComputed": false,
+    "exclusionEvidence": [
+      "VIAGER - OCCUPÉ",
+      "Vente en viager avec réserve de droit d’usage et d’habitation au profit\nde la venderesse.",
+      "Femme : 83 ans",
+      "Bouquet : 20 000 €",
+      "Rente mensuelle : 790,56€"
+    ],
+    "sourceSaleTerms": {
+      "bouquetEuros": 20000,
+      "monthlyLifetimeAnnuityEuros": 790.56,
+      "reservedRight": "droit d’usage et d’habitation",
+      "annuitantAge": 83
+    }
+  }
+]

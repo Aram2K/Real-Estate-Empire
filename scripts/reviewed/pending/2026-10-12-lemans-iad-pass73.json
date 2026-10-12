@@ -1,0 +1,378 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-55m2/r1998666",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T20:24:27.128901+00:00",
+    "externalId": "1998666",
+    "firstSeenAt": "2026-10-12T20:24:27.128901+00:00",
+    "reviewedAt": "2026-10-12T20:36:03.641834+00:00",
+    "communeCode": "72181",
+    "surface": 55,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Jason Vella",
+    "sourceTitle": "Appartement à Le Mans (72100)",
+    "sourceDescription": "Spacieux Appartement T3 Lumineux avec Garage - \nÀ la recherche d'un appartement confortable, lumineux et bien situé au Mans ? Ne cherchez plus ! Cet appartement T3 de 55m² est l'occasion parfaite pour vous installer dans un environnement agréable, à proximité de toutes commodités.\n\nSitué dans un immeuble de 9 étages construit en 1960, cet appartement se trouve dans un bon état général, offrant un cadre de vie agréable pour ses occupants. Vous profiterez de 2 chambres spacieuses, d'une salle de bain, d'un WC séparé, d'une cuisine et d'un salon lumineux pour des moments de convivialité en famille ou entre amis.\n\nLes prestations de ce bien sont de qualité avec la présence d'un chauffage par le réseau de chauffage urbain, garantissant un confort thermique optimal. De plus, la présence de la fibre optique vous permettra de rester connecté en permanence.\n\nPour votre confort et votre sécurité, l'appartement est équipé d'un interphone assurant un contrôle d'accès sécurisé. De plus, la résidence dans laquelle il se situe propose des espaces de rangement pour plus de praticité au quotidien.\n\nVous disposerez également d'un garage pour stationner votre véhicule en toute tranquillité. Les expositions sud et nord vous offriront une luminosité naturelle appréciable tout au long de la journée. \n\nDes travaux sont à prévoir pour personnaliser cet appartement à votre goût et en faire un véritable cocon à votre image.\n\nNe manquez pas cette opportunité exceptionnelle d'acquérir un appartement fonctionnel, bien situé et offrant de belles perspectives d'aménagement.\n\nContactez-nous dès maintenant pour organiser une visite.\n\nLa presente annonce immobiliere vise 438 lots situés dans une copropriété de 438 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 147€ par mois (soit 1764 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Jason Vella mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Le Mans sous le numéro 889025896, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-04-25",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time not exposed.",
+    "photoCount": 12,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34d14cd575df6ee2d59ce4669bd.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34eb4f79c6851c4d5c24aab16c8.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34d3e7e09c11c171c406a51d28f.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34ed9c8d95ed562e33e7d0c007d.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34d695c476415fb22d33b258938.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34e90a9ef1e52b6740747313ec6.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc351ade1a20c22d38170d774f255.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc350d1001eec1261f5ff4a924046.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34e55e4199e41a8be9f71a787e9.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34feecbbb81ec2e6f5d7dfbbe03.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc35448a4173979f0dcd098c52936.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34efb43cd62b7691d49d0e5b583.png?format=auto&width=1170"
+    ],
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 1764,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-04-07",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 231
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 8
+      },
+      "amount": {
+        "min": 1090,
+        "max": 1520
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 438,
+      "annualFees": 1764,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1960,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "89 500 €",
+      "formattedPerSurface": "1 627 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.gas_tank"
+          ]
+        },
+        {
+          "text": "Construit en 1960"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 55,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34d14cd575df6ee2d59ce4669bd.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "800d4ce456ac696269b23f9a9bbe998641442c8b3bb440b5357e23fdb556a202",
+        "observation": "Original empty living room with radiator, three-panel glazed balcony-style opening, pale floor and unfinished ceiling light; elevated view does not establish floor number."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34eb4f79c6851c4d5c24aab16c8.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "abeeebc3230358dda48502acd44866b1c3117e0389bf7760093901a0a1afa1f7",
+        "observation": "Apparent digitally staged/renovated version of photo1 with added sofa, TV, furniture, spotlights and curtains; no visible staging label. Proposal not evidence of current finishes or furniture."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34d3e7e09c11c171c406a51d28f.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6231067748740014b5d3503308fbd8a348dd61633c06b3ea6533f272a8ee8082",
+        "observation": "Original narrow separate kitchen with dark cabinets, old pale dishwasher, two-panel window, white radiator and printed floor covering."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34ed9c8d95ed562e33e7d0c007d.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "2b4920d56380fe8fabe90a30e0b000e0dd519ccc2bc2ab5880587a761119ac2d",
+        "observation": "Apparent digitally renovated version of photo3 changing counter, appliances, lighting and cabinets; no visible staging label. Not current-condition proof."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34d695c476415fb22d33b258938.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "00918825b5467bdc04953027bd480ff59d6357080de75cb91af486c16c8cade3",
+        "observation": "Original empty bedroom-sized room with two-panel window, right-hand radiator and bare light fitting."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34e90a9ef1e52b6740747313ec6.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "4181824128b7898b1e77ea5231992f2e013b5bb88ba95bbf0e2b0fa71dee1745",
+        "observation": "Apparent digitally furnished version of photo5 with double bed, lights and altered radiator/finishes; proposal not a newly verified room."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc351ade1a20c22d38170d774f255.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "249f2212bde4d9924d285a0642df93d01c6d61483b75eccc636d07bfbc3b7991",
+        "observation": "Original second empty bedroom-sized room with built-in white cupboard, radiator and door to hallway."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc350d1001eec1261f5ff4a924046.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "8e176349cb6cc88b44e8acb2926018815846d7dcb421633127d6f14f3a6a4357",
+        "observation": "Apparent digitally furnished/renovated version of photo7 with double bed and recessed lighting. Not current furnishings or completed works."
+      },
+      {
+        "number": 9,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34e55e4199e41a8be9f71a787e9.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "71a99e1dbf8e48602eebf2c676f5c5315d874fb7fd2a94d50979a6e5943eccd1",
+        "observation": "Original empty narrow hallway with bare lighting and pale flooring."
+      },
+      {
+        "number": 10,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34feecbbb81ec2e6f5d7dfbbe03.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "2ad570d8f4346a9ece8515bed5292bcaabe22904ac813e90cba346f85c877bf4",
+        "observation": "Apparent digitally renovated/staged version of photo9 adding artwork, plant and lighting; not current-condition evidence."
+      },
+      {
+        "number": 11,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc35448a4173979f0dcd098c52936.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "900aae717a83fc7492a15d26b7646cbc769f8130dc1fa2b1603284faa3b2267e",
+        "observation": "Original shower room with corner shower, plain basin, white tiles/decorative band, brown floor and glazed service door with low vent."
+      },
+      {
+        "number": 12,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/04/25/019dc34efb43cd62b7691d49d0e5b583.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "987fcc5a0f2c7cf532e4ba8423f5f3fafa2aa7ef07b8aa95ecf313fcd9b3a134",
+        "observation": "Apparent digitally renovated version of photo11 with new black-framed shower, vanity and lighting. No visible staging label; current-condition evidence remains photo11. Garage and separate WC not separately shown."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-55m2/r1998666",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T20:36:02.697237+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/cc8f061e-a707-4eb7-8e43-4d03c0da4e79",
+          "property": {
+            "dedupeKey": "reviewed:https://gensdeconfiance.com/us/ui/post/realestate__sale/cc8f061e-a707-4eb7-8e43-4d03c0da4e79",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 52.2,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 15750000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15771282144/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15771282144/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 56.1,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 12950000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-56m2/r2131237",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-56m2/r2131237",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 56.13,
+            "rooms": 3,
+            "floor": 8,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 10500000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-57m2/r2083322",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-57m2/r2083322",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 57,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 12800000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t3-le-mans-72000-b4c61262-85d9-4526-af63-077ef5a2766a/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.orpi.com/annonce-vente-appartement-t3-le-mans-72000-b4c61262-85d9-4526-af63-077ef5a2766a/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 53.02,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 11235000
+        },
+        {
+          "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295670205A1KIVHAP000",
+          "property": {
+            "dedupeKey": "reviewed:https://www.paruvendu.fr/immobilier/vente/appartement/1295670205A1KIVHAP000",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 55,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 8000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\2026-10-11-lemans-angers-iad-pass62-pending.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-55m2/r2080341",
+          "surface": 55,
+          "priceEuros": 105500,
+          "reviewStatus": "PENDING",
+          "floor": 5,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-lemans-angers-iad-pass59.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-55m2/r2100516",
+          "surface": 55,
+          "priceEuros": 107000,
+          "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+          "floor": 2,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING: primary advert legally says \"La presente annonce immobiliere vise 438 lots situés dans une copropriété de 438 lots au total\" while offering one55m2T3 and garage. Preserve stated438 sale lots versus438TOTAL lots; do not silently correct offered count. Primary narrative urban-network heating also conflicts with structured gas_tank heating tag; neither asserted verified. Unknown floor: nine is total building storeys, not apartment floor; lift explicitly present. Source1960 construction,2bedrooms,EUR89500headline seller agencyfees,EUR1764annual charges/147monthly,no stated proceeding,DPE D231/GES B8 assessed2026-04-07. All12 gallery entries individually inspected: originals1/3/5/7/9/11 show empty living,separate dark kitchen,two bedroom-sized rooms,hall,older shower room; even-numbered entries are apparent unlabelled digital renovation/staging versions with changed finishes/fixtures. No assertion those proposed works exist; generic good-state wording does not override work-to-do text/originals. Garage and separateWC not photographed. Source-ID and allimage paths absent from earlier artifacts/exports. Near active units differ in construction,floor/layout,heating,coownership/annexes: GDC recent four-storey/one bedroom/terrace;C21ground2008electric/52lots;IAD2131237top8/260lots/floorheat/cave;IAD2083322openkitchen/119lots/individualgas/cave;ORPI53.02Maillets/377lots/assignedparking/collectivegas;PV55Mahoniasequippedkitchen/cave/parking. Pending2080341floor5/300lots/currentone-bedconversion/2668charges and excluded2100516floor2/garenord/130lots/2400charges distinct. No import, trusted status or analysis until scope and heating claims resolved."
+    },
+    "notes": "Full primary description including all legal and seller wording individually read and preserved verbatim. Every listing-specific exposed gallery photo individually visually inspected in source order; related listings excluded. Primary firstPublishDate is date only: no publication time invented, and image dates are not publication dates. First-seen is actual initial HTTP200 fetch timestamp. Exact address, publication time and property tax unexposed and omitted. Furnished/empty scenes do not establish legal tenancy or vacant possession. Orientation, neighbourhood, quietness, measurements, condition and completed-work claims remain advertiser assertions. PENDING: primary advert legally says \"La presente annonce immobiliere vise 438 lots situés dans une copropriété de 438 lots au total\" while offering one55m2T3 and garage. Preserve stated438 sale lots versus438TOTAL lots; do not silently correct offered count. Primary narrative urban-network heating also conflicts with structured gas_tank heating tag; neither asserted verified. Unknown floor: nine is total building storeys, not apartment floor; lift explicitly present. Source1960 construction,2bedrooms,EUR89500headline seller agencyfees,EUR1764annual charges/147monthly,no stated proceeding,DPE D231/GES B8 assessed2026-04-07. All12 gallery entries individually inspected: originals1/3/5/7/9/11 show empty living,separate dark kitchen,two bedroom-sized rooms,hall,older shower room; even-numbered entries are apparent unlabelled digital renovation/staging versions with changed finishes/fixtures. No assertion those proposed works exist; generic good-state wording does not override work-to-do text/originals. Garage and separateWC not photographed. Source-ID and allimage paths absent from earlier artifacts/exports. Near active units differ in construction,floor/layout,heating,coownership/annexes: GDC recent four-storey/one bedroom/terrace;C21ground2008electric/52lots;IAD2131237top8/260lots/floorheat/cave;IAD2083322openkitchen/119lots/individualgas/cave;ORPI53.02Maillets/377lots/assignedparking/collectivegas;PV55Mahoniasequippedkitchen/cave/parking. Pending2080341floor5/300lots/currentone-bedconversion/2668charges and excluded2100516floor2/garenord/130lots/2400charges distinct. No import, trusted status or analysis until scope and heating claims resolved.",
+    "priceEuros": 89500,
+    "hasElevator": true,
+    "reviewStatus": "PENDING_COPROPRIETE_SCOPE_AND_HEATING_CONFLICT",
+    "analysisComputed": false,
+    "sourceFactConflicts": [
+      {
+        "field": "saleLots",
+        "primaryLegalWording": "438 sale lots in a438-total-lot coownership",
+        "advertisedUnit": "One55m2T3 apartment with garage"
+      },
+      {
+        "field": "heating",
+        "primaryProse": "chauffage par le réseau de chauffage urbain",
+        "structuredFeature": "property.feature.heating.power_supply.gas_tank"
+      }
+    ]
+  }
+]
