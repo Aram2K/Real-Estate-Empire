@@ -1,0 +1,259 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-32m2/r2084015",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T08:19:34.470809+00:00",
+    "externalId": "2084015",
+    "firstSeenAt": "2026-10-12T08:19:34.470809+00:00",
+    "reviewedAt": "2026-10-12T08:27:27.292320+00:00",
+    "communeCode": "49007",
+    "priceEuros": 156500,
+    "surface": 32.33,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Yasmine Debeire",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "ANGERS - APPARTEMENT - 32M²\n\nAu sein d'un petit immeuble de 3 niveaux à Angers, cet appartement de 32 m² constitue une possibilité à saisir pour un projet de rénovation complète.\n\nSitué au RDC, le bien se compose d'une entrée donnant accès aux différentes pièces : une cuisine séparée, une chambre - séjour , une salle de bain et un WC indépendant. \n\nLe chauffage est individuel, assuré par un système de radiateurs électriques.\n\nIdéalement situé , ce bien bénéficie d'un emplacement privilégié dans le quartier Saint-Serge, à proximité immédiate des lignes de tramway, des commerces, des établissements scolaires et universitaires, ainsi que des berges de la Maine. Le centre-ville, la gare d'Angers Saint-Laud et de nombreux espaces verts sont rapidement accessibles, offrant un cadre de vie pratique, dynamique et recherché.\n\nContactez-moi pour que nous organisions ensemble une visite de ce bien.\n\nHonoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Yasmine Debeire mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 812548311, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-31",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;time not exposed.",
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bc749dcaf94339b2654ef24b81d.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd57f7dd6de899f6ebd79d36b33.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bca9a7004907787c90852023499.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bcfd5c56010b2bad15ed994f0c1.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd6e41582b3a9bb9e1fc96b0c30.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bcfd654be2c4a985d6c08ec95f2.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd9dc21200aed9585897446896d.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd876c7867e0fc26494676586d9.png?format=auto&width=1170"
+    ],
+    "dpe": "E",
+    "ges": "B",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-02-19",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 326
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 10
+      },
+      "amount": {
+        "min": 695,
+        "max": 941
+      }
+    },
+    "sourceCoOwnershipEvidence": {},
+    "sourceConstructionYear": 1949,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "156 500 €",
+      "formattedPerSurface": "4 841 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1949"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        }
+      ]
+    },
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bc749dcaf94339b2654ef24b81d.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "05ca986adede1e78b706d20b05f5fb30ae0604dca6730944a8cff4aef82927b1",
+        "observation": "Original old residential facade with shutters and common entrance; source ground floor not contradicted. No private outside area or step-free route inferred."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd57f7dd6de899f6ebd79d36b33.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "0ac26252ac196d82d6948ce7fc5928c10213164c97f55df5a8bf06a13f89a955",
+        "observation": "Original narrow white hallway with beige floor leading to bathroom, small window and side doorways; one coherent apartment circulation."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bca9a7004907787c90852023499.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "3c4c693678560bbf187192b5ca84a600f30f0a8c24c48dbe609983d50aada2a2",
+        "observation": "Original empty main bedroom/living room with beige floor, tall recessed window, wall heater and open shelves/vertical pipe niche at right. No installed mezzanine or separate living and bedroom layout visible."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bcfd5c56010b2bad15ed994f0c1.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "7c94d67b211f4c6ca1dbba98c2d02b9aa202e2a36e47d1e3fd282e416b42ad37",
+        "observation": "Original small separate kitchen with old white cabinet/sink, white freestanding cooker, microwave on shelving, beige floor and wall heater; complete renovation remains source-advised."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd6e41582b3a9bb9e1fc96b0c30.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "3c85db368e9d35eaff2e01bf75c18af6b955102de06e5927f097bd6b2a037cd0",
+        "observation": "Original bathroom with pedestal basin, bathtub, white tiles, red skirting, small window and exposed hot-water tank. No modern shower fitout observed."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bcfd654be2c4a985d6c08ec95f2.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "6ff556ba999c1b459046039faf67d1135ec88697393a69dacf3e78fdd905228a",
+        "observation": "Unlabelled alternative furnished main-room image includes wood mezzanine bed, sofa and desk absent from original photo3. Appears to be a staging/renovation proposal; provenance not explicitly disclosed. Do not treat mezzanine as installed, additional legal bedroom or measured habitable surface."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd9dc21200aed9585897446896d.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "f90fe20f03a53f4f429ee343df7c84d1adac12299328adccd1d69fa9e555a0bd",
+        "observation": "Unlabelled alternative fitted kitchen image has black cabinets, hob/hood and fridge absent from original photo4. Appears to be renovation/staging; current installation unverified and excluded from present-condition evidence."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/19/019f7bd876c7867e0fc26494676586d9.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "555417dee18da9033f4adb16f4c84fe98fb88b70c763af4efafedac008696f72",
+        "observation": "Unlabelled alternative bathroom image depicts new walk-in shower and vanity absent from original photo5. Appears to be renovation/staging; provenance not disclosed, not treated as completed renovation."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllGalleryPaths": "No exact source-ID or gallery-path match across all previous approved,pending,excluded artifacts and5582 exported rows. Physical-unit check follows.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/14277155833/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/14277155833/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 32.33,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 16000000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16134766131/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16134766131/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 29,
+            "rooms": 1,
+            "floor": 1,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 10700000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16134772049/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16134772049/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 35.2,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 12480000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-28m2/r2117584",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-28m2/r2117584",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 28,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 9800000
+        }
+      ],
+      "resolution": "DUPLICATE_EXISTING_UNIT: fresh physical comparison establishes same apartment already ACTIVE at Century21Plantagenet ref925/detail14277155833, with exactly32.33m2,groundfloor,T1bis/two structured rooms and same kitchen/main-room/bath layout. All8IADphotos individually inspected plus3freshoriginalCentury21comparisonphotos. Main room matches deep window recess, curtain-rail placement, right shelf/vertical-pipe niche and left heater location; kitchen matches narrow shape, boxed vertical wall projection, vent above sink cupboard, cooker/sink run and right window/heater; bathroom matches bathtub placement, pedestal basin/mirror, red skirting, high right window and wall-waterheater. Difference in decoration/cleanliness does not establish another unit. Retain this source-ID alias as evidence only, with canonical URL; no second database property or rental analysis created. Do not overwrite earlier canonical price/prose/first-seen. Whole EUR156500 sellerfees,32.33m2,T2structured but prose explicitly chambre-sejour plus separatekitchen; no separate living room AND bedroom assumed. Floor0,1949sourceyear,electricheat,DPE E326/GES B10 assessed2024-02-19,EUR695-941indexed2021. Source coOwnership empty; no charges,lot count,proceeding or property tax invented/borrowed from canonical. Lift unexposed. Original1-5 show facade,hall,mainroom,kitchen,bath; alternative6-8 are unlabelled apparent renovation/staging proposals that contradict current originals,not installed mezzanine/kitchen/shower evidence. Other nearunits C21LaDoutre29floor1/35.2floor0 andIAD2117584rearLareveilliere28m2/1057lots differ. Legal occupancy not inferred from empty photos; canonical advertiser explicitly says libre de toute location, unconfirmed independently.",
+      "freshCanonicalDescription": {
+        "url": "https://www.century21.fr/trouver_logement/detail/14277155833/",
+        "description": "***T1 BIS A VENDRE*** Votre agence Century 21 Plantagenêt vous propose à la vente, un appartement de type T1 bis. Situé au rez-de- chaussée il comprend une entrée avec cuisine, une chambre, ainsi qu'une salle de bain et des WC séparés. Idéalement situé, il se trouve à seulement 5 minutes à pied de l'hyper-centre d'Angers, à proximité immédiate des universités, des transports en commun et de toutes les commodités. Libre de toute location, ce bien offre un fort potentiel après quelques travaux de rafraîchissement. La gestion de la copropriété est assurée par un syndic bénévole. Une opportunité intéressante pour un investisseur. Venez vite le visiter !!",
+        "freshHttpStatus": 200
+      },
+      "crossSourcePhotoComparison": [
+        {
+          "number": 1,
+          "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_925_8_37535B8F-EDB6-492A-AD71-FC929ADEF2A0.jpg",
+          "httpStatus": 200,
+          "sha256": "41e2d9ba6b9402cf582f17e3fd41711f9d8bb163ad24497e3b680fadf74a1c1a",
+          "observation": "Original Century21 main-room view matches IADphoto3: deep window recess, heater left, shelving/pipe niche right and curtain-rail geometry."
+        },
+        {
+          "number": 2,
+          "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_925_8_E1A67AAF-548C-414F-8709-E8798E7DD7C7.jpg",
+          "httpStatus": 200,
+          "sha256": "61d437c7c241c093ceb67409c96cfa3c5685d161019fdbc26018c0f995bad907",
+          "observation": "Original Century21 kitchen matches IADphoto4: narrow shape, boxed projection/vent, cooker/sink run and right window/heater."
+        },
+        {
+          "number": 3,
+          "url": "https://www.century21.fr/imagesBien/s3/202/3588/c21_202_3588_925_8_793EF463-7365-478D-96F6-3ADCA095C104.jpg",
+          "httpStatus": 200,
+          "sha256": "3a38b9970f591dbe88d8d93fa5cfc8df364f49103b1d1047e37071995ebeb6a7",
+          "observation": "Original Century21 bathroom matches IADphoto5: bathtub, pedestalbasin/mirror, redskirting, highrightwindow and waterheater."
+        }
+      ]
+    },
+    "notes": "Full current primary description including complete legal and seller wording individually read and preserved verbatim. Every listing-specific available gallery entry visually inspected individually in source order, excluding related listings. Publication date is source firstPublishDate date only; no publication time invented and photo-folder dates are not publication evidence. First-seen is actual full-page HTTP200 fetch timestamp. Apartment only, outside department75, full purchase price withinEUR400000. Exact address,publication time and property tax omitted where unexposed. Furniture and empty scenes do not establish tenancy or vacant possession; availability remains unconfirmed with advertiser. Locality,transport,quietness,orientation and security statements remain advertiser assertions. Full wording found no evidence-backed current-tenanted/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting or partial price,commercial/managed lease,ancillary-only property,houseboat,spam or impossible surface/room combination. DUPLICATE_EXISTING_UNIT: fresh physical comparison establishes same apartment already ACTIVE at Century21Plantagenet ref925/detail14277155833, with exactly32.33m2,groundfloor,T1bis/two structured rooms and same kitchen/main-room/bath layout. All8IADphotos individually inspected plus3freshoriginalCentury21comparisonphotos. Main room matches deep window recess, curtain-rail placement, right shelf/vertical-pipe niche and left heater location; kitchen matches narrow shape, boxed vertical wall projection, vent above sink cupboard, cooker/sink run and right window/heater; bathroom matches bathtub placement, pedestal basin/mirror, red skirting, high right window and wall-waterheater. Difference in decoration/cleanliness does not establish another unit. Retain this source-ID alias as evidence only, with canonical URL; no second database property or rental analysis created. Do not overwrite earlier canonical price/prose/first-seen. Whole EUR156500 sellerfees,32.33m2,T2structured but prose explicitly chambre-sejour plus separatekitchen; no separate living room AND bedroom assumed. Floor0,1949sourceyear,electricheat,DPE E326/GES B10 assessed2024-02-19,EUR695-941indexed2021. Source coOwnership empty; no charges,lot count,proceeding or property tax invented/borrowed from canonical. Lift unexposed. Original1-5 show facade,hall,mainroom,kitchen,bath; alternative6-8 are unlabelled apparent renovation/staging proposals that contradict current originals,not installed mezzanine/kitchen/shower evidence. Other nearunits C21LaDoutre29floor1/35.2floor0 andIAD2117584rearLareveilliere28m2/1057lots differ. Legal occupancy not inferred from empty photos; canonical advertiser explicitly says libre de toute location, unconfirmed independently.",
+    "reviewStatus": "DUPLICATE_EXISTING_UNIT",
+    "analysisComputed": false,
+    "canonicalUrl": "https://www.century21.fr/trouver_logement/detail/14277155833/"
+  }
+]
