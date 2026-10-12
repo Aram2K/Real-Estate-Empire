@@ -1,0 +1,293 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132869",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T21:00:05.225807+00:00",
+    "externalId": "2132869",
+    "firstSeenAt": "2026-10-12T21:00:05.225807+00:00",
+    "reviewedAt": "2026-10-12T21:05:49.516177+00:00",
+    "communeCode": "51454",
+    "priceEuros": 156000,
+    "surface": 49,
+    "rooms": 2,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Christelle Thévin",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "A ne pas manquer un appartement lumineux et fonctionnel au rez de chaussée avec un stationnement privé sécurisé et une cave à 2 minutes à pied du centre ville, à 200 m du Tram, de la gare de Reims et des commerces de proximité!\n\nComposé d'une grande entrée avec placard, une salle à manger lumineuse, une grande salle de bain, une grande cuisine\nDPE D et faible charge de copropriété intégrant le chauffage collectif au gaz\nImmeuble de 4 niveaux bien entretenu intégrant un cabinet médical!\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 80 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 120€ par mois (soit 1440 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Christelle Thévin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 940226566, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-11",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 1440,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-06-01",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 197
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 42
+      },
+      "amount": {
+        "min": 770,
+        "max": 1080
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 80,
+      "annualFees": 1440,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1973,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "156 000 €",
+      "formattedPerSurface": "3 184 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [],
+      "secondary": [
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1973"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Digicode"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 49,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11cd9a69e2bb196e82bde0ceb105c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/12/01a13146e7bbf232cddc4753f05d48eb.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/12/01a13146e7e0053a044015fd274411c6.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11cd9a6aebf00306d73e44dd0869a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/11/01a12c1038c0cee7da94a35b06930986.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/12/01a13146e77583f3e9d19dd2e57e7e1c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/11/01a12c1038b37e848570f3e80d65e5c5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/11/01a12c1038de9f0bb42a6241aede13a7.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11cd9a69e2bb196e82bde0ceb105c.jpg",
+        "httpStatus": 200,
+        "sha256": "70eb8c438163580336065602f76859719bc9029e392de6d8b75e303841022902",
+        "observation": "Night exterior of residential building with upper railings, ground entrance and parked cars. Exact address and ownership of cars/parking not inferred."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/12/01a13146e7bbf232cddc4753f05d48eb.jpg",
+        "httpStatus": 200,
+        "sha256": "cfce4df1672ba6115dfdd99adce43da4ac046ee268f910cf10e72987252ad85e",
+        "observation": "Common entrance hall with glazed street doors, plants, beige floor tiles and mailboxes. Not additional private apartment area; no lift fact established."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/12/01a13146e7e0053a044015fd274411c6.jpg",
+        "httpStatus": 200,
+        "sha256": "18e869bde7c2767f03d1da41bbff91281f861cb6e9d6889a1c9dc63d38fd012a",
+        "observation": "Empty main room with long street-facing multi-panel windows, central column, left water radiator and beige square floor tiles."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11cd9a6aebf00306d73e44dd0869a.jpg",
+        "httpStatus": 200,
+        "sha256": "892289f7745b6bc7e0090db85eef6d8d1c923302579ef6141109aa7bb626c160",
+        "observation": "Another view of same empty main room at dusk; fixed window/column/radiator geometry matches photo3."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/11/01a12c1038c0cee7da94a35b06930986.jpg",
+        "httpStatus": 200,
+        "sha256": "b2216a4c796301ca3bbc6805371bdab14e9489aa315e4d59e031ee65a3bba3f3",
+        "observation": "Another original main-room view showing white half-glazed internal door and same tiled floor/window geometry. No separate bedroom inferred."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/12/01a13146e77583f3e9d19dd2e57e7e1c.jpg",
+        "httpStatus": 200,
+        "sha256": "8c9dc1b68ca4aaa90c8eb575fb5530ba67b087a0f091ec83f2f748b3055e160e",
+        "observation": "Separate kitchen with pale wood units, white square backsplash, black counter, three-panel window and distinctive wallpaper with red outlined squares/circles."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/11/01a12c1038b37e848570f3e80d65e5c5.jpg",
+        "httpStatus": 200,
+        "sha256": "8e65f83a06dfbcbadfa7161e6897e9c114c67215795ee7c0884942a705472f0d",
+        "observation": "Reverse of same kitchen with long bare wall and matching wallpaper/window/counter. No extra kitchen or bedroom inferred."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/11/01a12c1038de9f0bb42a6241aede13a7.jpg",
+        "httpStatus": 200,
+        "sha256": "3124902ea2d3dcf1ee6f15f5308830cbdd92941a26c1c1925a9dae0ac29156c4",
+        "observation": "Original bathroom with pink marble-pattern tiles/decorative horizontal band, centre wood vanity/mirror, right bathtub and visible WC edge. Fixed fixtures exactly match original PAP photo6."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132869",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T21:05:48.988742+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401329",
+          "property": {
+            "id": "cmuon5dmh000bh8p4kmgy9plw",
+            "codeCommune": "51454",
+            "surface": 49.0,
+            "rooms": 2,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 15000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465400793",
+          "property": {
+            "id": "cmuon5dz6000kh8p4gm5lmwqe",
+            "codeCommune": "51454",
+            "surface": 53.0,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15200000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-52m2/r2117120",
+          "property": {
+            "id": "cmv04nscn0002h8p0fvtp6chu",
+            "codeCommune": "51454",
+            "surface": 52.0,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 14800000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-reims-citya-pass52.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP972216",
+          "surface": 45,
+          "priceEuros": 145000,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": 3,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "DUPLICATE_PHYSICAL_UNIT of existing active PAP G54/1329, https://www.pap.fr/annonces/appartement-reims-51100-r465401329, property cmuon5dmh000bh8p4kmgy9plw. IAD whole EUR 156,000 seller-fee price, 49 m2 T2, ground floor, 1973 building, two sale lots / 80 TOTAL coownership lots, EUR 1,440 annual charges / EUR 120 monthly, no stated proceedings and collective natural-gas heating. DPE D197 / GES D42 assessed 2026-06-01; EUR 770-1,080 energy indexed to 2023. IAD bedroomsCount is zero and the brief prose omits a bedroom despite the T2 heading; no separate bedroom established by its eight own photos. PAP asserts one bedroom. Preserve the disagreement without inventing an IAD one-bedroom fact. Original IAD bathroom photo8 exactly matches PAP original bathroom photo6: distinctive pink marble tiles and decorative horizontal band, central wood vanity/mirror, exposed pink pipes, right bathtub and square floor tiles. PAP staged main-room photo1 retains IAD original window/column/radiator geometry. Staged bathroom photo5 adds a washer and decoration, which are not evidence of installed contents. Physical identity rests on original bathroom fixtures, consistent 49 m2 / D197 diagnostic date / EUR 120 charges / cellar and parking facts, not digital furniture alone. Fresh PAP primary prose read in full: EUR 150,000, T2 with one bedroom, 49 m2, EUR 120 monthly including heating and hot/cold water, EUR 1,277 tax, date-only publication 2026-10-08. Historical canonical observation and date remain unchanged. Price and bedroom differences retained without assuming which is correct. IAD's cabinet médical describes another use in the building, not the apartment as commercial premises or a managed lease. Lift unexposed and unknown; four building levels do not mean unit floor4. Secured parking and cellar source claims have no demonstrated allocation. PAP's tandem capacity for two cars is one parking allocation, not two independent places. Source ID and own image paths absent from prior evidence/exports, but cross-source original-photo identity confirmed. No new inventory entry or analysis. Near PAP53 ground-floor 2011 terrace unit with electric heating and pending DPE, IAD52 T3 with two bedrooms/sloped roof/five lots/electric heating/EUR 960 charges, and excluded Citya45 third-floor 2009 unit with a current tenant are materially distinct.",
+      "livePrimaryComparison": {
+        "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401329",
+        "accessMethod": "web open primary source",
+        "readAt": "2026-10-12T21:05:49.549336+00:00",
+        "publicationDateExposed": "2026-10-08",
+        "priceEuros": 150000,
+        "sourceDescription": "Rare. Reims Clairmarais. T2 de 49 m2 - Cave et parking - Idéal résidence principale ou investissement.\nDPE D : 197Kwh/m²/AN en date du 01/06/2026.\nÀ seulement quelques minutes de la gare TGV et du centre-ville de Reims, découvrez cet appartement T2 situé dans le quartier très recherché de Clairmarais, un secteur apprécié pour sa proximité avec les commerces, les transports et les principaux pôles d'activité.\nIl se compose d'une entrée avec un grand placard, d'un salon séjour lumineux, d'une cuisine indépendante meublée, d'une chambre, d'une salle de bains, d'un wc et d’un vidéophone.\nLe bien est complété ainsi qu'une place de parking privative sécurisée avec possibilité de stationner 2 voitures en enfilade., un véritable atout dans ce quartier prisé, ainsi d’une cave et un garage à vélo.\n- Charges de copropriété, 120 E par mois, comprenant chauffage, eau froide et eau chaude, entretien des communs.\n- Taxe foncière 1277 E par an.\nUn emplacement recherché\n- Gare TGV de Reims Centre à moins de 10 minutes à pied.\n- Centre-ville et place Boulingrin accessibles en une dizaine de minutes à pied.\n- Commerces, supermarchés, restaurants et services à proximité immédiate.\n- Transport accessibles à 100 mètres.\n- Accès rapide aux principaux axes autoroutiers.\n- Quartier particulièrement recherché par les actifs, les étudiants et les salariés travaillant à Reims ou à Paris grâce à la proximité de la gare.",
+        "comparisonPhotoReview": [
+          {
+            "number": 1,
+            "url": "https://cdn.pap.fr/photos/pap/48/43/4843d90d25aa33b82e9ea2ec3f1da143/4-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "dbc0a1a97c96c5335e55c868fcd9857476b684ec768e9abb31ffe578c539ba3c",
+            "observation": "Apparent digitally furnished main room, preserves original long windows, central column and left radiator as IAD3-5. Furniture/floor rendering not current evidence."
+          },
+          {
+            "number": 5,
+            "url": "https://cdn.pap.fr/photos/pap/36/16/361656d20dcde1ba93f549909b6a4447/3-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "7aa8121ee5c884fbf11b55424a049d59f41e67c5f2af27b564fdae6214d61672",
+            "observation": "Apparent digitally furnished bathroom with added washer/shelves/decor, matching original pink tiles/band/woodvanity/rightbathtub. Do not assert added washer is installed."
+          },
+          {
+            "number": 6,
+            "url": "https://cdn.pap.fr/photos/pap/8e/f6/8ef637196d36ca97bc1d6209455ab070/8-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "032d8c973758d0535ec2ffd420e5fe671f622896ca232092cba29842f74254ce",
+            "observation": "Original bathroom: distinctive exact pinkmarbletiles/decorband,woodvanity/mirror,pinkexposedpipes,rightbath andsquarefloor matchIAD8. This original establishes physicalidentity."
+          }
+        ],
+        "result": "SAME_PHYSICAL_UNIT_ORIGINAL_BATHROOM_MATCH"
+      }
+    },
+    "notes": "Full primary description, including all legal and seller wording, individually read and preserved verbatim. Every own exposed gallery photo individually visually inspected in source order; related listings excluded. First-seen is the actual initial full-page HTTP 200 timestamp. The primary firstPublishDate exposes a date only; no publication time invented, and photo dates are not publication dates. Exact address and publication time unexposed and omitted. Furnished or empty scenes do not establish legal occupancy or vacant possession. Location, proximity, quietness, measurements, condition and renovation claims remain advertiser assertions. Fresh first-page scoped IAD feeds for Le Mans and Angers contained no unreviewed eligible source IDs, so the next newest unreviewed Reims cards were selected; other market pages are not asserted exhausted. DUPLICATE_PHYSICAL_UNIT of existing active PAP G54/1329, https://www.pap.fr/annonces/appartement-reims-51100-r465401329, property cmuon5dmh000bh8p4kmgy9plw. IAD whole EUR 156,000 seller-fee price, 49 m2 T2, ground floor, 1973 building, two sale lots / 80 TOTAL coownership lots, EUR 1,440 annual charges / EUR 120 monthly, no stated proceedings and collective natural-gas heating. DPE D197 / GES D42 assessed 2026-06-01; EUR 770-1,080 energy indexed to 2023. IAD bedroomsCount is zero and the brief prose omits a bedroom despite the T2 heading; no separate bedroom established by its eight own photos. PAP asserts one bedroom. Preserve the disagreement without inventing an IAD one-bedroom fact. Original IAD bathroom photo8 exactly matches PAP original bathroom photo6: distinctive pink marble tiles and decorative horizontal band, central wood vanity/mirror, exposed pink pipes, right bathtub and square floor tiles. PAP staged main-room photo1 retains IAD original window/column/radiator geometry. Staged bathroom photo5 adds a washer and decoration, which are not evidence of installed contents. Physical identity rests on original bathroom fixtures, consistent 49 m2 / D197 diagnostic date / EUR 120 charges / cellar and parking facts, not digital furniture alone. Fresh PAP primary prose read in full: EUR 150,000, T2 with one bedroom, 49 m2, EUR 120 monthly including heating and hot/cold water, EUR 1,277 tax, date-only publication 2026-10-08. Historical canonical observation and date remain unchanged. Price and bedroom differences retained without assuming which is correct. IAD's cabinet médical describes another use in the building, not the apartment as commercial premises or a managed lease. Lift unexposed and unknown; four building levels do not mean unit floor4. Secured parking and cellar source claims have no demonstrated allocation. PAP's tandem capacity for two cars is one parking allocation, not two independent places. Source ID and own image paths absent from prior evidence/exports, but cross-source original-photo identity confirmed. No new inventory entry or analysis. Near PAP53 ground-floor 2011 terrace unit with electric heating and pending DPE, IAD52 T3 with two bedrooms/sloped roof/five lots/electric heating/EUR 960 charges, and excluded Citya45 third-floor 2009 unit with a current tenant are materially distinct.",
+    "reviewStatus": "DUPLICATE_PHYSICAL_UNIT",
+    "canonicalUrl": "https://www.pap.fr/annonces/appartement-reims-51100-r465401329",
+    "canonicalPropertyId": "cmuon5dmh000bh8p4kmgy9plw",
+    "analysisComputed": false,
+    "sourceFactDifferences": [
+      {
+        "field": "price",
+        "IAD": 156000,
+        "PAP": 150000
+      },
+      {
+        "field": "bedrooms",
+        "IADStructured": 0,
+        "IADHeading": "T2",
+        "IADProse": "No bedroom described",
+        "PAPStructuredAndProse": 1
+      }
+    ]
+  }
+]
