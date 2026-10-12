@@ -1,0 +1,409 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-67m2/r2099619",
+    "observedAt": "2026-10-12T07:32:34.952245+00:00",
+    "httpStatus": 200,
+    "externalId": "2099619",
+    "firstSeenAt": "2026-10-12T07:32:34.952245+00:00",
+    "reviewedAt": "2026-10-12T07:45:24.114535+00:00",
+    "communeCode": "72181",
+    "priceEuros": 147000,
+    "surface": 67.46,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Hugo Meignant",
+    "sourceTitle": "Appartement à Le Mans (72100)",
+    "sourceDescription": "OFFRE D'ACHAT ACCEPTEE\n\nGare Sud du Mans (à 100m à pieds) - Appartement T3 avec place de parking en sous-sol\n\nDécouvrez cet appartement de 67,5 m² situé à quelques pas de la gare et à proximité du centre-ville. Il comprend :\n\n- Entrée\n- Séjour\n- Cuisine (avec possibilité d’ouverture sur le séjour)\n- 2 chambres\n- Salle de bains\n- WC\n- Placards\n\nLes plus\n- Exposition sud (traversant Nord/Sud)\n- Place de stationnement privative en sous-sol\n- Chauffage électrique\n- Très bon DPE\n\nL'appartement est en bon état ; vous pouvez poser vos valises sans travaux ! Il est situé au 1er étage dans une copropriété bien entretenue, entièrement sécurisée et sans travaux à venir. Les charges de copropriété sont tout à fait correctes. \n\nLe tram (gare nord) est à 200m seulement.\n\nVisite virtuelle disponible dans l'annonce.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 78 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 112.98€ par mois (soit 1355.7 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 147000 euros. Prix hors honoraires : 140000 euros. Honoraires TTC à la charge de l'acquéreur (5,00% du prix du bien hors honoraires) : 7000 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Hugo Meignant mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Le Mans sous le numéro 981436405, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-11",
+    "publicationDateEvidence": "Primary firstPublishDate exposes date only; publication time is not exposed.",
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825a8b676b44be15cb2ccdf68e24.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab5b001c73de869c2b611b9db.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab65538a9da41c26ce5635867.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab65cc418029a86eed90c1531.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab6278a011aa742cdd8f7be2e.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab622cd994e65d3ff20bfb2f7.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab5a64e32620455931aedd938.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/09/14/01a09f9643bc5068ffe02db1f068d024.png?format=auto&width=1170"
+    ],
+    "dpe": "C",
+    "ges": "B",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-11",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 161
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 6
+      },
+      "amount": {
+        "min": 1050,
+        "max": 1470
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 78,
+      "annualFees": 1355.7,
+      "proceedingsUnderway": false
+    },
+    "chargesAnnualEuros": 1355.7,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "147 000 €",
+      "formattedNetPrice": "140 000 €",
+      "formattedFees": "7 000 €",
+      "formattedFeesRatio": "5,00 %",
+      "formattedPerSurface": "2 179 € / m²"
+    },
+    "sourceConstructionYear": 1999,
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1999"
+        },
+        {
+          "text": "Étage : 1"
+        }
+      ]
+    },
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825a8b676b44be15cb2ccdf68e24.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "92a81ea15f620326afcb4bfbac51fe29923d1f7fa733e37816dcade7f9ff8c55",
+        "observation": "Empty separate kitchen: blue cupboards, dark worktop and sink, glazed opening, light laminate and panel heater. No open-plan kitchen inferred."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab5b001c73de869c2b611b9db.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "b171ec388555b2bcfdaddbb819db24f91e4e9a083749392bb7679f86f3ca65c3",
+        "observation": "Empty living room reverse view: light laminate, white walls, double interior doors and wall projection."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab65538a9da41c26ce5635867.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "52a1bceae5fff3d612e154080b68049cff17540914d106c62b653ea48a94471e",
+        "observation": "Living room window view: two separated tall glazed openings, solid wall and panel heater between, courtyard outlook."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab65cc418029a86eed90c1531.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "397ef8b80cd3c36b6feceaf6bbc846250e6fe396f4b34bca4eb964bb434f639e",
+        "observation": "One empty bedroom with lower two-panel window, panel heater and street outlook."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab6278a011aa742cdd8f7be2e.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "775184691dce705ad6166d74625317589072bf07be40a8cb8bd18e9fe49739d1",
+        "observation": "Second empty bedroom with two-panel window, external guard rail, panel heater and pale laminate."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab622cd994e65d3ff20bfb2f7.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "e74c5e21c8f546068a9070a62aa5462e2f0ec3d2bab7784f386e49ade85a920d",
+        "observation": "Bathroom with bathtub, frosted shower screen, basin cabinet, blue tile band and towel radiator."
+      },
+      {
+        "number": 7,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/08/01a0825ab5a64e32620455931aedd938.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "fe6751ebeccf19a7d5f7c202b363f873268e98a58937408d2208c608693f5c0c",
+        "observation": "Entrance corridor with sliding storage doors, entry door and intercom."
+      },
+      {
+        "number": 8,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/09/14/01a09f9643bc5068ffe02db1f068d024.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "0bf055e8c3583404aaf9f42d8e691c6b12baed6dbd3edffe4c3244b1ba96dc58",
+        "observation": "Advertiser schematic labels living 20.28 m2, separate kitchen 8.69 m2, two bedrooms 10.03 and 10.39 m2, bathroom, WC, halls and cupboards. A schematic is not an independent survey."
+      }
+    ],
+    "dedupeEvidence": {
+      "exactSourceIdAndAllPhotoPathScan": "No prior identity across all approved,pending,excluded artifacts and5577 exported rows.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/14509366587/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/14509366587/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 66.73,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15436783726/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15436783726/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73.51,
+            "rooms": 4,
+            "floor": 5,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15863471902/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15863471902/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 61.98,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15989229989/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15989229989/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73.77,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16073542642/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/16073542642/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 64.63,
+            "rooms": 4,
+            "floor": 0,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          }
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/6346770660/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/6346770660/",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 70.96,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949476",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP140-949476",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 69,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416388",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416388",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 62.27,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416861",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-416861",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67.24,
+            "rooms": 2,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "A"
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92255",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92255",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 68,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          }
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP943377",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP943377",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 63.01,
+            "rooms": 3,
+            "floor": 8,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "A"
+          }
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-64m2/r2068528",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-64m2/r2068528",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 64,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          }
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-70m2/r2109374",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-le-mans-70m2/r2109374",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 70.38,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          }
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-le-mans-r465501229",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-le-mans-r465501229",
+            "communeCode": "72181",
+            "addressLine": "Le Mans — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 73.08,
+            "rooms": 3,
+            "floor": 4,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          }
+        }
+      ]
+    },
+    "notes": "Full primary description, including all legal and seller wording, individually read and preserved verbatim. Every listing-specific exposed gallery image individually visually inspected in source order; related-property images excluded. Source firstPublishDate exposes a date only; no publication time is invented and gallery folder dates are not publication dates. First-seen is the actual full-page fetch timestamp. Full apartment price includes applicable agency fees and is within EUR 400000; no department75 or house. Empty or furnished rooms do not establish legal occupancy. Exact address, property tax and elevator presence are not exposed and are omitted. Locality, quietness, orientation, transport, security and travel statements remain advertiser assertions. PENDING_AVAILABILITY: the source description explicitly starts OFFRE D'ACHAT ACCEPTEE. The index isContractSigned flag is false, but this does not override the accepted-offer wording. Do not import as ACTIVE or calculate rental analysis until availability is clarified from public evidence. Full EUR147000 includes EUR7000 buyer agency fees (5 percent of EUR140000 net). Source structured surface67.46 m2 rounds to67.5 in prose; retain67.46, T3 and two existing bedrooms. Floor1,1999 building,78 total copropriete lots,two sale lots,EUR1355.70 annual charges,no proceeding. DPE C161/GES B6 dated2026-09-11,energy costEUR1050-1470 indexed2023. All8 images are coherent actual empty interiors and an advertiser plan; parking and legal vacant possession are not independently pictured or established. No evidence-backed excluded ownership, tenancy or partial-price arrangement found; accepted offer is an availability issue. No prior exact source ID or any gallery-path identity across all reviewed, pending, excluded and5577 exported records. Nearby units differ in floor, building, lot count and layout; no same unit identified.",
+    "reviewStatus": "PENDING_AVAILABILITY"
+  }
+]
