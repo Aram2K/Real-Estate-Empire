@@ -1,0 +1,220 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-20m2/r2126593",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T23:37:34.908064+00:00",
+    "externalId": "2126593",
+    "firstSeenAt": "2026-10-12T23:37:34.908064+00:00",
+    "reviewedAt": "2026-10-12T23:49:56.856785+00:00",
+    "communeCode": "51454",
+    "priceEuros": 68500,
+    "surface": 20,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Alexy Piquet",
+    "sourceTitle": "Studio à Reims (51100)",
+    "sourceDescription": "REIMS – T1 DE 20 M² – TRÈS BON ÉTAT – LUMINEUX – VENDU MEUBLÉ\n\nSitué à Reims, au sein d’un immeuble dont les parties communes ont été récemment rénovées, découvrez ce studio de 20 m², en très bon état et bénéficiant d’une agréable luminosité grâce à son exposition Sud-Est.\n\nL’appartement se compose d’une pièce de vie lumineuse et fonctionnelle, offrant un espace agréable et facilement aménageable. Le bien est vendu meublé, permettant une installation immédiate ou une mise en location sans avoir à prévoir d’équipement supplémentaire.\n\nSon agencement optimisé permet de profiter pleinement des volumes, aussi bien pour une résidence principale que dans le cadre d’un investissement locatif.\n\nLe logement bénéficie d’un chauffage collectif par radiateurs, avec une chaudière neuve installée en 2026.\n\nUne cour commune vient compléter les prestations de ce bien et offre un espace extérieur appréciable.\n\nL’appartement dispose également de la fibre optique ainsi que d’un interphone.\n\nIdéalement situé, le bien se trouve à proximité des commodités et des transports, permettant de profiter facilement des commerces, services et différents points d’intérêt de Reims.\n\nUn bien fonctionnel, lumineux et entretenu, vendu meublé, idéal pour un premier achat ou un investissement locatif.\n\nContactez-moi pour plus d’informations ou pour organiser une visite.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 11 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 78.75€ par mois (soit 945 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Alexy Piquet mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 980993745, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-02",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; publication time unexposed.",
+    "dpe": "F",
+    "ges": "F",
+    "chargesAnnualEuros": 945,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-27",
+      "year": 2023,
+      "epc": {
+        "status": "available-excessive",
+        "class": "F",
+        "consumption": 364
+      },
+      "ges": {
+        "status": "available-excessive",
+        "class": "F",
+        "consumption": 78
+      },
+      "amount": {
+        "min": 600,
+        "max": 860
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 11,
+      "annualFees": 945,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1955,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "68 500 €",
+      "formattedPerSurface": "3 425 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [],
+      "secondary": [
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1955"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 20,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 201,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9d3bcf2d46a62fbb8f0e1c8f.png",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9b8edd1cae5b51b742da9dd9.png",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9fa7aa6087a6fefb6c16ed51.png",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81ae51ca7d509f0a994709f4f26.png",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81ae5347145313267ff2f2e72fc.png",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9e1336b08d0b929cbd5989e8.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9d3bcf2d46a62fbb8f0e1c8f.png",
+        "httpStatus": 200,
+        "sha256": "acd758603fe1cbe6a7a4786942853efbda7295fed9374a43f125c8b32976db1c",
+        "observation": "Original one-room studio with grey two-seat sofa, open pink/red single bed with black frame, faux-grey-brick partition, light grey wood-effect floor, white/wood kitchenette and patterned backsplash, wood bar/two white stools and high horizontal windows."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9b8edd1cae5b51b742da9dd9.png",
+        "httpStatus": 200,
+        "sha256": "764e5b13938ad6e0e1244de568c30b80fec0b1fc4c0fd98bfaa4ef76e56b0e60",
+        "observation": "Original reverse same studio/bed/sofa/kitchen; entrance door up two steps into the room, shower-room door beside faux-brick partition. Source ground floor retained; steps/high windows do not certify basement classification or accessibility."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9fa7aa6087a6fefb6c16ed51.png",
+        "httpStatus": 200,
+        "sha256": "81614a01f2b3094c5d2b45ed58a1ccfedc227bc8923a876bfecf7eb1b95f0259",
+        "observation": "Original view from kitchenette sink toward sofa/radiator and high windows, red microwave/kettle/coffee machine, under-counter fridge and same bar/stools. No separate bedroom."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81ae51ca7d509f0a994709f4f26.png",
+        "httpStatus": 200,
+        "sha256": "bf186e56f3396761ac41406575783d4f296030fa787fda213d6621d70d916496",
+        "observation": "Original bed/sofa/radiator reverse, Statue of Liberty picture and two wood chests. Open sleeping area, not a separate bedroom."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81ae5347145313267ff2f2e72fc.png",
+        "httpStatus": 200,
+        "sha256": "3b8b26a6197421a99f33ab72330e866cf2c032691c849ce5d1f16848bfd8e54f",
+        "observation": "Original closer bar/window/sofa/radiator, shower-room door with vents, interphone/electrical panel and green Linky. Same single main room."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f81a9e1336b08d0b929cbd5989e8.png",
+        "httpStatus": 200,
+        "sha256": "f6e7d0c61b5f6396aec26dde20a3898013b5f0130c6d721ee5a40edb3b3bc0f8",
+        "observation": "Original shower room with glass/white-framed shower, grey rectangular tiles, black vanity/mirror, black ladder towel rack and visible WC. No visible AI label or unexplained geometry mismatch in all six photos. Courtyard, new common boiler and lift not pictured."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-20m2/r2126593",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T23:49:52.642924+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "APPROVED: whole EUR68500 asking price with seller-paid agency fees for20m2 furnished studio/T1/one room/zero separate bedrooms. Open bed nook not counted as a second room. Ground floor explicitly exposed; lift unknown and omitted. Source1955construction, one sale lot in11TOTAL coownership lots, no proceeding, EUR945annual/EUR78.75monthly charges; tax unknown. Collective gas radiators and new2026boiler are advertiser assertions; no automatic diagnostic upgrade inferred. DPE F364/GES F78 assessed2026-09-27, energy600-860 indexed2023 retained. Secondary201m2 plot-area is not apartment living area or verified exclusive courtyard ownership; source explicitly shared courtyard. All6 original own photos viewed and coherent: same grey sofa/pink-red bed/open white-wood kitchenette/wood bar/high-window single room and grey-black shower/WC. No visible AI label or apparent geometry mismatch. Entrance steps/high windows visible; ground-floor source classification retained without inventing basement designation, PMR or certified daylight/ventilation compliance. Common courtyard, boiler and lift not pictured. Sold furnished is an advertiser assertion with no certified inventory. Installation/rental potential does not prove legally vacant possession, and wording establishes no current tenant. No evidence-backed viager, current tenancy/occupied sale, bare/fractional/timeshare ownership, auction/starting/partial price, compulsory managed/commercial lease, ancillary-only property, houseboat, spam/bot or impossible room/surface combination established. Exact sourceID and all6 own image-path identities absent across approved/pending/excluded/duplicate/export history. No18-23m2 near active or non-active unit; wider16-24m2 check compared two preserved full native descriptions. IAD17m2/33floor is third/top attic/1949/18lots/electric/D303/B9/427.52annual, clearly different from ground high-window20/gas/F364/11lots/945annual. C21ref17535 is third-floor23.25(old)/23.3(current), separate skylit kitchen/living/shower/individualelectric/7lots/576annual/currently sold furnished AND LET; all8 own current photos viewed, labelledAI1/4/7 separated from originals. Native C21 occupied record is being withdrawn using current explicit tenancy evidence; different geometry/floor/supply from new studio. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+      "widerNearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15734036675/",
+          "property": {
+            "id": "cmuapauhu000kh89slowwnk5b",
+            "codeCommune": "51454",
+            "surface": 23.25,
+            "rooms": 1,
+            "floor": 3,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": null
+          },
+          "priceCents": 10000000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-17m2/r2119140",
+          "property": {
+            "id": "cmv5rh6620002h8pscohbi6cz",
+            "codeCommune": "51454",
+            "surface": 17.0,
+            "rooms": 1,
+            "floor": 3,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 7990000
+        }
+      ]
+    },
+    "notes": "Full primary description including every legal and seller paragraph individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order; related-property media excluded. First-seen is the actual initial HTTP200 full-page observation, preserved independently of publication. Primary firstPublishDate exposes date only; time omitted. Exact address, availability, condition, dimensions and proximity remain independently unconfirmed. Furnishings do not establish tenancy or vacant possession. Fresh scoped first-page feeds prioritised Le Mans then Angers: seven remaining Le Mans adverts have earlier primary dates in January-March2026 and were deferred without photo review/trust; Angers had no unreviewed eligible IDs. Recent Reims October2 adverts reviewed next. No claim that all source pages or all markets are exhausted. APPROVED: whole EUR68500 asking price with seller-paid agency fees for20m2 furnished studio/T1/one room/zero separate bedrooms. Open bed nook not counted as a second room. Ground floor explicitly exposed; lift unknown and omitted. Source1955construction, one sale lot in11TOTAL coownership lots, no proceeding, EUR945annual/EUR78.75monthly charges; tax unknown. Collective gas radiators and new2026boiler are advertiser assertions; no automatic diagnostic upgrade inferred. DPE F364/GES F78 assessed2026-09-27, energy600-860 indexed2023 retained. Secondary201m2 plot-area is not apartment living area or verified exclusive courtyard ownership; source explicitly shared courtyard. All6 original own photos viewed and coherent: same grey sofa/pink-red bed/open white-wood kitchenette/wood bar/high-window single room and grey-black shower/WC. No visible AI label or apparent geometry mismatch. Entrance steps/high windows visible; ground-floor source classification retained without inventing basement designation, PMR or certified daylight/ventilation compliance. Common courtyard, boiler and lift not pictured. Sold furnished is an advertiser assertion with no certified inventory. Installation/rental potential does not prove legally vacant possession, and wording establishes no current tenant. No evidence-backed viager, current tenancy/occupied sale, bare/fractional/timeshare ownership, auction/starting/partial price, compulsory managed/commercial lease, ancillary-only property, houseboat, spam/bot or impossible room/surface combination established. Exact sourceID and all6 own image-path identities absent across approved/pending/excluded/duplicate/export history. No18-23m2 near active or non-active unit; wider16-24m2 check compared two preserved full native descriptions. IAD17m2/33floor is third/top attic/1949/18lots/electric/D303/B9/427.52annual, clearly different from ground high-window20/gas/F364/11lots/945annual. C21ref17535 is third-floor23.25(old)/23.3(current), separate skylit kitchen/living/shower/individualelectric/7lots/576annual/currently sold furnished AND LET; all8 own current photos viewed, labelledAI1/4/7 separated from originals. Native C21 occupied record is being withdrawn using current explicit tenancy evidence; different geometry/floor/supply from new studio. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "51454",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1310,
+      "nbObs": 46502,
+      "actualApartmentDVFSales": 9836,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 9836
+      }
+    }
+  }
+]
