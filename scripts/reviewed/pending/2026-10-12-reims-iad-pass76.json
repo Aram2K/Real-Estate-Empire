@@ -1,0 +1,294 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-49m2/r2129172",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T21:14:58.628641+00:00",
+    "externalId": "2129172",
+    "firstSeenAt": "2026-10-12T21:14:58.628641+00:00",
+    "reviewedAt": "2026-10-12T21:23:56.743283+00:00",
+    "communeCode": "51454",
+    "priceEuros": 149000,
+    "surface": 49,
+    "rooms": 1,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Pauline VAN LEEUWEN",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "T2 AVEC GARAGE – REIMS CLÉMENCEAU\n\nIDÉAL ÉTUDIANT (SCIENCES PO OU CAMPUS) OU RÉSIDENCE PRINCIPALE\n\nChers parents, votre enfant poursuit ses études supérieures à Reims ? Vous souhaitez lui offrir un cadre de vie agréable et sécurisé, tout en gardant l’esprit tranquille ?\n\nCet appartement pourrait bien être celui que vous recherchez !\n\nVenez découvrir ce beau T2 de 48 m², idéalement situé dans le quartier Clémenceau à Reims, à seulement 15 minutes à pied du centre-ville et à proximité immédiate des commerces et des transports.\n\nSitué au 4ᵉ étage avec ascenseur d’une résidence sécurisée et parfaitement entretenue, cet appartement lumineux bénéficie d’une belle exposition et se trouve en très bon état général.\n\nIl se compose d’une entrée, d’un séjour agréable, d’une cuisine équipée, d’une chambre avec rangements, d’une salle de bains et de WC.\n\nUn véritable atout : un garage en sous-sol vient compléter ce bien !\n\nQue ce soit pour accompagner votre enfant dans ses études ou pour en faire votre résidence principale, cet appartement mérite toute votre attention.\n\nJe vous invite à découvrir la vidéo de présentation via le lien correspondant. \n\nContactez-moi pour plus de renseignements ou pour organiser une visite !\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 300 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 51€ par mois (soit 612 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Pauline VAN LEEUWEN mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de TROYES sous le numéro 813355708, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-08",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time unexposed.",
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 612,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-09-20",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 91
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 15
+      },
+      "amount": {
+        "min": 500,
+        "max": 720
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 300,
+      "annualFees": 612,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "149 000 €",
+      "formattedPerSurface": "3 041 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 49,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 3275,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b2620fa6ab92f279a02b18156.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b2602f659a8611fa7b8e5e597.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b266a2a78d21722cd08c544b4.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b25a3fbbee9c2652622122950.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b25d3fe6ccb696fd7b13190ab.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b263fea536bf7ad064552d5ed.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b268f0062a4d7d4cf61ec1681.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b2620fa6ab92f279a02b18156.jpg",
+        "httpStatus": 200,
+        "sha256": "530d2cb787a990623845c221a3ed5ccc220b125e95e44deac652bae6a11aa778",
+        "observation": "Furnished living/dining room with wood floor, high dining table, brown leather sofa and adjacent separate bedroom visible through open door; full-height glazing and radiators. Furnishings do not establish current tenancy."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b2602f659a8611fa7b8e5e597.jpg",
+        "httpStatus": 200,
+        "sha256": "19f6ed2dbb37fb69ffd7a57931c7600a51f71e9590e2c8203341d0e9367405c4",
+        "observation": "Reverse of same living room with TV, brown armchair/sofa, wood TV unit and black metal bookcase. Not an additional room."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b266a2a78d21722cd08c544b4.jpg",
+        "httpStatus": 200,
+        "sha256": "33d7d3ea4c231034e387d9023aa2d04ebb9d202099559cdc35559306086f06ce",
+        "observation": "Separate fitted kitchen with wood units, black worktop, teal wall, gas hob, oven, sink and wall-mounted boiler; square pale floor tiles. Operational condition not established."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b25a3fbbee9c2652622122950.jpg",
+        "httpStatus": 200,
+        "sha256": "f4b8120543d494fa9bde52a392c0f831b03767ddca6d7d1824017068aa1f6671",
+        "observation": "Near-duplicate living/dining view showing same window, table and bedroom doorway as photo1."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b25d3fe6ccb696fd7b13190ab.jpg",
+        "httpStatus": 200,
+        "sha256": "31d71090827772824890af831e677d7856a513761dafa30545da12e5e65d4bce",
+        "observation": "Another living view with same furniture and doorway to a bed under full-height glazing; supports a separate bedroom despite studio/one-room heading."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b263fea536bf7ad064552d5ed.jpg",
+        "httpStatus": 200,
+        "sha256": "8b939cc4dadc8776400a44f16ce510b0cda846600e57b4d6d2ac7f5057fd080f",
+        "observation": "Reverse main-room view showing wood floor, armchair/sofa and entrance doorway. These five living views do not establish five rooms."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11a9b268f0062a4d7d4cf61ec1681.jpg",
+        "httpStatus": 200,
+        "sha256": "a28a015ae6d9bba509e57b8756e6b24946083af1d6f25b3bc6c4d6528ac616f4",
+        "observation": "One separate bedroom with blue bedding, full-height glazing and radiator. Bathroom, WC, garage and elevator are not pictured; their facts rest on source wording."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-49m2/r2129172",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T21:22:31.416283+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401329",
+          "property": {
+            "id": "cmuon5dmh000bh8p4kmgy9plw",
+            "codeCommune": "51454",
+            "surface": 49.0,
+            "rooms": 2,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 15000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465400793",
+          "property": {
+            "id": "cmuon5dz6000kh8p4gm5lmwqe",
+            "codeCommune": "51454",
+            "surface": 53.0,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15200000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-52m2/r2117120",
+          "property": {
+            "id": "cmv04nscn0002h8p0fvtp6chu",
+            "codeCommune": "51454",
+            "surface": 52.0,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 14800000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132366",
+          "property": {
+            "id": "cmv5qsn060002h8x0n2vaz96d",
+            "codeCommune": "51454",
+            "surface": 49.0,
+            "rooms": 2,
+            "floor": 5,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 13600000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-reims-citya-pass52.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP972216",
+          "surface": 45,
+          "priceEuros": 145000,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": 3,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\duplicates\\2026-10-12-reims-iad-pass75.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132869",
+          "surface": 49,
+          "priceEuros": 156000,
+          "reviewStatus": "DUPLICATE_PHYSICAL_UNIT",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_ROOM_AND_SURFACE_CLARIFICATION: headline, breadcrumb, URL and structured roomsCount assert a studio/one room and 49 m2; full prose asserts T2 with one separate bedroom and 48 m2, while bedroomsCount is 1. Original own photos show living room plus separate bedroom, but cannot settle legal room/surface measurements. Preserve both source claims without silently rewriting the structured room count or choosing 48 versus 49 for analysis. The secondary 3,275 m2 plot-area value is not private apartment habitable area or verified exclusive land ownership. Whole EUR 149,000 asking price with seller-paid agency fees, fourth floor with lift expressly in full prose and features, two sale lots including a basement garage in a coownership of 300 TOTAL lots, EUR 612 annual / EUR 51 monthly charges and no stated proceeding. Natural-gas heating is explicitly exposed and a boiler visible. Construction year and property tax unknown. Preserve C91 / C15 assessed 2024-09-20, energy estimate EUR 500-720 indexed to 2023. All seven original photos inspected: five views of the same living/dining room with wood floor and brown sofa, separate wood/black/teal kitchen and one blue-bed bedroom. No AI label or apparent geometry mismatch observed. Bathroom, WC, garage and lift not photographed; no garage assignment or condition independently verified. Exposed YouTube presentation URL preserved but video not watched. No current tenant, occupied-sale or excluded ownership/lease/price wording established, but room and area contradictions prevent trusted import and analysis. Near PAP49 and its IAD2132869 alias are ground-floor Clairmarais units with D197, EUR 1,440 charges and original pink bathroom; PAP53 is ground floor in 2011 with 22 m2 terrace, electric heating and pending DPE; IAD52 T3 has two bedrooms, sloping roof, five lots and EUR 960 charges; IAD2132366 is fifth floor, D158, EUR 1,408.80 charges, 313 lots and white/grey kitchen/shower. Excluded Citya45 is third floor, 2009 building and a current tenant. Their preserved full descriptions and prior comparison evidence differ materially from this fourth-floor Clemenceau C91 / 300-lot / EUR 612 unit. Source ID and all seven own image paths absent across approved, pending, excluded, duplicate and export evidence. No inventory entry or analysis."
+    },
+    "notes": "Full primary description, including every legal and seller paragraph, individually read and preserved verbatim. Every own exposed gallery photo individually visually inspected in source order; related adverts excluded. First-seen is the actual initial full-page HTTP 200 observation. Source firstPublishDate is a date only; publication time unexposed and omitted. Photo dates are not publication dates. Exact address unexposed. Location, proximity, condition, dimensions and availability remain advertiser assertions. Furniture and empty scenes do not establish legal occupancy. Fresh scoped first-page IAD feeds for Le Mans and Angers contained no unreviewed eligible IDs; next newest unreviewed Reims adverts selected without asserting the other pages exhausted. PENDING_ROOM_AND_SURFACE_CLARIFICATION: headline, breadcrumb, URL and structured roomsCount assert a studio/one room and 49 m2; full prose asserts T2 with one separate bedroom and 48 m2, while bedroomsCount is 1. Original own photos show living room plus separate bedroom, but cannot settle legal room/surface measurements. Preserve both source claims without silently rewriting the structured room count or choosing 48 versus 49 for analysis. The secondary 3,275 m2 plot-area value is not private apartment habitable area or verified exclusive land ownership. Whole EUR 149,000 asking price with seller-paid agency fees, fourth floor with lift expressly in full prose and features, two sale lots including a basement garage in a coownership of 300 TOTAL lots, EUR 612 annual / EUR 51 monthly charges and no stated proceeding. Natural-gas heating is explicitly exposed and a boiler visible. Construction year and property tax unknown. Preserve C91 / C15 assessed 2024-09-20, energy estimate EUR 500-720 indexed to 2023. All seven original photos inspected: five views of the same living/dining room with wood floor and brown sofa, separate wood/black/teal kitchen and one blue-bed bedroom. No AI label or apparent geometry mismatch observed. Bathroom, WC, garage and lift not photographed; no garage assignment or condition independently verified. Exposed YouTube presentation URL preserved but video not watched. No current tenant, occupied-sale or excluded ownership/lease/price wording established, but room and area contradictions prevent trusted import and analysis. Near PAP49 and its IAD2132869 alias are ground-floor Clairmarais units with D197, EUR 1,440 charges and original pink bathroom; PAP53 is ground floor in 2011 with 22 m2 terrace, electric heating and pending DPE; IAD52 T3 has two bedrooms, sloping roof, five lots and EUR 960 charges; IAD2132366 is fifth floor, D158, EUR 1,408.80 charges, 313 lots and white/grey kitchen/shower. Excluded Citya45 is third floor, 2009 building and a current tenant. Their preserved full descriptions and prior comparison evidence differ materially from this fourth-floor Clemenceau C91 / 300-lot / EUR 612 unit. Source ID and all seven own image paths absent across approved, pending, excluded, duplicate and export evidence. No inventory entry or analysis.",
+    "hasElevator": true,
+    "reviewStatus": "PENDING_ROOM_AND_SURFACE_CLARIFICATION",
+    "analysisComputed": false,
+    "sourceFactConflicts": [
+      {
+        "field": "rooms",
+        "structured": 1,
+        "heading": "Studio / 1 pièce",
+        "description": "T2 with separate bedroom",
+        "bedroomsCount": 1
+      },
+      {
+        "field": "surface",
+        "structuredLivingArea": 49,
+        "description": 48
+      }
+    ],
+    "sourceVideoUrls": [
+      "https://youtube.com/watch?v=MGYxU_FgdDM&feature=shared"
+    ],
+    "videoReviewStatus": "NOT_WATCHED"
+  }
+]
