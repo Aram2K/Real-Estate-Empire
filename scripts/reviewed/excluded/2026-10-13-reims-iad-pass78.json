@@ -1,0 +1,251 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-55m2/r2123659",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T23:23:15.323638+00:00",
+    "externalId": "2123659",
+    "firstSeenAt": "2026-10-12T23:23:15.323638+00:00",
+    "reviewedAt": "2026-10-12T23:29:39.543907+00:00",
+    "communeCode": "51454",
+    "priceEuros": 119000,
+    "surface": 54.51,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Roxane Boutin",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "* REIMS - APPARTEMENT AVEC TERRASSE VENDU LOUÉ *\n\nSitué dans une petite copropriété rue Belin à Reims, découvrez cet appartement en très bon état d’entretien et bien classé, vendu loué. \n\nD'une surface habitable de 54 m², cet appartement bien agencé s'articule autour d'un vaste espace de vie de 38 m², donnant accès à une grande terrasse privative bien exposée et sans vis à vis ainsi qu’un petit rangement. \nLe côté nuit dispose d’une chambre cosy dotée d’un grand dressing ainsi qu’une salle de douche avec WC. \n\nQuelques détails chiffrés: \n\n- Loyer: 511€ (486€ + 25€ de charges)\n- Charges annuelles de copropriété: 300€\n- Taxe foncière: 652€ \n\nN’hésitez pas à me contacter pour plus d’informations ou programmer une visite. \n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 3 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 25€ par mois (soit 300 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Roxane Boutin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 884052309, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-05",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time unexposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 300,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2023-06-12",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 247
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 8
+      },
+      "amount": {
+        "min": 850,
+        "max": 1180
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 3,
+      "annualFees": 300,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "119 000 €",
+      "formattedPerSurface": "2 183 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 54.51,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b30ca861cd03182d83a2c280c55.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b31116fcbd6f0b71ea76561fb34.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b32e827eeffabd2f088536a7845.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b41c34cf34a94a59bba666a0f52.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b4196df200899bbe6c8b8ed860c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b32a3ec6224e2680af65b9d4393.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/05/01a10b3116f87f00c4aee1868b2577ee.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b30ca861cd03182d83a2c280c55.jpg",
+        "httpStatus": 200,
+        "sha256": "5fa98a3e8ba95f1941b029ba89e1512f09dd70e80a5ac4377b54d1b16d343c97",
+        "observation": "Original furnished main room with black leather sofa/armchairs, wood sideboard/mirror, light plank floor, yellow curtains and sliding terrace door. Tenant status established by explicit source wording, not by furnishings."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b31116fcbd6f0b71ea76561fb34.jpg",
+        "httpStatus": 200,
+        "sha256": "eb6c3550f614b0684eb809881a93637d2fd0a317abf3d94742bac20c69d57750",
+        "observation": "Original reverse dining/open-kitchen view with wood table/chairs, cream kitchen units, dark counter/tiled kitchen floor, white breakfast divider and entrance door."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b32e827eeffabd2f088536a7845.jpg",
+        "httpStatus": 200,
+        "sha256": "ca03fa75449d7c660888e2c10b9f87f9935e086014785cfc0dad5dcd123fcdbd",
+        "observation": "Same main living area toward black sofa/armchairs, sideboard/mirror, dining and kitchen beyond. Not an additional room."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b41c34cf34a94a59bba666a0f52.jpg",
+        "httpStatus": 200,
+        "sha256": "3b0ceaa85c45db4ab4c7fd31c259850f7d9333d7414a8260adc35bd604f6bc62",
+        "observation": "Original enclosed paved terrace with curved-top wood fence panels, high cream surrounding walls, white plastic table/chairs and plants. Clearly different facade/terrace geometry from near PAP465400793 modern open residence terrace."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b4196df200899bbe6c8b8ed860c.jpg",
+        "httpStatus": 200,
+        "sha256": "1ccce5f13686b5c29bcb5932a44cb8b5cd15ecebedaae6592d45f6b892f69160",
+        "observation": "Same dining/open-kitchen room facing terrace glazing, cream units/dark floor and same black seating. No inference of legal occupancy from contents."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b32a3ec6224e2680af65b9d4393.jpg",
+        "httpStatus": 200,
+        "sha256": "ad93c1749cac17a87d1be00f0a4c4216cfdbe2a2c20250630966b72f984de3f1",
+        "observation": "Original separate bedroom with double bed, wooden drawers, curtain-front dressing/storage and white doors. One bedroom consistent with prose."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/05/01a10b3116f87f00c4aee1868b2577ee.png",
+        "httpStatus": 200,
+        "sha256": "0c45bd4f4f5944c579a2d414dbd48550ed2b3b68156c34cb0feeb745cdd493ec",
+        "observation": "Original shower room with black curved glass enclosure, light wood basin cabinet/mirror, white towel radiator and hanging clothes. WC asserted in source, not visible in this view. Seven own photos coherent, no visible AI label or unexplained geometry mismatch."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-55m2/r2123659",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T23:29:33.833343+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465400793",
+          "property": {
+            "id": "cmuon5dz6000kh8p4gm5lmwqe",
+            "codeCommune": "51454",
+            "surface": 53.0,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15200000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-52m2/r2117120",
+          "property": {
+            "id": "cmv04nscn0002h8p0fvtp6chu",
+            "codeCommune": "51454",
+            "surface": 52.0,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 14800000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "EXCLUDED_CURRENT_TENANCY: title and full description twice explicitly state VENDU LOUÉ / vendu loué, with current rent EUR 511 including EUR 486 rent plus EUR 25 charges. Evidence-backed tenanted sale excluded; no trusted import or investment analysis. EUR 119,000 whole asking price, seller-paid agency fees, 54.51 m2 structured living area vs rounded prose54/URL55, T2/one bedroom/ground floor, electric heating and interphone. Construction and lift unknown; omit rather than invent no lift. One sale lot in three TOTAL coownership lots, EUR 300 annual / EUR25 monthly charges, EUR652 annual property tax; no stated proceeding. DPE D247/GES B8 assessed2023-06-12, energy850-1180 indexed2023. Private terrace and storage asserted, area unexposed. All seven original photos inspected: repeated open cream-kitchen dining/living with black leather furniture, enclosed high-wall wood-fence paved terrace, separate bedroom/dressing and black curved shower/light wood vanity. No visible AI label or apparent geometry mismatch. Exclusion rests on current explicit tenancy, not belongings. Exact new source ID and seven own photo paths absent throughout reviewed/export evidence. Two near active descriptions compared, no non-active near candidates. IAD2117120 is52Carrez/57floor/T3/two bedrooms/slopingroof/5lots/EUR960charge without this terrace. Closest PAP465400793 is53ground/T2/2011 residence/22terrace/coveredparking/DPEpending. Its full primary wording was read through web retrieval (cached 4 days); direct detail HTTP403, therefore not claimed as a fresh HTTP200 recheck. First three own PAP comparison images actually inspected via direct CDN HTTP200: original modern facade/glass upper balcony and open terrace; empty tiled main room with three separate full-height glazed openings and outside planted walkway; original reverse room with kitchen recess and tiled floor. Fixed facade, glazing and enclosure geometry differ clearly from new IAD single sliding door, high surrounding walls and curved wood-fence courtyard. No physical identity established, and no existing active entry withdrawn on unsupported analogy. All active native descriptions also scanned for unique Rue Belin phrase and exact own photo identities before exclusion.",
+      "primaryComparison": {
+        "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465400793",
+        "detailDirectHttpStatus": 403,
+        "fullWordingReadVia": "Web retrieval, cached 4 days",
+        "photosIndividuallyInspected": [
+          {
+            "number": 1,
+            "url": "https://cdn.pap.fr/photos/pap/2c/c5/2cc5f0995548a887f79307b656b6c35a/2-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "ec10bfda0ecd1e281f6271eec5cbef900e7c828267d14ba1d5ca0fcdd70c8e85"
+          },
+          {
+            "number": 2,
+            "url": "https://cdn.pap.fr/photos/pap/93/7f/937f93849f78baec77d4b8c01c67b23a/9-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "705ea269691c32a7ef9bd2f11e2cbac7c44d78e1f709160e91257722055dd889"
+          },
+          {
+            "number": 3,
+            "url": "https://cdn.pap.fr/photos/pap/9e/31/9e31675c00b0c2547db3ebd1f60a50b6/9-p1.jpg",
+            "httpStatus": 200,
+            "sha256": "fc434667f33a1dcbba93a584a1c504cfffe4a565b98bb258192c1bd0531f8b7f"
+          }
+        ],
+        "resolution": "Original fixed modern facade, open residence terrace, three separate full-height glazed openings and kitchen recess distinguish PAP from IAD high-wall enclosed wood-fence courtyard/single sliding terrace doorway. No unsupported native withdrawal."
+      }
+    },
+    "notes": "Full primary description and every legal/seller paragraph individually read and preserved verbatim. All own available photos individually visually inspected in source order; related media excluded. Actual first HTTP 200 full-page observation preserved as first-seen. Primary firstPublishDate is date only; time not exposed and omitted. Exact address, legal occupancy, condition and measurements independently unconfirmed unless explicit source wording establishes an exclusion. Furniture/empty scenes alone do not establish tenancy/vacancy. Fresh scoped first-page priority feeds: Le Mans seven unreviewed IDs had primary publication dates between 2026-01-16 and 2026-03-26, individually checked and deferred as older adverts without photo review/trust; Angers no unreviewed eligible IDs. Recent Reims October5 adverts reviewed next. No claim that all market pages are exhausted. EXCLUDED_CURRENT_TENANCY: title and full description twice explicitly state VENDU LOUÉ / vendu loué, with current rent EUR 511 including EUR 486 rent plus EUR 25 charges. Evidence-backed tenanted sale excluded; no trusted import or investment analysis. EUR 119,000 whole asking price, seller-paid agency fees, 54.51 m2 structured living area vs rounded prose54/URL55, T2/one bedroom/ground floor, electric heating and interphone. Construction and lift unknown; omit rather than invent no lift. One sale lot in three TOTAL coownership lots, EUR 300 annual / EUR25 monthly charges, EUR652 annual property tax; no stated proceeding. DPE D247/GES B8 assessed2023-06-12, energy850-1180 indexed2023. Private terrace and storage asserted, area unexposed. All seven original photos inspected: repeated open cream-kitchen dining/living with black leather furniture, enclosed high-wall wood-fence paved terrace, separate bedroom/dressing and black curved shower/light wood vanity. No visible AI label or apparent geometry mismatch. Exclusion rests on current explicit tenancy, not belongings. Exact new source ID and seven own photo paths absent throughout reviewed/export evidence. Two near active descriptions compared, no non-active near candidates. IAD2117120 is52Carrez/57floor/T3/two bedrooms/slopingroof/5lots/EUR960charge without this terrace. Closest PAP465400793 is53ground/T2/2011 residence/22terrace/coveredparking/DPEpending. Its full primary wording was read through web retrieval (cached 4 days); direct detail HTTP403, therefore not claimed as a fresh HTTP200 recheck. First three own PAP comparison images actually inspected via direct CDN HTTP200: original modern facade/glass upper balcony and open terrace; empty tiled main room with three separate full-height glazed openings and outside planted walkway; original reverse room with kitchen recess and tiled floor. Fixed facade, glazing and enclosure geometry differ clearly from new IAD single sliding door, high surrounding walls and curved wood-fence courtyard. No physical identity established, and no existing active entry withdrawn on unsupported analogy. All active native descriptions also scanned for unique Rue Belin phrase and exact own photo identities before exclusion.",
+    "reviewStatus": "EXCLUDED_CURRENT_TENANCY",
+    "analysisComputed": false,
+    "taxeFonciereAnnualEuros": 652,
+    "exclusionEvidence": {
+      "reason": "Current tenanted sale",
+      "exactSourceQuotes": [
+        "APPARTEMENT AVEC TERRASSE VENDU LOUÉ",
+        "vendu loué",
+        "Loyer: 511€ (486€ + 25€ de charges)"
+      ]
+    },
+    "currentRentEuros": 486,
+    "currentRentChargesEuros": 25,
+    "sourceRoundedProseAreaM2": 54
+  }
+]

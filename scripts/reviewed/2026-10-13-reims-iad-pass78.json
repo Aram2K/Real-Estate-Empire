@@ -1,0 +1,293 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-reims-84m2/r2112232",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T23:23:15.330909+00:00",
+    "externalId": "2112232",
+    "firstSeenAt": "2026-10-12T23:23:15.330909+00:00",
+    "reviewedAt": "2026-10-12T23:29:39.531560+00:00",
+    "communeCode": "51454",
+    "priceEuros": 257000,
+    "surface": 84.15,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Dominique Merelle",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "* SECTEUR RUE DE VENISE / BARBATRE * T4 84m² BALCON, 2CHAMBRES et BOX FERME *\n\nAppartement tout confort au deuxième étage / six avec ascenseur dans une résidence avec accès sécurisé au sein d'un quartier très bien desservi par les commerces et services.\n\nAprès avoir franchi l'entrée, vous accéderez à un espace de vie avec balcon filant sur sa largeur, cuisine équipée, deux chambres de plus de 12 m², salle de bain, WC et cellier de rangement.\n\nUn box fermé de 17 m² en sous-sol complètera idéalement ce bien pour garer votre véhicule à l'abri tout en optimisant vos solutions de rangements.\n\nCette description correspond à vos critères de recherche, prenez contact avec moi pour que je vous le fasse découvrir.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 56 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 97.58€ par mois (soit 1171 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Dominique Merelle mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 834172132, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-05",
+    "publicationDateEvidence": "Primary firstPublishDate, date only; time unexposed.",
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 1171,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2021-08-25",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 103
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 19
+      },
+      "amount": {
+        "min": 990,
+        "max": 1340
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 56,
+      "annualFees": 1171,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1996,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "257 000 €",
+      "formattedPerSurface": "3 054 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Box",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity",
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1996"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 84.15,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 8.23,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8db6b30eff6c227548c8cb44.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8f00d0620c36159410c3cb71.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8ec88dee163ce43356750d00.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8f1a352e46c1cf764a72c176.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8f08a62bbc307e0c896b53a0.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8eeeaef75f16d009216b295e.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8943c15925637accb2ca08f9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8c0a687860119cb4068f3dd4.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8db6b30eff6c227548c8cb44.jpg",
+        "httpStatus": 200,
+        "sha256": "ad29f09e73bdeaba20233d47d4f4868ce65c8b8c13bc9b9a804a277984e59d0e",
+        "observation": "Original furnished living area with tan sofa, brown chair, pale wood floor, wood-clad window wall, two balcony doors, TV and cat tree; adjoining entry visible. Furnishings do not establish a tenant."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8f00d0620c36159410c3cb71.jpg",
+        "httpStatus": 200,
+        "sha256": "f4e482b135c106ec293fabead9505a43ce932db08cc8eae1ca9cc655d20a1c77",
+        "observation": "Reverse of same living/dining space with dining table, same sofa, ochre wall, wood cladding and internal black-framed glazed partition to entrance. No separate extra bedroom established by repeated main-room photos."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8ec88dee163ce43356750d00.jpg",
+        "httpStatus": 200,
+        "sha256": "fc728a86f3f4b95c796ad4e77538c800c257b6efcd2d182b24473dc4443d2ef2",
+        "observation": "Original entrance/corridor with pale square tiles, coat/shoe storage, white doors and same black-framed internal glazing to living room."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8f1a352e46c1cf764a72c176.jpg",
+        "httpStatus": 200,
+        "sha256": "ffd13c92fb0633ef9e4317916ffd8ee225397219c84a1c96499ade3248f9a496",
+        "observation": "Original separate fitted kitchen with wood fronts, grey counter, black hob/hood, red splashback, wall boiler, black sink, dishwasher and washing machine, wide window and square tile floor. Source exposes both electric and natural-gas heating; do not invent exclusive supply or operational condition."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8f08a62bbc307e0c896b53a0.jpg",
+        "httpStatus": 200,
+        "sha256": "3e0a402731ea28d9ea60f6f7b52ec7c7e0d70f05a875210341510e47f99b6987",
+        "observation": "Original long narrow balcony with perforated metal-panel railing, orange/white striped awning, concrete floor, doors and facing urban buildings. 8.23 m2 secondary plot-area is exposed but not independently verified as balcony area or exclusive land."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8eeeaef75f16d009216b295e.jpg",
+        "httpStatus": 200,
+        "sha256": "48401d87f23eb71d80d2573211a2076d0a52bd7879bd3a048a78646559817282",
+        "observation": "Original primary bedroom with double bed, pale wood floor, window/radiator, cream walls and floral alcove, curtain-front storage. No independent measurement of stated more-than-12 m2 bedroom."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8943c15925637accb2ca08f9.jpg",
+        "httpStatus": 200,
+        "sha256": "99d04ea55e38b9bf689a6ef06eea0a549b0afd6cdf6fc406df3755329a5b772a",
+        "observation": "Original bathroom with bath and shower screen, white/pink tile band, white vanity/wood top, round basin, mirror and towel storage. Separate WC asserted in source but not pictured."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a102bd8c0a687860119cb4068f3dd4.jpg",
+        "httpStatus": 200,
+        "sha256": "f7470902c17914abb477aa8d68a32aad1d390bd4161cd0b9d738d3bc0a9f3399",
+        "observation": "Original second bedroom/office with bed, desk/dual screens, storage, grey floor and window/radiator. Two distinct sleeping rooms coherent with prose; gallery does not independently certify four-room classification. Box, cellier and elevator not pictured: source assertions only."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-reims-84m2/r2112232",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-12T23:29:33.902665+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15374560446/",
+          "property": {
+            "id": "cmuapat2f0002h89sxegcs7yl",
+            "codeCommune": "51454",
+            "surface": 86.33,
+            "rooms": 4,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 34900000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15159510789/",
+          "property": {
+            "id": "cmub7xyrr0002h8mkoo8qvr7z",
+            "codeCommune": "51454",
+            "surface": 88.0,
+            "rooms": 4,
+            "floor": 4,
+            "hasElevator": 1,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 18900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465001732",
+          "property": {
+            "id": "cmubhbyt3000th88okbuxy3eo",
+            "codeCommune": "51454",
+            "surface": 80.0,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 17700000
+        },
+        {
+          "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295592935A1KIVHAP000",
+          "property": {
+            "id": "cmuu33tdn0002h844oppmgyio",
+            "codeCommune": "51454",
+            "surface": 80.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 27400000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "APPROVED: whole EUR 257,000 apartment price with seller-paid agency fees includes stated closed 17 m2 basement box; box area is ancillary and not added to 84.15 m2 living area. Prose/URL rounded 84 m2 preserved beside structured 84.15; no certified Carrez measurement inferred. Structured/source T4 with two bedrooms retained, no invented extra bedroom. Second floor of six with elevator explicitly stated, 1996 construction, PMR access source feature without independent accessibility certification. Both electric and natural-gas heating exposed; boiler/radiators visible, no exclusive heating supply invented. Two sale lots in 56 TOTAL coownership lots, EUR 1,171 annual / rounded EUR 97.58 monthly charges, no stated proceeding; property tax unknown. DPE C103 / GES C19 assessed 2021-08-25, energy EUR 990-1,340 indexed 2021, preserved exactly. Secondary 8.23 m2 plot-area value is not private apartment living area or verified land ownership. All eight original own photos inspected: two views of continuous tan-sofa wood-clad living/dining area, black-glazed entrance, separate wood/grey/red kitchen/boiler, perforated-metal balcony, two distinct bedrooms and white/pink bath. No visible AI label or apparent geometry mismatch. WC, box, cellier and lift not pictured; facts rest on full source wording, ownership/assignment and condition not independently confirmed. No evidence-backed tenant/occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, commercial/managed lease, ancillary-only asset, houseboat, spam/bot or impossible room/surface combination established. Exact source ID and all eight own image paths absent across approved/pending/excluded/duplicate/export evidence. Four native active nearby unit descriptions read; no non-active near candidates. C21 15374560446 is first-floor86.33/1995/three bedrooms/13.6 terrace/EUR2056 charges; C21 15159510789 is fourth/top88 near Avenue de Paris/two bedrooms/31.9 living/14 kitchen/parking+cave/EUR2044 charges; PAP465001732 is first-floor80/Parc de Champagne/T3/parking+cave; ParuVendu1295592935A1KIVHAP000 is third/top80Carrez/bourgeoisbuilding/T3/new12kitchen/two bedroom bathing spaces/vaultedcave/DPE D. Material floor/building/layout/ancillary/energy differences distinguish new second-floor84.15/1996/C103/56-lot/1171-charge Rue de Venise-Barbatre unit. Actual local Reims rent and apartment DVF coverage verified before analysis."
+    },
+    "notes": "Full primary description and every legal/seller paragraph individually read and preserved verbatim. All own available photos individually visually inspected in source order; related media excluded. Actual first HTTP 200 full-page observation preserved as first-seen. Primary firstPublishDate is date only; time not exposed and omitted. Exact address, legal occupancy, condition and measurements independently unconfirmed unless explicit source wording establishes an exclusion. Furniture/empty scenes alone do not establish tenancy/vacancy. Fresh scoped first-page priority feeds: Le Mans seven unreviewed IDs had primary publication dates between 2026-01-16 and 2026-03-26, individually checked and deferred as older adverts without photo review/trust; Angers no unreviewed eligible IDs. Recent Reims October5 adverts reviewed next. No claim that all market pages are exhausted. APPROVED: whole EUR 257,000 apartment price with seller-paid agency fees includes stated closed 17 m2 basement box; box area is ancillary and not added to 84.15 m2 living area. Prose/URL rounded 84 m2 preserved beside structured 84.15; no certified Carrez measurement inferred. Structured/source T4 with two bedrooms retained, no invented extra bedroom. Second floor of six with elevator explicitly stated, 1996 construction, PMR access source feature without independent accessibility certification. Both electric and natural-gas heating exposed; boiler/radiators visible, no exclusive heating supply invented. Two sale lots in 56 TOTAL coownership lots, EUR 1,171 annual / rounded EUR 97.58 monthly charges, no stated proceeding; property tax unknown. DPE C103 / GES C19 assessed 2021-08-25, energy EUR 990-1,340 indexed 2021, preserved exactly. Secondary 8.23 m2 plot-area value is not private apartment living area or verified land ownership. All eight original own photos inspected: two views of continuous tan-sofa wood-clad living/dining area, black-glazed entrance, separate wood/grey/red kitchen/boiler, perforated-metal balcony, two distinct bedrooms and white/pink bath. No visible AI label or apparent geometry mismatch. WC, box, cellier and lift not pictured; facts rest on full source wording, ownership/assignment and condition not independently confirmed. No evidence-backed tenant/occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, commercial/managed lease, ancillary-only asset, houseboat, spam/bot or impossible room/surface combination established. Exact source ID and all eight own image paths absent across approved/pending/excluded/duplicate/export evidence. Four native active nearby unit descriptions read; no non-active near candidates. C21 15374560446 is first-floor86.33/1995/three bedrooms/13.6 terrace/EUR2056 charges; C21 15159510789 is fourth/top88 near Avenue de Paris/two bedrooms/31.9 living/14 kitchen/parking+cave/EUR2044 charges; PAP465001732 is first-floor80/Parc de Champagne/T3/parking+cave; ParuVendu1295592935A1KIVHAP000 is third/top80Carrez/bourgeoisbuilding/T3/new12kitchen/two bedroom bathing spaces/vaultedcave/DPE D. Material floor/building/layout/ancillary/energy differences distinguish new second-floor84.15/1996/C103/56-lot/1171-charge Rue de Venise-Barbatre unit. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+    "hasElevator": true,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "51454",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1310,
+      "nbObs": 46502,
+      "actualApartmentDVFSales": 9836,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 9836
+      }
+    },
+    "sourceBoxAreaM2": 17
+  }
+]
