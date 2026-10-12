@@ -1,0 +1,323 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-63m2/r2066701",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T09:04:48.759808+00:00",
+    "externalId": "2066701",
+    "firstSeenAt": "2026-10-12T09:04:48.759808+00:00",
+    "reviewedAt": "2026-10-12T18:12:07.039374+00:00",
+    "communeCode": "49007",
+    "priceEuros": 150000,
+    "surface": 63,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Mathieu Bernard",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "ANGERS - APPARTEMENT - T3 63M² - GARAGE .\nProche CHU d'Angers et place BICHON, A vendre appartement type 3, 3ème étage comprenant une entrée, un salon/séjour, une cuisine, une salle de bains, WC, deux chambres, une cave, un garage individuel. \n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 210 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 223.06€ par mois (soit 2676.76 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Mathieu Bernard mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 915075113, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-07",
+    "publicationDateEvidence": "Primary firstPublishDate,date only;time not exposed.",
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3ee60ea03e98fb16bd54c49f91.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f00a919d0f55bcc9e219ffc7c.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f21622d80abd7ef38a642a3c6.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f45184710367d8f1ef1e808c2.png?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f664b849252ae826a7b981212.jpg?format=auto&width=1170",
+      "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f9c5a98b09be6abeb6304b13f.jpg?format=auto&width=1170"
+    ],
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 2676.76,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-06-27",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 137
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 29
+      },
+      "amount": {
+        "min": 670,
+        "max": 950
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 210,
+      "annualFees": 2676.76,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1972,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "150 000 €",
+      "formattedPerSurface": "2 381 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "Chauffage collectif"
+        },
+        {
+          "text": "Construit en 1972"
+        },
+        {
+          "text": "Étage : 3"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 63,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3ee60ea03e98fb16bd54c49f91.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "ecbd565727389588d50589ef799aa2ef31d37e26baabcf2a8e50212714c5294d",
+        "observation": "Original furnished living room with brown sofa, TV cabinet, patterned terracotta/grey floor tiles, large water radiator and broad four-panel exterior opening with shutters/railing/reed screen. Furniture does not establish tenancy or legal vacant possession."
+      },
+      {
+        "number": 2,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f00a919d0f55bcc9e219ffc7c.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "35a4e2f6d25aab319673fdc982b9689ee565ef5dff77c189bccb85e44264d23e",
+        "observation": "Original separate kitchen with white units, dark counters, gas hob, tall fridge, pale tiled floor, peach walls and broad three-panel window. Gas cooking does not establish heating fuel."
+      },
+      {
+        "number": 3,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f21622d80abd7ef38a642a3c6.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "dfa05405a65e10533c17b220e83d7b46a115b3bf4621d7930a317ecafcbe9880",
+        "observation": "Original bedroom with low mattress/bed, cube storage, geometric timber-effect floor, white walls, three-panel window and older water radiator. One existing bedroom scene."
+      },
+      {
+        "number": 4,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f45184710367d8f1ef1e808c2.png?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "9646855f5aedb7dc23403e92b45e834043299459ea0f6b236a685b79a8707dfe",
+        "observation": "Original second bedroom with bed, desk/monitor and chair, parquet-pattern floor, three-panel window and water radiator. Different floor pattern/window outlook from3 supports two coherent source bedrooms."
+      },
+      {
+        "number": 5,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f664b849252ae826a7b981212.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "56a2506f6c546ddf412f9c0dcf503e4f35311a63075dd9e58135eb02c89cd0a1",
+        "observation": "Advertiser schematic labels Sejour, separate Cuisine, Chambre1 and Chambre2, Sdb, separateWc, Entree, Degagement and Placard. Supports two existing bedrooms; no numeric dimensions/surface, independent survey or precise bathroom condition established."
+      },
+      {
+        "number": 6,
+        "url": "https://images.iadfrance.fr/property/broadcast/2026/07/07/019f3b3f9c5a98b09be6abeb6304b13f.jpg?format=auto&width=1170",
+        "httpStatus": 200,
+        "sha256": "97ebe458aff297c86a053f714ceb35dfc1e12d995a7e432d8d8d17d030dbd194",
+        "observation": "Original exterior row of enclosed garages with unmarked doors and apartment block behind. Corresponds to source garage annex; exact sold garage allocation/interior/dimensions and cellar are not independently shown."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "httpStatus": 200,
+      "checkedAt": "2026-10-12T18:12:07.039470+00:00",
+      "fullDescriptionFactsAndGalleryUnchanged": true
+    },
+    "dedupeEvidence": {
+      "exactSourceIdAndAllGalleryPaths": "No earlier approved,pending,excluded,duplicate artifacts or5586database-export rows match sourceID or any gallery path.",
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15854277093/",
+          "property": {
+            "dedupeKey": "reviewed:https://www.century21.fr/trouver_logement/detail/15854277093/",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 61.3,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15990000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967744",
+          "property": {
+            "dedupeKey": "reviewed:https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967744",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 59.7,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 16960000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-62m2/r2107149",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-62m2/r2107149",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 62.03,
+            "rooms": 2,
+            "floor": 1,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 32900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-65m2/r2078199",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-65m2/r2078199",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 65,
+            "rooms": 3,
+            "floor": 5,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "B",
+            "ges": "A"
+          },
+          "priceCents": 14600000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-67m2/r2110656",
+          "property": {
+            "dedupeKey": "reviewed:https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-67m2/r2110656",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 67,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 18500000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52971007",
+          "property": {
+            "dedupeKey": "reviewed:https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52971007",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 65,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": false,
+            "propertyType": "Appartement",
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 20900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 63,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": true,
+            "propertyType": "Appartement",
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 22500000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465502843",
+          "property": {
+            "dedupeKey": "reviewed:https://www.pap.fr/annonces/appartement-angers-49000-r465502843",
+            "communeCode": "49007",
+            "addressLine": "Angers — exact address not published",
+            "longitude": null,
+            "latitude": null,
+            "surface": 60.6,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "propertyType": "Appartement",
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 21000000
+        }
+      ],
+      "resolution": "Whole EUR150000 seller agencyfees included,63m2T3/two existing bedrooms,floor3 explicitly,1972building. Lift unexposed and left unknown; do not infer no lift from absent icon. Source collective heating; fuel not stated and gas cooking does not establish gas heating. Three sale lots/210TOTALcopropriete lots,no proceeding,annualchargesEUR2676.76 (roundedEUR223.06monthly). Cave and individualgarage accompany apartment. DPE C137/GES C29 assessed2026-06-27,EUR670-950 indexed2023. All6 exposed entries individually inspected: coherent original living,separate kitchen,two distinct bedrooms,advertiser two-bedroom schematic and exterior garage row. Bathroom/separateWC appear in plan/source but not photographed; exact garageallocation andcellar not proven visually. No virtual-staging label observed. Eight active near59-67m2units compared: C21ref1138 samefloor3 is61.3habitable/70.1floorarea/T3biswithoffice/openkitchen/station/11lots/individualgas/EUR600charges, distinct from63m2/separatekitchen/CHU-placeBichon/210lots/collectiveheat here. Citya967744 floor2/1975/57lots/Orgemont/two bedrooms/25.55m2terrace; IAD2107149 floor1/1949/20lots/openkitchen/one bedroom/private8m2terrace; IAD2078199 floor5/1977/612lots; IAD2110656/PAP63m2 floor0;Laforet65m2 floor2/NOlift/1948/four dwellings;PAP60.6m2 northamenities/privateundergroundparking/individualcondensingboiler/EUR1440charges differ. PendingCitya967740 floor3/2016/HautsStAubin and IAD2071536 floor1/1972/18lots/one bedroom/sourcefactsconflict remain separate pending. No same physical unit established. Full description contains no evidence-backed current tenancy/occupiedsale,viager,bare/fractional/timeshare ownership,auction/starting/misleadingpartialprice,managed/commercial lease,ancillary-only asset,houseboat,bot/spam or impossible room/surface combination. Availability independently unconfirmed."
+    },
+    "notes": "Full primary description including all legal and seller wording individually read and preserved verbatim. Every listing-specific available photo/plan individually visually inspected in source order, excluding related-property images. Date-only primary firstPublishDate preserved; no exposed time invented and gallery dates not publication dates. First-seen is actual full-page HTTP200 observation. Whole apartment asking price belowEUR400000 and outside department75. Exact address,publication time and propertytax unexposed,omitted. Furniture/empty scenes alone do not establish legal tenancy or vacant possession. Orientation,location,proximity,condition and future-work claims remain advertiser assertions. Whole EUR150000 seller agencyfees included,63m2T3/two existing bedrooms,floor3 explicitly,1972building. Lift unexposed and left unknown; do not infer no lift from absent icon. Source collective heating; fuel not stated and gas cooking does not establish gas heating. Three sale lots/210TOTALcopropriete lots,no proceeding,annualchargesEUR2676.76 (roundedEUR223.06monthly). Cave and individualgarage accompany apartment. DPE C137/GES C29 assessed2026-06-27,EUR670-950 indexed2023. All6 exposed entries individually inspected: coherent original living,separate kitchen,two distinct bedrooms,advertiser two-bedroom schematic and exterior garage row. Bathroom/separateWC appear in plan/source but not photographed; exact garageallocation andcellar not proven visually. No virtual-staging label observed. Eight active near59-67m2units compared: C21ref1138 samefloor3 is61.3habitable/70.1floorarea/T3biswithoffice/openkitchen/station/11lots/individualgas/EUR600charges, distinct from63m2/separatekitchen/CHU-placeBichon/210lots/collectiveheat here. Citya967744 floor2/1975/57lots/Orgemont/two bedrooms/25.55m2terrace; IAD2107149 floor1/1949/20lots/openkitchen/one bedroom/private8m2terrace; IAD2078199 floor5/1977/612lots; IAD2110656/PAP63m2 floor0;Laforet65m2 floor2/NOlift/1948/four dwellings;PAP60.6m2 northamenities/privateundergroundparking/individualcondensingboiler/EUR1440charges differ. PendingCitya967740 floor3/2016/HautsStAubin and IAD2071536 floor1/1972/18lots/one bedroom/sourcefactsconflict remain separate pending. No same physical unit established. Full description contains no evidence-backed current tenancy/occupiedsale,viager,bare/fractional/timeshare ownership,auction/starting/misleadingpartialprice,managed/commercial lease,ancillary-only asset,houseboat,bot/spam or impossible room/surface combination. Availability independently unconfirmed. Before analysis verified local2025ALL_APT rent1456cents/m2 from29741observations,8943actualapartmentDVFsales/matchingAPTmetric2021-2025.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "49007",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1456,
+      "nbObs": 29741,
+      "actualApartmentDVFSales": 8943,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 8943
+      }
+    }
+  }
+]
