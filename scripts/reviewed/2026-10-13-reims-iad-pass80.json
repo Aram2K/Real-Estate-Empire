@@ -1,0 +1,425 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-reims-62m2/r2125700",
+    "httpStatus": 200,
+    "observedAt": "2026-10-13T08:28:46.697593+00:00",
+    "externalId": "2125700",
+    "firstSeenAt": "2026-10-13T08:28:46.697593+00:00",
+    "reviewedAt": "2026-10-13T08:45:30.387333+00:00",
+    "communeCode": "51454",
+    "priceEuros": 148500,
+    "surface": 62,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Virginie Munoz",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "Venez découvrir cet appartement baigné de lumière, idéalement situé rue Léon Faucher, à deux pas de La Cartonnerie, des commerces et des transports.\n\n​Son vrai plus ? Un cadre de vie au calme absolu, sans vis-à-vis et sans aucun voisin au-dessus de votre tête (situé au 4ᵉ et dernier étage sans ascenseur). Le logement offre une magnifique luminosité naturelle tout au long de la journée ainsi qu'une superbe vue dégagée sur les toits de Reims.\n\n​Côté agencement, vous trouverez une entrée fermée avec placard, des WC séparés, une salle de douche avec fenêtre, un salon / séjour spacieux ouvrant sur un premier balcon, et une cuisine séparée restant entièrement équipée. \nLe coin nuit propose deux chambres non contiguës , dont une avec son propre balcon privatif.\n\nL'isolation extérieure a été refaite récemment, vous bénéficiez donc d'un excellent confort thermique au quotidien et d'un bilan énergétique performant.\n\n​Une cave vient compléter ce bien. Le stationnement est par ailleurs facile sur le secteur.\n\n​N'hésitez pas à me contacter pour toute information complémentaire ou pour organiser une visite !\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 76 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 86€ par mois (soit 1032 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Virginie Munoz mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 893401455, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-01",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 1032,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-10-01",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 209
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 45
+      },
+      "amount": {
+        "min": 1230,
+        "max": 1710
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 76,
+      "annualFees": 1032,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "148 500 €",
+      "formattedPerSurface": "2 395 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 62,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 22,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3aa80713a5feccdaf8af7820.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c34c582a0049f9aae6e82b6b1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c399ff4c9d699e069aaf64b2c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11b0e6f24ee2e06e0040ae5e2e4a4.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3a60ba98d7f2952136b66d62.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3a6972245eaffc77803ba390.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c368e6b0d2cd57305d46baf02.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3a15fd403d3a87a93bea521d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c38f94f5ade0e8689e55aa4ce.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f78f79f4a959fbec4649ff381bad.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3875fd16a84ea0ef47756786.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3876f670108a104be0f903f6.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3816eed9afec4516e1ce5863.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3b9de8d3e4b49f154431e64b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c395bba554f873886093c181a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c36fde7ec6b449e7d86806bce.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c34b59160dad3ad59e2330a1c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3b7e1f692e7f214ca417292d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3509517b2f1b49f7e91f6b41.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3aade2f3b7a475d5de1629ba.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3265b7f4ca58036597cad5d4.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f75d384e022364d3aaa1ba870177.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3aa80713a5feccdaf8af7820.jpg",
+        "httpStatus": 200,
+        "sha256": "d0eab88ad8f22bbf2aceec3db8e35f47956d9b29694cfcd82deae1586e3e3380",
+        "observation": "Original teal-wall living room with white L-shaped corduroy sofa, grey plank floor, white panel radiator and glazed balcony door/window group; perforated metal balcony screen and folding chairs."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c34c582a0049f9aae6e82b6b1.jpg",
+        "httpStatus": 200,
+        "sha256": "4da87188e3b3da15afb996a85ce1db234cb07278aaba72f00a0b788e0e4d47ac",
+        "observation": "Original adjacent dining room through wide internal opening, glass table/grey chairs, white grid cupboard, dark chest and basketball poster. Same teal living room behind."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c399ff4c9d699e069aaf64b2c.jpg",
+        "httpStatus": 200,
+        "sha256": "f0a3632a1742f84f2cfae6f79b2527001f7d3618b3c2b715c898bf698f25a522",
+        "observation": "Urban rooftops/trees from balcony with grey three horizontal rails; source floor and orientation not independently measured."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11b0e6f24ee2e06e0040ae5e2e4a4.jpg",
+        "httpStatus": 200,
+        "sha256": "8bf18b5c9aa09866340509cb430c9fc8669c406c683f1f688418a0612f713cc0",
+        "observation": "Orange sunset over industrial roof/chimneys; visual scene is not evidence of publication time or independently verified orientation."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3a60ba98d7f2952136b66d62.jpg",
+        "httpStatus": 200,
+        "sha256": "f2473e06db5df5c73e447b373011d46bde2a2721ef4a5d31bc9fc1f31f0cf8bf",
+        "observation": "Same teal/white-sofa living room, grey coffee table, white rug and black TV cabinet. No extra room or heating type inferred from furnishings."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3a6972245eaffc77803ba390.jpg",
+        "httpStatus": 200,
+        "sha256": "4fc6c70f61897445cc3b26b0d42d9b7e9e840975d70d2f53f9053389f35e470f",
+        "observation": "Reverse same living room, black sideboard/framed mirror and two white internal doors."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c368e6b0d2cd57305d46baf02.jpg",
+        "httpStatus": 200,
+        "sha256": "07fc1c19f80023953fed2aa0f327ac4cd28caf961bebce6137ba84354c017230",
+        "observation": "Original pink bedroom, double bed, large window, pink low headwall, grey plank floor and small bookcase."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3a15fd403d3a87a93bea521d.jpg",
+        "httpStatus": 200,
+        "sha256": "d156f681def886dc36298b873f7744de3f433e3975241e6bdc3d7ae80ea9a061",
+        "observation": "Reverse same white-sofa living room, teal wall, dark sideboard, black-framed mirror and adjacent glazed dining area."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c38f94f5ade0e8689e55aa4ce.jpg",
+        "httpStatus": 200,
+        "sha256": "f34b7617baf2b118dbcb76f70f9d6a69aeca5eb222b9a3fece81d07685906c1b",
+        "observation": "Same living room toward two white internal doors/sideboard, TV and wolf picture; fixed geometry coherent."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f78f79f4a959fbec4649ff381bad.jpg",
+        "httpStatus": 200,
+        "sha256": "55c8ce35873be710053468967c5e922c873098044133e4b7752caaaba9d88327",
+        "observation": "Photographed source floor plan labelled4eme Etage: two noncontiguous bedrooms, salon/salle a manger, separate kitchen, entrance/closets, bathroom, separateWC and two balconies. Illustrative plan without verified measurements; bathroom label does not override current shower description/photos."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3875fd16a84ea0ef47756786.jpg",
+        "httpStatus": 200,
+        "sha256": "62ce5dc66ac34691ef84204f10b09c935eadda036f543f73553360fa53ce5bec",
+        "observation": "Original living-room reverse with same broad window/balcony door group, adjacent dining area and brown apartment entry visible beyond hall."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3876f670108a104be0f903f6.jpg",
+        "httpStatus": 200,
+        "sha256": "40fa2e3d83e60a531d108a1b2a00b9c1c26c84e992f202107d419ecafedf553f",
+        "observation": "Dining room with glass table/grey chairs, basketball poster and small wall hoop, grey plank floor and same window group. Not another bedroom."
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3816eed9afec4516e1ce5863.jpg",
+        "httpStatus": 200,
+        "sha256": "2b066c1485c8d8fb8bc0da152d9ae10d1a17fead88d0f0e7096160cb71481686",
+        "observation": "Balcony with grey rails/perforated screen, folding black chair/table and urban rooftops. No exclusive-area measurement inferred."
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3b9de8d3e4b49f154431e64b.jpg",
+        "httpStatus": 200,
+        "sha256": "45e25aabc924f460f7b4b074e487113d23c31e8b02092e61e61fa37cfd454ff4",
+        "observation": "Second bedroom used as office, desk/monitor/storage, large full-height balcony door/glazing and radiator. No bed required to identify source bedroom; dimensions/use rights unverified."
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c395bba554f873886093c181a.jpg",
+        "httpStatus": 200,
+        "sha256": "4ff29013ee4410cc0bc213f4928757c069af7e0b1b0901d90af3276eae98b96a",
+        "observation": "Close living-room glazing: double central balcony door, white fixed lower panels below side windows and matching perforated-screen balcony."
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c36fde7ec6b449e7d86806bce.jpg",
+        "httpStatus": 200,
+        "sha256": "31d1ef0e5af6a8ceead43d0c79e6f3ce5aafab50bfc81372cfda78f25ad8e0c5",
+        "observation": "Shower room with frosted sliding screen, grey rectangular tiles, white basin/vanity, large frosted window and white towel radiator."
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c34b59160dad3ad59e2330a1c.jpg",
+        "httpStatus": 200,
+        "sha256": "73025baa91876d9477163e1ab38d805ef9733511cd463b0f521152770089e515",
+        "observation": "Portrait same shower-room vanity/window/screen/grey tiled floor. Not an additional bathroom."
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3b7e1f692e7f214ca417292d.jpg",
+        "httpStatus": 200,
+        "sha256": "39c2316dc61b36fdf814f4dd92593d4f17370f0d258fc8d95b0bb781669ac93f",
+        "observation": "Neighbouring rooftops/trees and residential buildings from window/balcony; no independent no-overlooking or orientation certification."
+      },
+      {
+        "number": 19,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3509517b2f1b49f7e91f6b41.jpg",
+        "httpStatus": 200,
+        "sha256": "b2b77fbbf6ee3eca55ce35aa1b62efa80e503f81e87bf1fc96606bb343aecc26",
+        "observation": "Closer original shower enclosure, grey tiles, chrome shower mixer/head and white tray. Visible sealant condition not independently assessed."
+      },
+      {
+        "number": 20,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3aade2f3b7a475d5de1629ba.jpg",
+        "httpStatus": 200,
+        "sha256": "efb0831569cade9b65445973c80fa6486d1a8287697742f15bd37ab89d5be89b",
+        "observation": "Exterior cream facade, brown shutters, matching grey perforated balconies and street-number22 plate. Facade alone does not certify insulation works, selected unit or exact legal address."
+      },
+      {
+        "number": 21,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f76c3265b7f4ca58036597cad5d4.jpg",
+        "httpStatus": 200,
+        "sha256": "911162952131843363f66096bc8a6ba9bd4e73f96a492821d494f10129d09883",
+        "observation": "Separate grey L-shaped kitchen with hob/oven/hood, sink below window, washing machine, white fridge and radiator, square grey floor tiles. Equipped kitchen source-supported, inventory unverified."
+      },
+      {
+        "number": 22,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f75d384e022364d3aaa1ba870177.jpg",
+        "httpStatus": 200,
+        "sha256": "4fc6c70f61897445cc3b26b0d42d9b7e9e840975d70d2f53f9053389f35e470f",
+        "observation": "Reverse same teal living room, white L-shaped sofa, black sideboard/mirror and two white doors. No visible AI/proposal label or apparent inconsistent geometry in all22 own entries; plan distinguished from actual-room photos. Cave, separateWC and absence of lift are source-supported, not visually certified."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-reims-62m2/r2125700",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-13T08:45:21.845471+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-3-pieces-52281887",
+          "property": {
+            "id": "cmuokqfc6000kh8psepfehyxf",
+            "codeCommune": "51454",
+            "surface": 63.89,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 13750000
+        },
+        {
+          "url": "https://reims-centre.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1858758",
+          "property": {
+            "id": "cmuuc9gbt0002h89wwmph6gsu",
+            "codeCommune": "51454",
+            "surface": 66.0,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": null,
+            "dpe": "F",
+            "ges": null
+          },
+          "priceCents": 17280000
+        },
+        {
+          "url": "https://reims-jean-jaures.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1891143",
+          "property": {
+            "id": "cmuucsnka0002h8o4iogvgm5k",
+            "codeCommune": "51454",
+            "surface": 66.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 19500000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-3-pieces-52511855",
+          "property": {
+            "id": "cmuy2zzwp000bh86gka3bf7uo",
+            "codeCommune": "51454",
+            "surface": 60.45,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 13490000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP972057",
+          "property": {
+            "id": "cmuzs6qdm0002h8ecw112azue",
+            "codeCommune": "51454",
+            "surface": 66.0,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 19400000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP406-972878",
+          "property": {
+            "id": "cmv02h2ii0002h8asdwhcdrzr",
+            "codeCommune": "51454",
+            "surface": 63.38,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 15400000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "APPROVED: whole EUR148500 seller-paid-fee apartment62m2/T4, two noncontiguous bedrooms plus salon and dining room; room/surface combination plausible and no correction needed. Fourth/top floor explicitly WITHOUTlift, hasElevator=false. Construction year unknown. Naturalgas exposed; heating mode not inferred. Two sale lots in76TOTAL, no procedure, EUR1032annual/EUR86monthly charges; tax unknown. DPE D209/GES D45 assessed2026-10-01, energy1230-1710 indexed2023 preserved. Recent exterior insulation, excellent comfort/performance, quiet/no-overlooking, proximity and easy sector parking are unverified advertiser claims; no automatic energy upgrade or assigned parking ownership inferred. All22 own gallery entries inspected: teal/white-sofa living, adjacent glass-table dining, two separate bedroom/office layouts, separate grey fitted kitchen, grey shower/window, two balcony/roof views, cream facade and source floor plan. Plan labelled4emeEtage supports layout but is not a certified measured plan. Plan bathroom label retained separately from actual shower. No visible AI/proposal label or inconsistent fixed geometry. SeparateWC/cave/no-lift source-only; no vacant-possession certification from furnishings. Full wording establishes no current tenant, occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, mandatory managed/commercial lease, ancillary-only sale, houseboat, bot/spam or impossible layout. Exact new sourceID/all22 own image identities absent in approved/pending/excluded/duplicate/export history and native active photos. Six near active full descriptions compared, zero non-active units in62plusminus4range. GH66first/1923/6lots/F/terrace and GH66third/1970/200lots/D176 differ; Laforet60.45firstWITHOUTlift/111lots/E/2728annual/assignedparking differs; Citya66groundWITHlift/recent/65lots/D230B7garage and Citya63.38ground/1970/57lots/D227D49 differ. Closest Laforet63.89 current full primary HTTP200 read:1970/146lots/17.47living/2508annual/privateparking/cave, two bedrooms, bath. First source comparison image individually viewed: continuous living-dining room, full-height two-pane door plus narrow fixed pane and black vertical balcony bars, unlike IAD adjacent rooms/double central balcony door/fixed white lower side panels/perforated grey rails. Neither matching physical geometry nor same-unit facts established. No unsupported nearby withdrawal. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+      "primaryComparison": {
+        "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-3-pieces-52281887",
+        "detailDirectHttpStatus": 200,
+        "sourceDescriptionRead": true,
+        "comparisonPhoto": {
+          "url": "https://laforetbusiness.laforet-intranet.com/office9/laforet_skmgcbhdwait/catalog/images/pr_p/5/2/2/8/1/8/8/7/52281887a.jpg",
+          "httpStatus": 200,
+          "sha256": "30a5252433742723438f79c7c6b5b7c9427ff7ea272f410df2864ab1052da0e5"
+        },
+        "photoObservation": "Continuous main room, full-height double door plus narrow fixed pane/black vertical balcony bars, unlike IAD separated salon-dining/double central balcony door/white fixed lower side panels/perforated rails. No source AI label apparent; furniture condition not certified. Different146lots/2508annual/privateparking versus76/1032/noassignedparking."
+      }
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order, excluding related-property media. Actual initial HTTP200 observation preserved as first-seen; primary publication exposes2026-10-01 date only and time omitted. Exact address, current availability, condition, measurements and proximity independently unconfirmed. Furnishings do not establish tenancy or vacant possession. Fresh first-page apartment feeds prioritised Le Mans then Angers: seven older January-March2026 Le Mans adverts deferred without photo review/trust; no unreviewed eligible Angers IDs on first page. Two October1 Reims adverts then individually reviewed. No claim that all pages or markets exhausted. APPROVED: whole EUR148500 seller-paid-fee apartment62m2/T4, two noncontiguous bedrooms plus salon and dining room; room/surface combination plausible and no correction needed. Fourth/top floor explicitly WITHOUTlift, hasElevator=false. Construction year unknown. Naturalgas exposed; heating mode not inferred. Two sale lots in76TOTAL, no procedure, EUR1032annual/EUR86monthly charges; tax unknown. DPE D209/GES D45 assessed2026-10-01, energy1230-1710 indexed2023 preserved. Recent exterior insulation, excellent comfort/performance, quiet/no-overlooking, proximity and easy sector parking are unverified advertiser claims; no automatic energy upgrade or assigned parking ownership inferred. All22 own gallery entries inspected: teal/white-sofa living, adjacent glass-table dining, two separate bedroom/office layouts, separate grey fitted kitchen, grey shower/window, two balcony/roof views, cream facade and source floor plan. Plan labelled4emeEtage supports layout but is not a certified measured plan. Plan bathroom label retained separately from actual shower. No visible AI/proposal label or inconsistent fixed geometry. SeparateWC/cave/no-lift source-only; no vacant-possession certification from furnishings. Full wording establishes no current tenant, occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, mandatory managed/commercial lease, ancillary-only sale, houseboat, bot/spam or impossible layout. Exact new sourceID/all22 own image identities absent in approved/pending/excluded/duplicate/export history and native active photos. Six near active full descriptions compared, zero non-active units in62plusminus4range. GH66first/1923/6lots/F/terrace and GH66third/1970/200lots/D176 differ; Laforet60.45firstWITHOUTlift/111lots/E/2728annual/assignedparking differs; Citya66groundWITHlift/recent/65lots/D230B7garage and Citya63.38ground/1970/57lots/D227D49 differ. Closest Laforet63.89 current full primary HTTP200 read:1970/146lots/17.47living/2508annual/privateparking/cave, two bedrooms, bath. First source comparison image individually viewed: continuous living-dining room, full-height two-pane door plus narrow fixed pane and black vertical balcony bars, unlike IAD adjacent rooms/double central balcony door/fixed white lower side panels/perforated grey rails. Neither matching physical geometry nor same-unit facts established. No unsupported nearby withdrawal. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+    "hasElevator": false,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "51454",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1310,
+      "nbObs": 46502,
+      "actualApartmentDVFSales": 9836,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 9836
+      }
+    }
+  }
+]
