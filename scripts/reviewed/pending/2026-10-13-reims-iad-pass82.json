@@ -1,0 +1,248 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-36m2/r2121771",
+    "observedAt": "2026-10-13T09:08:48.779221+00:00",
+    "externalId": "2121771",
+    "firstSeenAt": "2026-10-13T09:08:48.779221+00:00",
+    "reviewedAt": "2026-10-13T09:19:22.893947+00:00",
+    "communeCode": "51454",
+    "priceEuros": 130500,
+    "surface": 36,
+    "rooms": 2,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 6,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Christelle Thévin",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "A 10 minutes du centre ville, proche Pommery et Saint Remi, magnifique T2 complètement isolé et rénové incluant \nélectricité, isolation, vmc, sanitaire, plomberie, sol et peinture intégrant une cuisine neuve moderne équipée et aménagée, le tout joliment décoré!\n\nAu 6 éme et dernier étage avec ascenseur, appartement calme composé d'un espace de vie de nombreux placards, une grande salle de douche neuve moderne, 1 wc suspendu, une grande cuisine neuve moderne équipée et aménagée avec arrière cuisine bénéficiant d'un joli cadre et une cave \nEn résidence principale,  en location meublée  ou Airbnb! tout est possible\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 298 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 125€ par mois (soit 1500 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Christelle Thévin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 940226566, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-30",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "C",
+    "chargesAnnualEuros": 1500,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-04-30",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 196
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 25
+      },
+      "amount": {
+        "min": 690,
+        "max": 980
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 298,
+      "annualFees": 1500,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1970,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "130 500 €",
+      "formattedPerSurface": "3 625 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1970"
+        },
+        {
+          "text": "Étage : 6"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 36,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 4,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca5594684403c8d36fb96f90fc9b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca5594932914e14a979ef7636550.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca55949133a2595c66e219e1464d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca559489be3b367e9981ca672cc6.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca5594684403c8d36fb96f90fc9b.jpg",
+        "httpStatus": 200,
+        "sha256": "5f4baabf66182c802554bff0dd24ceebec520307ac50825c7c61af2b1a725046",
+        "observation": "Original furnished main room with open double bed and wood headboard/radiator, dark sofa, leaf-pattern wall, wood-effect floor, white coffee tables and full-height glazing. Bed shares visible main room; no separately enclosed bedroom shown."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca5594932914e14a979ef7636550.jpg",
+        "httpStatus": 200,
+        "sha256": "791a0dcdd91daf96847994810d064e32dde82db0e4219071792b8526d32f1c8e",
+        "observation": "Original grey fitted kitchen with patterned backsplash, hob/oven/hood, fridge, white round table/two chairs and matching wood-effect floor; exterior glazing. No separate bedroom established by kitchen."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca55949133a2595c66e219e1464d.jpg",
+        "httpStatus": 200,
+        "sha256": "9af9586d985f0d765863625c0df7057f32b87627fa15f4f771c274edd4cd3da4",
+        "observation": "Original bathroom with white bath tub and black grid screen, white wall tiles, white vanity/mirror and wood-effect floor. Source says grande salle de douche; visible bathtub retained without declaring source shower-only layout verified."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/22/01a0ca559489be3b367e9981ca672cc6.jpg",
+        "httpStatus": 200,
+        "sha256": "c1e7f8726c13ce0c0f939f74d710cd5bfa3d8dba8a160c4f62f807eabdb88bf9",
+        "observation": "Closer reverse same main-room open bed/wood headboard/radiator, TV on white cabinet, same white coffee tables and wood-effect floor. Not an extra bedroom. All4 own entries individually inspected; no visible AI/proposal label or apparent inconsistent fixed geometry. WC/cave/lift/works source-only, no legality of Airbnb inferred."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-36m2/r2121771",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-13T09:19:15.924391+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r454901630",
+          "property": {
+            "id": "cmuokqk3i000th8x8v3qe054r",
+            "codeCommune": "51454",
+            "surface": 40.0,
+            "rooms": 2,
+            "floor": 3,
+            "hasElevator": 0,
+            "dpe": "G",
+            "ges": null
+          },
+          "priceCents": 8990000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-2-pieces-52667729",
+          "property": {
+            "id": "cmuyns5u00002h8asbxyypcha",
+            "codeCommune": "51454",
+            "surface": 40.0,
+            "rooms": 2,
+            "floor": 1,
+            "hasElevator": 0,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 16550000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-1-piece-52934532",
+          "property": {
+            "id": "cmuynsblv000bh8as1gyag59k",
+            "codeCommune": "51454",
+            "surface": 33.43,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 11990000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-reims-citya-pass52.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP406-972889",
+          "surface": 35,
+          "rooms": 2,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": 1,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-reims-iad-pass56.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-40m2/r2112105",
+          "surface": 39.69,
+          "rooms": 3,
+          "reviewStatus": "PENDING_CARREZ_SURFACE_CLARIFICATION",
+          "floor": null,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-12-reims-iad-pass77.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2130143",
+          "surface": 33.6,
+          "rooms": 2,
+          "reviewStatus": "PENDING_SOURCE_FACT_AND_PHOTO_CLARIFICATION",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_ROOM_LAYOUT_CLARIFICATION: whole EUR130500 seller-paid-fee apartment36m2 advertisedT2/two rooms but structured bedroomsCount0, full prose describes espace de vie and large kitchen/utility without identifying a separately enclosed bedroom. Gallery1/4 shows bed open in main living room; kitchen is separately shown, no separate bedroom established. Preserve rooms2 and bedrooms0 as source facts without inventing bedroom, room-count rule or corrected studio classification. Obtain actual habitable-room layout before trusted import/analysis. Sixth/top floor WITHlift,1970construction/naturalgas. Two sale lots in298TOTAL, no procedure,1500annual/125monthly charges, tax unknown. DPE D196/GES C25 assessed2026-04-30, energy690-980 indexed2023 preserved. Renovated electrical/insulation/VMC/plumbing/newkitchen claims unverified; photo3 shows bath with shower screen while prose says grande salle de douche, retain source/photo distinction. Source furnished-rental/Airbnb possibility is marketing, not certified permission, current tenancy or mandatory managed lease. No definitive occupied/viager/bare/fractional/timeshare/auction/partialprice/commerciallease finding. All4 own gallery entries individually viewed. Exact sourceID/all4 own image paths absent across all historical statuses/exports and active native photos. Three active nearby full descriptions and three nonactive full source descriptions compared. PAP40third/topWITHOUTlift/attic32Carrez50floor/electric/G differs; Laforet40firstfloor2012electricduplex differs; Laforet33.43studio/terrace360charges/E-B differs. ExcludedCitya35firstoldmouldings/openkitchen/current575rent differs; pending39.69triplex5lots/840/reversibleAC/terrace differs; pending33.6ground4lots/G606/terrace/works differs. No same physical unit established, no unsupported nearby withdrawal. No native import or investment analysis while pending."
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-property media excluded. Actual initial full-page HTTP200 observation preserved as first-seen separately from publication date; primary firstPublishDate has date only, publication time omitted. Exact address, availability, condition, dimensions and proximity independently unconfirmed. Furnishings do not establish tenancy or legally vacant possession. Fresh first-page apartment feeds prioritised Le Mans then Angers: seven older January-March2026 Le Mans adverts deferred without photo review/trust, no unreviewed eligible Angers IDs on first page. Reims September30 and29 adverts then reviewed in newest-date order. No claim that all pages/markets exhausted. PENDING_ROOM_LAYOUT_CLARIFICATION: whole EUR130500 seller-paid-fee apartment36m2 advertisedT2/two rooms but structured bedroomsCount0, full prose describes espace de vie and large kitchen/utility without identifying a separately enclosed bedroom. Gallery1/4 shows bed open in main living room; kitchen is separately shown, no separate bedroom established. Preserve rooms2 and bedrooms0 as source facts without inventing bedroom, room-count rule or corrected studio classification. Obtain actual habitable-room layout before trusted import/analysis. Sixth/top floor WITHlift,1970construction/naturalgas. Two sale lots in298TOTAL, no procedure,1500annual/125monthly charges, tax unknown. DPE D196/GES C25 assessed2026-04-30, energy690-980 indexed2023 preserved. Renovated electrical/insulation/VMC/plumbing/newkitchen claims unverified; photo3 shows bath with shower screen while prose says grande salle de douche, retain source/photo distinction. Source furnished-rental/Airbnb possibility is marketing, not certified permission, current tenancy or mandatory managed lease. No definitive occupied/viager/bare/fractional/timeshare/auction/partialprice/commerciallease finding. All4 own gallery entries individually viewed. Exact sourceID/all4 own image paths absent across all historical statuses/exports and active native photos. Three active nearby full descriptions and three nonactive full source descriptions compared. PAP40third/topWITHOUTlift/attic32Carrez50floor/electric/G differs; Laforet40firstfloor2012electricduplex differs; Laforet33.43studio/terrace360charges/E-B differs. ExcludedCitya35firstoldmouldings/openkitchen/current575rent differs; pending39.69triplex5lots/840/reversibleAC/terrace differs; pending33.6ground4lots/G606/terrace/works differs. No same physical unit established, no unsupported nearby withdrawal. No native import or investment analysis while pending.",
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "pendingReasons": [
+      "ROOM_LAYOUT_UNCONFIRMED"
+    ],
+    "pendingEvidence": {
+      "advertisedRooms": 2,
+      "structuredBedrooms": 0,
+      "sourceDescribesSeparateBedroom": false,
+      "photoOpenBedInMainRoom": true,
+      "separateBedroomVisuallyConfirmed": false,
+      "clarificationNeeded": "Confirm actual habitable-room configuration before trusted import; preserve T2/zero-bed source without inventing a bedroom or corrected studio type."
+    }
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-52m2/r2122448",
+    "observedAt": "2026-10-13T09:08:48.678797+00:00",
+    "externalId": "2122448",
+    "firstSeenAt": "2026-10-13T09:08:48.678797+00:00",
+    "reviewedAt": "2026-10-13T09:19:22.897050+00:00",
+    "communeCode": "51454",
+    "priceEuros": 137000,
+    "surface": 52,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Ludovic DOUCHIN",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "REIMS - APPARTEMENT - T2 52M² - GARAGE -\n\nBénéficiant d'une exposition plein sud, cet appartement à Reims offre une bonne luminosité naturelle tout au long de la journée. Entièrement rénové, il développe 52 m² habitables au 3e étage d'une résidence de standing sécurisée, desservie par un ascenseur.\n\nL'entrée, bien proportionnée, distribue les différentes pièces du logement. Le séjour de 16 m², lumineux grâce à son orientation plein sud, constitue le cœur de l'appartement. La cuisine séparée, fonctionnelle et bien agencée, complète agréablement cet espace de vie. La chambre, spacieuse offre un vrai confort au quotidien. La salle de bain, ainsi qu'un WC indépendant complètent la distribution. Un cellier pratique vient compléter les rangements disponibles.\n\nL'appartement dispose d'un balcon plein sud, adapté pour profiter de l'ensoleillement, ainsi que d'un garage en sous-sol — un atout peu courant et important. Une cave complète les annexes. Côté équipements, la résidence est dotée d'un digicode, d'un interphone, d'une VMC et de la fibre optique. L'accessibilité PMR est également assurée.\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 313 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 130€ par mois (soit 1560 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Ludovic DOUCHIN mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 901482083, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-29",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 1560,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-20",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 212
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 46
+      },
+      "amount": {
+        "min": 870,
+        "max": 1220
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 313,
+      "annualFees": 1560,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "137 000 €",
+      "formattedPerSurface": "2 635 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 3"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 52,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e83f8746ca6327edac748579e9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e8478b57a19648082bb91391f5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e844bb842d588095e45adc6595.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e8475ccac3b9ac04eb8ca8b696.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e8453d08b8903106af77fa449f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e832ffd2ae725f77d8229b68a2.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e83f8746ca6327edac748579e9.jpg",
+        "httpStatus": 200,
+        "sha256": "6f65cacfd259f5e3928c46b1288400a340d3c69aadadb5c36fbcba50dc455e80",
+        "observation": "Original living/dining room, white/wood glass cupboard and TV stand, white dining table/chairs with patterned cloth, pale grey floor and balcony glazed opening. Doorway toward separate bedroom with green wall."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e8478b57a19648082bb91391f5.jpg",
+        "httpStatus": 200,
+        "sha256": "86bfc6416802c0c1baedd131920822e6728e8ef96c4ae929a11a6ac0b9b18f21",
+        "observation": "Original separate bedroom with green walls/grey wavy wallpaper, double bed, light wood mirrored wardrobe, double window/radiator and matching grey floor. No bedroom balcony access inferred."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e844bb842d588095e45adc6595.jpg",
+        "httpStatus": 200,
+        "sha256": "2800f06900e07d0f03fe8aae9a6de8c90984ef8cf869e2db7250243f8455fde7",
+        "observation": "Original separate kitchen with white fitted cabinets, grey worktop/backsplash, red accent band/square-pattern wallpaper, white fridge/microwave, hob/oven/hood, double window and grey floor."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e8475ccac3b9ac04eb8ca8b696.jpg",
+        "httpStatus": 200,
+        "sha256": "6bc04459b9a338956f948f6aa5361e6c63b9c1d554ee6f3acccfa5c73e45bd95",
+        "observation": "Original bathroom with white bathtub/striped glass screen, blue tiles/white circle-pattern band, white vanity/cabinet, mirror, towel radiator and washing-machine edge. Not a shower-only room."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e8453d08b8903106af77fa449f.jpg",
+        "httpStatus": 200,
+        "sha256": "e0c739a163f8d243f732a551bde1775a7e5f46e14884b3dc390d5636d4eac96d",
+        "observation": "Original hall/storage doors, pale striped wallpaper and grey floor, connecting same red/white kitchen and living-room balcony opening. SeparateWC and cave not independently shown."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e3e832ffd2ae725f77d8229b68a2.jpg",
+        "httpStatus": 200,
+        "sha256": "ef1a6ba1b7ca1485af7e907ad6201bdeab7790dd0442839e980e30c2dc467a18",
+        "observation": "Basement communal parking area with marked open bays/numbers and PRIVE floor text; concrete beams/pillars and wall staining visible. Source garage en sous-sol preserved as claim; image does not certify closed box, exact assigned bay or legal rights. All6 own entries inspected; no visible AI/proposal label or apparent fixed geometry mismatch. Balcony orientation, floor3, lift and PMR remain source-supported without visual certification."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-52m2/r2122448",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-13T09:19:15.907961+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401329",
+          "property": {
+            "id": "cmuon5dmh000bh8p4kmgy9plw",
+            "codeCommune": "51454",
+            "surface": 49.0,
+            "rooms": 2,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 15000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465400793",
+          "property": {
+            "id": "cmuon5dz6000kh8p4gm5lmwqe",
+            "codeCommune": "51454",
+            "surface": 53.0,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 15200000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-52m2/r2117120",
+          "property": {
+            "id": "cmv04nscn0002h8p0fvtp6chu",
+            "codeCommune": "51454",
+            "surface": 52.0,
+            "rooms": 3,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 14800000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132366",
+          "property": {
+            "id": "cmv5qsn060002h8x0n2vaz96d",
+            "codeCommune": "51454",
+            "surface": 49.0,
+            "rooms": 2,
+            "floor": 5,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 13600000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\duplicates\\2026-10-12-reims-iad-pass75.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132869",
+          "surface": 49,
+          "rooms": 2,
+          "reviewStatus": "DUPLICATE_PHYSICAL_UNIT",
+          "floor": 0,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-13-reims-iad-pass78.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-55m2/r2123659",
+          "surface": 54.51,
+          "rooms": 2,
+          "reviewStatus": "EXCLUDED_CURRENT_TENANCY",
+          "floor": 0,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-12-reims-iad-pass76.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-49m2/r2129172",
+          "surface": 49,
+          "rooms": 1,
+          "reviewStatus": "PENDING_ROOM_AND_SURFACE_CLARIFICATION",
+          "floor": 4,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "APPROVED: whole EUR137000 asking price seller-paid-fees for52m2/T2/one separatebedroom. Floor3 and WITHlift explicitly exposed; construction year unknown. Naturalgas exposed, heating mode not inferred. Three sale lots in313TOTAL, no proceeding, EUR1560annual/EUR130monthly charges, tax unknown. DPE D212/GES D46 assessed2026-09-20, energy870-1220 indexed2023 retained. Source16m2living, fullsouth orientation/balcony, standing/renovated/PMR/digicode/interphone/VMC/fibre claims preserved unverified; no independently certified renovation, accessibility, orientation or vacant possession. Source includes basement garage and cave. Own photo6 shows open marked parking bays in common basement, not a verified closed box or assigned bay/right; do not relabel an open space as certified enclosed garage or invent its size/value. Cellar and separateWC source-only. All6 own images viewed: white/wood living with grey floor, separate green/grey-wave bedroom, white/red kitchen, blue-circle tiled bathtub and hall, basement open bays. No visible AI/proposal label or inconsistent fixed geometry. No current-tenant/occupied-sale,viager,bare/fractional/timeshare,auction/starting/partialprice,mandatorymanaged/commerciallease,ancillary-onlyproperty,houseboat,bot/spam or impossible room/surface wording established in complete primary text. Exact new sourceID and all6 own image paths absent in approved/pending/excluded/duplicate/export evidence and native active photos. Four nearby active full descriptions plus three nonactive full sources compared. PAP49/duplicateIAD49ground unit has tandemparking/80lots/1440annual/differentbath; PAP53ground2011/electric/openkitchen/22terrace differs; IAD52T3/5lots/twobedrooms/52Carrez57floor/960/D-B differs. ExcludedIAD54.51ground/3lots/300/let/terrace and pendingIAD49T1/T2fourthWITHlift/300lots/612/C91C15 differ. Closest activeIAD49fifthWITHlift shares313TOTALlots, but source has49m2/23living/1408.8annual/D158D31/bedroombalcony/parking rather than52/16/1560/D212D46/bedroomwindow. Its full current primary HTTP200 description/facts freshly read; all6 media URLs unchanged from previously saved primary. Three original comparison photos1/2/6 actually viewed again: handleless white/grey kitchen with side window/washer, large grey-tiled living with broadbalcony/white wallTV cabinets, grey-band glass shower/doublebasin; new52 has handled white/red kitchen/fridge/microwave/rightwindow, pale smoothgrey living and blue-circle bathtub/singlebasin. Distinct fixed layouts/fixtures plus floor/diagnostic facts support different units; no duplicate or unsupportedwithdrawal asserted. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+      "primaryComparison": {
+        "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-49m2/r2132366",
+        "detailDirectHttpStatus": 200,
+        "currentPrimaryDescriptionRead": true,
+        "allSixCurrentGalleryUrlsUnchanged": true,
+        "comparisonPhotosIndividuallyInspected": [
+          {
+            "number": 1,
+            "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a120790f79952aaa537141a7317167.jpg",
+            "httpStatus": 200,
+            "sha256": "0cf0bfd3d0eec77feddbb1879c517bf214c48476c083ddd9f97a1385229c729b"
+          },
+          {
+            "number": 2,
+            "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a120790cd4e31810ee6cd5c13834c0.jpg",
+            "httpStatus": 200,
+            "sha256": "29268dbeef74d1eb839f970aec63fadd6f7cb28af113529d8d89765bad9533a2"
+          },
+          {
+            "number": 6,
+            "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a12079086b64ed7a0ae987e6f34eb3.jpg",
+            "httpStatus": 200,
+            "sha256": "1953d542d226e782e3293da9535595c9b29ffde4f1de2fc682d7a91b1e4565ea"
+          }
+        ],
+        "comparisonMediaObservation": "Previously captured photos1/2/6 individually viewed again after fresh primary confirmed unchanged URLs. Grey-band shower/doublebasin vs blue-circle bathtub/singlebasin and different kitchen/window/cabinet/floor geometry; fifth49 vs third52, different diagnostic/charges. No duplicate established."
+      }
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-property media excluded. Actual initial full-page HTTP200 observation preserved as first-seen separately from publication date; primary firstPublishDate has date only, publication time omitted. Exact address, availability, condition, dimensions and proximity independently unconfirmed. Furnishings do not establish tenancy or legally vacant possession. Fresh first-page apartment feeds prioritised Le Mans then Angers: seven older January-March2026 Le Mans adverts deferred without photo review/trust, no unreviewed eligible Angers IDs on first page. Reims September30 and29 adverts then reviewed in newest-date order. No claim that all pages/markets exhausted. APPROVED: whole EUR137000 asking price seller-paid-fees for52m2/T2/one separatebedroom. Floor3 and WITHlift explicitly exposed; construction year unknown. Naturalgas exposed, heating mode not inferred. Three sale lots in313TOTAL, no proceeding, EUR1560annual/EUR130monthly charges, tax unknown. DPE D212/GES D46 assessed2026-09-20, energy870-1220 indexed2023 retained. Source16m2living, fullsouth orientation/balcony, standing/renovated/PMR/digicode/interphone/VMC/fibre claims preserved unverified; no independently certified renovation, accessibility, orientation or vacant possession. Source includes basement garage and cave. Own photo6 shows open marked parking bays in common basement, not a verified closed box or assigned bay/right; do not relabel an open space as certified enclosed garage or invent its size/value. Cellar and separateWC source-only. All6 own images viewed: white/wood living with grey floor, separate green/grey-wave bedroom, white/red kitchen, blue-circle tiled bathtub and hall, basement open bays. No visible AI/proposal label or inconsistent fixed geometry. No current-tenant/occupied-sale,viager,bare/fractional/timeshare,auction/starting/partialprice,mandatorymanaged/commerciallease,ancillary-onlyproperty,houseboat,bot/spam or impossible room/surface wording established in complete primary text. Exact new sourceID and all6 own image paths absent in approved/pending/excluded/duplicate/export evidence and native active photos. Four nearby active full descriptions plus three nonactive full sources compared. PAP49/duplicateIAD49ground unit has tandemparking/80lots/1440annual/differentbath; PAP53ground2011/electric/openkitchen/22terrace differs; IAD52T3/5lots/twobedrooms/52Carrez57floor/960/D-B differs. ExcludedIAD54.51ground/3lots/300/let/terrace and pendingIAD49T1/T2fourthWITHlift/300lots/612/C91C15 differ. Closest activeIAD49fifthWITHlift shares313TOTALlots, but source has49m2/23living/1408.8annual/D158D31/bedroombalcony/parking rather than52/16/1560/D212D46/bedroomwindow. Its full current primary HTTP200 description/facts freshly read; all6 media URLs unchanged from previously saved primary. Three original comparison photos1/2/6 actually viewed again: handleless white/grey kitchen with side window/washer, large grey-tiled living with broadbalcony/white wallTV cabinets, grey-band glass shower/doublebasin; new52 has handled white/red kitchen/fridge/microwave/rightwindow, pale smoothgrey living and blue-circle bathtub/singlebasin. Distinct fixed layouts/fixtures plus floor/diagnostic facts support different units; no duplicate or unsupportedwithdrawal asserted. Actual local Reims rent and apartment DVF coverage verified before analysis.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "51454",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1310,
+      "nbObs": 46502,
+      "actualApartmentDVFSales": 9836,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 9836
+      }
+    }
+  }
+]
