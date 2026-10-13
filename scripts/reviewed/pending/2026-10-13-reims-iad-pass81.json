@@ -1,0 +1,743 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-68m2/r2124931",
+    "observedAt": "2026-10-13T08:52:35.817945+00:00",
+    "externalId": "2124931",
+    "firstSeenAt": "2026-10-13T08:52:35.817945+00:00",
+    "reviewedAt": "2026-10-13T09:03:58.796504+00:00",
+    "communeCode": "51454",
+    "priceEuros": 179000,
+    "surface": 68,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Kevin Triouleyre",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "REIMS – APPARTEMENT T3 – 68 M² – BALCON – PARKING – TRÈS BON ÉTAT\n\nDans une résidence sécurisée à Reims, découvrez cet appartement 3 pièces de 68 m² situé au 2e étage d’un immeuble de 3 niveaux.\n\nBien agencé et en très bon état général, il bénéficie d’une belle luminosité grâce à son exposition.\n\nL’appartement se compose d’une agréable pièce de vie de 22 m², lumineuse et conviviale, ainsi que d’une petite cuisine séparée.\n\nUn couloir dessert ensuite deux chambres confortables, dont une de 13 m², ainsi qu’une salle d’eau et des WC indépendants.\n\nUn balcon accessible depuis les chambres vient compléter l’ensemble et offre une vue agréable sur la cour intérieure de la résidence, agrémentée de végétation.\n\nL’appartement bénéficie également d’une place de parking privative .\n\nCôté confort : fibre optique, VMC, chauffage électrique individuel et interphone.\n\nIdéalement situé à proximité des commerces, des écoles et des transports, et à quelques mètres de la place Luton, cet appartement offre un cadre de vie pratique au quotidien.\n\nUn appartement fonctionnel, bien entretenu et bénéficiant d’un extérieur, à découvrir sans tarder.\n\nContactez-moi pour organiser une visite.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 27 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 160€ par mois (soit 1920 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Kevin Triouleyre mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 952528586, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-01",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 1920,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-03-05",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 173
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 750,
+        "max": 1050
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 27,
+      "annualFees": 1920,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1999,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "179 000 €",
+      "formattedPerSurface": "2 632 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1999"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 68,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 20,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72596013563d5b902e8fd9ecd9f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72596e82ec7652f5913d9e30ad8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f7adc3492b315185b91aa368.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f7259277cc4690480c7bda9b0195.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725947367aac7937716caa916e6.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725960ef446262158705ea6d161.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72595c6ddff768591181e206827.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f1183b82bc10a1dd5eb1888b.png",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f3c5d31c023f98f1f7711972.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72eb07ce05519f3f600b44adba8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72593be945128c3bf82e2118998.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f3863c6e869dc1c7e42a22dc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f7f5bae0448f57d11633cba5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f89044313596b9d3b952ee27.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72596b2daa42b131bef611bf3ff.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f7259425c9149244bdad306dfe05.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72594e42a795670063b8d09f9ca.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f7259599f7e245f1f7de2d39d18f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725961a15a7f1cb0f686ce276e9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f557161a79e58f9a5af31b07.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72596013563d5b902e8fd9ecd9f.jpg",
+        "httpStatus": 200,
+        "sha256": "0462c854cdff6ff9d4d97c02e8bd1b6294b0cca119ef564fac01ac6a18c424f3",
+        "observation": "Exterior shared access gallery/stair rail, cream facade, white door with grey diamond/panel design and two windows. Concrete staining/cracks visible, no structural assessment or accessibility certification inferred."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72596e82ec7652f5913d9e30ad8.jpg",
+        "httpStatus": 200,
+        "sha256": "83b09f34a9869e1c548b0b4a3e3c34d8dd15f6d33af46aa615e3f40521099652",
+        "observation": "Original entry from same grey-patterned door, cream square tiles, white walls, cupboard/Linky and electric panel heater; arched opening to dark kitchen."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f7adc3492b315185b91aa368.jpg",
+        "httpStatus": 200,
+        "sha256": "14183cc25575fd8f277cb557fd691d87c0c32bf7cfa0605249d0c2e5947761fc",
+        "observation": "Original entry sliding cupboard opened to white shelving, same floor and panel/heater. Not another room."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f7259277cc4690480c7bda9b0195.jpg",
+        "httpStatus": 200,
+        "sha256": "128df054bbfacc6fc23eee409519c02479fd974fc1cf69efa3c47b76ed9cdd53",
+        "observation": "Original compact dark wood kitchen through arched doorway, grey-beige square backsplash with mosaic horizontal strip, double sink, white microwave and square tiled floor."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725947367aac7937716caa916e6.jpg",
+        "httpStatus": 200,
+        "sha256": "273362157c003d0c41e2682e0fc2ac56cae8152057a5a9e4b2b1ac2aa2f5ed16",
+        "observation": "Closer same dark kitchen cupboards/metal square knobs/sink/mosaic strip/hood; no hob visible below hood. Appliance inventory and operational condition unverified."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725960ef446262158705ea6d161.jpg",
+        "httpStatus": 200,
+        "sha256": "5f357e8aaeb109f874c4ad1fde1c7710b543b4956cf1f329c90c3f2e8986a617",
+        "observation": "Reverse same kitchen with undercounter fridge and broad serving opening onto empty main room/window/electric panel heater. Source separate kitchen retained with visible serving opening disclosed."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72595c6ddff768591181e206827.jpg",
+        "httpStatus": 200,
+        "sha256": "cceb65636ac0319eabd6badc5b7dcc6b491a5dfece082b84e7ca371a64718097",
+        "observation": "Same kitchen from serving opening, arched hall doorway, matching cabinets/tiles/hood. No additional kitchen counted."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f1183b82bc10a1dd5eb1888b.png",
+        "httpStatus": 200,
+        "sha256": "b077f945062144563d5a7c79d710ca474b5d0c3984e8434f2ee41af1b06c6800",
+        "observation": "PNG gallery entry showing empty main room, diagonal cream square tiles, white walls, broad kitchen serving opening with white lower cupboards and adjacent arched hallway. No visible proposal label."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f3c5d31c023f98f1f7711972.jpg",
+        "httpStatus": 200,
+        "sha256": "826c8593772046ceb1d5f6ca830a45d39370a96d269e8cecc8ffcaefb8d99f43",
+        "observation": "Same empty main room toward kitchen/hall, matching diagonal floor and tall window/panel heater."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72eb07ce05519f3f600b44adba8.jpg",
+        "httpStatus": 200,
+        "sha256": "5bc8b6cdc4d597480a81c5d52e085a3c4da5c036d3fc3867898f5ab9e978d170",
+        "observation": "Reverse main room toward two tall glazed window groups with vertical guard bars and panel heater. A blue VENDU board is visible through the left window; exact mounting and property referred to are unverified. This is an availability/photo-context concern, not proof this apartment has sold."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72593be945128c3bf82e2118998.jpg",
+        "httpStatus": 200,
+        "sha256": "0b9c62c13c171a2adadee3b90368395b45cf31b819b9636454ca2377675c34ee",
+        "observation": "Original hall linking main room/kitchen to bedrooms/shower, same cream tiled floor and white walls. No extra habitable room."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f3863c6e869dc1c7e42a22dc.jpg",
+        "httpStatus": 200,
+        "sha256": "fbb126e0660dca7acf7ac471559da86182328910fb2f7501027ab8bd580f0ebc",
+        "observation": "Original separateWC, grey lid/pan/cistern, white walls, marble-effect square floor tiles and upper vent."
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f7f5bae0448f57d11633cba5.jpg",
+        "httpStatus": 200,
+        "sha256": "244292bb75e9c0dec861b27918e3ccd710092afda7d82e5b3b7e33aa7b29478f",
+        "observation": "Original shower room with red tall cabinet/red vanity, grey walls, glass shower/white tray, white towel radiator and wood-effect floor."
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f89044313596b9d3b952ee27.jpg",
+        "httpStatus": 200,
+        "sha256": "3102f40c2f77743fbee1275a5f45277f3daa34a0678a772dda9e2119150e2b32",
+        "observation": "Reverse same red-vanity shower room with red/black/white mosaic backsplash, washing-machine plumbing and visible unfinished light fitting. No certification of completion/electrical condition."
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72596b2daa42b131bef611bf3ff.jpg",
+        "httpStatus": 200,
+        "sha256": "32f0c630149c82c2c2e74b67ddc58552ac7460c1cbc7f9a6099efe792a801352",
+        "observation": "Original first bedroom, dark teal window wall, pale wood-effect floor, full-height courtyard balcony doors and white electric panel heater."
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f7259425c9149244bdad306dfe05.jpg",
+        "httpStatus": 200,
+        "sha256": "8c96ad62e638abad9c3c93fe1ff09b697b400600d5ac448ecfc03a0f115965ca",
+        "observation": "Reverse first bedroom with dark teal doorway wall/pale wood-effect floor, white internal door, same heater and shower cabinet visible beyond."
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f72594e42a795670063b8d09f9ca.jpg",
+        "httpStatus": 200,
+        "sha256": "2696bc87bdc81af3f15aba2b4014de503c232e2a6c5c2252ae69f46886ce41a9",
+        "observation": "Original second bedroom with purple/grey floral striped wallpaper, darker grey wood-effect floor, courtyard balcony doors and white electric panel heater."
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f7259599f7e245f1f7de2d39d18f.jpg",
+        "httpStatus": 200,
+        "sha256": "fbfdead38be66949adaf8db2e794105d7f509bf8e8495794a3c01691442de3e3",
+        "observation": "Reverse same second bedroom, dark grey wall and matching purple/grey floral wallpaper/floor; not an additional bedroom."
+      },
+      {
+        "number": 19,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725961a15a7f1cb0f686ce276e9.jpg",
+        "httpStatus": 200,
+        "sha256": "35e080646bb6149e35e5feb755958df550fe7f6f32be65521762333b57d62198",
+        "observation": "Original long balcony/gallery view, solid grey guard panel, cream facade, full-height bedroom doors, visible ceiling/floor staining and courtyard roofs. Private/shared legal limits and measurements unverified."
+      },
+      {
+        "number": 20,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/01/01a0f725f557161a79e58f9a5af31b07.jpg",
+        "httpStatus": 200,
+        "sha256": "3e15094dd07c674ee8ead61084259df5a8f86e2ddcff257caa37f177f9274b26",
+        "observation": "Original planted internal common courtyard, access galleries/grey vertical rails and same diamond-pattern doors. No exclusive garden or courtyard ownership inferred. All20 own entries individually inspected; no visible AI/proposal label or inconsistent fixed room geometry. Assigned parking and VMC remain source-only assertions."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-68m2/r2124931",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-13T09:03:56.931954+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15854488895/",
+          "property": {
+            "id": "cmuapavbq000th89sieyrmcy2",
+            "codeCommune": "51454",
+            "surface": 68.2,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": 1,
+            "dpe": "E",
+            "ges": null
+          },
+          "priceCents": 18400000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t4-reims-51100-c650bf9f-5dfe-482f-a2ce-621259138fea/",
+          "property": {
+            "id": "cmuoshvqf000bh8e8w4ni50wg",
+            "codeCommune": "51454",
+            "surface": 68.69,
+            "rooms": 4,
+            "floor": 2,
+            "hasElevator": 1,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 9350000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t3-reims-51100-bd4eb4c6-23ca-429d-b245-62e2e3a1afda/",
+          "property": {
+            "id": "cmuosvm6a0002h8f432vyf1oa",
+            "codeCommune": "51454",
+            "surface": 67.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 22250000
+        },
+        {
+          "url": "https://reims-centre.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1894380",
+          "property": {
+            "id": "cmuuappes0002h8psgteeqskz",
+            "codeCommune": "51454",
+            "surface": 70.9,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 13990000
+        },
+        {
+          "url": "https://reims-centre.guy-hoquet.com/achat-vente/appartement-4-pieces-reims-51100-1892498",
+          "property": {
+            "id": "cmuubpy3f0002h8mcz245q8sf",
+            "codeCommune": "51454",
+            "surface": 71.4,
+            "rooms": 4,
+            "floor": 1,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 17990000
+        },
+        {
+          "url": "https://reims-centre.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1858758",
+          "property": {
+            "id": "cmuuc9gbt0002h89wwmph6gsu",
+            "codeCommune": "51454",
+            "surface": 66.0,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": null,
+            "dpe": "F",
+            "ges": null
+          },
+          "priceCents": 17280000
+        },
+        {
+          "url": "https://reims-jean-jaures.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1891143",
+          "property": {
+            "id": "cmuucsnka0002h8o4iogvgm5k",
+            "codeCommune": "51454",
+            "surface": 66.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 19500000
+        },
+        {
+          "url": "https://cormontreuil.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1890225",
+          "property": {
+            "id": "cmuv6c0te0002h8h8qay5k5bz",
+            "codeCommune": "51454",
+            "surface": 70.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 18990000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP972057",
+          "property": {
+            "id": "cmuzs6qdm0002h8ecw112azue",
+            "codeCommune": "51454",
+            "surface": 66.0,
+            "rooms": 3,
+            "floor": 0,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 19400000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-72m2/r2121525",
+          "property": {
+            "id": "cmv5sbnja0002h8e8lfkhlmv3",
+            "codeCommune": "51454",
+            "surface": 72.0,
+            "rooms": 3,
+            "floor": 4,
+            "hasElevator": 1,
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 16300000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-13-reims-iad-pass80.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-reims-69m2/r2125450",
+          "surface": 69,
+          "rooms": 4,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 2,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_PHOTO_AVAILABILITY_CONTEXT: whole EUR179000 seller-paid-fee apartment68m2/T3/two bedrooms; floor2 explicit in three-level1999building. Lift unknown omitted. Prose22m2living and one13m2bedroom are advertiser measurements, not visually certified. Two sale lots in27TOTAL, no proceeding, EUR1920annual/EUR160monthly charges, tax unknown. Individualelectric heating/fibre/VMC/interphone source-supported; parking is an assigned-space claim, not an independently verified right. DPE C173/GES A5 assessed2024-03-05, energy750-1050 indexed2021 retained. All20 gallery entries viewed: empty diagonal-tiled main room with two tall window groups, dark compact kitchen with serving opening/arched hall, separateWC, red/grey shower, two differently decorated balcony-door bedrooms, access galleries/balcony and common planted courtyard. Gallery10 has visible VENDU board through left main-room window while current primary isContractSigned=false and ordinary for-sale wording. It may refer to a neighbouring property or earlier context; board location/property identity cannot be proved from photo. Current availability and gallery relevance need clarification before trusting; do not falsely declare sold, spam or tenanted. No import/analysis. Concrete staining/cracks and incomplete light fitting visible; advertiser verygoodstate not a certified condition report. Exact sourceID and all20 own image-path identities absent across approved/pending/excluded/duplicate/export history and native active photos. Ten nearby active full descriptions plus one pending full source compared. Nearest same-floor Orpi68.69T4 is1970/227lots/collectivegas/C94/2351charges, unlike1999/27lots/individualelectric/C173A5/1920. Orpi67T3 isfloor3/30lots/gas/C134/two terraces; GH70.9floor2 is1970/435lots/gas/D218/2536charges/ongoingprocedure. Other nearby units differ in floor, diagnostic, construction, heating, lotcount or layout. Pending69T4floor2 has1965/40lots/gas/C175C28/2800/garage/cave and three assertedbedrooms versus1999/27/electric/A5/1920/two bedrooms/parking. No matching physical unit established and no unsupported native withdrawal."
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-property media excluded. Actual first full-page HTTP200 observation preserved as first-seen; primary firstPublishDate exposes2026-10-01 date only, no invented publication time. Photo URL paths are not publication-date evidence. Availability, exact address, measurements, condition and proximity independently unconfirmed. Furnishings or empty rooms do not establish current tenancy or legally vacant possession. Fresh first-page scoped feeds prioritised Le Mans then Angers: seven older January-March2026 Le Mans adverts deferred without photo review/trust; no unreviewed eligible Angers IDs on first page. Two October1 Reims adverts next individually reviewed. No claim that all pages/markets exhausted. Pending records not imported, trusted or analysed. PENDING_PHOTO_AVAILABILITY_CONTEXT: whole EUR179000 seller-paid-fee apartment68m2/T3/two bedrooms; floor2 explicit in three-level1999building. Lift unknown omitted. Prose22m2living and one13m2bedroom are advertiser measurements, not visually certified. Two sale lots in27TOTAL, no proceeding, EUR1920annual/EUR160monthly charges, tax unknown. Individualelectric heating/fibre/VMC/interphone source-supported; parking is an assigned-space claim, not an independently verified right. DPE C173/GES A5 assessed2024-03-05, energy750-1050 indexed2021 retained. All20 gallery entries viewed: empty diagonal-tiled main room with two tall window groups, dark compact kitchen with serving opening/arched hall, separateWC, red/grey shower, two differently decorated balcony-door bedrooms, access galleries/balcony and common planted courtyard. Gallery10 has visible VENDU board through left main-room window while current primary isContractSigned=false and ordinary for-sale wording. It may refer to a neighbouring property or earlier context; board location/property identity cannot be proved from photo. Current availability and gallery relevance need clarification before trusting; do not falsely declare sold, spam or tenanted. No import/analysis. Concrete staining/cracks and incomplete light fitting visible; advertiser verygoodstate not a certified condition report. Exact sourceID and all20 own image-path identities absent across approved/pending/excluded/duplicate/export history and native active photos. Ten nearby active full descriptions plus one pending full source compared. Nearest same-floor Orpi68.69T4 is1970/227lots/collectivegas/C94/2351charges, unlike1999/27lots/individualelectric/C173A5/1920. Orpi67T3 isfloor3/30lots/gas/C134/two terraces; GH70.9floor2 is1970/435lots/gas/D218/2536charges/ongoingprocedure. Other nearby units differ in floor, diagnostic, construction, heating, lotcount or layout. Pending69T4floor2 has1965/40lots/gas/C175C28/2800/garage/cave and three assertedbedrooms versus1999/27/electric/A5/1920/two bedrooms/parking. No matching physical unit established and no unsupported native withdrawal.",
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "floor": 2,
+    "pendingReasons": [
+      "PHOTO_AVAILABILITY_CONTEXT_UNCONFIRMED"
+    ],
+    "pendingEvidence": {
+      "photoNumber": 10,
+      "visibleBoardWording": "VENDU",
+      "currentPrimaryIsContractSigned": false,
+      "boardMountingAndPropertyIdentityConfirmed": false,
+      "exactUnitSoldConfirmed": false,
+      "clarificationNeeded": "Confirm current apartment availability and relevance/context of photo10; do not assume board refers to this unit."
+    }
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-77m2/r2125245",
+    "observedAt": "2026-10-13T08:52:35.839586+00:00",
+    "externalId": "2125245",
+    "firstSeenAt": "2026-10-13T08:52:35.839586+00:00",
+    "reviewedAt": "2026-10-13T09:03:58.805476+00:00",
+    "communeCode": "51454",
+    "priceEuros": 200000,
+    "surface": 77,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Clémence Ignace",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "REIMS - APPARTEMENT - T3 78M²\n\nAlliant confort et praticité, cet appartement situé à Reims, à deux pas de la gare et de la place d'Erlon, offre un cadre de vie agréable au sein d'une résidence construite en 1997, dont les espaces ont été soigneusement rénovés pour répondre aux exigences d'un confort contemporain.\n\nD'une surface habitable de 78 m², ce 3 pièces bien agencé propose une entrée avec de vastes rangements, un séjour lumineux et aéré avec vue sur les promenades, une cuisine fonctionnelle aménagé et équipée ainsi que 2 chambres confortables de 12 m2 chacune, une salle de bains et un wc séparé. La rénovation apporte une finition soignée à l'ensemble, garantissant un emménagement immédiat sans travaux à prévoir.\n\nIl existe une possibilité d'acquérir un garage au sein de la copropriété. \n\nContactez-nous pour organiser une visite et découvrir par vous-même le potentiel de cet appartement.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 80 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 102.33€ par mois (soit 1228 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Clémence Ignace mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Reims  sous le numéro 979306693, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-01",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 1228,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-07-20",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 133
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 980,
+        "max": 1370
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 80,
+      "annualFees": 1228,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1997,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "200 000 €",
+      "formattedPerSurface": "2 597 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1997"
+        },
+        {
+          "text": "Digicode"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 77,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a79a347f70e9a53c873c2b17.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501ca9b69ed0390973185e31bea.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a765f4cc45d3f65c8e32f394.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a77cd6972a28bb25b11970e8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a798f14e9dc481d3ff5fac88.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a760f4156edab8c3c9a42651.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08501ca865a44e5419f45ac0cb1f6.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/09/01a08504a159c91d64c09e42ff4ed19e.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a79a347f70e9a53c873c2b17.jpg",
+        "httpStatus": 200,
+        "sha256": "f3b4a2ac2b0bdf8b1c9cbe4d33896cbf515c62317fec5fc1186fa41c3eb08d6c",
+        "observation": "Original separate galley kitchen, dark lower cabinets/grey counter, patterned backsplash, teal patterned endwall, grey wood-effect floor, wood sideboard and glass table edge."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501ca9b69ed0390973185e31bea.jpg",
+        "httpStatus": 200,
+        "sha256": "d7a9d98c48e64779da60f8bb8bb4b96bcf1f4c2e48118ac8cf43c08afab775ff",
+        "observation": "Reverse same kitchen with wood-front oven/microwave/fridge tower, dark cabinets and three-part window beside small glass table. Same room, not an additional bedroom."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a765f4cc45d3f65c8e32f394.jpg",
+        "httpStatus": 200,
+        "sha256": "be78e1a2b0e54d433bad8592d24f319370e0d63eb86c1c190d0a024207a921db",
+        "observation": "Original living/dining room with teal patterned window wall, two glazed window groups, black leather sofa/chair, wood writing desk, glass coffee table and pale grey wood-effect floor."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a77cd6972a28bb25b11970e8.jpg",
+        "httpStatus": 200,
+        "sha256": "f3bb326417c4b51238310c9fb62ffa513a98c5fa17735419277240977e083b3f",
+        "observation": "Reverse same living room toward white dining table/grey chairs and separate kitchen doorway, same window groups/writing desk. No terrace/balcony inferred from window guards."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a798f14e9dc481d3ff5fac88.jpg",
+        "httpStatus": 200,
+        "sha256": "3045c9cd917641de55383d48f3854e70490e5a44818bb9676a4591a7247ed9c1",
+        "observation": "Same living room toward black sofa/chair, TV/wood sideboard and dark lacquer cabinet; fixed geometry coherent."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501a760f4156edab8c3c9a42651.jpg",
+        "httpStatus": 200,
+        "sha256": "d9ca4c0eb6e7326b099162ce8e8fe049a00e568f6c1b218b2eeffb6ef4e1c65e",
+        "observation": "Original entrance/hall with sliding white cupboards, carved wood cabinet/chair, white internal doors and matching grey floor. No additional room."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08501ca865a44e5419f45ac0cb1f6.jpg",
+        "httpStatus": 200,
+        "sha256": "c430abe339b7c096485a1921ea1d8fed792faf933b30c24315a4d0413fa36e1a",
+        "observation": "Original first bedroom with grey single bed, white chest, pale walls, shuttered double window, grey floor and toys. Furnishings do not establish tenant occupancy."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/09/01a08504a159c91d64c09e42ff4ed19e.jpg",
+        "httpStatus": 200,
+        "sha256": "6a34ca9481a3281d9a4e62c766549efa5ea33f60c389c3df879c317c43f6daed",
+        "observation": "Original second bedroom with double bed/pink throw, dressing table, armchair, double window and same grey floor. All8 own entries inspected, no visible AI/proposal label or apparent fixed geometry mismatch. Bath/WC, optional garage and exterior not pictured; no floor/lift inferred from view."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-77m2/r2125245",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-13T09:03:56.852138+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465001732",
+          "property": {
+            "id": "cmubhbyt3000th88okbuxy3eo",
+            "codeCommune": "51454",
+            "surface": 80.0,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 17700000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t4-reims-51100-f81f4f47-e5f7-445d-a955-1ab447682c08/",
+          "property": {
+            "id": "cmuoshuyd0002h8e8ijb4haop",
+            "codeCommune": "51454",
+            "surface": 77.0,
+            "rooms": 4,
+            "floor": 2,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 14990000
+        },
+        {
+          "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295592935A1KIVHAP000",
+          "property": {
+            "id": "cmuu33tdn0002h844oppmgyio",
+            "codeCommune": "51454",
+            "surface": 80.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 27400000
+        },
+        {
+          "url": "https://reims-centre.guy-hoquet.com/achat-vente/appartement-4-pieces-reims-51100-1897839",
+          "property": {
+            "id": "cmuub7fs10002h820gv6mj2id",
+            "codeCommune": "51454",
+            "surface": 73.9,
+            "rooms": 4,
+            "floor": 5,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 22896000
+        },
+        {
+          "url": "https://reims-jean-jaures.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1890432",
+          "property": {
+            "id": "cmuudc9nv0002h8o4nu7bejna",
+            "codeCommune": "51454",
+            "surface": 78.42,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 19440000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_SURFACE_CONFLICT: whole EUR200000 seller-paid-fee apartment/T3/two bedrooms. Structured mainSurface77m2 and URL77 conflict with heading/prose explicitly78m2 habitable. Both source values preserved; no invented rounding explanation or measured correction. This is not an impossible room/surface combination or evidence of fraud; request reconciled habitable/Carrez area before trusted import/valuation. Floor and lift unexposed, omitted; no inference from window height.1997construction/electricity exposed, heating mode unknown. One sale lot in80TOTAL, no proceeding, EUR1228annual/EUR102.33monthly charges, tax unknown. Optional purchase of a garage in copropriete separately offered with no price; not included or treated as mandatory in whole-apartment asking price. No confirmed all-in apartment-plus-garage quote invented. DPE C133/GES A5 assessed2026-07-20, energy980-1370 indexed2023 retained. Photos have September9URLpaths but actual primary firstPublishDateOctober1; URL dates do not replace publication. All8 own images individually viewed: separate dark/wood galley kitchen, repeated black-sofa/teal patterned living-dining, hall/cupboards and two distinct bedrooms. Bath/WC and optional garage source-only, room12m2 dimensions unverified. Renovated/no-work/immediate-occupation claims not condition/vacancy certification. No explicit current tenant or excluded ownership/sale wording established. Exact sourceID/all8 own image-path identities absent across all historical statuses/exports and native active photos. Five near active full descriptions compared, zero nearby non-active sources in73-81range. PAP80firstWITHlift nearChampagne includes parking/cave; Orpi77T4floor2 hasthreebedrooms/openkitchen/terrace/coveredparking/C175GES C; ParuVendu80third/topbourgeoisWITHlift hastwo privatebathingspaces/new12kitchen/16vaultedcave/D-D; GH73.9floor5/1992/111lots/gas/D158/1380 hasthreebedrooms/twobalconies/garage; GH78.42first/2002/5lots/electric/D223B8/1680 includesbalcony/parking. None establishes same unit as1997/80lots/C133A5/1228/twobeds/optionalgarage. No duplicate or withdrawal invented. No import or investment analysis until surface reconciled."
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-property media excluded. Actual first full-page HTTP200 observation preserved as first-seen; primary firstPublishDate exposes2026-10-01 date only, no invented publication time. Photo URL paths are not publication-date evidence. Availability, exact address, measurements, condition and proximity independently unconfirmed. Furnishings or empty rooms do not establish current tenancy or legally vacant possession. Fresh first-page scoped feeds prioritised Le Mans then Angers: seven older January-March2026 Le Mans adverts deferred without photo review/trust; no unreviewed eligible Angers IDs on first page. Two October1 Reims adverts next individually reviewed. No claim that all pages/markets exhausted. Pending records not imported, trusted or analysed. PENDING_SURFACE_CONFLICT: whole EUR200000 seller-paid-fee apartment/T3/two bedrooms. Structured mainSurface77m2 and URL77 conflict with heading/prose explicitly78m2 habitable. Both source values preserved; no invented rounding explanation or measured correction. This is not an impossible room/surface combination or evidence of fraud; request reconciled habitable/Carrez area before trusted import/valuation. Floor and lift unexposed, omitted; no inference from window height.1997construction/electricity exposed, heating mode unknown. One sale lot in80TOTAL, no proceeding, EUR1228annual/EUR102.33monthly charges, tax unknown. Optional purchase of a garage in copropriete separately offered with no price; not included or treated as mandatory in whole-apartment asking price. No confirmed all-in apartment-plus-garage quote invented. DPE C133/GES A5 assessed2026-07-20, energy980-1370 indexed2023 retained. Photos have September9URLpaths but actual primary firstPublishDateOctober1; URL dates do not replace publication. All8 own images individually viewed: separate dark/wood galley kitchen, repeated black-sofa/teal patterned living-dining, hall/cupboards and two distinct bedrooms. Bath/WC and optional garage source-only, room12m2 dimensions unverified. Renovated/no-work/immediate-occupation claims not condition/vacancy certification. No explicit current tenant or excluded ownership/sale wording established. Exact sourceID/all8 own image-path identities absent across all historical statuses/exports and native active photos. Five near active full descriptions compared, zero nearby non-active sources in73-81range. PAP80firstWITHlift nearChampagne includes parking/cave; Orpi77T4floor2 hasthreebedrooms/openkitchen/terrace/coveredparking/C175GES C; ParuVendu80third/topbourgeoisWITHlift hastwo privatebathingspaces/new12kitchen/16vaultedcave/D-D; GH73.9floor5/1992/111lots/gas/D158/1380 hasthreebedrooms/twobalconies/garage; GH78.42first/2002/5lots/electric/D223B8/1680 includesbalcony/parking. None establishes same unit as1997/80lots/C133A5/1228/twobeds/optionalgarage. No duplicate or withdrawal invented. No import or investment analysis until surface reconciled.",
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "pendingReasons": [
+      "SOURCE_SURFACE_CONFLICT"
+    ],
+    "pendingEvidence": {
+      "structuredHabitableSurfaceM2": 77,
+      "proseHabitableSurfaceM2": 78,
+      "exactSourceQuotes": [
+        "D'une surface habitable de 78 m²",
+        "REIMS - APPARTEMENT - T3 78M²"
+      ],
+      "clarificationNeeded": "Reconcile actual habitable/Carrez area before import or valuation; no measured or rounding correction assumed."
+    }
+  }
+]
