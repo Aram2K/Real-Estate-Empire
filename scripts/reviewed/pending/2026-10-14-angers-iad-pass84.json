@@ -1,0 +1,256 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-33m2/r2091645",
+    "observedAt": "2026-10-14T21:03:50.993133+00:00",
+    "externalId": "2091645",
+    "firstSeenAt": "2026-10-14T21:03:50.993133+00:00",
+    "reviewedAt": "2026-10-14T21:17:28.012712+00:00",
+    "communeCode": "49007",
+    "priceEuros": 80000,
+    "surface": 33,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Bertrand Jeantet",
+    "sourceTitle": "Appartement à Angers (49000)",
+    "sourceDescription": "Appartement F1 bis, résidence services pour séniors autonomes, 33 m3, 1 chambre, grande terrasse\n\nAu deuxième étage d'une résidence services pour séniors autonomes bien entretenue, non médicalisée, sécurisée et proche de toutes les commodités, venez découvrir cet appartement doté d'une chambre, d'un séjour avec cuisine aménagée, une terrasse, une salle d'eau ainsi que des toilettes séparées.\nPrésence et surveillance 24H/24\nRestaurant sur place, portage des repas, salon TV/Cinéma, jardin sécurisé et animaux de compagnie acceptés\n\nIdéal investisseur ou personne souhaitant un logement adapté au vieillissement\n\nHonoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Bertrand Jeantet mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Angers sous le numéro 892267667, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-08-17",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "F",
+    "ges": "F",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-08-07",
+      "year": 2023,
+      "epc": {
+        "status": "available-excessive",
+        "class": "F",
+        "consumption": 400
+      },
+      "ges": {
+        "status": "available-excessive",
+        "class": "F",
+        "consumption": 88
+      },
+      "amount": {
+        "min": 1068,
+        "max": 1444
+      }
+    },
+    "sourceCoOwnershipEvidence": {},
+    "sourceConstructionYear": 1993,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "80 000 €",
+      "formattedPerSurface": "2 424 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1993"
+        },
+        {
+          "text": "Étage : 2"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 33,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe0eb2048d521eac1b5a8d8af.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe0d2c809c9210a147dab3ffe.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe0a13c53f2923a252655f48e.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafdf65c68928d15f8428523f95.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafdea274f01bd9e89128b2c9cf.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafdef90b31af1354fa0ab9af6b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe194b9604cc6f8f5b2275a33.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe0eb2048d521eac1b5a8d8af.jpg",
+        "httpStatus": 200,
+        "sha256": "8dd371cfd8aa7d86f5742b21f685bd05758cc2dc9dbf5358880dcf7542413978",
+        "observation": "Own empty living room with open dark kitchenette/white worktop, hood/fridge, light wood-effect floor, chandelier, doorway to separate bedroom and brown entrance door beyond hall. Empty rooms do not certify legally vacant possession."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe0d2c809c9210a147dab3ffe.jpg",
+        "httpStatus": 200,
+        "sha256": "7e42d9ad6723ae3f9eede7e1f437c18046ab6a9da92a69c1d1a75f042c44eb81",
+        "observation": "Reverse same living/kitchen with radiator/telephone on floor and matching cabinets/chandelier/floor. Not another room; management or occupancy not established by contents."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe0a13c53f2923a252655f48e.jpg",
+        "httpStatus": 200,
+        "sha256": "8076abf410f5b72c3033cea1cef360c6d0e0e301baff2a1caea9f94539bb14ee",
+        "observation": "Same living room toward broad sliding terrace glazing/amber privacy screen, kitchenette edge and separate bedroom door. No independent terrace-right/area measurement."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafdf65c68928d15f8428523f95.jpg",
+        "httpStatus": 200,
+        "sha256": "0af3967b3d22ab4a18eb37facdc1b521391ccf845eede6a44bcabc9d0e9c4832",
+        "observation": "Separate empty bedroom, white walls/cupboard/internal door, one window/curtain and pale wood-effect floor."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafdea274f01bd9e89128b2c9cf.jpg",
+        "httpStatus": 200,
+        "sha256": "8760af29a3c06464ff887a9e6c0f25cdb3432c4c427d76684dbb0fe664a3c6a4",
+        "observation": "Reverse same bedroom with radiator/cupboard and matching floor, not an additional bedroom."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafdef90b31af1354fa0ab9af6b.jpg",
+        "httpStatus": 200,
+        "sha256": "75cfb2e789d97fa01292fd553808d629b69e1807178fcb8b5c105842aca1511f",
+        "observation": "Shower room with black curved cabin on raised white tiled platform, white wall tiles, beige single basin/mirror and cabinet. Access step visible; no accessibility certification or medical-adaptation assumption."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/17/01a00eafe194b9604cc6f8f5b2275a33.jpg",
+        "httpStatus": 200,
+        "sha256": "499e22961be77a4671e9d11b30e6111b734ccdfe68a16183fb80c357380eac9d",
+        "observation": "Long tiled terrace with grey rail/amber screen, facing street roofs/facades. Source secondfloor retained without deriving floor, orientation or exclusive legal right from image. All7 own JPEG entries individually inspected; no visible AI/proposal label or apparent fixed-layout inconsistency. SeparateWC/service facilities/lift not pictured; lift unknown omitted."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-33m2/r2091645",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-14T21:17:25.599573+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16134772049/",
+          "property": {
+            "id": "cmuu3djla0002h824hdvrnd6w",
+            "codeCommune": "49007",
+            "surface": 35.2,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 12480000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16134766131/",
+          "property": {
+            "id": "cmuu3yg51000bh8a8ebv717cg",
+            "codeCommune": "49007",
+            "surface": 29.0,
+            "rooms": 1,
+            "floor": 1,
+            "hasElevator": 0,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 10700000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/14277155833/",
+          "property": {
+            "id": "cmuu3yjbd000kh8a8zky3w5uz",
+            "codeCommune": "49007",
+            "surface": 32.33,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 16000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\duplicates\\2026-10-12-angers-iad-pass69.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-32m2/r2084015",
+          "surface": 32.33,
+          "rooms": 2,
+          "reviewStatus": "DUPLICATE_EXISTING_UNIT",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_SERVICE_RESIDENCE_TERMS: whole advertised EUR80000 seller-paid-fee apartment33m2/T2/one bedroom, source heading F1bis and typo33m3 preserved verbatim; structured33m2 retained without treating cubic typo as measured surface. Floor2 explicit, lift unknown omitted,1993construction/districtheating. DPE F400/GES F88 assessed2026-08-07, energy1068-1444 indexed2023. FirstPublishDate2026-08-17 dateonly, actualfirstseenOctober14; do not claim newpublication from current feed. Complete prose explicitly residence services for autonomous seniors/nonmedical,24hourpresence/surveillance/restaurant/meal delivery/TVcinema/securegarden/pets. Source does not expose actual existing tenant, commercial lease, mandatory management contract, occupancy-age rules, ownership restrictions or service/condominium costs. Such terms and all recurring mandatory charges must be clarified before treating as unrestricted ordinary apartment or computing a normal rent yield. Residence-services wording alone does not prove a commercial/managed lease, current occupancy or medical dependence: no definitive excluded contract invented. Empty coownership object exposes no lots, annualcharges or proceeding flag, omitted rather than zero/no-procedure. Tax unknown. All7 own images inspected: empty living/open dark kitchenette, separate bedroom, raised-platform black shower, amber-screen terrace. Empty rooms not proof of vacancy; step and source senior marketing not certified accessibility. Terrace legal area/right and common service facilities unverified. No visible AI/proposal label or fixed layout inconsistency. Exact sourceID/all7 own image paths absent across all historical statuses/exports and native active photos. Three near active full descriptions plus one duplicate full source compared: C21T2ground35.2electric/15lots/720charges; C21studio29firstWITHOUTlift/electric/15lots/480; C21T1bis32.33ground/electric/4lots/650 and its IAD32.33groundalias/works differ fromsecond1993districtheat/seniorservices/terrace33. No physical identity established, no unsupported withdrawal. Not imported, trusted or analysed pending service/lease and cost clarification."
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order; related-property media excluded. Actual initial full-page HTTP200 observation preserved as first-seen separately from source publication date; time unexposed and omitted. Exact address, current availability, condition, dimensions and proximity independently unconfirmed. Furnishings or empty rooms do not establish tenancy or legally vacant possession. Fresh first-page feeds checked priority Le Mans, Angers, Reims: Le Mans newly published October14 unit already reviewed in preceding pass and five January-March2026 candidates remain deferred without photo trust. Angers newly exposed October14 apartment reviewed first, then remaining August17 service-residence candidate; no claim all pages or markets exhausted. PENDING_SERVICE_RESIDENCE_TERMS: whole advertised EUR80000 seller-paid-fee apartment33m2/T2/one bedroom, source heading F1bis and typo33m3 preserved verbatim; structured33m2 retained without treating cubic typo as measured surface. Floor2 explicit, lift unknown omitted,1993construction/districtheating. DPE F400/GES F88 assessed2026-08-07, energy1068-1444 indexed2023. FirstPublishDate2026-08-17 dateonly, actualfirstseenOctober14; do not claim newpublication from current feed. Complete prose explicitly residence services for autonomous seniors/nonmedical,24hourpresence/surveillance/restaurant/meal delivery/TVcinema/securegarden/pets. Source does not expose actual existing tenant, commercial lease, mandatory management contract, occupancy-age rules, ownership restrictions or service/condominium costs. Such terms and all recurring mandatory charges must be clarified before treating as unrestricted ordinary apartment or computing a normal rent yield. Residence-services wording alone does not prove a commercial/managed lease, current occupancy or medical dependence: no definitive excluded contract invented. Empty coownership object exposes no lots, annualcharges or proceeding flag, omitted rather than zero/no-procedure. Tax unknown. All7 own images inspected: empty living/open dark kitchenette, separate bedroom, raised-platform black shower, amber-screen terrace. Empty rooms not proof of vacancy; step and source senior marketing not certified accessibility. Terrace legal area/right and common service facilities unverified. No visible AI/proposal label or fixed layout inconsistency. Exact sourceID/all7 own image paths absent across all historical statuses/exports and native active photos. Three near active full descriptions plus one duplicate full source compared: C21T2ground35.2electric/15lots/720charges; C21studio29firstWITHOUTlift/electric/15lots/480; C21T1bis32.33ground/electric/4lots/650 and its IAD32.33groundalias/works differ fromsecond1993districtheat/seniorservices/terrace33. No physical identity established, no unsupported withdrawal. Not imported, trusted or analysed pending service/lease and cost clarification.",
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "pendingReasons": [
+      "SERVICE_RESIDENCE_TERMS_UNCONFIRMED",
+      "MANDATORY_RECURRING_COSTS_UNEXPOSED"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuotes": [
+        "résidence services pour séniors autonomes",
+        "Présence et surveillance 24H/24",
+        "Restaurant sur place, portage des repas"
+      ],
+      "commercialOrManagedLeaseExplicitlyConfirmed": false,
+      "currentTenantExplicitlyConfirmed": false,
+      "mandatoryServiceCostExposed": false,
+      "clarificationNeeded": "Confirm legal/service/management or commercial-lease obligations, occupancy restrictions and all recurring mandatory costs before ordinary apartment import or rental analysis."
+    }
+  }
+]

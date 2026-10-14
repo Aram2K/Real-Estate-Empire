@@ -1,0 +1,350 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-72m2/r2131694",
+    "observedAt": "2026-10-14T21:03:50.961504+00:00",
+    "externalId": "2131694",
+    "firstSeenAt": "2026-10-14T21:03:50.961504+00:00",
+    "reviewedAt": "2026-10-14T21:17:28.001575+00:00",
+    "communeCode": "49007",
+    "priceEuros": 249900,
+    "surface": 72,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 9,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Erwan Charnace",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "*ANGERS – PRENEZ DE LA HAUTEUR, OFFREZ-VOUS UNE VUE D’EXCEPTION !*\n\nÀ deux pas de l’hypercentre, secteur Louis Gain, découvrez un appartement où lumière, élégance et panorama se rencontrent.\n\nPerché au 9ᵉ étage d’une résidence de 1994, sécurisée et dotée d’un gardien, cet appartement traversant profite d’une luminosité remarquable et d’une *vue imprenable sur les toits d’Angers*.\n\nIci, tout est réuni pour un quotidien confortable : aucun travaux à prévoir, une buanderie, une cave et une place de parking privative.\n\nLes charges de copropriété comprennent l’eau froide et le chauffage, pour un confort supplémentaire au quotidien.\n\n*Une adresse privilégiée, une vue qui fait toute la différence… et ce sentiment rare de dominer la ville tout en restant proche de son cœur.*\n\nUne visite s’impose !\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 205 lots au total et faisant l'objet d'une ou plusieurs procédures en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 222.33€ par mois (soit 2668 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Erwan Charnace mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ANGERS sous le numéro 903178143, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-14",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "B",
+    "ges": "A",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2022-06-09",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "B",
+        "consumption": 107
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 1
+      },
+      "amount": {
+        "min": 604,
+        "max": 816
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 205,
+      "annualFees": 2668,
+      "proceedingsUnderway": true
+    },
+    "sourceConstructionYear": 1994,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "249 900 €",
+      "formattedPerSurface": "3 471 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.biomass"
+          ]
+        },
+        {
+          "text": "Construit en 1994"
+        },
+        {
+          "text": "Étage : 9"
+        },
+        {
+          "text": "Interphone"
+        },
+        {
+          "text": "Gardien"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 72,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc942dbeeb87d1ffe1e2622e75.png",
+      "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc93b0c3997b756da0baf8175d.png",
+      "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc9214167f612bdb5648a33359.png",
+      "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc921f1b2504eed6491a5348c5.png",
+      "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc91e81236f4090eea65d3155b.png",
+      "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc91b4cd9cea55b43cf67ad199.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc942dbeeb87d1ffe1e2622e75.png",
+        "httpStatus": 200,
+        "sha256": "938911216cd87f7d34d45bf1b798966ddb37d497b4138f0ac017dd2139135520",
+        "observation": "Own exterior PNG: high-rise cream facade with curved balconies and visible Residence de l Europe wording, trees/street/open bays. Does not identify legal apartment address, selected ninth-floor unit or assigned parking right."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc93b0c3997b756da0baf8175d.png",
+        "httpStatus": 200,
+        "sha256": "060e105966605d939132b319664c51a34b1e12affd739f6fc448b9e1349c0c44",
+        "observation": "Own living/dining PNG: brown armchair, black table/grey chairs, wood TV cabinet/bookcase, wood-effect floor, broad sliding balcony doors/red curtains and radiator. Strong colour/lighting treatment apparent; processing unverified, no visible AI/proposal label."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc9214167f612bdb5648a33359.png",
+        "httpStatus": 200,
+        "sha256": "d56605c2974761252e51ceb282b274832ea55f84199b633a1e57898cb67b9e25",
+        "observation": "Own separate kitchen PNG: wood cabinets, black backsplash/worktop, black fridge/dishwasher, oven/microwave stack, tiled floor and large window with eating counter/stools. Appliance inventory and operational condition unverified."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc921f1b2504eed6491a5348c5.png",
+        "httpStatus": 200,
+        "sha256": "8d695af322e1e033547c97f0df2e4eca3d4d638a604966a3ea5b3e18cff09c37",
+        "observation": "Own bedroom PNG: double bed, teal headwall, wood-effect floor, broad sliding glazed opening, patterned curtains and radiator. Dimensions, floor number and current condition not independently certified."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc91e81236f4090eea65d3155b.png",
+        "httpStatus": 200,
+        "sha256": "58dd97d1b886946097dcc3bd4adfe2bdc51b12680827da36e1cf88bdbb33034a",
+        "observation": "Own second bedroom/office PNG: desk/chair, personal-photo board, storage/vacuum, quilted bed edge, wood floor and sliding doors to balcony. Not extra room beyond two source bedrooms; proposed or processing status unexposed."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/14/01a139bc91b4cd9cea55b43cf67ad199.jpg",
+        "httpStatus": 200,
+        "sha256": "a670ce801780a142ad789c94140416588d5e12e08ef2c3c5d7217475a111b079",
+        "observation": "Own bathroom JPEG: grey rectangular tiles, glazed shower with white tray, single white basin/vanity, mirror/cupboards and wood-effect floor. Structured main feature says salle de bain with bathtub icon; actual visible shower retained without inventing a bathtub. All6 entries individually inspected; no visible AI/proposal label or inconsistent fixed room geometry. Laundry/cave/lift/parking not independently shown; furnishings do not certify vacancy."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-72m2/r2131694",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-14T21:17:25.691670+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16643633867/",
+          "property": {
+            "id": "cmuu2bzb3000bh8oc3hvgga44",
+            "codeCommune": "49007",
+            "surface": 68.32,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": 1,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 16150000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15910181215/",
+          "property": {
+            "id": "cmuu2y7rc000bh8mo7jn04wcd",
+            "codeCommune": "49007",
+            "surface": 73.0,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": 0,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 19990000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465403047",
+          "property": {
+            "id": "cmuu669fk0002h8jsrqvxx802",
+            "codeCommune": "49007",
+            "surface": 73.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": 0,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 18500000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-angers-49000-r463000178",
+          "property": {
+            "id": "cmuuamxsw0002h8zshoe7k7es",
+            "codeCommune": "49007",
+            "surface": 72.0,
+            "rooms": 3,
+            "floor": 4,
+            "hasElevator": 0,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 31000000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/angers/acheter/angers/appartement-3-pieces-52909529",
+          "property": {
+            "id": "cmuzavba10002h848k3kzrjwm",
+            "codeCommune": "49007",
+            "surface": 71.0,
+            "rooms": 3,
+            "floor": 2,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 17999000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-74m2/r2097759",
+          "property": {
+            "id": "cmv493q21000bh8k8yykifa77",
+            "codeCommune": "49007",
+            "surface": 73.72,
+            "rooms": 4,
+            "floor": 4,
+            "hasElevator": 0,
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 16000000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-69m2/r2096546",
+          "property": {
+            "id": "cmv4y6l0y000bh8cchnmcpo24",
+            "codeCommune": "49007",
+            "surface": 69.0,
+            "rooms": 4,
+            "floor": 3,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 20900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-72m2/r2084025",
+          "property": {
+            "id": "cmv4z5gbs000bh8hcxikk6nln",
+            "codeCommune": "49007",
+            "surface": 72.0,
+            "rooms": 4,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 29900000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-lemans-angers-iad-pass59.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-73m2/r2107354",
+          "surface": 73.48,
+          "rooms": 4,
+          "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+          "floor": 4,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-12-angers-iad-pass72.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-angers-70m2/r2051691",
+          "surface": 70,
+          "rooms": 3,
+          "reviewStatus": "EXCLUDED_CURRENTLY_TENANTED",
+          "floor": 2,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-12-angers-iad-pass73.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-angers-76m2/r2128856",
+          "surface": 76,
+          "rooms": 4,
+          "reviewStatus": "EXCLUDED_VIAGER_OCCUPIED",
+          "floor": 4,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "APPROVED: whole EUR249900 seller-paid-fee apartment72m2/T3/two bedrooms; floor9 WITHlift explicitly exposed,1994construction, biomass energy source. Three sale lots in205TOTAL copropriete lots, ongoing proceeding explicitly TRUE preserved. EUR2668annual/EUR222.33monthly charges; prose states coldwater and heating included, no invented broader coverage. Tax unknown. DPE B107/GES A1 assessed2022-06-09, energy604-816 indexed2021 retained; no automatic diagnostic update inferred. Source no-work/through-facing/guardedresidence/panoramicview/security/laundry/cave/privateparking claims unverified. Structured garage label conflicts in granularity with prose parking place: preserve original feature evidence; no closed box or exclusive garage ownership certified. FirstPublishDate2026-10-14 date only, first-seen actualOctober14HTTP observation. All6 own entries inspected: facade, furnished living/dining, separate wood kitchen, two bedroom/office layouts and grey-tile shower. PNG interiors show strong colour/lighting treatment with no exposed AI/proposal label; processing/current condition unverified. No obvious fixed-geometry inconsistency established. Bathroom feature salle de bain/bathtubicon retained separately from visible shower, no bathtub invented. Floor/lift/legalparking/cave/laundry not independently photographed/certified. No evidence-backed current tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/partialprice,mandatorymanaged/commerciallease,ancillary-onlyproperty,houseboat,bot/spam or impossible room/surface wording established in full source. Exact new sourceID and all6 own image identities absent across every historic status/export and active native photos. Eight nearby active full descriptions and three excluded full source descriptions compared. All nearby known floors differ: C21T3floor2/34lots/electric1152charges and C21T3floor2WITHOUTlift/11lots/720 differ; PAP73thirdWITHOUTlift/185monthly and PAP72fourthWITHOUTlift/10lots/parquet/D-B/onebedoffice differ. Laforet71secondWITHOUTlift/E-E/4000annual/twobalconies; IAD73.72fourthWITHOUTlift/210lots/C-C/2170.64, IAD69thirdtop/1063lots/C-C/2740/threebed, IAD72firstWITHlift/24lots/oldbeams/D-B/1163 differ from9/1994/205lots/B-A/2668/twobeds. Excluded73.48fourth/95lots/currentcolocation, excluded70secondWITHlift/72lots/1740/let and viager76fourthWITHlift/30lots/3208 differ. No physical duplicate established; no unsupported withdrawal. Ongoing copropriete proceedings preserved as legal risk evidence, not conflated with occupancy or excluded ownership. Actual local Angers rent and apartment DVF coverage verified before analysis."
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order; related-property media excluded. Actual initial full-page HTTP200 observation preserved as first-seen separately from source publication date; time unexposed and omitted. Exact address, current availability, condition, dimensions and proximity independently unconfirmed. Furnishings or empty rooms do not establish tenancy or legally vacant possession. Fresh first-page feeds checked priority Le Mans, Angers, Reims: Le Mans newly published October14 unit already reviewed in preceding pass and five January-March2026 candidates remain deferred without photo trust. Angers newly exposed October14 apartment reviewed first, then remaining August17 service-residence candidate; no claim all pages or markets exhausted. APPROVED: whole EUR249900 seller-paid-fee apartment72m2/T3/two bedrooms; floor9 WITHlift explicitly exposed,1994construction, biomass energy source. Three sale lots in205TOTAL copropriete lots, ongoing proceeding explicitly TRUE preserved. EUR2668annual/EUR222.33monthly charges; prose states coldwater and heating included, no invented broader coverage. Tax unknown. DPE B107/GES A1 assessed2022-06-09, energy604-816 indexed2021 retained; no automatic diagnostic update inferred. Source no-work/through-facing/guardedresidence/panoramicview/security/laundry/cave/privateparking claims unverified. Structured garage label conflicts in granularity with prose parking place: preserve original feature evidence; no closed box or exclusive garage ownership certified. FirstPublishDate2026-10-14 date only, first-seen actualOctober14HTTP observation. All6 own entries inspected: facade, furnished living/dining, separate wood kitchen, two bedroom/office layouts and grey-tile shower. PNG interiors show strong colour/lighting treatment with no exposed AI/proposal label; processing/current condition unverified. No obvious fixed-geometry inconsistency established. Bathroom feature salle de bain/bathtubicon retained separately from visible shower, no bathtub invented. Floor/lift/legalparking/cave/laundry not independently photographed/certified. No evidence-backed current tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/partialprice,mandatorymanaged/commerciallease,ancillary-onlyproperty,houseboat,bot/spam or impossible room/surface wording established in full source. Exact new sourceID and all6 own image identities absent across every historic status/export and active native photos. Eight nearby active full descriptions and three excluded full source descriptions compared. All nearby known floors differ: C21T3floor2/34lots/electric1152charges and C21T3floor2WITHOUTlift/11lots/720 differ; PAP73thirdWITHOUTlift/185monthly and PAP72fourthWITHOUTlift/10lots/parquet/D-B/onebedoffice differ. Laforet71secondWITHOUTlift/E-E/4000annual/twobalconies; IAD73.72fourthWITHOUTlift/210lots/C-C/2170.64, IAD69thirdtop/1063lots/C-C/2740/threebed, IAD72firstWITHlift/24lots/oldbeams/D-B/1163 differ from9/1994/205lots/B-A/2668/twobeds. Excluded73.48fourth/95lots/currentcolocation, excluded70secondWITHlift/72lots/1740/let and viager76fourthWITHlift/30lots/3208 differ. No physical duplicate established; no unsupported withdrawal. Ongoing copropriete proceedings preserved as legal risk evidence, not conflated with occupancy or excluded ownership. Actual local Angers rent and apartment DVF coverage verified before analysis.",
+    "hasElevator": true,
+    "chargesAnnualEuros": 2668,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "49007",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1456,
+      "nbObs": 29741,
+      "actualApartmentDVFSales": 8943,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 8943
+      }
+    }
+  }
+]
