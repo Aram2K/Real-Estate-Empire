@@ -1,0 +1,307 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-43m2/r2122753",
+    "observedAt": "2026-10-14T20:49:02.012389+00:00",
+    "externalId": "2122753",
+    "firstSeenAt": "2026-10-14T20:49:02.012389+00:00",
+    "reviewedAt": "2026-10-14T20:57:25.035426+00:00",
+    "communeCode": "72181",
+    "priceEuros": 115000,
+    "surface": 42.51,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "hasElevator": true,
+    "reviewStatus": "APPROVED",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Sébastien JESSIER",
+    "sourceTitle": "Appartement à Le Mans (72000)",
+    "sourceDescription": "LE MANS - APPARTEMENT - T2 42M² - PARKING - TRÈS BON ÉTAT\n\nDécouvrez à Le Mans cet appartement qui allie confort, praticité et bon état général, adapté pour une première acquisition ou un investissement locatif.\n\nSitué au 1er étage d'une résidence sécurisée de 4 niveaux construite en 1998, ce T2 offre une surface habitable de 42 m² soigneusement agencée. L'entrée dessert un salon/séjour vaste de près de 19 m², lumineux et bien proportionné, qui constitue le cœur de vie de l'appartement. La cuisine séparée et entièrement équipée complète agréablement cet espace de vie. La chambre, fonctionnelle et au calme, bénéficie d'une bonne configuration. Une salle de bain et un WC indépendant complètent la distribution intérieure.\n\nL'appartement dispose d'un balcon, ainsi que d'une place de parking privatif — un atout appréciable au quotidien. La résidence, sécurisée par un interphone et à accès contrôlé, est équipée d'un ascenseur. Le chauffage électrique individuel par radiateurs, la ventilation mécanique et la connexion fibre optique garantissent un confort moderne et maîtrisé.\n\nContactez-moi pour que nous convenions d'une visite à votre convenance.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 106 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 75.76€ par mois (soit 909.16 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Sébastien JESSIER mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de TOURS sous le numéro 850450362, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-14",
+    "publicationDateEvidence": "Primary firstPublishDate2026-10-14 date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 909.16,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-10-13",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 129
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 4
+      },
+      "amount": {
+        "min": 609,
+        "max": 823
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 106,
+      "annualFees": 909.16,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1998,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "115 000 €",
+      "formattedPerSurface": "2 705 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1998"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 42.51,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceProseWholeNumberSurfaceM2": 42,
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/23/01a0cd39cd3e2337ae845e6ca4d10e82.png",
+      "https://images.playiad.com/property/broadcast/2026/09/23/01a0cd39cbe58f1b7aee6ffea1dc2998.png",
+      "https://images.playiad.com/property/broadcast/2026/09/23/01a0cd39cb7cf9ce5fd24711344eda64.png",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7574f6259628468da5ab54c3828.png",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7574febb42159840bd1b881df4b.png",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7575009ca78f99310d411baa766.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/23/01a0cd39cd3e2337ae845e6ca4d10e82.png",
+        "httpStatus": 200,
+        "sha256": "8dfe0b785056741b73e013d4546d9b4e1ffe3b8c87f01bb53bc7f932a57bb095",
+        "observation": "Own PNG living/dining view with grey sofa, blue armchair, round covered table/black chairs, white/wood TV cabinet, small white table, cream square tiled floor and white glazed internal door. No visible proposal/AI label; original condition not independently certified."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/23/01a0cd39cbe58f1b7aee6ffea1dc2998.png",
+        "httpStatus": 200,
+        "sha256": "d7c3515642492a8f041111eb3cb0959079a2874056bed1dd8d5f68c184506467",
+        "observation": "Reverse same living/dining room with grey sofa, blue chair, round table, wood bookcase and cream tiles; not an additional room."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/23/01a0cd39cb7cf9ce5fd24711344eda64.png",
+        "httpStatus": 200,
+        "sha256": "bf2d7e20d41f5427b7ee197d58a5ba2460273cc166921a10cd0fbeeace4db1b9",
+        "observation": "Separate grey fitted kitchen with grey worktop/backsplash, two-ring black hob/white hood, stainless sink, wood counter and cream tiles; doorway toward apartment entrance. Appliance inventory/operational state unverified."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7574f6259628468da5ab54c3828.png",
+        "httpStatus": 200,
+        "sha256": "a1a6008c0aee16ef0b8a50595e796fe842a6db5dc6293e3e28a891a4e750663e",
+        "observation": "Original entrance/hall beside same grey kitchen, white shelving cupboard with washing machine, interphone, cream tiled floor and bath visible at end. No additional habitable room inferred."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7574febb42159840bd1b881df4b.png",
+        "httpStatus": 200,
+        "sha256": "30c65c8006dfcc4d47209676273ce18baf39a7603a6e1c884e3db6331bd9d2ee",
+        "observation": "Separate bedroom with dark bedspread, sliding white wardrobe, wood cupboard, clothes rail, wood-effect floor and white door to hall. Bedroom window not shown; dimensions unverified."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7575009ca78f99310d411baa766.png",
+        "httpStatus": 200,
+        "sha256": "525e13e0391e44d790e8494c27fa9303b006573ba192bbd4d95b108da64029dc",
+        "observation": "Bathroom with cream square wall/floor tiles, white bathtub and striped curved screen, pedestal basin/mirror and exposed pipes. No visible AI/proposal label or inconsistent fixed room geometry across all6 own PNG entries. SeparateWC, balcony, parking, lift, ventilation and floor1 are source-supported assertions not independently pictured/certified."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-43m2/r2122753",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-14T20:57:23.787261+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisCoverageEvidence": {
+      "communeCode": "72181",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1177,
+      "nbObs": 25658,
+      "actualApartmentDVFSales": 6535,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 6535
+      }
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP521453",
+          "property": {
+            "id": "cmuyz42a0000bh8182vbh87mw",
+            "codeCommune": "72181",
+            "surface": 45.9,
+            "rooms": 2,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 13700000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-43m2/r2095994",
+          "property": {
+            "id": "cmv0kuydf000bh8gku40q9cth",
+            "codeCommune": "72181",
+            "surface": 43.0,
+            "rooms": 2,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 11800000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-46m2/r2091907",
+          "property": {
+            "id": "cmv0liuie0002h8qwzwlkb2kb",
+            "codeCommune": "72181",
+            "surface": 46.4,
+            "rooms": 2,
+            "floor": 3,
+            "hasElevator": 1,
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 11600000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-le-mans-41m2/r2047503",
+          "property": {
+            "id": "cmv493pck0002h8k8rfiqzbwc",
+            "codeCommune": "72181",
+            "surface": 40.56,
+            "rooms": 2,
+            "floor": 3,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "B"
+          },
+          "priceCents": 11500000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-le-mans-citya-pass45.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP141-417011",
+          "surface": 45.89,
+          "rooms": 2,
+          "reviewStatus": "PENDING_NEAR_UNIT_DUPLICATE_CHECK",
+          "floor": null,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-le-mans-citya-pass45.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP142-92263",
+          "surface": 38.9,
+          "rooms": 2,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": null,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "APPROVED: whole EUR115000 asking price with seller-paid fees for apartment/T2/two rooms/one separatebedroom. Precise primary mainSurface42.51m2 retained; heading/prose42m2 and URL43m2 are separately preserved whole-number presentations, not substituted for primary42.51 or independently certified Carrez area. No impossible layout established. Floor1 WITHlift explicitly exposed in1998 four-level residence. Individualelectric radiator heating exposed. Two sale lots in106TOTAL copropriete lots, no procedure, EUR909.16annual/EUR75.76monthly source charges; tax unknown. DPE C129/GES A4 assessed2026-10-13, energy609-823 indexed2023 retained. Primary firstPublishDate2026-10-14 date only; older September photo URL paths do not replace publication or actual initial October14 first-seen. All6 own exposed PNG gallery entries individually inspected: coherent cream-tiled living/dining repeated twice, separate grey kitchen, cupboard/laundry hall, separate bedroom with wood-effect floor and cream tiled bathtub/basin. No visible AI/proposal label or apparent fixed-layout mismatch; no condition, legally vacant possession, floorheight or accessibility certification from images. Goodstate/near19m2living/parking/balcony/fibre/VMC/security/lift claims remain advertiser assertions, no parking-right valuation invented. Complete primary prose/legal wording establishes no current tenant/occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, managed/commercial lease, ancillary-only property, houseboat, bot/spam or impossible room/surface combination. Exact new sourceID and all6 own image-path identities absent across approved/pending/excluded/duplicate/export histories and active native photo identities. Four nearby active full descriptions plus two nonactive full source descriptions compared. IAD43firstWITHlift has29lots/gas/D-D/2120annual/twobalconies/open11kitchen, unlike106lots/electric/C-A/909.16/separatekitchen. IAD46.4third/1995/102lots/collectiveheat/C-C/2120annual and IAD40.56third/1997/382lots/D-B/1026annual/openkitchen differ. PendingCitya45.89 prosefloor2WITHlift/terrace/11.48bed differs; excludedCitya38.9 explicitlet/Republic/shower differs. Closest Citya45.9firstWITHlift/C-C primary HTTP200 freshly read in full including facts:2015construction/79lots/individualgas/18living/780.30annual/tax1013/C103C19, not1998/106/electric/near19/909.16/C129A4. Its first currently exposed gallery image actually inspected: staged-looking teal furniture, wood-look floor and perpendicular balcony-door/window groups, unlike new creamtile/glazedinternaldoor living. No source AI label visible; comparison furniture/condition not certified. Fixed geometry plus source building/heating/diagnostic facts support distinct units; no duplicate or unsupported withdrawal invented. Actual local Le Mans rent and apartment DVF coverage verified before analysis.",
+      "primaryComparison": {
+        "url": "https://www.citya.com/annonces/vente/appartement/le-mans-72181/TAPP521453",
+        "detailDirectHttpStatus": 200,
+        "fullCurrentDescriptionAndFactsRead": true,
+        "firstCurrentGalleryImageInspected": {
+          "number": 1,
+          "url": "https://www.citya.com/media/images/agences/biens/141/vente/bc56a540-325d-41d0-9712-e94338f360d8.webp",
+          "httpStatus": 200,
+          "sha256": "3ceeb6b69424c88d3173354b83ec73a2cd0c6d002cdcc42fb503a4f5e37a14c8"
+        },
+        "sourceFacts": {
+          "constructionYear": 2015,
+          "totalLots": 79,
+          "annualChargesEuros": 780.3,
+          "heating": "individual gas",
+          "livingAreaM2": 18,
+          "dpe": "C103",
+          "ges": "C19"
+        },
+        "imageObservation": "Perpendicular balcony-door/window groups and wood-look floor unlike creamtile/glazedinternaldoor new unit; sourceAIlabel not seen, staging status and furniture condition unverified."
+      }
+    },
+    "notes": "Full primary description including all legal and seller paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order; related-property media excluded. Actual initial full-page HTTP200 observation preserved as first-seen, publication time omitted because unexposed. Exact address, current availability, measurements, condition and proximity independently unconfirmed. Fresh first-page apartment feeds checked priority markets in order: Le Mans, Angers, Reims. After resumed execution on October14 a newly exposed October14 Le Mans apartment took priority over older deferred regional candidates; older Le Mans January-March entries remain untrusted without photo review. Angers and Reims fresh candidate queues remain for following passes. No claim that all pages or markets exhausted. APPROVED: whole EUR115000 asking price with seller-paid fees for apartment/T2/two rooms/one separatebedroom. Precise primary mainSurface42.51m2 retained; heading/prose42m2 and URL43m2 are separately preserved whole-number presentations, not substituted for primary42.51 or independently certified Carrez area. No impossible layout established. Floor1 WITHlift explicitly exposed in1998 four-level residence. Individualelectric radiator heating exposed. Two sale lots in106TOTAL copropriete lots, no procedure, EUR909.16annual/EUR75.76monthly source charges; tax unknown. DPE C129/GES A4 assessed2026-10-13, energy609-823 indexed2023 retained. Primary firstPublishDate2026-10-14 date only; older September photo URL paths do not replace publication or actual initial October14 first-seen. All6 own exposed PNG gallery entries individually inspected: coherent cream-tiled living/dining repeated twice, separate grey kitchen, cupboard/laundry hall, separate bedroom with wood-effect floor and cream tiled bathtub/basin. No visible AI/proposal label or apparent fixed-layout mismatch; no condition, legally vacant possession, floorheight or accessibility certification from images. Goodstate/near19m2living/parking/balcony/fibre/VMC/security/lift claims remain advertiser assertions, no parking-right valuation invented. Complete primary prose/legal wording establishes no current tenant/occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, managed/commercial lease, ancillary-only property, houseboat, bot/spam or impossible room/surface combination. Exact new sourceID and all6 own image-path identities absent across approved/pending/excluded/duplicate/export histories and active native photo identities. Four nearby active full descriptions plus two nonactive full source descriptions compared. IAD43firstWITHlift has29lots/gas/D-D/2120annual/twobalconies/open11kitchen, unlike106lots/electric/C-A/909.16/separatekitchen. IAD46.4third/1995/102lots/collectiveheat/C-C/2120annual and IAD40.56third/1997/382lots/D-B/1026annual/openkitchen differ. PendingCitya45.89 prosefloor2WITHlift/terrace/11.48bed differs; excludedCitya38.9 explicitlet/Republic/shower differs. Closest Citya45.9firstWITHlift/C-C primary HTTP200 freshly read in full including facts:2015construction/79lots/individualgas/18living/780.30annual/tax1013/C103C19, not1998/106/electric/near19/909.16/C129A4. Its first currently exposed gallery image actually inspected: staged-looking teal furniture, wood-look floor and perpendicular balcony-door/window groups, unlike new creamtile/glazedinternaldoor living. No source AI label visible; comparison furniture/condition not certified. Fixed geometry plus source building/heating/diagnostic facts support distinct units; no duplicate or unsupported withdrawal invented. Actual local Le Mans rent and apartment DVF coverage verified before analysis."
+  }
+]
