@@ -1,0 +1,194 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-38m2/r2135500",
+    "observedAt": "2026-10-15T23:41:25.506211+00:00",
+    "httpStatus": 200,
+    "externalId": "2135500",
+    "firstSeenAt": "2026-10-15T23:41:25.506211+00:00",
+    "reviewedAt": "2026-10-15T23:52:28.474365+00:00",
+    "communeCode": "49007",
+    "priceEuros": 144000,
+    "surface": 38.38,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Karine Dupont",
+    "sourceTitle": "Appartement à Angers (49100)",
+    "sourceDescription": "Idéal investisseur – Angers, quartier recherché\nDécouvrez ce bel appartement T2 d’environ 38 m², niché dans un environnement pratique et agréable ! Il se compose d’une pièce de vie lumineuse avec coin cuisine, d’une chambre avec grand placard intégré, et d’une salle de bains avec WC.\n\nAtouts :\nEmplacement privilégié à deux pas des commerces, transports et de la gare\nChauffage électrique\nLocataire en place : rentabilité immédiate assurée\n\nNe manquez pas cette opportunité idéale pour un investissement !\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 8 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 78.33€ par mois (soit 940 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Karine Dupont mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Angers sous le numéro 494271802, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-15",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "E",
+    "ges": "B",
+    "chargesAnnualEuros": 940,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2022-04-11",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 329
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 10
+      },
+      "amount": {
+        "min": 808,
+        "max": 1092
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 8,
+      "annualFees": 940,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "144 000 €",
+      "formattedPerSurface": "3 752 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Étage : 1"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 38.38,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 4,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2025/05/02/01968faea62f7e6f72cf83a2f97e789f.jpg",
+      "https://images.playiad.com/property/broadcast/2025/05/02/01968fb0c67249b22cb2cdfd119775f8.jpg",
+      "https://images.playiad.com/property/broadcast/2025/05/02/01968faeaa4d610ff5a911ede5b8c46a.jpg",
+      "https://images.playiad.com/property/broadcast/2025/05/02/01968fb068c480428e42a9d4d38f8c2c.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2025/05/02/01968faea62f7e6f72cf83a2f97e789f.jpg",
+        "httpStatus": 200,
+        "sha256": "35936a22f6358cbb919032e521ed5bc17bd40cf3ead3b8bd0c17c9438a2d5a64",
+        "observation": "Original furnished main living/open kitchen beneath white-railed mezzanine with steep white ladder, high windows, dark sofa, white table and wood-effect floor. Mezzanine floor area/headroom/legal approval not established; it is not counted as another bedroom or additional habitable area."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2025/05/02/01968fb0c67249b22cb2cdfd119775f8.jpg",
+        "httpStatus": 200,
+        "sha256": "808119445de46cf5d6811e781372d2df3f0efbb14b96ff3201f170529266b5ef",
+        "observation": "Original closer white kitchen below mezzanine, dark backsplash/counter, compact fridge/microwave, sink/hob, white dining table and ladder. Consistent main-room geometry; no independent operational-condition certification."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2025/05/02/01968faeaa4d610ff5a911ede5b8c46a.jpg",
+        "httpStatus": 200,
+        "sha256": "7a211c47f9a3250f5f14fe9450c99c3247722a8e2096ac4e1fef0e1458ff003d",
+        "observation": "Original separate sleeping room with blue-striped double bed, white built-in panel cupboards, white panel door and electric heater. No window visible in this angle; window/headroom and room measurement unverified."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2025/05/02/01968fb068c480428e42a9d4d38f8c2c.jpg",
+        "httpStatus": 200,
+        "sha256": "f13203065dcbdad0cda1dfc845dee50bdc236f90d84e7f8d7fbe854b16842b52",
+        "observation": "Original bathtub/white square tiled surround and curtain, white basin on wood stand, partial WC/cistern, wood wall cladding and pink towel. All4 own entries individually inspected, no visible AI/proposal label. Current tenant established by explicit source wording, not by furnished photos. Lift and building exterior not pictured."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-38m2/r2135500",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-15T23:52:26.224443+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16134772049/",
+          "property": {
+            "id": "cmuu3djla0002h824hdvrnd6w",
+            "codeCommune": "49007",
+            "surface": 35.2,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": null,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 12480000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-angers-40m2/r2073792",
+          "property": {
+            "id": "cmv50aub5000bh8as0yx9fy69",
+            "codeCommune": "49007",
+            "surface": 40.0,
+            "rooms": 2,
+            "floor": 0,
+            "hasElevator": 1,
+            "dpe": "C",
+            "ges": "C"
+          },
+          "priceCents": 15200000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "EXCLUDED_CURRENT_TENANCY: whole EUR144000 seller-paid-fee apartment38.38m2/T2/one source bedroom, firstfloor explicit, lift/constructionyear/tax unknown omitted. One sale lot in8TOTAL, no proceeding, EUR940annual/EUR78.33monthly charges, electric heating. DPE E329/GES B10 assessed2022-04-11, energy808-1092 indexed2021 preserved. Full primary expressly says Locataire en place : rentabilite immediate assuree, establishing current tenant regardless of ordinary sale/isContractSigned=false. No future vacant possession assumed and no tenant identity/lease terms/rent invented. Four own originals inspected: mezzanine/ladder over mainliving-whitekitchen, separate blue-bedroom/whitecupboards and tiled bathtub/WC. Mezzanine not added to certified habitable area or bedroom count. Approximate38m2 prose expressly environ, retained with precise38.38 source value without correction. Image URL paths2025-05-02 are media path metadata only, not firstpublication; current firstPublishDate2026-10-15 date-only preserved. Exact sourceID/all4 own image paths absent across all historical statuses/exports and native active photos. Two near active full descriptions compared, no nonactive near candidates. C21 35.2groundT2 LaDoutre/15lots/720annual/showerWC differs fromfirstfloor38.38/8lots/940annual/mezzanine/bathtub. IAD40groundgarden2019 WITHlift/140lots/gasC119C23/1588annual/10exterior explicitly libre de toute occupation differs. No matching existing physical unit established and no unsupported withdrawal. No native import/analysis."
+    },
+    "notes": "Full primary description including every seller and legal paragraph individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, excluding related-property media. First-seen is actual initial full-page HTTP200 observation; primary firstPublishDate exposes date only with no invented time. Image path dates do not establish publication, firstseen, recent refurbishment or current possession. Exact legal address, dimensions, condition, proximity and availability independently unconfirmed. Furnishings/empty scenes do not establish tenant occupancy or vacant possession. Fresh first-page scoped feeds prioritised Le Mans then Angers: five older January-March Le Mans adverts deferred without photo review/trust; new October15 Angers advert reviewed before September25 Reims advert. No claim that all pages or markets exhausted. Excluded/pending records not imported, trusted or analysed. EXCLUDED_CURRENT_TENANCY: whole EUR144000 seller-paid-fee apartment38.38m2/T2/one source bedroom, firstfloor explicit, lift/constructionyear/tax unknown omitted. One sale lot in8TOTAL, no proceeding, EUR940annual/EUR78.33monthly charges, electric heating. DPE E329/GES B10 assessed2022-04-11, energy808-1092 indexed2021 preserved. Full primary expressly says Locataire en place : rentabilite immediate assuree, establishing current tenant regardless of ordinary sale/isContractSigned=false. No future vacant possession assumed and no tenant identity/lease terms/rent invented. Four own originals inspected: mezzanine/ladder over mainliving-whitekitchen, separate blue-bedroom/whitecupboards and tiled bathtub/WC. Mezzanine not added to certified habitable area or bedroom count. Approximate38m2 prose expressly environ, retained with precise38.38 source value without correction. Image URL paths2025-05-02 are media path metadata only, not firstpublication; current firstPublishDate2026-10-15 date-only preserved. Exact sourceID/all4 own image paths absent across all historical statuses/exports and native active photos. Two near active full descriptions compared, no nonactive near candidates. C21 35.2groundT2 LaDoutre/15lots/720annual/showerWC differs fromfirstfloor38.38/8lots/940annual/mezzanine/bathtub. IAD40groundgarden2019 WITHlift/140lots/gasC119C23/1588annual/10exterior explicitly libre de toute occupation differs. No matching existing physical unit established and no unsupported withdrawal. No native import/analysis.",
+    "analysisComputed": false,
+    "reviewStatus": "EXCLUDED",
+    "exclusionReasons": [
+      "OCCUPIED_PROPERTY"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuote": "Locataire en place : rentabilité immédiate assurée",
+      "currentTenantExplicit": true,
+      "tenantIdentityExposed": false,
+      "legalVacantPossessionConfirmed": false
+    }
+  }
+]
