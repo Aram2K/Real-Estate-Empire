@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rennes-17m2/r2113180",
+    "observedAt": "2026-10-16T17:01:56.703235+00:00",
+    "httpStatus": 200,
+    "externalId": "2113180",
+    "firstSeenAt": "2026-10-16T17:01:56.703235+00:00",
+    "latestFullPageObservedAt": "2026-10-16T23:14:58.643887+00:00",
+    "reviewedAt": "2026-10-16T23:21:46.835955+00:00",
+    "communeCode": "35238",
+    "priceEuros": 124900,
+    "surface": 17.4,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Gauthier Renouf",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "\"SOUS OFFRE ACCEPTEE\" RENNES – MÉTRO MABILAIS – PROCHE CENTRE-VILLE\nStudio rénové de 18 m² avec terrasse – Vendu meublé\n\nAu sein d’une petite résidence entièrement réhabilitée de seulement 7 logements, découvrez ce charmant studio de 18 m² situé au 1er étage.\n\nEntièrement rénové avec des matériaux de qualité, il offre une pièce de vie soigneusement aménagée avec cuisine équipée, espace salon/chambre avec canapé convertible, mobilier et rangements, ainsi qu’une salle d’eau moderne avec WC.\n\nVous profiterez également d’une agréable terrasse privative de 6 m², véritable atout pour ce type de bien.\n\nL’immeuble, datant de 1930, a fait l’objet d’une réhabilitation complète permettant de bénéficier d’une bonne isolation et de faibles charges de copropriété.\n\nVendu entièrement meublé, ce studio est idéal pour un pied-à-terre, un investissement locatif ou un premier achat.\n\nLes + : résidence à taille humaine • rénovation récente • terrasse • vendu meublé • local vélo en sous-sol • proximité métro et centre-ville.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 11 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 40€ par mois (soit 480 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 124900 euros. Prix hors honoraires : 118000 euros. Honoraires TTC à la charge de l'acquéreur (5,85% du prix du bien hors honoraires) : 6900 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Gauthier Renouf mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rennes  sous le numéro 513682344, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-16",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 480,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2025-12-16",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 303
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 9
+      },
+      "amount": {
+        "min": 470,
+        "max": 700
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 11,
+      "annualFees": 480,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1930,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "124 900 €",
+      "formattedNetPrice": "118 000 €",
+      "formattedFees": "6 900 €",
+      "formattedFeesRatio": "5,85 %",
+      "formattedPerSurface": "7 178 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1930"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 17.4,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8cc8dbac9109195e5c8f82c.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8c5962e0daad1d2c4bac516.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8c662d21596b98a4788698f.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b86cbaf30858425ec3d375b5.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b99a4f8c2a0adbd34b79d9b5.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8f17a7aef458ff0e6b3014a.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b90f920623741402392bc84a.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b86b6fae79beac8dba396f66.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b83dc74c5fd3a77d385ad276.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8d0a13f41f283d21617526a.jpg"
+      ]
+    },
+    "photoCount": 10,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8cc8dbac9109195e5c8f82c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8c5962e0daad1d2c4bac516.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8c662d21596b98a4788698f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b86cbaf30858425ec3d375b5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b99a4f8c2a0adbd34b79d9b5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8f17a7aef458ff0e6b3014a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b90f920623741402392bc84a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b86b6fae79beac8dba396f66.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b83dc74c5fd3a77d385ad276.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8d0a13f41f283d21617526a.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8cc8dbac9109195e5c8f82c.jpg",
+        "httpStatus": 200,
+        "sha256": "478b566cd64b4f7363a287cd9cab65f0a160251692db5cf2dcbac5e091b7a32e",
+        "observation": "Actual single studio main room, dark grey matt L kitchen with wood counter and dark marble-effect backsplash, oven/microwave/washer, dark sofa with coloured cushions, black round tiered glass coffee table and wood-pattern floor. No separate bedroom inferred.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8c5962e0daad1d2c4bac516.jpg",
+        "httpStatus": 200,
+        "sha256": "8bf84770a0069722dd2774be5efca62a97554e60e17029b463a14fd15bf8014d",
+        "observation": "Reverse same studio with dark sofa, coloured cushions, open wardrobe and terrace French door. Personal possessions do not establish tenancy or vacant legal possession.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8c662d21596b98a4788698f.jpg",
+        "httpStatus": 200,
+        "sha256": "30a536fc3cbcefd3b90a397c9a5a791b6e28cc1dbdf178e4bbfc1dcb002087ba",
+        "observation": "Closer same grey kitchen with black marble-effect backsplash, hob/oven/microwave/washer and spring tap. Included equipment and functioning not independently certified.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b86cbaf30858425ec3d375b5.jpg",
+        "httpStatus": 200,
+        "sha256": "d90019df61ca56989cb3ec63033a818f97ded824d90974c93bfe3ff35666c32b",
+        "observation": "Actual washroom, veined marble-effect tiles, glass shower with black hardware, white bowl basin on wood counter and round lit mirror. Tile veining is not diagnosed cracking; waterproofing not independently certified.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b99a4f8c2a0adbd34b79d9b5.jpg",
+        "httpStatus": 200,
+        "sha256": "0ecdf1047da3848ce595ece20b2f4b3b87b5a425be9e821c36a5015628e2d9f0",
+        "observation": "Actual light-tiled private terrace, black horizontal cable rail, two blue cord chairs, coral/black tables and plants. Source6m2 outdoor area not added to17.4m2 living area; adjacent roofs/storage not private garden.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8f17a7aef458ff0e6b3014a.jpg",
+        "httpStatus": 200,
+        "sha256": "e751397bf5cee37ab823e263074f7a9558d5fe7a1fcc757547405354437591cf",
+        "observation": "Same studio toward terrace door and washroom doorway, TV and wood floor, minor threshold surface wear visible. No additional enclosed bedroom or diagnosed defect.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b90f920623741402392bc84a.jpg",
+        "httpStatus": 200,
+        "sha256": "eb59ec31e37635184552568b1bebe3fddaecc55c0ead8e1da997b91459854111",
+        "observation": "Reverse terrace toward stone facade and broad French door/transom, two blue chairs and black rail. Exact street number and legal terrace allocation not established by image alone.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b86b6fae79beac8dba396f66.jpg",
+        "httpStatus": 200,
+        "sha256": "001c15d384d7aa69d5c3868d4be2fd9f4882d87b961d31a626c9277e7c7c98fc",
+        "observation": "Another same completed glass shower/white basin/wood vanity/round mirror. No extra washroom counted or condition certificate inferred.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b83dc74c5fd3a77d385ad276.jpg",
+        "httpStatus": 200,
+        "sha256": "ed5efc0bb4c21c4cc8aeb76da07705a17cce066e7c34c1b792ed921f671a84b7",
+        "observation": "WC below frosted narrow window, basin/wood counter and open round ventilation aperture above. Completion and functioning of ventilation unverified; no invented diagnosis or cost.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/16/01a0a927b8d0a13f41f283d21617526a.jpg",
+        "httpStatus": 200,
+        "sha256": "b7a42945759add6418e1f1ba6811cb0ae324d7c256b00bcb5d1c2fe0dd62c090",
+        "observation": "Same single main room, dark sofa, round tiered coffee table and TV toward terrace/washroom doorway. All10 own photographs individually inspected, no explicit AI/staging label observed. Furnishings alone do not prove occupancy or actual current sale availability.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rennes-17m2/r2113180",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T23:21:44.751971+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "analysisCoverageAvailableButNotComputed": {
+      "communeCode": "35238",
+      "year": 2025,
+      "rentSegment": "ALL_APT",
+      "rentM2Pred": 1487,
+      "nbObs": 48789,
+      "actualApartmentDVFSales": 15119,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 15119
+      }
+    },
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "Complete primary description, seller identity and every legal paragraph individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-card media excluded. Earliest known full primary HTTP200 first-seen retained; later collection/recheck separate. Refreshed checked firstpages Le Mans/Angers/Reims/Poitiers contained no eligible unreviewed IDs on those pages. No all-page/all-market exhaustion claim. PENDING_AVAILABILITY: complete primary begins SOUS OFFRE ACCEPTEE. Actual current marketing availability unconfirmed despite isContractSigned=false; accepted offer not certified completed sale or date. Full124900 includes6900buyerfees/118000net. Precise source17.4m2 vs unqualified18m2 prose both preserved without certifying rounding or adding6m2terrace; T1/zeroenclosedbed,first1,liftunknown,1930electric. One sale lot11TOTAL/seven dwelling residence not conflicting,480annual/40monthly/no proceedings,taxunknown. D303/B9 assessed2025-12-16 indexed2023 costs470-700. Sold furnished alone not current tenancy or mandatory managed lease; past rehabilitation not future new-build. All10 own actual studio/greykitchen/darksofa/showerWC/terrace photographs inspected. Earliest full primary pass106 retained. Zero active/nonactive near plusminus4m2; no identity match established. No trusted import or analysis.",
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2113180.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:56.703235+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_AVAILABILITY: complete primary begins SOUS OFFRE ACCEPTEE. Actual current marketing availability unconfirmed despite isContractSigned=false; accepted offer not certified completed sale or date. Full124900 includes6900buyerfees/118000net. Precise source17.4m2 vs unqualified18m2 prose both preserved without certifying rounding or adding6m2terrace; T1/zeroenclosedbed,first1,liftunknown,1930electric. One sale lot11TOTAL/seven dwelling residence not conflicting,480annual/40monthly/no proceedings,taxunknown. D303/B9 assessed2025-12-16 indexed2023 costs470-700. Sold furnished alone not current tenancy or mandatory managed lease; past rehabilitation not future new-build. All10 own actual studio/greykitchen/darksofa/showerWC/terrace photographs inspected. Earliest full primary pass106 retained. Zero active/nonactive near plusminus4m2; no identity match established. No trusted import or analysis."
+    },
+    "sourceNetPriceEuros": 118000,
+    "sourceBuyerFeesEuros": 6900,
+    "pendingReasons": [
+      "ACCEPTED_OFFER_CURRENT_AVAILABILITY_UNCONFIRMED"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuote": "\"SOUS OFFRE ACCEPTEE\"",
+      "isContractSigned": false,
+      "preciseSourceLivingArea": 17.4,
+      "proseArea": 18,
+      "sourcePrivateTerraceArea": 6,
+      "clarificationNeeded": "Confirm actual current sale availability and exact living-area wording; no completed sale, current tenancy or area including terrace invented."
+    }
+  }
+]
