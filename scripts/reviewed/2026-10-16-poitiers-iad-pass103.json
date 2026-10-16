@@ -1,0 +1,373 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-113m2/r2036743",
+    "observedAt": "2026-10-16T15:58:00.573717+00:00",
+    "httpStatus": 200,
+    "externalId": "2036743",
+    "firstSeenAt": "2026-10-16T15:58:00.573717+00:00",
+    "latestFullPageObservedAt": "2026-10-16T16:12:13.146740+00:00",
+    "reviewedAt": "2026-10-16T16:17:45.385074+00:00",
+    "communeCode": "86194",
+    "priceEuros": 399000,
+    "surface": 113.06,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Elodie Garreau",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Poitiers – Rue de Blossac\n\nSitué dans un environnement recherché, cet appartement de 113 m² offre de belles prestations et un extérieur rare en centre-ville.\n\nAccessible par un escalier privatif, il se compose d’une entrée avec placard, d'un WC, d’une salle à manger, d’une cuisine indépendante aménagée et équipée, d’un vaste salon-séjour, de deux chambres, ainsi que d’une salle de bains avec douche, baignoire et WC.\n\nToutes les pièces de l’appartement sont tournées vers la terrasse et le jardin privatif de 350 m². Fleuri et arboré, ce jardin dédié uniquement à cet appartement prolonge naturellement les espaces de vie et offre un cadre verdoyant très agréable.\n\nIl accueille également une piscine chauffée de 4 x 8 m avec pompe à chaleur.\n\nUne cave et une place de stationnement privative dans la cour de l’immeuble complètent l’ensemble.\n\nCet appartement séduit par son cadre de vie exceptionnel et son écrin de verdure. Contactez-moi dès maintenant pour le visiter !\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 10 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 160€ par mois (soit 1920 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 399000 euros. Prix hors honoraires : 384000 euros. Honoraires TTC à la charge de l'acquéreur (3,91% du prix du bien hors honoraires) : 15000 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Elodie Garreau mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Poitiers sous le numéro 100821099, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-05-30",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 1920,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-10-01",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 224
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 49
+      },
+      "amount": {
+        "min": 2230,
+        "max": 3060
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 10,
+      "annualFees": 1920,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1930,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "399 000 €",
+      "formattedNetPrice": "384 000 €",
+      "formattedFees": "15 000 €",
+      "formattedFeesRatio": "3,91 %",
+      "formattedPerSurface": "3 529 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Jardin",
+          "icon": "iad-icon:nature"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        },
+        {
+          "text": "Piscine",
+          "icon": "iad-icon:pool"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1930"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Porte blindée"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 113.06,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 350,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoCount": 21,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/06/16/019ed13fe5bb135ccd3b467082a24699.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e7846441c34df623df7520baa4f1b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8cc3465082421d2e5bc255cf.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e7837cb7f743f7e2bd769ca172012.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a3a3dfa60d6348a1485cdcc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8b4c60e3f04cf5a39669eb26.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a8bb12e96f5a73fb4a17932.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a6396a06871e8be763ef541.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8bcbd1ecb1981ee7a8fb656d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a27a41ddf3ebce669c74be4.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e898296a102d386b8ce0b7cc1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8b114bf1c3dbeb125bccaeeb.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8adbf9be48e5f4969a7e3f0f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e78312e7cb8cefede40181fd94993.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e78312eac24819af924301bdb01e9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8bc74cfb591decb3b7037a86.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8cef920ddffe559b7df74819.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e7837cc032445bb36b4a8467823b6.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e7845a83a9f55d5b421bcf233a40f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/16/019ed13fe2f571a1c9f66457b0d7eafd.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/30/019e7837c7d5182ee78a065b3359508a.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/16/019ed13fe5bb135ccd3b467082a24699.jpg",
+        "httpStatus": 200,
+        "sha256": "bd88615b135993968c3a8f738871ad5bf10c6970e269022947cae6dd28a88ae5",
+        "observation": "Actual garden-side terrace/pergola, many planters and rectangular pool beside stone apartment facade. No independent legal boundaries or pool safety/operation certification."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e7846441c34df623df7520baa4f1b.jpg",
+        "httpStatus": 200,
+        "sha256": "7bab5e76b8541259feb8cb3e8c2f475fb52080d5f3dd1c4599d2c4ff0b656010",
+        "observation": "Reverse same terrace/garden with stone facade, glazed doors, lawn, mature tree and pool. Property is an apartment in copropriete despite private outdoor space."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8cc3465082421d2e5bc255cf.jpg",
+        "httpStatus": 200,
+        "sha256": "9e8d2918d8013c360296a401c9130b8862dd56deb317155016c240ccf4904167",
+        "observation": "Closer rectangular pool, stone coping, small wood deck and dense planting. Advertised4x8m/heated/pump details unmeasured/unverified."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e7837cb7f743f7e2bd769ca172012.jpg",
+        "httpStatus": 200,
+        "sha256": "dd4e6c6087854d94f13569ab3a2c7ebdc2aa099c49eafc7615bb3611f7f4b29f",
+        "observation": "Actual terrace under open metal pergola, wood outdoor table/chairs, planters and pool behind. No habitable surface added."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a3a3dfa60d6348a1485cdcc.jpg",
+        "httpStatus": 200,
+        "sha256": "39c57ce6c6a4baf02dd0d9287b5f20d29c883300f5229fc4bc9b3e6422674ff2",
+        "observation": "Actual entry with short internal steps, black secured door, exposed stone wall and dark sliding cupboard. Steps do not contradict garden-level ground floor; no ordinary passenger lift claim inferred."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8b4c60e3f04cf5a39669eb26.jpg",
+        "httpStatus": 200,
+        "sha256": "dde40c5a1659b72b2852169a6004a06c64fc88a3cc66e7f47bd278b7188fba89",
+        "observation": "Actual dining space with round table, blue bench, botanical wallpaper, white ceiling beams, double glazed internal doors to salon and separate kitchen opening. Not an extra bedroom."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a8bb12e96f5a73fb4a17932.jpg",
+        "httpStatus": 200,
+        "sha256": "86b0969ba5cd109b9ed1a6cc577e83b9c6ebc495766482835dbc6dc287cd8e05",
+        "observation": "Actual salon with white beams, ochre floor tiles, tan sofa, purple chair, black/white mural and garden-facing glazed door. Furniture not occupancy proof."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a6396a06871e8be763ef541.jpg",
+        "httpStatus": 200,
+        "sha256": "720c046cd2abcddd5326b6f33584e7f7efdf66987c8af3f1df63d4644525f08c",
+        "observation": "Wider same salon with rug, tall cabinet, tan sofa and study/hall beyond. Repeated angle, not an extra bedroom."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8bcbd1ecb1981ee7a8fb656d.jpg",
+        "httpStatus": 200,
+        "sha256": "a8ff7b6afd383907df98ca3ae0fb4c94e98a38b4c25f6b5019263b71135b5899",
+        "observation": "Closer same tan-sofa/mural salon and garden-facing door, matching white beams/tiles and bookshelves. No staging/AI label observed."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8a27a41ddf3ebce669c74be4.jpg",
+        "httpStatus": 200,
+        "sha256": "915252f96ac024422876626b350814d5713de75a044efe8353dbea67efa7ecda",
+        "observation": "Actual separate white fitted kitchen, black worktops/breakfast bar, white beams, sink window and garden door, dishwasher. Inventory and appliance operation not independently assessed."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e898296a102d386b8ce0b7cc1.jpg",
+        "httpStatus": 200,
+        "sha256": "b800d6a89e110ccce4069918e992de5a64511816284b5eec4281298beaf60880",
+        "observation": "Actual desk/bookcase alcove or passage with white cupboards and door. Office furniture does not establish a commercial lease or third bedroom."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8b114bf1c3dbeb125bccaeeb.jpg",
+        "httpStatus": 200,
+        "sha256": "de2213b93b8f07706889692ad1eacaebbd97c264984746473290d0af61413361",
+        "observation": "Actual bedroom with rose patterned bedding, grey paneled headwall, dark wood dresser and garden door. Measured bedroom area unverified."
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8adbf9be48e5f4969a7e3f0f.jpg",
+        "httpStatus": 200,
+        "sha256": "931dcc498ff2bf1be96e801517d4008b26d07a17b5835d8623225fcd18550dbb",
+        "observation": "Actual separate room presently art studio/storage, wood-effect floor, large window/garden door and tall radiator. Source second bedroom retained; furniture/use alone does not disqualify bedroom designation."
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e78312e7cb8cefede40181fd94993.jpg",
+        "httpStatus": 200,
+        "sha256": "7125b85bd2664e707f15f91c832c8d75d220213c4074be4c159abdd14312b732",
+        "observation": "Actual white/blue-line tiled bathroom with bathtub, white vanity/mirrors, WC and adjacent dark tiled shower. Visible crack lines in left wall tiles and joint discoloration retained; cause, depth, waterproofing and repair cost unknown, no structural or leak diagnosis invented."
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e78312eac24819af924301bdb01e9.jpg",
+        "httpStatus": 200,
+        "sha256": "08866c97060162a4e78c8250f179f9db8e2222c11088b28f3691cdb1a8dffb69",
+        "observation": "Actual dark tiled shower with curved blue/white mosaic ceiling and mixer/head. No independent waterproofing/ventilation assessment."
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8bc74cfb591decb3b7037a86.jpg",
+        "httpStatus": 200,
+        "sha256": "abec295678bb235b4ee1ae6ef4c7c7348372127666ad0ddf88e48de8e612e2a1",
+        "observation": "Reverse terrace/pergola beside garden-facing doors; fabric awning panels visibly weathered/discoloured with small holes. Not a newly renovated awning claim."
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e782e8cef920ddffe559b7df74819.jpg",
+        "httpStatus": 200,
+        "sha256": "048f7b905504cb55d5c280bed7150ad7dbafbda3aeed3b3c94965d952f9f459b",
+        "observation": "Garden-facing apartment facade and same pergola/terrace with matching table, planters and doors. No independent title boundaries inferred."
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e7837cc032445bb36b4a8467823b6.jpg",
+        "httpStatus": 200,
+        "sha256": "2e6bd2d86e3d63ad4e090269d4182b133a753a099a9c3c977883fee040ca61d0",
+        "observation": "Terrace and stone boundary wall, planters, pergola and visible surface crack line in terrace paving. Cause/structural significance and work cost unassessed."
+      },
+      {
+        "number": 19,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e7845a83a9f55d5b421bcf233a40f.jpg",
+        "httpStatus": 200,
+        "sha256": "91555e6b5e7c70ca90c05ad0c55ad0dcf185108a681acaaae049be7640534ca0",
+        "observation": "Mature garden tree beside boundary stone wall and small pond/container. No additional land or habitable room counted."
+      },
+      {
+        "number": 20,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/16/019ed13fe2f571a1c9f66457b0d7eafd.jpg",
+        "httpStatus": 200,
+        "sha256": "a95618075180b9e7fdf43c4fc3747d2399ba493ea6a7ec182e6f35345bbf60be",
+        "observation": "Lawn, flower borders, stone wall and small outbuilding/door at garden end. Outbuilding not independently established as habitable or included private cellar."
+      },
+      {
+        "number": 21,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/30/019e7837c7d5182ee78a065b3359508a.jpg",
+        "httpStatus": 200,
+        "sha256": "7ca71294aea98f531c52032f8908ece44166038a12fef3682af6c66b1c227e2b",
+        "observation": "Portrait floral garden/pool view with stepping stones and pots. All21 own entries individually inspected; repeated outdoor views distinguished from interiors. No explicit AI/staging label observed; parking and cellar remain source-only."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-113m2/r2036743",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T16:17:43.782248+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-poitiers-citya-pass54.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/poitiers-86000/TAPP607-969569",
+          "surface": 110.26,
+          "rooms": 5,
+          "reviewStatus": "PENDING_ORIGINAL_PHOTO_CLARIFICATION",
+          "floor": 7,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "APPROVED conventional apartment: fullEUR399000 includes15000buyerfees/384000net; net alone not purchase price. Source113.06m2 rounded113prose,T3/two bedrooms, separate kitchen/dining/salon and office alcove; no impossible room/surface combination. Groundfloor0 structured/garden-level doors coherent with private entrance steps, lift unknown omitted,1930naturalgas. Two sale lots in10TOTAL/no proceeding,1920annual/160monthly, tax unknown omitted. D224/D49 assessed2024-10-01 indexed2023 cost2230-3060. Rue de Blossac source street only, no exact street number invented. Private350m2garden/terrace/heated4x8pool/pump,private courtyard parking and cellar are advertiser claims; images do not certify exclusive title, dimensions or operation. Outdoor areas not added to113.06living area. All21 own entries individually inspected: repeated garden/pool/pergola scenes, stone entry/short steps, botanical dining, white-beam/tan-sofa/mural salon, separate white/black kitchen, rose-bed room, separate current art room, desk alcove, bathtub/WC/dark shower. Office/art furnishings do not establish commercial use or tenancy. Bathroom wall tile cracks/joint discoloration, weathered perforated awning and terrace surface crack visibly retained without diagnosing structure/leak/cost; photo review is not building survey. No explicit AI/staging label. Full wording establishes no current tenant, viager,bare/fractional/timeshare,auction/starting/partialprice,mandatory managed/commercial lease,ancillary-only property,houseboat,bot/spam or impossible layout. ExactsourceID/all21own image identities absent historicalstatuses/exports/nativeACTIVEphotos. No active near apartment in113.06plusminus4m2. One nonactive Citya110.26T5seventh15floor/threebeds/loggia/gardien differs fromground1930/T3/twobeds/privategardenpool/10lots. No same-unit established or unsupported withdrawal. Actual Poitiers rent and apartment DVF coverage verified before analysis; estimates use application assumptions, not certified pool/garden income or maintenance costs."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass102_iad2036743.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T15:58:00.573717+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Full primary description, seller identity and all legal paragraphs individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order, related-property media excluded. Earliest known primary HTTP200 observation from pass102 retained as observedAt/firstSeenAt; current pass103 collection and fresh source recheck separate. Primary firstPublishDate date only preserved; time unknown omitted. Priority first-page feeds refreshed Le Mans then Angers then Reims before Poitiers, zero unreviewed eligible source IDs on those three checked pages. Seven remaining Poitiers primary dates compared, June4 then May30 selected. No all-pages/markets exhaustion claim. Measurements, title, present condition, availability and proximity independently unverified; furnished/empty scenes do not establish legal occupancy. APPROVED conventional apartment: fullEUR399000 includes15000buyerfees/384000net; net alone not purchase price. Source113.06m2 rounded113prose,T3/two bedrooms, separate kitchen/dining/salon and office alcove; no impossible room/surface combination. Groundfloor0 structured/garden-level doors coherent with private entrance steps, lift unknown omitted,1930naturalgas. Two sale lots in10TOTAL/no proceeding,1920annual/160monthly, tax unknown omitted. D224/D49 assessed2024-10-01 indexed2023 cost2230-3060. Rue de Blossac source street only, no exact street number invented. Private350m2garden/terrace/heated4x8pool/pump,private courtyard parking and cellar are advertiser claims; images do not certify exclusive title, dimensions or operation. Outdoor areas not added to113.06living area. All21 own entries individually inspected: repeated garden/pool/pergola scenes, stone entry/short steps, botanical dining, white-beam/tan-sofa/mural salon, separate white/black kitchen, rose-bed room, separate current art room, desk alcove, bathtub/WC/dark shower. Office/art furnishings do not establish commercial use or tenancy. Bathroom wall tile cracks/joint discoloration, weathered perforated awning and terrace surface crack visibly retained without diagnosing structure/leak/cost; photo review is not building survey. No explicit AI/staging label. Full wording establishes no current tenant, viager,bare/fractional/timeshare,auction/starting/partialprice,mandatory managed/commercial lease,ancillary-only property,houseboat,bot/spam or impossible layout. ExactsourceID/all21own image identities absent historicalstatuses/exports/nativeACTIVEphotos. No active near apartment in113.06plusminus4m2. One nonactive Citya110.26T5seventh15floor/threebeds/loggia/gardien differs fromground1930/T3/twobeds/privategardenpool/10lots. No same-unit established or unsupported withdrawal. Actual Poitiers rent and apartment DVF coverage verified before analysis; estimates use application assumptions, not certified pool/garden income or maintenance costs.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "86194",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1218,
+      "nbObs": 29862,
+      "actualApartmentDVFSales": 4488,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 4488
+      }
+    },
+    "sourceStreetEvidence": "Rue de Blossac",
+    "sourceNetPriceEuros": 384000,
+    "sourceBuyerFeesEuros": 15000,
+    "conditionReviewEvidence": {
+      "photo14": "Wall tile crack lines and joint discoloration",
+      "photo16": "Weathered perforated awning fabric",
+      "photo18": "Terrace surface crack",
+      "causeAndRepairCostUnknown": true,
+      "noStructuralDiagnosis": true
+    }
+  }
+]

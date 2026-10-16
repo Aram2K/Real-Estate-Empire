@@ -1,0 +1,323 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-57m2/r2038645",
+    "observedAt": "2026-10-16T15:58:00.474682+00:00",
+    "httpStatus": 200,
+    "externalId": "2038645",
+    "firstSeenAt": "2026-10-16T15:58:00.474682+00:00",
+    "latestFullPageObservedAt": "2026-10-16T16:12:13.109008+00:00",
+    "reviewedAt": "2026-10-16T16:17:45.066451+00:00",
+    "communeCode": "86194",
+    "priceEuros": 91000,
+    "surface": 57,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Sophie Charles",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "POITIERS RESIDENCE DE LA CHANTERIE APPARTEMENT 2 CHAMBRES GARAGE ET CAVE\nA 3 minutes de la gare, et à proximité immédiate des commerces, parc de Blossac, découvrez cet appartement au 2 ème étage d'une résidence avec ascenseur.Il comprend une entrée, une cuisine, un wc, une salle de bain, un séjour avec balcon donnant sur le jardin, 2 chambres.L'ensemble se complète avec une cave et un garage fermé.\nL'appartement nécessite des travaux de rénovation ( huisseries, cuisine, décoration, électricité et salle de bain) \nTaxe foncière de 1061 €\nCharges de copropriété de 249 € par mois qui comprennent le chauffage collectif, l'eau froide, entretien des communs et espaces verts, syndic.\nContact par téléphone pour une visite\n\nHonoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Sophie Charles mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de poitiers sous le numéro 799538087, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-06-04",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 2988,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-05-12",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 240
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 41
+      },
+      "amount": {
+        "min": 1220,
+        "max": 1710
+      }
+    },
+    "sourceCoOwnershipEvidence": {},
+    "sourceConstructionYear": 1959,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "91 000 €",
+      "formattedPerSurface": "1 596 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1959"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 57,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 12,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92ef7bdc76c6ce1059642ac2a43c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f001022b3aa147fcb17681dbac.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92efe4d7bdc1ee811536c4f8ea6c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f02408d18b12929b42af02f39d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f0fada91632478376dd3723dba.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f049d09a230e11394e7068589e.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f081e6e4c2a236aff65a1556a6.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f0b92417770ff2c5340217fa4a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f0d1a96a5853ed4d799d5257cb.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f1465c46c527a325d2b8d5041b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92f16008d6b972b35c993fe54f46.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/04/019e92ef973fc59562b2738190da0ad4.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92ef7bdc76c6ce1059642ac2a43c.jpg",
+        "httpStatus": 200,
+        "sha256": "9c3aa0ed56868c7cd57a002a2256fcb16975f6c184de67e579a8d2eb6776af7c",
+        "observation": "Actual long pale apartment facade with recessed grey vertical-bar balconies, A entrance, garages below and landscaped common grounds. Does not identify assigned garage or private garden ownership."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f001022b3aa147fcb17681dbac.jpg",
+        "httpStatus": 200,
+        "sha256": "0299dcfae26c0a1d3d35e1106952af5cf7dd8855173701adfca482e3f929f4b0",
+        "observation": "Actual empty living room, wood strip parquet, cream textured walls, chandelier, radiator and broad brown-framed balcony glazing/red curtains. Dated condition coherent with explicit renovation requirement, no legal vacancy certification."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92efe4d7bdc1ee811536c4f8ea6c.jpg",
+        "httpStatus": 200,
+        "sha256": "02fd123b231b90b387b072efb692b37b610daf79e85c0e09787189b15974dabb",
+        "observation": "Reverse same living room with wall marks, hall opening and small wall-mounted shelf. No extra room counted."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f02408d18b12929b42af02f39d.jpg",
+        "httpStatus": 200,
+        "sha256": "ebc3b8232140ded56b2f780673bf99e96a7fd393c8888dacbc2ea88d03bec8e8",
+        "observation": "Actual entrance/hall with striped wallpaper, wood flooring, brown frosted-panel doors and triple brown cupboard. No measurement or additional bedroom inferred."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f0fada91632478376dd3723dba.jpg",
+        "httpStatus": 200,
+        "sha256": "1c1e34502b2a56cab261c557d7111b6b63e94ec4860012817b4e723d08fae62d",
+        "observation": "Actual recessed balcony, grey vertical rails and brown wood door toward landscaped common grounds. No exclusive title or surface measurement certified."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f049d09a230e11394e7068589e.jpg",
+        "httpStatus": 200,
+        "sha256": "b0640f00d4ee9337ac337a6ef9a8557b02c3b9ee927bb4b87b0fbdf0cb9312af",
+        "observation": "Actual empty room with ornate cream wallpaper, strip parquet, brown curtains and chandelier. Source two-bedroom claim retained, distinct room count not independently certified from repeated views."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f081e6e4c2a236aff65a1556a6.jpg",
+        "httpStatus": 200,
+        "sha256": "08a9f3121bd61076f3a80896bf74e23ad96f912aed8f99a6262bfb57de7f6b5b",
+        "observation": "Window-facing view of ornate-wallpaper room, white radiator and brown curtains/parquet. May be reverse same bedroom; not counted as an extra bedroom."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f0b92417770ff2c5340217fa4a.jpg",
+        "httpStatus": 200,
+        "sha256": "cecf2ddd08eeabd26a00380afdc5acd16c6cc6ea50e59c60fe0131471864951d",
+        "observation": "Actual dated separate kitchen, pale blue walls, brown cupboards, white sink/counter and dark small-tile floor. Brown-framed window has visibly bent/disordered blind. Electrical/plumbing condition unassessed."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f0d1a96a5853ed4d799d5257cb.jpg",
+        "httpStatus": 200,
+        "sha256": "0f410b4eee04579461e3ef2a85aefa6a7e315a4ac0a49c5dabc18972a40de63f",
+        "observation": "Reverse same dated kitchen with white double sink/brown cupboards and bath doorway. No installed hob/oven inventory certified."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f1465c46c527a325d2b8d5041b.jpg",
+        "httpStatus": 200,
+        "sha256": "8388e636af9a8d619e2bc40e7ea2841d70cdf7fb5453376573d84616ee53cb08",
+        "observation": "Actual small pink-tiled bath with bathtub, basin and bidet, mirror cabinet. No shower-only fixture substituted; functional/safe condition unverified."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92f16008d6b972b35c993fe54f46.jpg",
+        "httpStatus": 200,
+        "sha256": "ade50c75528045150a7a101e50137f95c6b82a3a4604e0ff155dbe6a55f88cd5",
+        "observation": "Actual cellar with rough stone/block walls, exposed pipes and concrete floor. Not extra habitable apartment surface; allocation and moisture condition unverified."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/04/019e92ef973fc59562b2738190da0ad4.jpg",
+        "httpStatus": 200,
+        "sha256": "8f6f546030bb8ee5feae599d95f722666283f448a54d8b53393f66c4293d370a",
+        "observation": "Actual wider facade/common landscaped grounds and parked cars. Common garden not exclusive apartment property. All12 own entries inspected; no explicit AI/staging label. Closed garage remains source claim without interior gallery view."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-57m2/r2038645",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T16:17:43.746671+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-3-pieces-poitiers-86000-1724647",
+          "surface": 54.97,
+          "rooms": 3,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "C",
+          "priceCents": 11300000
+        },
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-3-pieces-poitiers-86000-1792542",
+          "surface": 58.93,
+          "rooms": 3,
+          "floor": 2,
+          "hasElevator": null,
+          "dpe": "C",
+          "priceCents": 11100000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-16-poitiers-iad-pass91.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-54m2/r2106647",
+          "surface": 54.13,
+          "rooms": 3,
+          "reviewStatus": "EXCLUDED",
+          "floor": 1,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-16-poitiers-iad-pass94.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-55m2/r2071319",
+          "surface": 55,
+          "rooms": 3,
+          "reviewStatus": "EXCLUDED",
+          "floor": 2,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-expanded-markets-public-pass46.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-60m2/r2095134",
+          "surface": 60,
+          "rooms": 3,
+          "reviewStatus": null,
+          "floor": 0,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-poitiers-citya-pass53.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/poitiers-86000/TAPP607-969558",
+          "surface": 58.2,
+          "rooms": 2,
+          "reviewStatus": "PENDING_FULL_DESCRIPTION_AND_ORIGINAL_PHOTOS",
+          "floor": 1,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass90.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-61m2/r2125578",
+          "surface": 61,
+          "rooms": 3,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_RENOVATION_SCOPE: whole seller-paid-feeEUR91000/57m2/T3/two source bedrooms. Second floor WITHlift explicit,1959 construction/naturalgas/collectiveheat; copropriete total/sale lot counts and procedure status unexposed. Monthly charges249 expressly include collective heating,cold water,commons,grounds and syndic;2988annual derived249x12, not separately quoted annual amount. Tax1061 year unknown. D240/D41 assessed2026-05-12 indexed2023 cost1220-1710. Primary explicitly requires renovation of windows,kitchen,decoration,electricity and bathroom; scope, compliance, costs and immediate lettability unconfirmed. Hold trusted analysis pending substantive work assessment, without inventing renovation budget or current tenancy. All12 actual own images inspected: cream facade/recessed balconies/common grounds, empty parquet/red-curtain living, dated brown-cupboard/blue-wall kitchen, ornate-wallpaper bedroom views, pink bathtub/bidet bath and rough cellar. Two-bedroom source claim not independently measured or certified by repeated angles. Closed garage source-supported only; no exclusive garden inferred. No explicit AI label. Exact sourceID/all12 own image identities absent history/all statuses/exports/native ACTIVE photos. Two active near descriptions read: GH54.97raisedground2005/electric/502lots/1262annual/C153A5 and GH58.93secondTOP2007/electric/206lots/1200annual/C164A6/openkitchen/two parking differ from1959/collective/2988/D240D41/dark-tile separate kitchen/garage. Five nonactive near descriptions compared: IAD54.13first2009currentlet,55second2006currentlet,60groundelectric/40lots/1323annual,61ground2009/2010acceptedoffer/privategarden,Citya58.2first1900/T2/gas/E312E66/highceilingfireplace/whitekitchen differ. No physical equivalence or unsupported withdrawal. No evidence-backed excluded sale terms, pending work scope only; no import or investment analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass102_iad2038645.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T15:58:00.474682+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Full primary description, seller identity and all legal paragraphs individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order, related-property media excluded. Earliest known primary HTTP200 observation from pass102 retained as observedAt/firstSeenAt; current pass103 collection and fresh source recheck separate. Primary firstPublishDate date only preserved; time unknown omitted. Priority first-page feeds refreshed Le Mans then Angers then Reims before Poitiers, zero unreviewed eligible source IDs on those three checked pages. Seven remaining Poitiers primary dates compared, June4 then May30 selected. No all-pages/markets exhaustion claim. Measurements, title, present condition, availability and proximity independently unverified; furnished/empty scenes do not establish legal occupancy. PENDING_RENOVATION_SCOPE: whole seller-paid-feeEUR91000/57m2/T3/two source bedrooms. Second floor WITHlift explicit,1959 construction/naturalgas/collectiveheat; copropriete total/sale lot counts and procedure status unexposed. Monthly charges249 expressly include collective heating,cold water,commons,grounds and syndic;2988annual derived249x12, not separately quoted annual amount. Tax1061 year unknown. D240/D41 assessed2026-05-12 indexed2023 cost1220-1710. Primary explicitly requires renovation of windows,kitchen,decoration,electricity and bathroom; scope, compliance, costs and immediate lettability unconfirmed. Hold trusted analysis pending substantive work assessment, without inventing renovation budget or current tenancy. All12 actual own images inspected: cream facade/recessed balconies/common grounds, empty parquet/red-curtain living, dated brown-cupboard/blue-wall kitchen, ornate-wallpaper bedroom views, pink bathtub/bidet bath and rough cellar. Two-bedroom source claim not independently measured or certified by repeated angles. Closed garage source-supported only; no exclusive garden inferred. No explicit AI label. Exact sourceID/all12 own image identities absent history/all statuses/exports/native ACTIVE photos. Two active near descriptions read: GH54.97raisedground2005/electric/502lots/1262annual/C153A5 and GH58.93secondTOP2007/electric/206lots/1200annual/C164A6/openkitchen/two parking differ from1959/collective/2988/D240D41/dark-tile separate kitchen/garage. Five nonactive near descriptions compared: IAD54.13first2009currentlet,55second2006currentlet,60groundelectric/40lots/1323annual,61ground2009/2010acceptedoffer/privategarden,Citya58.2first1900/T2/gas/E312E66/highceilingfireplace/whitekitchen differ. No physical equivalence or unsupported withdrawal. No evidence-backed excluded sale terms, pending work scope only; no import or investment analysis.",
+    "hasElevator": true,
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "taxeFonciereAnnualEuros": 1061,
+    "chargesEvidence": {
+      "monthlyEuros": 249,
+      "annualEurosDerived": 2988,
+      "derivation": "249 x 12; no separately exposed annual amount"
+    },
+    "pendingReasons": [
+      "RENOVATION_SCOPE_AND_COST_UNCONFIRMED"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuotes": [
+        "L'appartement nécessite des travaux de rénovation ( huisseries, cuisine, décoration, électricité et salle de bain)"
+      ],
+      "workCostUnknown": true,
+      "clarificationNeeded": "Assess required windows/electrical/kitchen/bathroom work and present usability before trusting investment analysis; no guessed renovation budget."
+    }
+  }
+]
