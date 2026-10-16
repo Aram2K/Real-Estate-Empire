@@ -1,0 +1,510 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-poitiers-34m2/r2037447",
+    "observedAt": "2026-10-16T11:42:37.006116+00:00",
+    "httpStatus": 200,
+    "externalId": "2037447",
+    "firstSeenAt": "2026-10-16T11:42:37.006116+00:00",
+    "latestFullPageObservedAt": "2026-10-16T11:57:52.917903+00:00",
+    "reviewedAt": "2026-10-16T12:04:06.800024+00:00",
+    "communeCode": "86194",
+    "priceEuros": 68300,
+    "surface": 33.68,
+    "rooms": 1,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Alexis Coustham",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Poitiers – Résidence Services Carnot-Blossac\n\nGrand T1 avec espace nuit distinct. Idéal investissement locatif ou pour une personne souhaitant profiter d'un cadre de vie sécurisé et confortable au sein d'une résidence seniors.\n\nSitué au cœur du très recherché quartier Carnot-Blossac, au sein d’une résidence services sécurisée, parfaitement entretenue et récemment rénovée. Découvrez ce bel appartement de 34 m², situé au 4ᵉ et dernier étage d'une résidence avec ascenseur, bénéficiant d'une climatisation pour un confort optimal en toute saison.\n\nBaigné de lumière grâce à son exposition plein sud, ce bien offre un agencement optimisé et un cadre de vie agréable. Il se compose d’un séjour lumineux avec cuisine ouverte équipée, d’un espace nuit indépendant, d’une salle d’eau fonctionnelle ainsi que d’un balcon permettant de profiter pleinement des beaux jours.\n\nLa résidence seniors Carnot-Blossac propose un environnement calme, sécurisé et convivial avec digicode, interphone, ascenseur et raccordement à la fibre optique.\n\nSon emplacement privilégié permet un accès immédiat aux commerces, transports en commun, services médicaux, espaces verts et au centre-ville de Poitiers.\n\nAucun travaux n’est à prévoir. Le logement est actuellement loué, garantissant des revenus immédiats dès l’acquisition.\n\nCe bien constitue une opportunité particulièrement intéressante pour un investisseur à la recherche d’un placement sécurisé, offrant une bonne rentabilité, une gestion simplifiée et un risque de vacance locative très limité dans une résidence reconnue et recherchée.\n\nAppartement vendu loué: 500 HC - 900€ CC\nBien soumis au statut de la copropriété.\nNombre de lots d'habitation : 74\nCharges annuelles 2024: 5250€ dont 4327€ de charges récupérables auprès du locataire.\n\nHonoraire à la charge du vendeur. \n\nUne opportunité à découvrir rapidement.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 74 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 437.5€ par mois (soit 5250 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Alexis Coustham mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 900405176, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-06-08",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 5250,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-02-16",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 155
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 579,
+        "max": 783
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 74,
+      "annualFees": 5250,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1991,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "68 300 €",
+      "formattedPerSurface": "2 028 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        },
+        {
+          "text": "Climatisation",
+          "icon": "iad-icon:mode-cool"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1991"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        },
+        {
+          "text": "Gardien"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 33.68,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfab2e6e33d86bebf25068e055.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa97e5c61e13e699d3e77c0c7.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfab68a8dbd6e0b4e88f042b38.png",
+      "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa979d26a2f62cb483fcae34a.png",
+      "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa9902213f4bb5e189311bbb3.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa997810289e28a16866a2d0c.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfab2e6e33d86bebf25068e055.jpg",
+        "httpStatus": 200,
+        "sha256": "8cf2e4257a60aa7fa675a80ba64e5f56c20c264151ef596aa5b8431e74164a6e",
+        "observation": "Actual unfurnished-looking main room with yellow floral wallpaper, wood-effect planks, crystal chandelier and broad three-panel terrace glazing/partly lowered shutters. Raised wood step at terrace door. Doorways toward kitchen recess and rooflit sleeping room. Empty presentation does not override explicit current tenancy."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa97e5c61e13e699d3e77c0c7.jpg",
+        "httpStatus": 200,
+        "sha256": "dc796d29ed03f7e64479a0c7a0dcc1a19aa07f88bca8eb17f2889d05331fdcc0",
+        "observation": "Separate empty sleeping zone under sloping roof with roof window, white sliding eaves cupboards, yellow floral wallpaper, wood-effect floor and electric panel heater. Area/headroom and independent legal bedroom qualification unverified."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfab68a8dbd6e0b4e88f042b38.png",
+        "httpStatus": 200,
+        "sha256": "92f42491eb6c5de7ceee9597c96ed3e541b0151bd93a2592bb4265e9973128d1",
+        "observation": "Terrace with exposed aggregate floor, rendered parapet/metal top, frosted side partition and exterior air-conditioning unit; neighbouring period buildings/trees beyond. Floor staining/weathering visible, cause unassessed. No measured balcony area or orientation certified."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa979d26a2f62cb483fcae34a.png",
+        "httpStatus": 200,
+        "sha256": "cc7ac6da452cf3ea6e8b56291c70525056d0f23732f04c8a76c969b5105940ba",
+        "observation": "Actual shower enclosure with low tray, frosted patterned sliding screen, fold-down seat and wall grab rail, white pedestal sink/mirror and WC in same room, white/beige tiles. Accessibility features visible but regulatory PMR compliance not certified."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa9902213f4bb5e189311bbb3.jpg",
+        "httpStatus": 200,
+        "sha256": "144afd924936678ab45543998125a20c87053bd8e19819adf4010e9ddaf05f34",
+        "observation": "Narrow tiled entry corridor with yellow walls, glass pendant, sliding cupboard at end and entry intercom/electrical boxes. No extra room or lift absence inferred."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/28/019e6fdfa997810289e28a16866a2d0c.jpg",
+        "httpStatus": 200,
+        "sha256": "8de7c9bdb4ac3d9d7f95859996deb7ce792a44ee98b1dd9333d979a6801edf59",
+        "observation": "Compact narrow kitchenette recess with dark-grey cabinets, metal sink/two hotplates, white hood, white square backsplash, brown floor tiles and wall air-conditioning unit. Operation/compliance unassessed. All six own entries individually inspected, no explicit AI/staging label observed; current tenancy established by full primary wording."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-poitiers-34m2/r2037447",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T12:04:05.994173+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass97_iad2037447.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T11:42:37.006116+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "sameBatchExactImagePathMatches": 0,
+      "sameBatchExactImageByteHashMatches": 0,
+      "physicalUnitIdentityIndependentlyConfirmed": false,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-1-piece-poitiers-86000-1862463",
+          "property": {
+            "id": "cmuvtwulh0002h8kss3ofl3mm",
+            "codeCommune": "86194",
+            "surface": 33.89,
+            "rooms": 1,
+            "floor": 2,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 8850000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass95.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-30m2/r2069188",
+          "surface": 30,
+          "rooms": 2,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 2,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "Exact source IDs and all own image paths absent from historical approved/pending/excluded/duplicate/export records and native ACTIVE photo paths. Same-batch galleries have no identical path or byte hash. Both advertise the same senior-services residence, seller, floor, price and publication date; those shared facts alone do not prove distinct physical units. Galleries differ in fixed kitchenette/sleeping connections: narrow recessed kitchenette and door-separated rooflit sleeping zone versus open curtained bed/kitchen zone; exterior air-conditioning unit/frosted partition opposite sides. Different33.68/33.35 areas,155/150 energy consumption,5250/5184 annual charges and500/460 net rents preserved. No same-unit identity established; no two-unit trusted count inferred. Active near GH33.89 second-floor1960 studio, individual gas,54TOTAL/820annual/D188D37/separate kitchen differs from fourth1991/electric/74TOTAL/high service charges/C-class unit. Nonactive pending IAD30Carrez33floor T2 second-floor old-character Tranchee/gas/D204D40/red kitchenette/exposed timbers and bureau-labelled plan differs. Full stored comparison descriptions read; no evidence-backed native equivalent requiring withdrawal. "
+    },
+    "reviewStatus": "EXCLUDED",
+    "analysisComputed": false,
+    "exclusionReasons": [
+      "OCCUPIED_PROPERTY"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuotes": [
+        "Le logement est actuellement loué, garantissant des revenus immédiats dès l’acquisition.",
+        "Appartement vendu loué: 500 HC - 900€ CC"
+      ],
+      "currentTenantExplicit": true,
+      "sourceNetMonthlyRentEuros": 500,
+      "sourceGrossMonthlyRentEuros": 900,
+      "sourceChargesYear": 2024,
+      "sourceAnnualChargesEuros": 5250,
+      "sourceClaimedRecoverableAnnualChargesEuros": 4327,
+      "commercialOrManagedLeaseIndependentlyProven": false
+    },
+    "notes": "Complete primary description including all seller/legal paragraphs individually read and retained verbatim. Every own gallery entry individually visually inspected in source order, related-property media excluded. Earliest known actual full-page HTTP200 observation from pass97 retained as observedAt and firstSeenAt; pass98 full-page observation and fresh primary recheck retained separately. Publication exposes June8 date only; time unknown omitted. Fresh first-page feeds checked Le Mans then Angers then Reims before Poitiers; remaining checked Le Mans candidates have older January-March primary dates, no eligible unreviewed IDs on checked Angers/Reims pages. Two Poitiers June8 adverts reviewed without claiming all pages/markets exhausted. Measurements, title, present condition and proximity independently unverified; images do not establish vacant possession. EXCLUDED: explicitly currently let and sold let. Whole EUR68300 seller-paid-fee, structured33.68m2/T1/one source bedroom retained with approximate34m2 prose and distinct sleeping zone; no legal bedroom or measured headroom certification. Fourth/top floor WITH lift,1991 construction, electric heating and air conditioning. One sale lot in74TOTAL, no proceeding;5250annual/437.5monthly,2024charge5250 with claimed4327 recoverable, source rent500HC/900CC. Recoverability/income/guaranteed yield unverified, no analysis. Tax unknown omitted. C155/A5 assessed2026-02-16 indexed2023 cost579-783. All six actual entries reviewed: yellow floral empty-looking main room, door-separated rooflit sleeping zone, aggregate terrace/left AC/right partition, accessible-feature shower/WC, tiled hall and narrow grey kitchenette. No explicit AI/staging label. Empty images do not override explicit currently let wording. Senior-services context alone does not prove a commercial or managed lease; occupied-sale exclusion independently sufficient. Exact source IDs and all own image paths absent from historical approved/pending/excluded/duplicate/export records and native ACTIVE photo paths. Same-batch galleries have no identical path or byte hash. Both advertise the same senior-services residence, seller, floor, price and publication date; those shared facts alone do not prove distinct physical units. Galleries differ in fixed kitchenette/sleeping connections: narrow recessed kitchenette and door-separated rooflit sleeping zone versus open curtained bed/kitchen zone; exterior air-conditioning unit/frosted partition opposite sides. Different33.68/33.35 areas,155/150 energy consumption,5250/5184 annual charges and500/460 net rents preserved. No same-unit identity established; no two-unit trusted count inferred. Active near GH33.89 second-floor1960 studio, individual gas,54TOTAL/820annual/D188D37/separate kitchen differs from fourth1991/electric/74TOTAL/high service charges/C-class unit. Nonactive pending IAD30Carrez33floor T2 second-floor old-character Tranchee/gas/D204D40/red kitchenette/exposed timbers and bureau-labelled plan differs. Full stored comparison descriptions read; no evidence-backed native equivalent requiring withdrawal. Excluded evidence file only; no trusted import or investment analysis."
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-poitiers-33m2/r2037445",
+    "observedAt": "2026-10-16T11:42:37.015605+00:00",
+    "httpStatus": 200,
+    "externalId": "2037445",
+    "firstSeenAt": "2026-10-16T11:42:37.015605+00:00",
+    "latestFullPageObservedAt": "2026-10-16T11:57:52.891916+00:00",
+    "reviewedAt": "2026-10-16T12:04:06.909682+00:00",
+    "communeCode": "86194",
+    "priceEuros": 68300,
+    "surface": 33.35,
+    "rooms": 1,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Alexis Coustham",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Poitiers – Résidence Services Carnot-Blossac\n\nGrand T1. Idéal investissement locatif ou pour une personne souhaitant profiter d'un cadre de vie sécurisé et confortable au sein d'une résidence seniors.\n\nSitué au cœur du très recherché quartier Carnot-Blossac, au sein d’une résidence services sécurisée, parfaitement entretenue et récemment rénovée. Découvrez ce bel appartement de 34 m², situé au 4ᵉ et dernier étage d'une résidence avec ascenseur, bénéficiant d'une climatisation pour un confort optimal en toute saison.\n\nBaigné de lumière grâce à son exposition plein sud, ce bien offre un agencement optimisé et un cadre de vie agréable. Il se compose d’un séjour lumineux avec cuisine ouverte équipée, d’un espace nuit indépendant, d’une salle d’eau fonctionnelle ainsi que d’un balcon permettant de profiter pleinement des beaux jours.\n\nLa résidence seniors Carnot-Blossac propose un environnement calme, sécurisé et convivial avec digicode, interphone, ascenseur et raccordement à la fibre optique.\n\nSon emplacement privilégié permet un accès immédiat aux commerces, transports en commun, services médicaux, espaces verts et au centre-ville de Poitiers.\n\nAucun travaux n’est à prévoir. Le logement est actuellement loué, garantissant des revenus immédiats dès l’acquisition.\n\nCe bien constitue une opportunité particulièrement intéressante pour un investisseur à la recherche d’un placement sécurisé, offrant une bonne rentabilité, une gestion simplifiée et un risque de vacance locative très limité dans une résidence reconnue et recherchée.\n\nAppartement vendu loué 460€ HC - 900€ CC\nBien soumis au statut de la copropriété.\nNombre de lots d'habitation : 74\nCharges annuelles 2024: 5184€ dont 4261€ de charges récupérables auprès du locataire.\n\nHonoraire à la charge du vendeur. \n\nUne opportunité à découvrir rapidement.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 74 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 432€ par mois (soit 5184 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Alexis Coustham mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 900405176, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-06-08",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 5184,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-02-16",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 150
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 559,
+        "max": 757
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 74,
+      "annualFees": 5184,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1991,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "68 300 €",
+      "formattedPerSurface": "2 048 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        },
+        {
+          "text": "Climatisation",
+          "icon": "iad-icon:mode-cool"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1991"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        },
+        {
+          "text": "Gardien"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 33.35,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/05/10/019e12a81774fe9e6404aa8faca78e4e.png",
+      "https://images.playiad.com/property/broadcast/2026/05/10/019e12a8169d0f82fdf4da8b19f8968c.png",
+      "https://images.playiad.com/property/broadcast/2026/05/10/019e12a8175ff3bdba7be033196ff13b.png",
+      "https://images.playiad.com/property/broadcast/2026/05/10/019e12a817a0af0785edd01e5b8f9aba.png",
+      "https://images.playiad.com/property/broadcast/2026/05/10/019e12a816c5093c06eb5fe7acca01f4.png",
+      "https://images.playiad.com/property/broadcast/2026/05/10/019e12a81a7c982346fc9f1aa44e0b71.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/10/019e12a81774fe9e6404aa8faca78e4e.png",
+        "httpStatus": 200,
+        "sha256": "a2cf66b968e81524104b88e0650642d5b89389f5094617be5cecfc479396e5c5",
+        "observation": "Actual furnished main/sleeping space: round dining table, green armchairs, wood mirrored cabinet, white terrace slider, partly curtained sleeping zone under roof window and mobility aid. Furnishings do not independently establish occupancy or personal attributes."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/10/019e12a8169d0f82fdf4da8b19f8968c.png",
+        "httpStatus": 200,
+        "sha256": "82412241d9dc4035c9309ff975aa052424e1a6e536cd04b6a625be7b6beace86",
+        "observation": "Actual shower with frosted patterned sliding screen, fold-down seat/grab rail, adjacent WC, white sink and small wall cabinet, washing appliance and white/beige tiles. Accessibility features visible without certifying regulatory PMR compliance."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/10/019e12a8175ff3bdba7be033196ff13b.png",
+        "httpStatus": 200,
+        "sha256": "7dea11aea1894afcc898816b4ac626ccb90aea9e86ed151427cab2a613822bf5",
+        "observation": "Furnished tiled entry corridor, decorative lantern pendant, framed artwork, small storage furniture and sliding end cupboard. No additional room counted or lift status inferred from corridor alone."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/10/019e12a817a0af0785edd01e5b8f9aba.png",
+        "httpStatus": 200,
+        "sha256": "a5f4859ce9e083aa6ab30ddcc74e4cf17a1446c314742e5878e900a57291ac7d",
+        "observation": "Reverse sleeping area with bed under sloping roof window, open dark-grey kitchenette with metal sink/two hotplates/white hood, curtain and white cupboards, connected green-armchair dining/living area. Source one-bedroom count retained as advertiser classification; open curtained zone does not certify an enclosed independent bedroom."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/10/019e12a816c5093c06eb5fe7acca01f4.png",
+        "httpStatus": 200,
+        "sha256": "973236dcb14e29ab89cec9d7dcd315937bed34cd7c86ee61fffa3695c09c014a",
+        "observation": "Same round wood dining table, glazed wood cabinet/TV, green chair and broad terrace slider with patterned curtains, green terrace flooring/planters beyond. Repeated angle, not another room."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/10/019e12a81a7c982346fc9f1aa44e0b71.png",
+        "httpStatus": 200,
+        "sha256": "869bdc2e87c4849e528f887987b9ef3c4c7b0e65625ebc032a77b19dda811c8a",
+        "observation": "Terrace with green perforated flooring, white table/chair, pots, frosted left partition, air-conditioning unit on right and fabric awning with dark weathering. Cause/condition unassessed, no mould diagnosis or measured area inferred. All six own entries individually inspected, no explicit AI/staging label observed; current tenancy independently explicit in full prose."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-poitiers-33m2/r2037445",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T12:04:06.086404+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass97_iad2037445.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T11:42:37.015605+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "sameBatchExactImagePathMatches": 0,
+      "sameBatchExactImageByteHashMatches": 0,
+      "physicalUnitIdentityIndependentlyConfirmed": false,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-1-piece-poitiers-86000-1862463",
+          "property": {
+            "id": "cmuvtwulh0002h8kss3ofl3mm",
+            "codeCommune": "86194",
+            "surface": 33.89,
+            "rooms": 1,
+            "floor": 2,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 8850000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass95.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-30m2/r2069188",
+          "surface": 30,
+          "rooms": 2,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 2,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "Exact source IDs and all own image paths absent from historical approved/pending/excluded/duplicate/export records and native ACTIVE photo paths. Same-batch galleries have no identical path or byte hash. Both advertise the same senior-services residence, seller, floor, price and publication date; those shared facts alone do not prove distinct physical units. Galleries differ in fixed kitchenette/sleeping connections: narrow recessed kitchenette and door-separated rooflit sleeping zone versus open curtained bed/kitchen zone; exterior air-conditioning unit/frosted partition opposite sides. Different33.68/33.35 areas,155/150 energy consumption,5250/5184 annual charges and500/460 net rents preserved. No same-unit identity established; no two-unit trusted count inferred. Active near GH33.89 second-floor1960 studio, individual gas,54TOTAL/820annual/D188D37/separate kitchen differs from fourth1991/electric/74TOTAL/high service charges/C-class unit. Nonactive pending IAD30Carrez33floor T2 second-floor old-character Tranchee/gas/D204D40/red kitchenette/exposed timbers and bureau-labelled plan differs. Full stored comparison descriptions read; no evidence-backed native equivalent requiring withdrawal. "
+    },
+    "reviewStatus": "EXCLUDED",
+    "analysisComputed": false,
+    "exclusionReasons": [
+      "OCCUPIED_PROPERTY"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuotes": [
+        "Le logement est actuellement loué, garantissant des revenus immédiats dès l’acquisition.",
+        "Appartement vendu loué 460€ HC - 900€ CC"
+      ],
+      "currentTenantExplicit": true,
+      "sourceNetMonthlyRentEuros": 460,
+      "sourceGrossMonthlyRentEuros": 900,
+      "sourceChargesYear": 2024,
+      "sourceAnnualChargesEuros": 5184,
+      "sourceClaimedRecoverableAnnualChargesEuros": 4261,
+      "commercialOrManagedLeaseIndependentlyProven": false
+    },
+    "notes": "Complete primary description including all seller/legal paragraphs individually read and retained verbatim. Every own gallery entry individually visually inspected in source order, related-property media excluded. Earliest known actual full-page HTTP200 observation from pass97 retained as observedAt and firstSeenAt; pass98 full-page observation and fresh primary recheck retained separately. Publication exposes June8 date only; time unknown omitted. Fresh first-page feeds checked Le Mans then Angers then Reims before Poitiers; remaining checked Le Mans candidates have older January-March primary dates, no eligible unreviewed IDs on checked Angers/Reims pages. Two Poitiers June8 adverts reviewed without claiming all pages/markets exhausted. Measurements, title, present condition and proximity independently unverified; images do not establish vacant possession. EXCLUDED: explicitly currently let and sold let. Whole EUR68300 seller-paid-fee, structured33.35m2/T1/one source bedroom retained alongside approximate34m2 prose and sleeping-zone claim. Actual bed/kitchen space curtained/open, no enclosed legal bedroom independently certified. Fourth/top floor WITH lift,1991 construction, electric heating/air conditioning. One sale lot in74TOTAL, no proceeding;5184annual/432monthly,2024charge5184 with claimed4261 recoverable, source rent460HC/900CC. Recoverability/income/guaranteed yield unverified, no analysis. Tax unknown omitted. C150/A5 assessed2026-02-16 indexed2023 cost559-757. All six actual entries reviewed: green armchairs/round wood dining/mirrored cabinet, open curtained rooflit bed/kitchen, accessible-feature shower/WC, furnished entry and green terrace/right AC/left partition/weathered awning. No explicit AI/staging label. Senior-services context does not independently establish commercial/managed lease terms; explicit current tenancy sufficient for exclusion. Exact source IDs and all own image paths absent from historical approved/pending/excluded/duplicate/export records and native ACTIVE photo paths. Same-batch galleries have no identical path or byte hash. Both advertise the same senior-services residence, seller, floor, price and publication date; those shared facts alone do not prove distinct physical units. Galleries differ in fixed kitchenette/sleeping connections: narrow recessed kitchenette and door-separated rooflit sleeping zone versus open curtained bed/kitchen zone; exterior air-conditioning unit/frosted partition opposite sides. Different33.68/33.35 areas,155/150 energy consumption,5250/5184 annual charges and500/460 net rents preserved. No same-unit identity established; no two-unit trusted count inferred. Active near GH33.89 second-floor1960 studio, individual gas,54TOTAL/820annual/D188D37/separate kitchen differs from fourth1991/electric/74TOTAL/high service charges/C-class unit. Nonactive pending IAD30Carrez33floor T2 second-floor old-character Tranchee/gas/D204D40/red kitchenette/exposed timbers and bureau-labelled plan differs. Full stored comparison descriptions read; no evidence-backed native equivalent requiring withdrawal. Excluded evidence file only; no trusted import or investment analysis."
+  }
+]
