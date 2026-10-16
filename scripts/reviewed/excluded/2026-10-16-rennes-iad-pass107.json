@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-27m2/r2137460",
+    "observedAt": "2026-10-16T17:01:10.095374+00:00",
+    "httpStatus": 200,
+    "externalId": "2137460",
+    "firstSeenAt": "2026-10-16T17:01:10.095374+00:00",
+    "latestFullPageObservedAt": "2026-10-16T17:16:47.969679+00:00",
+    "reviewedAt": "2026-10-16T17:25:30.944021+00:00",
+    "communeCode": "35238",
+    "priceEuros": 140000,
+    "surface": 26.8,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Gaelle Loheac",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "RENNES HYPERCENTRE – CHARMANT DUPLEX LUMINEUX AU DERNIER ÉTAGE – 26,80 M² CARREZ / 40,15 M² AU SOL\n\nIdéalement situé au cœur du centre de Rennes, à quelques pas de la Place de la Mairie et de ses rues piétonnes, cet appartement en duplex séduit par son charme, sa luminosité et son agencement agréable. En bon état, il occupe les deux derniers niveaux de l’immeuble (4ᵉ et 5ᵉ étages) et bénéficie d’une belle exposition ouest, à proximité immédiate des commerces, restaurants et transports.\n\nD’une superficie de 26,80 m² loi Carrez et de 40,15 m² au sol, cet appartement offre des volumes agréables et une distribution optimisée sur deux niveaux.\n\nAu premier niveau, vous découvrirez une pièce de vie chaleureuse et lumineuse, avec une cuisine ouverte et deux belles fenêtres exposées ouest, apportant une agréable lumière naturelle. Des WC indépendants complètent cet espace.\n\nÀ l’étage, l’espace nuit se compose d’une chambre pleine de charme et d’une salle d’eau. Cette configuration en duplex permet de bien distinguer les espaces de vie et de repos.\n\nL’eau froide est comprise dans les charges de copropriété, avec une consommation relevée par compteur individuel.\n\nActuellement loué, l’appartement peut être vendu libre de toute occupation ou avec le locataire en place, offrant ainsi une belle opportunité aussi bien pour une résidence principale que pour un investissement locatif.\n\nLe loyer actuel s’élève à 730 € par mois charges comprises, dont 20 € de charges.\n\nContactez-moi pour obtenir davantage d’informations ou organiser une visite.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 17 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 49.95€ par mois (soit 599.41 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Gaelle Loheac mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rennes sous le numéro 827472895, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-15",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "F",
+    "ges": "C",
+    "chargesAnnualEuros": 599.41,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-16",
+      "year": 2023,
+      "epc": {
+        "status": "available-excessive",
+        "class": "F",
+        "consumption": 381
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 15
+      },
+      "amount": {
+        "min": 980,
+        "max": 1370
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 17,
+      "annualFees": 599.41,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1800,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "140 000 €",
+      "formattedPerSurface": "5 224 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1800"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 26.8,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86b244362c5c41483743c267a0.png",
+        "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86c4e02fb1d2a83b69c1223a73.png",
+        "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86d7191965bffbeaf0b1a0104e.png",
+        "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86e9719662c499b48f4cbef149.png",
+        "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86fd8b8cdc5cac66da592e4443.png",
+        "https://images.playiad.com/property/broadcast/2026/10/15/01a13f87da8bc6501d23c77f54c86872.png"
+      ]
+    },
+    "photoCount": 6,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86b244362c5c41483743c267a0.png",
+      "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86c4e02fb1d2a83b69c1223a73.png",
+      "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86d7191965bffbeaf0b1a0104e.png",
+      "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86e9719662c499b48f4cbef149.png",
+      "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86fd8b8cdc5cac66da592e4443.png",
+      "https://images.playiad.com/property/broadcast/2026/10/15/01a13f87da8bc6501d23c77f54c86872.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86b244362c5c41483743c267a0.png",
+        "httpStatus": 200,
+        "sha256": "259df7fd81278cea5c4a10047c8e010e1f5719808b713c2cc23328c329dd22f6",
+        "observation": "Actual lower-level living room with dark exposed beams, two tall windows, wood-effect floor, grey sofa, black table and white/black open kitchen. Furnishings alone not tenancy proof; explicit full source confirms current letting.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86c4e02fb1d2a83b69c1223a73.png",
+        "httpStatus": 200,
+        "sha256": "81caf69c4c4effb30246fd7acf03dc0504c3bdabd92e5a3f9dd38da7957efd76",
+        "observation": "Reverse same beamed living/kitchen, black cupboards, white marble-effect backsplash, peninsula, fridge, large television and entrance. Repeated angle not another room.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86d7191965bffbeaf0b1a0104e.png",
+        "httpStatus": 200,
+        "sha256": "c81fcd054deb5bd8d38d5704fd901f75e2003f756f7540804c64baf17dfdd948",
+        "observation": "Closer same black/white kitchenette, sink, small black hob, wall units, childproof cupboard catches and marble-effect counter/backsplash. Appliance function unverified.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86e9719662c499b48f4cbef149.png",
+        "httpStatus": 200,
+        "sha256": "06fcff8cbec62adee3114e1451915cf1f396655d672de8b795a8c53713ccff57",
+        "observation": "Actual upper attic sleeping area, skylight, sloped ceiling/dark timbers, mattress, television, wood floor and open stairwell/wood balustrade. No independent headroom, safety or Carrez measurement inferred.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/15/01a13f86fd8b8cdc5cac66da592e4443.png",
+        "httpStatus": 200,
+        "sha256": "16f025887af6f83153c4e7eacdbcb43cb5bb6a7cd68dbe4c5b300b4ee036b0e2",
+        "observation": "Actual upper washroom vanity/mirror, washing machine, towel heater and skylight reflection; shower/screen edge only partially visible. No independently certified shower dimensions or waterproofing.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/15/01a13f87da8bc6501d23c77f54c86872.png",
+        "httpStatus": 200,
+        "sha256": "ed42fcf48ee4546bd46a5fe65a61b8d258c2b2c4e4d1ae5383aa839faf20afa5",
+        "observation": "Source schematic unmeasured two-level plan: lower sejour/cuisine/WC/stair, upper chambre/salle d eau/stair. All6 own entries individually inspected, no explicit AI/staging label.26.80Carrez versus40.15floor retained as distinct measures; no extra living area invented.",
+        "isAgentPromotion": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-27m2/r2137460",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T17:25:26.191200+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "notes": "Full primary description, seller identity and every legal paragraph individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order, related-property media excluded. Earliest known full-primary HTTP200 observation from pass106 retained as observedAt/firstSeenAt; current pass107 collection/fresh primary recheck separate. Primary firstPublishDate date only; publication time unexposed omitted. Refreshed first-page priority feeds Le Mans/Angers/Reims/Poitiers in order show no eligible unreviewed IDs on those checked pages. Rennes primary dates compared using prior full-page discovery and current selected-page rechecks: both October15 records reviewed before October12, ahead of October11 and older checked candidates. No all-page or all-market exhaustion claim. Measurements, present condition, legal title, current availability and proximity independently unverified; empty/furnished photographs do not establish legal occupancy. EXCLUDED_CURRENT_TENANT: explicit Actuellement loue and option withlocataireenplace establish current letting. Advertiser alternative canbe soldfree does not establish tenant has left or guaranteedvacantpossession,so exclude under configured nooccupied/tenanted rule. FullsellerpaidEUR140000,26.80m2Carrez/40.15floor,T2onebed,duplex4thandinternal5thtop,1800electric,liftunknownomitted. One sale lot17TOTAL/no proceeding,599.41annual/source49.95monthly,taxunknown. F381/C15 assessed2026-09-16 indexed2023 cost980-1370. Advertisedcurrent730CC including20charges,710HCderived only retained as source-income evidence and never used for analysis. All6 own entries reviewed: beam/two-window main, blackwhite/marbleeffectkit, skylitatticsleeping/stair, vanity/rooflitwashroom and schematicduplexplan. Headroom,Carrez and staircomplianceunmeasured, noimpossiblelayout invented. ExactsourceID/all6ownpaths andSHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Two active near full descriptions read: PAP28groundQuaiPrevalaye/collectiveheat/2400annual/D andORPI25.26LesLongsChamps1995/mezzanine/balcony/exteriorparking/D174D34 differ fromcentral1800fourth/fifthattic26.8/17lots/599.41electric/F381C15. ExcludedIAD23.09ground1940/30lots/350annual/soldunavailable also differs. No same-unit evidence or unsupportedwithdrawal. Excluded file only,no trustedimport oranalysis.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r465300680",
+          "surface": 28.0,
+          "rooms": 2,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "D",
+          "price": 15200000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t2-rennes-35700-0a0e7da9-b07a-494e-aedf-f33218c0d161/",
+          "surface": 25.26,
+          "rooms": 2,
+          "floor": null,
+          "hasElevator": null,
+          "dpe": "D",
+          "price": 12305000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-16-rennes-iad-pass106.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-23m2/r2138149",
+          "surface": 23.09,
+          "rooms": 2,
+          "floor": 0,
+          "hasElevator": null,
+          "reviewStatus": "EXCLUDED"
+        }
+      ],
+      "resolution": "EXCLUDED_CURRENT_TENANT: explicit Actuellement loue and option withlocataireenplace establish current letting. Advertiser alternative canbe soldfree does not establish tenant has left or guaranteedvacantpossession,so exclude under configured nooccupied/tenanted rule. FullsellerpaidEUR140000,26.80m2Carrez/40.15floor,T2onebed,duplex4thandinternal5thtop,1800electric,liftunknownomitted. One sale lot17TOTAL/no proceeding,599.41annual/source49.95monthly,taxunknown. F381/C15 assessed2026-09-16 indexed2023 cost980-1370. Advertisedcurrent730CC including20charges,710HCderived only retained as source-income evidence and never used for analysis. All6 own entries reviewed: beam/two-window main, blackwhite/marbleeffectkit, skylitatticsleeping/stair, vanity/rooflitwashroom and schematicduplexplan. Headroom,Carrez and staircomplianceunmeasured, noimpossiblelayout invented. ExactsourceID/all6ownpaths andSHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Two active near full descriptions read: PAP28groundQuaiPrevalaye/collectiveheat/2400annual/D andORPI25.26LesLongsChamps1995/mezzanine/balcony/exteriorparking/D174D34 differ fromcentral1800fourth/fifthattic26.8/17lots/599.41electric/F381C15. ExcludedIAD23.09ground1940/30lots/350annual/soldunavailable also differs. No same-unit evidence or unsupportedwithdrawal. Excluded file only,no trustedimport oranalysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2137460.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:10.095374+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "reviewStatus": "EXCLUDED",
+    "sourceCarrezSurfaceM2": 26.8,
+    "sourceFloorSurfaceM2": 40.15,
+    "sourceAdvertisedRentEuros": {
+      "includingCharges": 730,
+      "charges": 20,
+      "excludingChargesDerived": 710
+    },
+    "exclusionReasons": [
+      "OCCUPIED_PROPERTY"
+    ],
+    "exclusionEvidence": {
+      "currentTenantExplicit": true,
+      "exactSourceQuotes": [
+        "Actuellement loué",
+        "l’appartement peut être vendu libre de toute occupation ou avec le locataire en place"
+      ],
+      "conditionalVacancyNotEvidenceOfCurrentVacancy": true
+    }
+  }
+]

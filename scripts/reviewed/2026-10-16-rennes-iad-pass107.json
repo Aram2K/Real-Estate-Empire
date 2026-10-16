@@ -1,0 +1,332 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-66m2/r2134864",
+    "observedAt": "2026-10-16T17:01:47.646204+00:00",
+    "httpStatus": 200,
+    "externalId": "2134864",
+    "firstSeenAt": "2026-10-16T17:01:47.646204+00:00",
+    "latestFullPageObservedAt": "2026-10-16T17:16:48.538793+00:00",
+    "reviewedAt": "2026-10-16T17:25:31.174291+00:00",
+    "communeCode": "35238",
+    "priceEuros": 258000,
+    "surface": 66,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Virginie Patetta",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "A la recherche d'un cadre de vie moderne, fonctionnel et parfaitement desservi ? \nVenez découvrir cet appartement soigné aux belles prestations, construit en 2019, situé à 2 pas des commerces, des transports et à proximité immédiate du parc du Landry.\nCe bien aux normes PMR garantit une vraie facilité de vie et un confort absolu. \nL'entrée est fonctionnelle et optimisée grâce à ses deux vastes placards de rangement. \nL'appartement offre une belle pièce de vie baignée de lumière, prolongée par une terrasse, orientée sud-ouest, idéale pour profiter de l'extérieur. \nCôté nuit, deux chambres parfaitement agencées dont une avec placard intégré. L'ensemble est complété par une salle d'eau moderne et fonctionnelle.\nL'appartement dispose d'un grand garage privatif doté d'une porte motorisée; il propose ainsi un stationnement sécurisé ainsi qu'un espace de stockage précieux, équipement recherché sur le secteur. \nCoté environnement, vous profiterez du Parc du Landry à loisir. \nEnvie d'en savoir plus et de le visiter ? Je suis à votre disposition, contactez-moi sans tarder !\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 93 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 86.67€ par mois (soit 1040 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Virginie Patetta mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rennes sous le numéro 929324432, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-12",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 1040,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2025-12-12",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 67
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 12
+      },
+      "amount": {
+        "min": 510,
+        "max": 710
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 93,
+      "annualFees": 1040,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 2019,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "258 000 €",
+      "formattedPerSurface": "3 909 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 2019"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 3"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 66,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/10/10/01a1251b52cd50356e86f33680ef5d52.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/13/01a133425ef6a9bac39f4131ffe5ea5b.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/13/01a13342152b13e41d03176aa4790e4a.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/09/01a1215dc8da0ddeca11fe6f44925ba4.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/09/01a1215e4a20bfb6cabbc37ce09e3eb9.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/09/01a1215d8815d6b3f3b4c4fb90259504.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/09/01a1215dab032b2a4882441dcf743246.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/09/01a1215e6bffdd89641228c455e68560.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/10/01a1251b32212832bfe02995d7778fc2.jpg"
+      ]
+    },
+    "photoCount": 9,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/10/01a1251b52cd50356e86f33680ef5d52.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/13/01a133425ef6a9bac39f4131ffe5ea5b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/13/01a13342152b13e41d03176aa4790e4a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/09/01a1215dc8da0ddeca11fe6f44925ba4.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/09/01a1215e4a20bfb6cabbc37ce09e3eb9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/09/01a1215d8815d6b3f3b4c4fb90259504.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/09/01a1215dab032b2a4882441dcf743246.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/09/01a1215e6bffdd89641228c455e68560.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/10/01a1251b32212832bfe02995d7778fc2.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/10/01a1251b52cd50356e86f33680ef5d52.jpg",
+        "httpStatus": 200,
+        "sha256": "a9574ad690c77e81395ab1cb0651063ecff82f30efca9b77e7ac8e5b1e6ba8bd",
+        "observation": "Actual open living/kitchen/dining, white base units and glossy black wall cabinets, dark counter, grey kitchen tiles/wood living floor, tan reclining chairs, gold lights and terrace glazing. Furniture not proof of tenancy.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/13/01a133425ef6a9bac39f4131ffe5ea5b.jpg",
+        "httpStatus": 200,
+        "sha256": "77892a9262b37bbd0dc425721c65cff548a5d1d5eb1d1fa630378644a3ad4bd8",
+        "observation": "Reverse same main room, tan recliners, dark wood chairs, glass coffee table/red patterned rug, gold light and terrace glazing. Not a separate room.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/13/01a13342152b13e41d03176aa4790e4a.jpg",
+        "httpStatus": 200,
+        "sha256": "4cbaa32c3cc1f56b09b29214fb63f7e73ea0982d3548ea7556ccdc117e117837",
+        "observation": "Other same living/dining angle toward white hall door/abstract artwork, same glass table/recliners and black/white kitchen. Coherent fixed geometry.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a1215dc8da0ddeca11fe6f44925ba4.jpg",
+        "httpStatus": 200,
+        "sha256": "395249a7fe2da48b996c6c9a0af901ae12581605ea6c4814088179e90303d213",
+        "observation": "Closer actual long black/white kitchen with black sink/backsplash, grey counter, dishwasher and window/blind. Appliance operation unverified.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a1215e4a20bfb6cabbc37ce09e3eb9.jpg",
+        "httpStatus": 200,
+        "sha256": "d166e75b739aac6548cc0ad07c121452575410f0f6fec00183abb54b6a20a341",
+        "observation": "Reverse same kitchen, black/glossy storage, white oven/microwave tower, large stainless fridge and grey tiled floor. No extra kitchen counted.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a1215d8815d6b3f3b4c4fb90259504.jpg",
+        "httpStatus": 200,
+        "sha256": "a4d323b231e9a167d4dd0fb2b4c2c15c7ca2dcc5f82d254d1c1bc19b3be8beed",
+        "observation": "Actual bedroom with floral yellow/grey bedding, dark headboard, mirrored wardrobe, pictures, wood floor and hall door. Dimensions unmeasured; reflected photographer not legal occupancy evidence.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a1215dab032b2a4882441dcf743246.jpg",
+        "httpStatus": 200,
+        "sha256": "5a025460f48739cac51e8acc78b099eea366c11cd25750ae30e66c3d0ecc77e8",
+        "observation": "Actual other windowed room used as office/sitting room, cream sofa, desk/chair, chest and wood floor. Source second bedroom retained; current furniture alone does not disqualify it.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/09/01a1215e6bffdd89641228c455e68560.jpg",
+        "httpStatus": 200,
+        "sha256": "6dd2b565dfd89e739503598595738c9b21a4c29094d7342da165a68019f583b9",
+        "observation": "Actual completed white/grey shower with glass cubicle/white tray, black basin vanity, lighted rounded mirror, laundry and storage. No independent waterproofing/accessibility certificate.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/10/01a1251b32212832bfe02995d7778fc2.jpg",
+        "httpStatus": 200,
+        "sha256": "575df4ae0aafac3fee249bc1f4a36d2c65e3da63c0d4f40a313f68c75b6c319a",
+        "observation": "Actual white entrance hall with fitted cupboard doors, mirror, interphone and wood floor. All9 own images individually inspected, no explicit AI/staging label. Terrace seen through main glazing only; included motorized private garage and lift remain explicit source facts without complete gallery certification.",
+        "isAgentPromotion": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-66m2/r2134864",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T17:25:26.822469+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "notes": "Full primary description, seller identity and every legal paragraph individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order, related-property media excluded. Earliest known full-primary HTTP200 observation from pass106 retained as observedAt/firstSeenAt; current pass107 collection/fresh primary recheck separate. Primary firstPublishDate date only; publication time unexposed omitted. Refreshed first-page priority feeds Le Mans/Angers/Reims/Poitiers in order show no eligible unreviewed IDs on those checked pages. Rennes primary dates compared using prior full-page discovery and current selected-page rechecks: both October15 records reviewed before October12, ahead of October11 and older checked candidates. No all-page or all-market exhaustion claim. Measurements, present condition, legal title, current availability and proximity independently unverified; empty/furnished photographs do not establish legal occupancy. APPROVED_CONVENTIONAL_APARTMENT: fullsellerpaidEUR258000/66m2/T3/twoexistingsourcebedrooms. ThirdWITHlift,2019naturalgas. Two sale lots93TOTAL/no proceeding,1040annual/source86.67monthly,taxunknown omitted. C67/C12 assessed2025-12-12 indexed2023 cost510-710. SourcePMR,quality,proximity andsouthwestterrace assertions retained without independent certification. Includedlargeprivategarage/motorizeddoor textual,not optionalprice; no measuredgaragearea or operation inferred. All9 own actual entries coherent: longglossblack/whitekit/greytilefloor, tanrecliners/glasscoffeetable/redrug/goldlightsmain, floralbedmirroredwardrobe, separatewindowedoffice/creamsofaroom, completedwhitegreyshower/blackvanity/lightedmirror/laundry, whitehall. Officefurniture not disproof of secondbedroom. No explicitAI/staginglabel or impossiblelayout. Full wording contains no occupied/tenanted sale,viager,bare/fractional/timeshare,auction/starting/partialprice,mandatory commercial/managedlease,ancillary-onlyproperty,houseboat,bot/spam. ExactsourceID/all9ownpaths andSHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Seven active near full descriptions read: PAP62fifthBourgEveque/loggia;62Volney2003/separatekit;62ThaborNOlift/758annual;70thirdT4threebeds/collectiveheat/loggia;70raisedground/gare/renovated2024/cave;66.12fourthhistoricduplex/7lots/1038annual;65third2004/131lots/930annual/C datedAug2026 differ from66third2019/93lots/1040annual/C67C12Dec2025/two-bedroomblackwhitekit. PAP65sharesfloor/lift/gas/southwest/garage butsourceconstructionyear,lotcounts,charges,energydate andsurface differ, no physicalidentity established. LivePAPcomparisonprimary403 so no newlyviewedPAPphoto claim; historicalnativePAPphotoURLs absent. No merge/withdrawal without same-unit evidence. PendingIAD65second2023/249lots/1549.32/B/B/tealkit/32terrace also differs fromthird2019blackwhiteunit. Actual local Rennes rent and apartmentDVF coverage verified beforeanalysis; estimates use appassumptions,not sourceadvertisedrent.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r464602207",
+          "surface": 62.0,
+          "rooms": 3,
+          "floor": 5,
+          "hasElevator": 1,
+          "dpe": null,
+          "price": 24000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r465500816",
+          "surface": 62.0,
+          "rooms": 3,
+          "floor": null,
+          "hasElevator": null,
+          "dpe": "C",
+          "price": 23700000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r459803004",
+          "surface": 62.0,
+          "rooms": 3,
+          "floor": null,
+          "hasElevator": 0,
+          "dpe": "D",
+          "price": 20900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r465201502",
+          "surface": 70.0,
+          "rooms": 4,
+          "floor": 3,
+          "hasElevator": 1,
+          "dpe": null,
+          "price": 17000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r462503193",
+          "surface": 70.0,
+          "rooms": 3,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "C",
+          "price": 27900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-de-charme-dans-l-hypercentre-r465001862",
+          "surface": 66.12,
+          "rooms": 4,
+          "floor": 4,
+          "hasElevator": null,
+          "dpe": null,
+          "price": 29500000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r464900619",
+          "surface": 65.0,
+          "rooms": 3,
+          "floor": 3,
+          "hasElevator": 1,
+          "dpe": "C",
+          "price": 24500000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "APPROVED_CONVENTIONAL_APARTMENT: fullsellerpaidEUR258000/66m2/T3/twoexistingsourcebedrooms. ThirdWITHlift,2019naturalgas. Two sale lots93TOTAL/no proceeding,1040annual/source86.67monthly,taxunknown omitted. C67/C12 assessed2025-12-12 indexed2023 cost510-710. SourcePMR,quality,proximity andsouthwestterrace assertions retained without independent certification. Includedlargeprivategarage/motorizeddoor textual,not optionalprice; no measuredgaragearea or operation inferred. All9 own actual entries coherent: longglossblack/whitekit/greytilefloor, tanrecliners/glasscoffeetable/redrug/goldlightsmain, floralbedmirroredwardrobe, separatewindowedoffice/creamsofaroom, completedwhitegreyshower/blackvanity/lightedmirror/laundry, whitehall. Officefurniture not disproof of secondbedroom. No explicitAI/staginglabel or impossiblelayout. Full wording contains no occupied/tenanted sale,viager,bare/fractional/timeshare,auction/starting/partialprice,mandatory commercial/managedlease,ancillary-onlyproperty,houseboat,bot/spam. ExactsourceID/all9ownpaths andSHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Seven active near full descriptions read: PAP62fifthBourgEveque/loggia;62Volney2003/separatekit;62ThaborNOlift/758annual;70thirdT4threebeds/collectiveheat/loggia;70raisedground/gare/renovated2024/cave;66.12fourthhistoricduplex/7lots/1038annual;65third2004/131lots/930annual/C datedAug2026 differ from66third2019/93lots/1040annual/C67C12Dec2025/two-bedroomblackwhitekit. PAP65sharesfloor/lift/gas/southwest/garage butsourceconstructionyear,lotcounts,charges,energydate andsurface differ, no physicalidentity established. LivePAPcomparisonprimary403 so no newlyviewedPAPphoto claim; historicalnativePAPphotoURLs absent. No merge/withdrawal without same-unit evidence. PendingIAD65second2023/249lots/1549.32/B/B/tealkit/32terrace also differs fromthird2019blackwhiteunit. Actual local Rennes rent and apartmentDVF coverage verified beforeanalysis; estimates use appassumptions,not sourceadvertisedrent."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2134864.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:47.646204+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "hasElevator": true,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "35238",
+      "year": 2025,
+      "rentSegment": "ALL_APT",
+      "rentM2Pred": 1487,
+      "nbObs": 48789,
+      "actualApartmentDVFSales": 15119,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 15119
+      }
+    }
+  }
+]
