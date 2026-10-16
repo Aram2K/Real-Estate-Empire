@@ -1,0 +1,323 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-36m2/r2134825",
+    "observedAt": "2026-10-16T17:01:09.365543+00:00",
+    "httpStatus": 200,
+    "externalId": "2134825",
+    "firstSeenAt": "2026-10-16T17:01:09.365543+00:00",
+    "latestFullPageObservedAt": "2026-10-16T17:01:46.217508+00:00",
+    "reviewedAt": "2026-10-16T17:05:05.073909+00:00",
+    "communeCode": "35238",
+    "priceEuros": 184900,
+    "surface": 36.26,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Alan Buchy",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "RENNES - PONT DE NANTES - APPT DE TYPE 2 AVEC BALCON ET PARKING EN SOUS-SOL\niad France - ALAN BUCHY vous propose en exclusivité :\nA proximité du centre ville et avec un accès rapide à la Gare, un appartement de 36,26m2, situé au 2ème étage de la résidence \"L'INTIMISTE\", construite en 2017, avec ascenseur et aux normes PMR. Il dispose d’une entrée avec placard, d’un espace de vie agréable comprenant une cuisine aménagée et équipée ouverte sur le séjour, avec accès à un balcon exposé SUD-EST, d'une belle chambre avec placard dressing et d'une grande salle d’eau avec wc. Ce bien bénéficie d'une belle luminosité avec vue dégagée et est complété par un parking en sous-sol ; accessible par l'ascenseur et pouvant accueillir facilement une voiture et un 2 roues.\nLIBRE D'OCCUPATION\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 77 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 58.33€ par mois (soit 700 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 184900 euros. Prix hors honoraires : 175000 euros. Honoraires TTC à la charge de l'acquéreur (5,66% du prix du bien hors honoraires) : 9900 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Alan Buchy mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rennes sous le numéro 983585647, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-16",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 700,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-03",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 103
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 20
+      },
+      "amount": {
+        "min": 440,
+        "max": 610
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 77,
+      "annualFees": 700,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 2017,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "184 900 €",
+      "formattedNetPrice": "175 000 €",
+      "formattedFees": "9 900 €",
+      "formattedFeesRatio": "5,66 %",
+      "formattedPerSurface": "5 099 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        },
+        {
+          "text": "Alarme",
+          "icon": "iad-icon:detector-alarm"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 2017"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 36.26,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ae9ff436b78f0c05285a7bf.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ed49bde3f72617e09805dfa.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3fb276ff0b982e869336c804.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3f7f8044ad3321f60e7bb681.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f39e9d96114490603d7b3e425.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f40004c2b2124cb40289e347b.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3e7a39c17ca4e86971af5c97.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3a48c119c7775f66c8159e23.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3fc6bdcf2b9cac043507ca00.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f4006d82b6b1373177d75ea02.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ec8e04f83a6fc6d17cda0a9.jpg",
+        "https://images.playiad.com/property/broadcast/2026/10/16/01a14567d95e423cbdcf542568969b15.jpg"
+      ],
+      "virtualTours": [
+        "https://livetour.istaging.com/a999fb6c-698d-4166-865d-efe79427adbf"
+      ]
+    },
+    "photoCount": 12,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ae9ff436b78f0c05285a7bf.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ed49bde3f72617e09805dfa.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3fb276ff0b982e869336c804.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3f7f8044ad3321f60e7bb681.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f39e9d96114490603d7b3e425.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f40004c2b2124cb40289e347b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3e7a39c17ca4e86971af5c97.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3a48c119c7775f66c8159e23.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3fc6bdcf2b9cac043507ca00.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f4006d82b6b1373177d75ea02.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ec8e04f83a6fc6d17cda0a9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/16/01a14567d95e423cbdcf542568969b15.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ae9ff436b78f0c05285a7bf.jpg",
+        "httpStatus": 200,
+        "sha256": "3c057eee2f2119982a61886765707acffcfba887d27e1308228e0168605b297b",
+        "observation": "Actual white living room with dark blue-green sofa, wood-effect floor, white dining table/chairs and open black-unit/grey backsplash kitchenette. Furnishings do not prove tenant or vacancy.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ed49bde3f72617e09805dfa.jpg",
+        "httpStatus": 200,
+        "sha256": "0214b95f678475fe0d3efaa741b0fa27cb2cc986d44b0adbcfc7970ee09458cd",
+        "observation": "Closer same black kitchen/grey counter/hob/hood/sink, balcony glazing behind. IAD VENDU sign visible outside glazing; conflicts with treating current listing as definitely available. Do not date sign or silently ignore.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3fb276ff0b982e869336c804.jpg",
+        "httpStatus": 200,
+        "sha256": "71227552439ff919668dcfce97ae878bcdbdbbe5a9ecb3acf63a721c4beb376a",
+        "observation": "Actual enclosed/glazed balcony/loggia, grey square floor tiles, frosted side panels, tree outlook and large clearly legible VENDU Alan Buchy sign. Actual sale date/current status unresolved.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3f7f8044ad3321f60e7bb681.jpg",
+        "httpStatus": 200,
+        "sha256": "cbd6deb59f76d5b95080814f2bcae6b083718286e00f41ae9b27a9e9ac1bf17c",
+        "observation": "Reverse same living/kitchen/sofa and glazing, same VENDU sign partly visible. Not an extra room.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f39e9d96114490603d7b3e425.jpg",
+        "httpStatus": 200,
+        "sha256": "ccfcee29fb5bdf2e59913d716a54ccdcad282535547b2b1babcdbd760a850e5b",
+        "observation": "Actual separate empty-looking bedroom, white walls, wood-effect floor, two-pane window, radiator and sliding wardrobe. Source one-bedroom designation coherent; dimensions unmeasured.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f40004c2b2124cb40289e347b.jpg",
+        "httpStatus": 200,
+        "sha256": "551ec371918a769e7d9bbdfcd97fb28b4a03ab25cc422afe286cbe42238333cc",
+        "observation": "Actual completed grey/brown tiled shower, glass door, white tray, white basin/vanity and mirror with towel heater reflection. No independent waterproofing/compliance certificate; WC source assertion not fully visible.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3e7a39c17ca4e86971af5c97.jpg",
+        "httpStatus": 200,
+        "sha256": "187d1beaecf97853330f055aaea09c771bc494c586592649d5c75207e298b25a",
+        "observation": "Another living/kitchen angle, dark sofa, white table, low wood bookcase and clear VENDU sign behind balcony glazing. Repeated view, not another bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3a48c119c7775f66c8159e23.jpg",
+        "httpStatus": 200,
+        "sha256": "5da8e05bf9de40a4c79c03690fa2fe6420b618a8d6923118efa80de007860e77",
+        "observation": "Closer same glazed balcony with IAD VENDU sign in tree outlook. Legal enclosure authorisation and whether enclosed area counted in36.26m2 unverified; no extra habitable surface added.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3fc6bdcf2b9cac043507ca00.jpg",
+        "httpStatus": 200,
+        "sha256": "0ef3f75dbd8cdc239090cd5db08947c783efd6ef7b957a1be835b4fcbcba36dd",
+        "observation": "Actual modern white residence facade and corner glazed balcony; outside face of IAD sign reads A VENDRE, while interior-facing photographed faces read VENDU. No reliable before/after chronology exposed. Hold availability/current marketing status rather than invent resale or sale completion.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f4006d82b6b1373177d75ea02.jpg",
+        "httpStatus": 200,
+        "sha256": "46cc44822023c8d005900ff700a1fe954c7c1d4a20cf1e7e8ed7edbc93637c02",
+        "observation": "Actual common entrance/mailbox lobby, black/grey branch-pattern wall, white tiles and mirrors. Not apartment living area or managed-residence lease evidence.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a1455f3ec8e04f83a6fc6d17cda0a9.jpg",
+        "httpStatus": 200,
+        "sha256": "46aa4f2b27918b9c157780bb52ce0b52b814c9ab6fc8fe2d4b2f8f54a049a426",
+        "observation": "Actual wider white/grey residence facade and balconies, street sign rue Mauconseil visible. Exact apartment street number not established; no inferred legal address or measured proximity.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/16/01a14567d95e423cbdcf542568969b15.jpg",
+        "httpStatus": 200,
+        "sha256": "a0ed797881e56a30cefaeccc543959706b8042333381244ab1bd9311b67a71f8",
+        "observation": "Alan Buchy agent promotion graphic, not property, occupancy or rental-income evidence. All12 own entries individually viewed,11 property/common views plus1 promotion; no explicit AI/staging label observed. Basement parking allocation/capacity and lift/PMR route remain source assertions without gallery certification.",
+        "isAgentPromotion": true
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-36m2/r2134825",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T17:05:03.623816+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "notes": "Complete primary description, seller and all legal paragraphs individually read and preserved verbatim. Actual earliest full-primary HTTP200 observation in this pass retained as observedAt/firstSeenAt; repeated collection and fresh primary recheck separately retained. Primary firstPublishDate date only; no time invented. Every exposed own photo individually visually inspected in source order, related-property media excluded. Earlier-priority checked first pages Le Mans/Angers/Reims contain no unreviewed eligible IDs and remaining checked Poitiers candidate separately reviewed pending. All24 checked Rennes full-primary publication dates compared: two October16 records selected before October15 and older. Rouen collected for next priority, no records trusted from cards and no all-page/market exhaustion claim. Measurements, legal title, condition, current availability and proximity unverified; empty/furnished photos do not establish occupancy. PENDING_AVAILABILITY: primary newly published2026-10-16 at full184900 includes9900buyerfees/175000net,36.26m2/T2/onebed,secondWITHlift,2017naturalgas,2sale lots77TOTAL/no proceeding,700annual/source58.33monthly,tax unknown omitted. C103/C20 assessed2026-09-03 indexed2023 cost440-610. Residence L Intimiste/PontdeNantes,sourceLIBRE D OCCUPATION retained as seller assertion,not independently certified or evidence of active sale. All12 own entries reviewed: black/grey openkit, darksofa/whitetable, separatewhitewindowedbedroom, completedgreyshower, glazedfrostedbalcony/treeoutlook, modernfacade/commonmailboxlobby,agentpromo. Large VENDU sign clearlyvisiblephotos2/3/4/7/8 while exteriorface in9 says A VENDRE; no reliable chronology. Source isContractSignedfalse conflicts with an inference of completed sale; preserve all evidence and hold actual availability/current marketing status rather than automatically approve or claim definitelysold. No currenttenant or bannedownershiplease proven. Basementparking includedsourceonly,capacityonecar+2wheelnotindependentlymeasured,no closedbox inferred. Glazedbalcony not extra livingarea or legalconversioncertification. SourcevirtualtourURL preserved but not represented as inspected; all12ownphotos inspected. ExactsourceID/all12ownpaths andSHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Zero active or nonactive near candidate within36.26plusminus4m2, no establishedsameunit or unsupportedwithdrawal. Rennes localrent2025ALL_APT1487/48789obs and15119 apartmentDVF/2021-2025metric verified as available,butNOanalysis duependingstatus.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_AVAILABILITY: primary newly published2026-10-16 at full184900 includes9900buyerfees/175000net,36.26m2/T2/onebed,secondWITHlift,2017naturalgas,2sale lots77TOTAL/no proceeding,700annual/source58.33monthly,tax unknown omitted. C103/C20 assessed2026-09-03 indexed2023 cost440-610. Residence L Intimiste/PontdeNantes,sourceLIBRE D OCCUPATION retained as seller assertion,not independently certified or evidence of active sale. All12 own entries reviewed: black/grey openkit, darksofa/whitetable, separatewhitewindowedbedroom, completedgreyshower, glazedfrostedbalcony/treeoutlook, modernfacade/commonmailboxlobby,agentpromo. Large VENDU sign clearlyvisiblephotos2/3/4/7/8 while exteriorface in9 says A VENDRE; no reliable chronology. Source isContractSignedfalse conflicts with an inference of completed sale; preserve all evidence and hold actual availability/current marketing status rather than automatically approve or claim definitelysold. No currenttenant or bannedownershiplease proven. Basementparking includedsourceonly,capacityonecar+2wheelnotindependentlymeasured,no closedbox inferred. Glazedbalcony not extra livingarea or legalconversioncertification. SourcevirtualtourURL preserved but not represented as inspected; all12ownphotos inspected. ExactsourceID/all12ownpaths andSHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Zero active or nonactive near candidate within36.26plusminus4m2, no establishedsameunit or unsupportedwithdrawal. Rennes localrent2025ALL_APT1487/48789obs and15119 apartmentDVF/2021-2025metric verified as available,butNOanalysis duependingstatus."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2134825.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:09.365543+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "hasElevator": true,
+    "reviewStatus": "PENDING_REVIEW",
+    "sourceNetPriceEuros": 175000,
+    "sourceBuyerFeesEuros": 9900,
+    "pendingReasons": [
+      "CURRENT_SALE_AVAILABILITY_UNCONFIRMED_VENDU_PHOTO_SIGN"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuote": "LIBRE D'OCCUPATION",
+      "venduSignPhotoNumbers": [
+        2,
+        3,
+        4,
+        7,
+        8
+      ],
+      "aVendreSignPhotoNumber": 9,
+      "isContractSigned": false,
+      "photoChronologyUnknown": true,
+      "clarificationNeeded": "Confirm actual availability and current sale status; VENDU versus A VENDRE faces unresolved."
+    },
+    "analysisCoverageAvailableButNotComputed": {
+      "rentM2Pred": 1487,
+      "nbObs": 48789,
+      "year": 2025,
+      "segment": "ALL_APT",
+      "actualApartmentDVFSales": 15119,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 15119
+      }
+    }
+  }
+]

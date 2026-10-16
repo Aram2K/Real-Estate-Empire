@@ -1,0 +1,175 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-23m2/r2138149",
+    "observedAt": "2026-10-16T17:01:09.340457+00:00",
+    "httpStatus": 200,
+    "externalId": "2138149",
+    "firstSeenAt": "2026-10-16T17:01:09.340457+00:00",
+    "latestFullPageObservedAt": "2026-10-16T17:01:46.197718+00:00",
+    "reviewedAt": "2026-10-16T17:05:05.078641+00:00",
+    "communeCode": "35238",
+    "priceEuros": 128000,
+    "surface": 23.09,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Gianni Schiariti",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "VENDU SANS DIFFUSION\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 30 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 29.17€ par mois (soit 350 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Gianni Schiariti mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de RENNES sous le numéro 527895536, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-16",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 350,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-10-15",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 277
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 10
+      },
+      "amount": {
+        "min": 810,
+        "max": 1110
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 30,
+      "annualFees": 350,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1940,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "128 000 €",
+      "formattedPerSurface": "5 544 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1940"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 23.09,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": false
+    },
+    "photoCount": 0,
+    "photoUrls": [],
+    "photoReview": [],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-rennes-23m2/r2138149",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T17:05:03.614495+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "notes": "Complete primary description, seller and all legal paragraphs individually read and preserved verbatim. Actual earliest full-primary HTTP200 observation in this pass retained as observedAt/firstSeenAt; repeated collection and fresh primary recheck separately retained. Primary firstPublishDate date only; no time invented. Every exposed own photo individually visually inspected in source order, related-property media excluded. Earlier-priority checked first pages Le Mans/Angers/Reims contain no unreviewed eligible IDs and remaining checked Poitiers candidate separately reviewed pending. All24 checked Rennes full-primary publication dates compared: two October16 records selected before October15 and older. Rouen collected for next priority, no records trusted from cards and no all-page/market exhaustion claim. Measurements, legal title, condition, current availability and proximity unverified; empty/furnished photos do not establish occupancy. EXCLUDED_SOLD_UNAVAILABLE: complete primary sole marketing wording VENDU SANS DIFFUSION explicitlyreportsalready sold. Structured isContractSignedfalse retained without overriding explicitdescription; no actualcurrentavailability or saledate invented. Fullsellerpaid128000/23.09m2/T2/onebed,ground0,1940electric;2sale lots30TOTAL/no proceeding,350annual/source29.17monthly,taxunknown,liftunknown omitted. D277/B10 assessed2026-10-15 indexed2023 cost810-1110. OwnmediahasMediafalse andno exposedphotos,so0visualinspections honestlyreported; no related-cardimages substituted. No impossiblelayout or tenancy inferred from smallarea/no photographs. ExactsourceID absent allhistory/native, no sameunit established. Active ORPI25.26LesLongsChamps1995/mezzanine/balcony/exteriorparking/gas-electricD174D34 andnonactiveCitya21.64thirdCentre/G differ from23.09ground1940electric/D277B10/30lots/350annual. No fabricated merge or unsupportedwithdrawal. Excludedartifactonly,no trustedimport oranalysis.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t2-rennes-35700-0a0e7da9-b07a-494e-aedf-f33218c0d161/",
+          "surface": 25.26,
+          "rooms": 2,
+          "floor": null,
+          "hasElevator": null,
+          "dpe": "D",
+          "price": 12305000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-le-mans-rennes-citya-pass55.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/rennes-35238/TAPP411-964399",
+          "surface": 21.64,
+          "rooms": 2,
+          "floor": 3,
+          "hasElevator": null,
+          "reviewStatus": "PENDING_ORIGINAL_MAIN_ROOM_PHOTOS"
+        }
+      ],
+      "resolution": "EXCLUDED_SOLD_UNAVAILABLE: complete primary sole marketing wording VENDU SANS DIFFUSION explicitlyreportsalready sold. Structured isContractSignedfalse retained without overriding explicitdescription; no actualcurrentavailability or saledate invented. Fullsellerpaid128000/23.09m2/T2/onebed,ground0,1940electric;2sale lots30TOTAL/no proceeding,350annual/source29.17monthly,taxunknown,liftunknown omitted. D277/B10 assessed2026-10-15 indexed2023 cost810-1110. OwnmediahasMediafalse andno exposedphotos,so0visualinspections honestlyreported; no related-cardimages substituted. No impossiblelayout or tenancy inferred from smallarea/no photographs. ExactsourceID absent allhistory/native, no sameunit established. Active ORPI25.26LesLongsChamps1995/mezzanine/balcony/exteriorparking/gas-electricD174D34 andnonactiveCitya21.64thirdCentre/G differ from23.09ground1940electric/D277B10/30lots/350annual. No fabricated merge or unsupportedwithdrawal. Excludedartifactonly,no trustedimport oranalysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2138149.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:09.340457+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "reviewStatus": "EXCLUDED",
+    "exclusionReasons": [
+      "SOLD_PROPERTY_UNAVAILABLE"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuote": "VENDU SANS DIFFUSION",
+      "ownMediaHasMedia": false,
+      "ownPhotosExposed": 0,
+      "isContractSigned": false,
+      "saleCompletionDateUnknown": true
+    }
+  }
+]
