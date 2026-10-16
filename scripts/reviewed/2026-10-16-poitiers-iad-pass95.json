@@ -1,0 +1,315 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-91m2/r2060399",
+    "observedAt": "2026-10-16T11:12:40.874650+00:00",
+    "httpStatus": 200,
+    "externalId": "2060399",
+    "firstSeenAt": "2026-10-16T11:12:40.874650+00:00",
+    "reviewedAt": "2026-10-16T11:16:08.217123+00:00",
+    "communeCode": "86194",
+    "priceEuros": 199000,
+    "surface": 91,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Ludovic Seguy",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Ref 2060399-LS POITIERS (86000) Secteur recherché, cœur historique, proche de la place du marché, appartement de 2 pièces principales, entièrement rénové sur 91 m² habitable. Situé au 1er étage sur 2 d’un petit immeuble, traversant, il bénéficie d’une belle luminosité et de volumes généreux. Rénové avec beaucoup de goût, confortable et aux équipements modernes, il a su conserver tout le charme de l’ancien. \n- Celui-ci se compose d'une entrée, séjour ouvrant sur une grande cuisine aménagée et équipée pour un total de plus de 50 m², dégagement, plusieurs espaces de rangements, salle d’eau avec douche italienne, toilette séparée et une grande chambre de 23 m² avec dressing. Possibilité de créer une deuxième chambre. \n- Sur le point technique, il est équipé d'une production d’eau chaude sanitaire par cumulus et d’un chauffage électrique individuel. Les fenêtres possèdent le double vitrage et l’ensemble est relié au tout à l’égout. \n- L'habitation est située proche de toutes les commodités et infrastructures du centre-ville. \n- La taxe foncière pour 2025 était de 1020 euros. \n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 13 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 80€ par mois (soit 960 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Ludovic Seguy mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Poitiers sous le numéro 843399973, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-02",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "E",
+    "ges": "B",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-03-04",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 257
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 10
+      },
+      "amount": {
+        "min": 2160,
+        "max": 2922
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 13,
+      "annualFees": 960,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1900,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "199 000 €",
+      "formattedPerSurface": "2 187 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1900"
+        },
+        {
+          "text": "Étage : 1"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 91,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 16,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22fe9e237db4111c2e0e79178508.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff47bf67b767ab82e12b9a6852.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff302a40c4362def01d78153b2.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ffbc4fe48bd7bc9c3b6b2f96e3.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22fefb63f2ef105c018ec65dd4d9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff169d19b9d530755c6fa469d7.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ffd7ee5202d2b5644329db796f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22fecb7ec79169ffb7e83fa9014c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22fe7f6a13a89942b5369f3e1cfd.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ffa2eddc015a76b458942109e1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff63d98fbb93e4720b84a2ebed.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22feb1e28c3f453ae46934d02753.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22fee111d7c2c91288da326c90e1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff7fcf68aed5586ccd1f34333f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f230205ca08be08f5125266a235dd.png",
+      "https://images.playiad.com/property/broadcast/2026/07/02/019f23022d940aef8a9eff48be114291.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22fe9e237db4111c2e0e79178508.jpg",
+        "httpStatus": 200,
+        "sha256": "ec2b0a9875374bc91eb1d7d382a84515ebd188efa923dd2fff7efc4caf467fda",
+        "observation": "Actual kitchen/dining room with grey painted ceiling beams, timber cupboards/table, dark worktops, brick-pattern backsplash, black-framed internal glazing and range/hood. Appliance fuel and operation unverified; heating retained from source electric claim."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff47bf67b767ab82e12b9a6852.jpg",
+        "httpStatus": 200,
+        "sha256": "52527bb3fa4b3e75d412cf163d93df78eedad916f96c3b31bcb0f6877f78d991",
+        "observation": "Hall toward bedroom and black-framed sliding glazed shower-room door, wood floor and grey ceiling beams. No additional bedroom counted."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff302a40c4362def01d78153b2.jpg",
+        "httpStatus": 200,
+        "sha256": "4ffede06c52ba89644106ed004c1e5ef99112c44c19f0b3b0fbc913647739fb8",
+        "observation": "Actual completed floor-level shower with black-framed screen, beige tiles/dark inserts, bowl basin/timber vanity, towel rail and tall window. No bathtub shown."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ffbc4fe48bd7bc9c3b6b2f96e3.jpg",
+        "httpStatus": 200,
+        "sha256": "d35d46b3f4844e1c42afccfc4fa71b88e6c4fecffeb46d22706ad9b44ed0e245",
+        "observation": "Actual bedroom with red chimney breast, black decorative fireplace, large mirrored sliding wardrobe, timber floor and grey beams. Paint containers in recess; renovation completion/date not independently certified."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22fefb63f2ef105c018ec65dd4d9.jpg",
+        "httpStatus": 200,
+        "sha256": "923512a6c5f478021876cad918f9d8bc2050b47b420b7ae1484c0631f1be0edb",
+        "observation": "Timber private entrance door, red surround, intercom and adjacent internal door. No exact address or private lift access inferred."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff169d19b9d530755c6fa469d7.jpg",
+        "httpStatus": 200,
+        "sha256": "0d0e339b3fd6b97955a9f16637dd88563ca1c2ff1bf36f420e4fe636d24364ad",
+        "observation": "Narrow glazed corridor with white panelling, wood floor and windows onto facing building. No external terrace or independent extra living area inferred."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ffd7ee5202d2b5644329db796f.jpg",
+        "httpStatus": 200,
+        "sha256": "896e60c348ab98f9d5d6a9902f740fa34c31b110198f41d52189110ac24796db",
+        "observation": "Common curved stone stairs, metal handrail and window; visible wall crack line/patch and worn stone. Cause/significance unassessed, no structural diagnosis or building safety certification."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22fecb7ec79169ffb7e83fa9014c.jpg",
+        "httpStatus": 200,
+        "sha256": "eeffdf31a178101cacba60023fa8e885e44c4c3984924afa752ae286ac721cdc",
+        "observation": "Actual main living room with blue panelling/cupboards, white decorative fireplace, broad opening to kitchen and black internal glazing. Sealed fireplace not treated as working heat source."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22fe7f6a13a89942b5369f3e1cfd.jpg",
+        "httpStatus": 200,
+        "sha256": "1b0b9165155d865e6191efaa8ae53ba7079db562b4347377a829e5b6e3d93cf6",
+        "observation": "Reverse same timber kitchen, dark island/table and opening to blue-panelled living room. Fixed geometry coherent."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ffa2eddc015a76b458942109e1.jpg",
+        "httpStatus": 200,
+        "sha256": "381ef6f2cd09122b54cb080002252b8c3a0c87903d12844afd965b1b1ecd22db",
+        "observation": "Reverse same red-chimney bedroom, mirrored wardrobe and hallway/shower door. Not a second bedroom; current source one bedroom retained."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff63d98fbb93e4720b84a2ebed.jpg",
+        "httpStatus": 200,
+        "sha256": "05150b51cd3dc8db2a90bfc8ef0ee994e2121fcfeac7131767e154c8c547a681",
+        "observation": "Same hallway with black sliding shower door and entrance visible; wood floor/grey beams. Electrical enclosure visible, compliance unassessed."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22feb1e28c3f453ae46934d02753.jpg",
+        "httpStatus": 200,
+        "sha256": "2f96821eec918d6852ccec9a6d6327321e8af45feb4ff96755172b6daa9960c6",
+        "observation": "Reverse blue-panelled living room toward window and hall, pale wood floor and electric panel heater."
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22fee111d7c2c91288da326c90e1.jpg",
+        "httpStatus": 200,
+        "sha256": "09c5d6f114144a79c99c9f3420798a6231b535d89b8a6fcf72b757952d85031b",
+        "observation": "Same living room/window, blue fitted cupboards and white fireplace. No additional room counted."
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f22ff7fcf68aed5586ccd1f34333f.jpg",
+        "httpStatus": 200,
+        "sha256": "c4b1d8aa269dd03ce5ba1a9541410b50afa42fbba7711038de4ab17413382bc1",
+        "observation": "Same red/white bedroom with mirrored wardrobe and wall lights. Future possible second bedroom not counted as existing."
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f230205ca08be08f5125266a235dd.png",
+        "httpStatus": 200,
+        "sha256": "b88c19c312038f565280af14f110ff07c8d665e926438bbb8954d532122fa9ec",
+        "observation": "Advertiser Ludovic Seguy valuation promotion/contact card. Marketing graphic, not property-condition evidence or proof of bot/spam."
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/02/019f23022d940aef8a9eff48be114291.png",
+        "httpStatus": 200,
+        "sha256": "6f11a38d728def49c28f0ca330fcf0fa8fd23a4888e07c713f233d68c9258e0b",
+        "observation": "Advertiser Ludovic Seguy buyer/seller promotion/contact card. Marketing graphic, not property photo. All16 exposed entries individually inspected, with14 actual room/common-area photos and2 promotional cards distinguished; no explicit AI/staging label observed."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-91m2/r2060399",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T11:16:07.222299+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-4-pieces-poitiers-86000-1880076",
+          "property": {
+            "id": "cmuv9keqj0002h87c372za8rk",
+            "codeCommune": "86194",
+            "surface": 87.93,
+            "rooms": 4,
+            "floor": 14,
+            "hasElevator": null,
+            "dpe": "E",
+            "ges": null
+          },
+          "priceCents": 10200000
+        },
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-4-pieces-poitiers-86000-1897805",
+          "property": {
+            "id": "cmuzt7fvk0002h830udkda7u6",
+            "codeCommune": "86194",
+            "surface": 92.2,
+            "rooms": 4,
+            "floor": 0,
+            "hasElevator": 1,
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 22500000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass93.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-93m2/r2080004",
+          "surface": 93,
+          "rooms": 4,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 1,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "APPROVED: whole seller-paid-fee EUR199000/91m2/T2/one existing23m2 source bedroom, future possible second not counted. First floor of2 explicit, lift unknown omitted, source construction1900. Historic centre near market, electric individual heating/cumulus/double glazing/sewer source claims. One sale lot in13 TOTAL, no proceeding,960annual/80monthly copropriete charges, tax1020 for2025. E257/B10 assessed2026-03-04 indexed2023 cost2160-2922. Large living/open kitchen over50m2 and23m2 bedroom plausibly explain91m2T2; no room/surface correction required. All16 own entries inspected: grey-beam timber/brick-pattern kitchen/dining, blue-panel living/fireplace, red-chimney bedroom/mirrored wardrobe, completed beige walk-in shower/black screen, wood/glazed hall, common stone stairs and2 agent promo cards. Decorative fireplaces not assumed functional. Common stair wall crack/stone wear and bedroom paint containers noted, cause/significance/work completion unverified; no evidence of a disqualifying or impossible sale. No explicit AI label or conflicting fixed geometry. Advertiser entirely renovated wording retained as claim, not certification. Full source contains no current tenant, occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, commercial/managed lease, ancillary-only property, houseboat or bot/spam. ExactID/all16 own image paths absent from history/all statuses/exports and native ACTIVE photos. Two near ACTIVE full descriptions compared: GH87.93 fourteenth1968/708lots/4184annual/gas/E261C22/three bedrooms/parking and GH92.2 SaintHilaire ground access/top position/two balconies/two bedrooms/3600annual/box differ from historic first1900/13lots/960annual/electric/one bedroom/no assigned parking. Pending IAD93 first1975/293lots/3308annual/former office/no completed bath also differs. No physical identity established or unsupported withdrawal. Actual local Poitiers rent and apartment DVF coverage verified before native import/analysis."
+    },
+    "notes": "Full primary description including all seller/legal paragraphs individually read and preserved verbatim. All own gallery entries individually visually inspected in source order; related-property media excluded. Actual first full-page HTTP200 observation preserved as firstSeenAt, publication date only retained without time. No measured area, headroom, legal title, condition, vacant possession or proximity independently certified. Furnishings do not establish occupancy. Priority first pages refreshed Le Mans then Angers/Reims before Poitiers; remaining checked Le Mans candidates have older January-March primary dates, no eligible unreviewed Angers/Reims IDs on checked pages. Four Poitiers primary dates compared and July10 then July2 selected ahead of older candidates; no all-pages/markets exhaustion claim. APPROVED: whole seller-paid-fee EUR199000/91m2/T2/one existing23m2 source bedroom, future possible second not counted. First floor of2 explicit, lift unknown omitted, source construction1900. Historic centre near market, electric individual heating/cumulus/double glazing/sewer source claims. One sale lot in13 TOTAL, no proceeding,960annual/80monthly copropriete charges, tax1020 for2025. E257/B10 assessed2026-03-04 indexed2023 cost2160-2922. Large living/open kitchen over50m2 and23m2 bedroom plausibly explain91m2T2; no room/surface correction required. All16 own entries inspected: grey-beam timber/brick-pattern kitchen/dining, blue-panel living/fireplace, red-chimney bedroom/mirrored wardrobe, completed beige walk-in shower/black screen, wood/glazed hall, common stone stairs and2 agent promo cards. Decorative fireplaces not assumed functional. Common stair wall crack/stone wear and bedroom paint containers noted, cause/significance/work completion unverified; no evidence of a disqualifying or impossible sale. No explicit AI label or conflicting fixed geometry. Advertiser entirely renovated wording retained as claim, not certification. Full source contains no current tenant, occupied sale, viager, bare/fractional/timeshare ownership, auction/starting/partial price, commercial/managed lease, ancillary-only property, houseboat or bot/spam. ExactID/all16 own image paths absent from history/all statuses/exports and native ACTIVE photos. Two near ACTIVE full descriptions compared: GH87.93 fourteenth1968/708lots/4184annual/gas/E261C22/three bedrooms/parking and GH92.2 SaintHilaire ground access/top position/two balconies/two bedrooms/3600annual/box differ from historic first1900/13lots/960annual/electric/one bedroom/no assigned parking. Pending IAD93 first1975/293lots/3308annual/former office/no completed bath also differs. No physical identity established or unsupported withdrawal. Actual local Poitiers rent and apartment DVF coverage verified before native import/analysis.",
+    "reviewStatus": "APPROVED",
+    "chargesAnnualEuros": 960,
+    "taxeFonciereAnnualEuros": 1020,
+    "sourceTaxYear": 2025,
+    "analysisCoverageEvidence": {
+      "communeCode": "86194",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1218,
+      "nbObs": 29862,
+      "actualApartmentDVFSales": 4488,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 4488
+      }
+    }
+  }
+]
