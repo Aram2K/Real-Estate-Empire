@@ -1,0 +1,286 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-122m2/r2113810",
+    "observedAt": "2026-10-16T00:00:07.051327+00:00",
+    "httpStatus": 200,
+    "externalId": "2113810",
+    "firstSeenAt": "2026-10-16T00:00:07.051327+00:00",
+    "reviewedAt": "2026-10-16T00:12:52.213481+00:00",
+    "communeCode": "51454",
+    "priceEuros": 225000,
+    "surface": 122,
+    "rooms": 3,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Christelle Thévin",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "Proche de l'Hyper centre de Reims, à 200 m de la Gare, face à l'Arena dans petite rue calme, au pied des commerces de proximité et du Tram, appartement T3 d'une superficie de 77m2 avec beaucoup de charme (hauteur sous plafond, moulure) entièrement rénové  (sol, peinture...)\nAppartement au deuxième étage d'un immeuble de 3 étage vendu loué 650 euros\n \nEn supplément!! Enorme potentiel avec un espace de 45 m2  au 3eme étage! composé de 3 chambres et d'un espace commun\nLocation de chambres étudiantes ou Airbnb sont possibles!, à rénover, belle rentabilité supplémentaire à prévoir! \n2 caves supplémentaires sont intégrées à l'ensemble!\n\nLa presente annonce immobiliere vise 7 lots situés dans une copropriété de 17 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 200€ par mois (soit 2400 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Christelle Thévin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 940226566, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-20",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "E",
+    "ges": "E",
+    "chargesAnnualEuros": 2400,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-05-07",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 320
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 69
+      },
+      "amount": {
+        "min": 2820,
+        "max": 3860
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 17,
+      "annualFees": 2400,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1940,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "225 000 €",
+      "formattedPerSurface": "1 844 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [],
+      "secondary": [
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1940"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 122,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 7,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011cb168f021f6b35769506efd.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011cd900843974be724eaa81e8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011d0c188a47b1a4c5100a5d08.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011d325446871e4b52339664fa.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011caa99399b17a0914e5216bc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011d0654ebe44d0fef20e055fd.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/12/01a097011cb7bedc71376c260e0cf51b.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011cb168f021f6b35769506efd.jpg",
+        "httpStatus": 200,
+        "sha256": "0abb71141d6067584af9aaf2340d700b373e616ad96fae6a3081abcc536bf3c3",
+        "observation": "Original empty room with grey wood-effect floor, grey accent wall/three white squares, black ceiling fan, double white window and radiator. Empty scene does not overturn explicit vendu loue wording."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011cd900843974be724eaa81e8.jpg",
+        "httpStatus": 200,
+        "sha256": "9ab0334c809c4715afbadd7018e801b870c9034ec616f7204eb39e94319da1de",
+        "observation": "Original separate U-shaped white-panel kitchen, red upper walls, grey square floor tiles, white square backsplash, window/sink and metal hood. No assumption that this is the only kitchen in advertised multi-level bundle."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011d0c188a47b1a4c5100a5d08.jpg",
+        "httpStatus": 200,
+        "sha256": "8365a2658063a769e1b904a8829c7f5c57797427be1be766ab8017ca445e7e00",
+        "observation": "Original narrow bathroom with tub beneath tall window, wood-look bath apron, white tiles/mosaic stripe, single wood vanity/mirror, tall towel radiator and dark floor. No tenant or legal vacancy inferred."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011d325446871e4b52339664fa.jpg",
+        "httpStatus": 200,
+        "sha256": "1e0e6d898977534965a2cf7ff296233f9ab14e551060ea9873d763a75a4cf76f",
+        "observation": "Original empty grey-floor room with arched-top double window/radiator and old wall mounting points. Dimensions and whether this is one of the main two bedrooms unverified."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011caa99399b17a0914e5216bc.jpg",
+        "httpStatus": 200,
+        "sha256": "ca7e6ce28228392a994f7c94946b26f207382d213f9cc3c10c6e139e50936c62",
+        "observation": "Original empty brown-wall room, wood-effect floor, arched-top window/radiator and ceiling light. Distinct from4; no habitable-area measurement or rent allocation."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011d0654ebe44d0fef20e055fd.jpg",
+        "httpStatus": 200,
+        "sha256": "8a821b72ce1710f76ccf34aff930e90b3b955634d3b41791ae6b429421e4aa19",
+        "observation": "Original attic kitchenette under sloping roof/skylight: cream cupboards, black backsplash, compact fridge/hob, sink and radiator. Auxiliary upper-floor space shown, legal lot use/headroom/area unverified."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/12/01a097011cb7bedc71376c260e0cf51b.jpg",
+        "httpStatus": 200,
+        "sha256": "e6e6e5f75ca41844ff62294ca36c76e6725dbecf9a5e5dee111df69ce69cfc2a",
+        "observation": "Original attic room with roof beams/skylight, mattress/desk/microwave, grey floor and wall marks. All7 own entries individually inspected, no visible AI/proposal label. Does not prove all three asserted upper bedrooms or permission for student/Airbnb rentals. Source currenttenancy, not furniture, establishes exclusion."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-122m2/r2113810",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T00:12:48.993598+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465001732",
+          "property": {
+            "id": "cmubhbyt3000th88okbuxy3eo",
+            "codeCommune": "51454",
+            "surface": 80.0,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": 1,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 17700000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t4-reims-51100-f81f4f47-e5f7-445d-a955-1ab447682c08/",
+          "property": {
+            "id": "cmuoshuyd0002h8e8ijb4haop",
+            "codeCommune": "51454",
+            "surface": 77.0,
+            "rooms": 4,
+            "floor": 2,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 14990000
+        },
+        {
+          "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1295592935A1KIVHAP000",
+          "property": {
+            "id": "cmuu33tdn0002h844oppmgyio",
+            "codeCommune": "51454",
+            "surface": 80.0,
+            "rooms": 3,
+            "floor": 3,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 27400000
+        },
+        {
+          "url": "https://reims-centre.guy-hoquet.com/achat-vente/appartement-4-pieces-reims-51100-1897839",
+          "property": {
+            "id": "cmuub7fs10002h820gv6mj2id",
+            "codeCommune": "51454",
+            "surface": 73.9,
+            "rooms": 4,
+            "floor": 5,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 22896000
+        },
+        {
+          "url": "https://reims-jean-jaures.guy-hoquet.com/achat-vente/appartement-3-pieces-reims-51100-1890432",
+          "property": {
+            "id": "cmuudc9nv0002h8o4nu7bejna",
+            "codeCommune": "51454",
+            "surface": 78.42,
+            "rooms": 3,
+            "floor": 1,
+            "hasElevator": null,
+            "dpe": "D",
+            "ges": null
+          },
+          "priceCents": 19440000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-13-reims-iad-pass81.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-reims-77m2/r2125245",
+          "surface": 77,
+          "rooms": 3,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": null,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-14-reims-iad-pass86.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-reims-76m2/r2120352",
+          "surface": 76,
+          "rooms": 4,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 6,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "EXCLUDED_CURRENT_TENANCY: primary expressly says Appartement au deuxieme etage ... vendu loue650euros, establishing currently tenanted main77m2T3. Advertised EUR225000 seller-paid-fee price and structured122m2/rooms3/bedrooms0 preserved as source values only. Description also offers45m2upperthirdfloor space with three bedrooms/sharedspace using En supplement, plus two caves;77+45 matches122arithmetically but no certified living-area allocation, bundle ownership or all-in price allocation invented. No separate45m2purchase amount or student/Airbnb rentalpermission/return guaranteed. Source floor2 for main unit,1940construction/naturalgas, lift unknown. Seven sale lots in17TOTAL, no proceeding, EUR2400annual/EUR200monthly charges, tax unknown. DPE E320/GES E69 assessed2026-05-07, energy2820-3860 indexed2023; diagnostic coverage across distinct floors unconfirmed, no analysis. All7 originals inspected: grey/brown rooms, white/redmainkitchen, tub/woodvanity, separateattickitchen and atticbedroom with beams/skylights. Empty/furnished mix does not prove vacancy or supersede explicit soldtenanted. ExactsourceID/all7 own imagepaths absent across historicstatus/export evidence and native active photos. Five active near full descriptions compared using both structured122plusminus4 and main77plusminus4ranges, plus two pending full sources in mainrange. Orpi77secondT4 hasthreebedrooms/openkitchen/terrace/coveredparking/C175C, unlike main77T3 plus upper45/1940/17lots/E320E69/2400annual. PAP80firstWITHlift/ParcChampagne/parkingcave and ParuVendu80thirdtopWITHlift/D-D/twoprivatebaths differ; GH73.9fifth1992/111lots/gasD158D37/1380annual/threebedrooms/twobalconies and GH78.42first2002/5lots/electricD223B8/1680annual differ. PendingIAD77structured78prose1997/80lots/electricC133A5/1228annual/optionalgarage and IAD76structured75prosesixthtopWITHlift1975/101lots/gasF309F78/1800annual differ. No same physical unit established, no unsupported nearby withdrawal. Not imported/trusted/analysed."
+    },
+    "notes": "Full primary description including all seller and legal paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order; related-property media excluded. First-seen is actual initial full-page HTTP200 observation, distinct from primary date-only firstPublishDate; no publication time or media-path date inference. Exact legal address, condition, measurements, proximity and current availability independently unconfirmed; furnishings/empty rooms do not establish tenant or legally vacant possession. Fresh first-page feeds prioritised Le Mans then Angers: five January-March Le Mans adverts deferred without photo trust and no eligible unreviewed Angers IDs. Four remaining Reims primary pages fetched to compare actual publication dates; the two September20 adverts reviewed before September19/18 candidates, whose full-page observations remain untrusted collection evidence without visual review. No all-pages/markets exhaustion claim. EXCLUDED_CURRENT_TENANCY: primary expressly says Appartement au deuxieme etage ... vendu loue650euros, establishing currently tenanted main77m2T3. Advertised EUR225000 seller-paid-fee price and structured122m2/rooms3/bedrooms0 preserved as source values only. Description also offers45m2upperthirdfloor space with three bedrooms/sharedspace using En supplement, plus two caves;77+45 matches122arithmetically but no certified living-area allocation, bundle ownership or all-in price allocation invented. No separate45m2purchase amount or student/Airbnb rentalpermission/return guaranteed. Source floor2 for main unit,1940construction/naturalgas, lift unknown. Seven sale lots in17TOTAL, no proceeding, EUR2400annual/EUR200monthly charges, tax unknown. DPE E320/GES E69 assessed2026-05-07, energy2820-3860 indexed2023; diagnostic coverage across distinct floors unconfirmed, no analysis. All7 originals inspected: grey/brown rooms, white/redmainkitchen, tub/woodvanity, separateattickitchen and atticbedroom with beams/skylights. Empty/furnished mix does not prove vacancy or supersede explicit soldtenanted. ExactsourceID/all7 own imagepaths absent across historicstatus/export evidence and native active photos. Five active near full descriptions compared using both structured122plusminus4 and main77plusminus4ranges, plus two pending full sources in mainrange. Orpi77secondT4 hasthreebedrooms/openkitchen/terrace/coveredparking/C175C, unlike main77T3 plus upper45/1940/17lots/E320E69/2400annual. PAP80firstWITHlift/ParcChampagne/parkingcave and ParuVendu80thirdtopWITHlift/D-D/twoprivatebaths differ; GH73.9fifth1992/111lots/gasD158D37/1380annual/threebedrooms/twobalconies and GH78.42first2002/5lots/electricD223B8/1680annual differ. PendingIAD77structured78prose1997/80lots/electricC133A5/1228annual/optionalgarage and IAD76structured75prosesixthtopWITHlift1975/101lots/gasF309F78/1800annual differ. No same physical unit established, no unsupported nearby withdrawal. Not imported/trusted/analysed.",
+    "floor": 2,
+    "reviewStatus": "EXCLUDED",
+    "analysisComputed": false,
+    "exclusionReasons": [
+      "OCCUPIED_PROPERTY"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuote": "Appartement au deuxième étage d'un immeuble de 3 étage vendu loué 650 euros",
+      "currentTenantExplicit": true,
+      "sourceMainApartmentSurfaceM2": 77,
+      "sourceAdditionalUpperSpaceM2": 45,
+      "sourceStructuredSurfaceM2": 122,
+      "additionalPriceAllocationExposed": false,
+      "clarificationNeeded": "Current tenancy excludes this sale; no allocation of price or diagnostic coverage to distinct upper-floor lots invented."
+    }
+  }
+]
