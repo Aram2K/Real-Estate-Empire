@@ -1,0 +1,524 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-70m2/r2118638",
+    "observedAt": "2026-10-16T17:01:53.141727+00:00",
+    "httpStatus": 200,
+    "externalId": "2118638",
+    "firstSeenAt": "2026-10-16T17:01:53.141727+00:00",
+    "latestFullPageObservedAt": "2026-10-16T22:13:35.093539+00:00",
+    "reviewedAt": "2026-10-16T22:20:20.419183+00:00",
+    "communeCode": "35238",
+    "priceEuros": 265000,
+    "surface": 69.69,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Alan Buchy",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "RENNES - RUE DE LORIENT - APPARTEMENT DE TYPE 3 AVEC TERRASSE ET GARAGE\niad France - ALAN BUCHY vous propose en exclusivité :\nAu pied des commerces, des bords de Vilaine et de la future ligne de trambus T2, un appartement de 69,69m², situé au 2ème étage de la Résidence \"FIDGI\", construite par BATI-ARMOR en 2017, avec ascenseur et aux normes PMR. Il dispose d'une entrée avec placard, de deux chambres dont une avec placard, d'une salle de bains, d'un wc indépendant et d'une spacieuse pièce de vie, donnant sur une terrasse orientée plein Sud et comprenant un espace cuisine et un cellier. Garage en sous-sol sécurisé.\nLUMINEUX AVEC UNE BELLE VUE DEGAGEE\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 136 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 100€ par mois (soit 1200 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 265000 euros. Prix hors honoraires : 250000 euros. Honoraires TTC à la charge de l'acquéreur (6,00% du prix du bien hors honoraires) : 15000 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Alan Buchy mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rennes sous le numéro 983585647, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-28",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "C",
+    "chargesAnnualEuros": 1200,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-07-01",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 68
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 12
+      },
+      "amount": {
+        "min": 520,
+        "max": 760
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 136,
+      "annualFees": 1200,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 2017,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "265 000 €",
+      "formattedNetPrice": "250 000 €",
+      "formattedFees": "15 000 €",
+      "formattedFeesRatio": "6,00 %",
+      "formattedPerSurface": "3 803 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Box",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 2017"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 69.69,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcc60ea88f8568f335ea6565d.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdbd52b4faffc1eb056ea320.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce6f6547255538a90eab19db.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abca103823811bbfd1b2550de2.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcb5667e365f2ecc02cb5d9af.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abccf10afb28536f6e471e1edc.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abccfa211f35e9adef5af0af92.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcda787c3d3340abc8fbae305.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdf9003ba47ffbc673195aba.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdf7f82acf9a34a268694779.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcc342b428139d5ae9a8be31a.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce955219e6366453b2910bb1.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce0997696c77290f11a8db64.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcbf1d9ba3872bcb7bc2615f8.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdefd4de4dd7c3a56d81c83f.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce488780caca86a72b2f73b9.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abca3ec28a0c29605199831bfc.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcd4d7644b07f8cc77206c7a2.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7aca95abead46f0596163fd8ce4.jpg"
+      ],
+      "virtualTours": [
+        "https://livetour.istaging.com/b5cd7625-77d0-4309-981d-2fde00fb2c87?index=7"
+      ]
+    },
+    "photoCount": 19,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcc60ea88f8568f335ea6565d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdbd52b4faffc1eb056ea320.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce6f6547255538a90eab19db.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abca103823811bbfd1b2550de2.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcb5667e365f2ecc02cb5d9af.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abccf10afb28536f6e471e1edc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abccfa211f35e9adef5af0af92.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcda787c3d3340abc8fbae305.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdf9003ba47ffbc673195aba.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdf7f82acf9a34a268694779.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcc342b428139d5ae9a8be31a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce955219e6366453b2910bb1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce0997696c77290f11a8db64.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcbf1d9ba3872bcb7bc2615f8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdefd4de4dd7c3a56d81c83f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce488780caca86a72b2f73b9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abca3ec28a0c29605199831bfc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcd4d7644b07f8cc77206c7a2.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7aca95abead46f0596163fd8ce4.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcc60ea88f8568f335ea6565d.jpg",
+        "httpStatus": 200,
+        "sha256": "0cccd7304dec3c8ebeea9679f297e5ef42385cf4a0350edd5638f9f6b240144e",
+        "observation": "Actual covered terrace, grey aggregate tiles, frosted white panels, orange vertical cladding, broad sliding glazing and stadium outlook. Outdoor surface not added to69.69m2.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdbd52b4faffc1eb056ea320.jpg",
+        "httpStatus": 200,
+        "sha256": "48698feaa6cfe2cc6a34ef7ccf4e555a019691e15d1537005d5c890467e050f9",
+        "observation": "Actual empty white main room, light wood-effect floor, two broad sliding glazed groups, white radiator and terrace. Empty photographs do not certify legal vacant possession.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce6f6547255538a90eab19db.jpg",
+        "httpStatus": 200,
+        "sha256": "8b2b7f85584e271b6b2d4d2125bb5b12d8eb48eb763bfad14fa4af5e07d6173c",
+        "observation": "Another actual empty main-room angle with matching broad glazing and floor. Not an extra room.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abca103823811bbfd1b2550de2.jpg",
+        "httpStatus": 200,
+        "sha256": "ea08800ce4d2c4c688ebb62d95c95bc725be2c511cb2f5eacaef42795639699c",
+        "observation": "Actual grey concrete-effect kitchen units and backsplash, metal handles, sink, hob and hood. Oven and under-counter appliance gaps are empty; no fully equipped inventory or appliance operation invented.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcb5667e365f2ecc02cb5d9af.jpg",
+        "httpStatus": 200,
+        "sha256": "ce2db27e3504e1045c9e6fe545eea90c9e17bee1a910e944a73ff860b19c4c01",
+        "observation": "Same covered terrace/stadium outlook, street and roadworks. No independently certified orientation or travel distance.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abccf10afb28536f6e471e1edc.jpg",
+        "httpStatus": 200,
+        "sha256": "a358d4b7619668e72d2f6a3bd23b7efc49a010f73233b00fa5ff79b5b5c0f12b",
+        "observation": "Street/stadium outlook and bus stop Geniaux. Nearby white facade has visible lines around windows; no proof they belong to selected apartment or evidence of a diagnosed cause. No exact legal address inferred.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abccfa211f35e9adef5af0af92.jpg",
+        "httpStatus": 200,
+        "sha256": "947dab68ce892ec1bf37fb906a7968ed8595f6cf7f4addd2da2bda8f9835731a",
+        "observation": "Reverse same terrace, orange cladding, frosted rail panels and large sliding glazing. No extra habitable area.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcda787c3d3340abc8fbae305.jpg",
+        "httpStatus": 200,
+        "sha256": "216668d398e4d1cbfcb8fc68a29e268e4f2e557ee6940ec16cf126fac2394c3b",
+        "observation": "Closer black hob, grey kitchen cupboards/sink/hood and white doorway to source cellier. Empty appliance spaces retained as visible condition.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdf9003ba47ffbc673195aba.jpg",
+        "httpStatus": 200,
+        "sha256": "f635288631cd26232e419a02c3394df5f48915e307bb05c02c0b104d82a91092",
+        "observation": "Another actual empty main room with matching two sliding glazed groups. Same room, not additional bedrooms.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdf7f82acf9a34a268694779.jpg",
+        "httpStatus": 200,
+        "sha256": "4c44cbba6e7904e0ac08bb0dae91e2a60cec17e7c27801a86d799aec96f41d3c",
+        "observation": "Actual empty first source bedroom, full-height window, radiator, light wood-effect floor and white walls. Dimensions unmeasured.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcc342b428139d5ae9a8be31a.jpg",
+        "httpStatus": 200,
+        "sha256": "ab561a4e81eb5ce2d6dc9fd30e73c4d390637ccf2062719a6afe9d6e6eb894c1",
+        "observation": "Actual completed bathtub with grey/brown wall tiles, wood vanity and mirror. Consistent salle de bains; no shower-only conversion or waterproofing certification inferred.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce955219e6366453b2910bb1.jpg",
+        "httpStatus": 200,
+        "sha256": "42fd3579493a4ede72e5df65f408bca4a5c43ffe9eb600139c701474a6c25c83",
+        "observation": "Actual different empty second source bedroom, full-height window/radiator, long uneven paint strip and fine wall lines/scuffs. Finish marks recorded; no structural/moisture diagnosis or repair cost inferred.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce0997696c77290f11a8db64.jpg",
+        "httpStatus": 200,
+        "sha256": "972916596777c2c1a2917cbc144353441bc124001b41f3f63f894584757d48b4",
+        "observation": "Courtyard outlook over neighbouring modern facades and shared green rooftop. Not a private garden or additional living area.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcbf1d9ba3872bcb7bc2615f8.jpg",
+        "httpStatus": 200,
+        "sha256": "d4a18f38e5247b710d6c8a731edc9dd451ba5a804916ddd96def0bc2748c5c85",
+        "observation": "Actual rear orange/white facade and frosted balconies, with some surface weathering under balconies. No diagnosed defect or selected-unit repair liability established.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcdefd4de4dd7c3a56d81c83f.jpg",
+        "httpStatus": 200,
+        "sha256": "d8ae1b5276b255cdfa34b3aadd32cf76879b1aeff43e2de2ee161d6801c38f19",
+        "observation": "Wider matching modern facade. Exterior alone does not establish same-unit identity with any other advert.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abce488780caca86a72b2f73b9.jpg",
+        "httpStatus": 200,
+        "sha256": "572f088c0913f0733418f9d1c1e1d16a8bba04346f7971bcc57415a70e413ab4",
+        "observation": "Actual shared lift landing with black lift door, geometric tiled wall and wood doors. Lift operation and full PMR route not independently certified.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abca3ec28a0c29605199831bfc.jpg",
+        "httpStatus": 200,
+        "sha256": "e7f839bc8b4c8a706c8efc2a4fab68d526c85c68beb01e81a1aa134fe35f6b5e",
+        "observation": "Actual street-front frosted balcony with A VENDRE Alan Buchy sign. Adjacent facade fine paint lines not diagnosed. Sign is not VENDU.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7abcd4d7644b07f8cc77206c7a2.jpg",
+        "httpStatus": 200,
+        "sha256": "21bc98d84a2ea3c1d71c56ae96e831870b1fc1aca876babef48df16f138fce56",
+        "observation": "Wider street-front residence and stadium; ground-floor FICAMEX signage is not evidence of a commercial lease on this apartment. Neighbouring A VENDRE sign does not establish same unit.",
+        "isAgentPromotion": false,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 19,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e7aca95abead46f0596163fd8ce4.jpg",
+        "httpStatus": 200,
+        "sha256": "a0ed797881e56a30cefaeccc543959706b8042333381244ab1bd9311b67a71f8",
+        "observation": "Generic Alan Buchy IAD Vous vendez Contactez-moi promotion graphic, not property evidence. Exact SHA256 matches photo12 of pending IAD2134825/pass106: same agent advertising card, not same apartment. All19 own entries individually viewed,18 actual property/common/outlook plus1 promotion; no explicit AI label. Included basement garage remains source assertion without own garage image.",
+        "isAgentPromotion": true,
+        "isExplicitAIAlteration": false,
+        "isFloorPlan": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-70m2/r2118638",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T22:20:18.641466+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "notes": "Complete primary description, seller identity and every legal paragraph individually read and preserved verbatim. All exposed own gallery entries individually visually inspected in source order; related-property media excluded. Earliest full-primary HTTP200 observation from pass106 retained as observedAt/firstSeenAt, with pass113 collection and fresh unchanged-field recheck separately recorded. Primary firstPublishDate is date only, no publication time invented. Refreshed priority first pages Le Mans, Angers, Reims and Poitiers have no eligible unreviewed IDs on those checked pages. Rennes September28 thenSeptember23 selected before older checked candidates; no all-page/all-market exhaustion claim. Current availability, condition, legal title, dimensions and proximity remain independently unverified. Furnished or empty photos do not establish legal occupancy. APPROVED_CONVENTIONAL_APARTMENT: full265000 includes15000buyerfees/250000net, precise69.69m2 versus rounded70,T3/two existing bedrooms,SECOND WITHlift,2017 BatiArmor Residence FIDGI/RueLorient,naturalgas. Two sale lots136 TOTAL/no proceeding,1200annual/100monthly charges,taxunknown omitted. C68/C12 assessed2024-07-01 indexed2021 cost520-760. All19 own gallery entries inspected:18 actual empty broad-glazed main, grey concrete-effect kitchen with empty appliance slots, two windowed rooms, bathtub/wood vanity, orange-clad/frosted terrace overlooking stadium, facade/shared lift landing, plus1 generic Alan Buchy promotion. Paint strip/fine wall lines in bedroom12 and adjacent facade surface lines recorded without structural/moisture diagnosis or cost. No explicit AI label. Included secured basement garage textual, not additional price. PMR and future trambus proximity remain source assertions, not certified access or current trambus service. Exact source ID/all own image paths absent historical statuses/exports/native ACTIVE photos. One historical SHA256 match is reviewed non-property promotion19 identical to pending2134825 photo12; different unit36.26second2017PontNantes/77lots700annual/C103C20/blackkitdarksofa/VENDUsigns. Nine active near complete descriptions compared: PAP70thirdT4threebeds/collective/loggia;72second1930sThaborNOlift/rotunda;70raisedgroundgare/renovated2024/separatekit;71groundstoneThaborStHelier/Odorico29lots;66.12fourthhistoricduplex7lots1038annual;72.67raisedgroundVillejean96lots1730annual;IAD2134864 66third2019Landry93lots1040annualC67C12/black-whitekit;2132956 70.56second2024Courrouze79lots1115.04annualC56C11/whitekitcreamsofa;2113852 70fifteenth2021Beauregard277lots1527.96annualC105C15/cornerglazing differ from69.69second2017Lorient136lots1200annualC68C12/greykitorangecladdingstadium. Nonactive2129181 66second217lots1241.74annualD226D49/separate greykit differs. No established same-unit identity or unsupported withdrawal. Full wording contains no actual tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/partialprice,mandatory commercial/managed lease,ancillary-only unit,houseboat,bot/spam or impossible room/surface combination. Actual Rennes rent and apartment DVF coverage verified before analysis.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 1,
+      "nonPropertyPromotionMatches": [
+        {
+          "number": 19,
+          "sha256": "a0ed797881e56a30cefaeccc543959706b8042333381244ab1bd9311b67a71f8",
+          "matches": [
+            "scripts\\reviewed\\pending\\2026-10-16-rennes-iad-pass106.json"
+          ],
+          "resolution": "Individually viewed generic Alan Buchy advertising graphic, not property identity"
+        }
+      ],
+      "propertyImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r465201502",
+          "surface": 70.0,
+          "rooms": 4,
+          "floor": 3,
+          "hasElevator": 1,
+          "dpe": null,
+          "price": 17000000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r465103146",
+          "surface": 72.0,
+          "rooms": 3,
+          "floor": 2,
+          "hasElevator": 0,
+          "dpe": "E",
+          "price": 31900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r462503193",
+          "surface": 70.0,
+          "rooms": 3,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "C",
+          "price": 27900000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-35000-r464302620",
+          "surface": 71.0,
+          "rooms": 3,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": null,
+          "price": 29500000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-de-charme-dans-l-hypercentre-r465001862",
+          "surface": 66.12,
+          "rooms": 4,
+          "floor": 4,
+          "hasElevator": null,
+          "dpe": null,
+          "price": 29500000
+        },
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rennes-r463800368",
+          "surface": 72.67,
+          "rooms": 3,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": null,
+          "price": 18300000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-66m2/r2134864",
+          "surface": 66.0,
+          "rooms": 3,
+          "floor": 3,
+          "hasElevator": 1,
+          "dpe": "C",
+          "price": 25800000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-71m2/r2132956",
+          "surface": 70.56,
+          "rooms": 3,
+          "floor": 2,
+          "hasElevator": 1,
+          "dpe": "C",
+          "price": 32000000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-70m2/r2113852",
+          "surface": 70.0,
+          "rooms": 3,
+          "floor": 15,
+          "hasElevator": 1,
+          "dpe": "C",
+          "price": 26690000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-rennes-iad-pass110.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-rennes-66m2/r2129181",
+          "surface": 66,
+          "rooms": 3,
+          "floor": 2,
+          "hasElevator": null,
+          "reviewStatus": "PENDING_REVIEW"
+        }
+      ],
+      "resolution": "APPROVED_CONVENTIONAL_APARTMENT: full265000 includes15000buyerfees/250000net, precise69.69m2 versus rounded70,T3/two existing bedrooms,SECOND WITHlift,2017 BatiArmor Residence FIDGI/RueLorient,naturalgas. Two sale lots136 TOTAL/no proceeding,1200annual/100monthly charges,taxunknown omitted. C68/C12 assessed2024-07-01 indexed2021 cost520-760. All19 own gallery entries inspected:18 actual empty broad-glazed main, grey concrete-effect kitchen with empty appliance slots, two windowed rooms, bathtub/wood vanity, orange-clad/frosted terrace overlooking stadium, facade/shared lift landing, plus1 generic Alan Buchy promotion. Paint strip/fine wall lines in bedroom12 and adjacent facade surface lines recorded without structural/moisture diagnosis or cost. No explicit AI label. Included secured basement garage textual, not additional price. PMR and future trambus proximity remain source assertions, not certified access or current trambus service. Exact source ID/all own image paths absent historical statuses/exports/native ACTIVE photos. One historical SHA256 match is reviewed non-property promotion19 identical to pending2134825 photo12; different unit36.26second2017PontNantes/77lots700annual/C103C20/blackkitdarksofa/VENDUsigns. Nine active near complete descriptions compared: PAP70thirdT4threebeds/collective/loggia;72second1930sThaborNOlift/rotunda;70raisedgroundgare/renovated2024/separatekit;71groundstoneThaborStHelier/Odorico29lots;66.12fourthhistoricduplex7lots1038annual;72.67raisedgroundVillejean96lots1730annual;IAD2134864 66third2019Landry93lots1040annualC67C12/black-whitekit;2132956 70.56second2024Courrouze79lots1115.04annualC56C11/whitekitcreamsofa;2113852 70fifteenth2021Beauregard277lots1527.96annualC105C15/cornerglazing differ from69.69second2017Lorient136lots1200annualC68C12/greykitorangecladdingstadium. Nonactive2129181 66second217lots1241.74annualD226D49/separate greykit differs. No established same-unit identity or unsupported withdrawal. Full wording contains no actual tenant/occupied sale,viager,bare/fractional/timeshare ownership,auction/starting/partialprice,mandatory commercial/managed lease,ancillary-only unit,houseboat,bot/spam or impossible room/surface combination. Actual Rennes rent and apartment DVF coverage verified before analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2118638.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:53.141727+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "hasElevator": true,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "35238",
+      "year": 2025,
+      "rentSegment": "ALL_APT",
+      "rentM2Pred": 1487,
+      "nbObs": 48789,
+      "actualApartmentDVFSales": 15119,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 15119
+      }
+    },
+    "sourceNetPriceEuros": 250000,
+    "sourceBuyerFeesEuros": 15000
+  }
+]
