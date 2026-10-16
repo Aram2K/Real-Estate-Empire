@@ -1,0 +1,251 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-72m2/r2047005",
+    "observedAt": "2026-10-16T11:42:36.268861+00:00",
+    "httpStatus": 200,
+    "externalId": "2047005",
+    "firstSeenAt": "2026-10-16T11:42:36.268861+00:00",
+    "reviewedAt": "2026-10-16T11:49:03.961793+00:00",
+    "communeCode": "86194",
+    "priceEuros": 216000,
+    "surface": 72,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Yves Zenkovic",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Poitiers Montierneuf : T3 de 72 m² (Habitation ou Pro)\n\nIdéalement situé à deux pas de la place Montierneuf, ce T3 de 72 m² prend place dans un immeuble partiellement classé, entièrement restauré via un programme Malraux.\n\nParfait pour de l'habitation, il est aussi idéal pour une profession libérale. Point fort : Un élévateur dans les parties communes garantit un accès PMR fait pour recevoir du public. L'agencement est très fonctionnel : le vaste séjour-cuisine de 30 m² permet d'aménager une salle d'attente accueillante, tandis que la grande pièce de 17 m² est parfaite pour votre cabinet ou salle de travail.\n\nUn emplacement stratégique qui allie cachet historique et accessibilité. À visiter sans tarder !\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 20 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 120€ par mois (soit 1440 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Yves Zenkovic mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de BORDEAUX sous le numéro 438377335, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-06-10",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-04-08",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 152
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 1080,
+        "max": 1500
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 20,
+      "annualFees": 1440,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 2025,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "216 000 €",
+      "formattedPerSurface": "3 000 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 2025"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 72,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24abd7d57416ff492ad66c67b34.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b537d8e5ad285bad4385169bd.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b53c74cf21f3269fddfda9c39.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b5336af1a05406f23902a5d92.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b53c8e8f313281742803b1e5e.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b53d19544535cd1409e64f151.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b535d9d28617042efa3da9f50.jpg",
+      "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b5409f7dcdf3f64498f78324b.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24abd7d57416ff492ad66c67b34.jpg",
+        "httpStatus": 200,
+        "sha256": "42bc2cce20df0e9974047088b36ce098368f798c9e21ecc83331e8aa254473d3",
+        "observation": "Historic stone/plaster courtyard and slate-roof facades with green windows, bike rails and large ducts beyond wall. No exclusive courtyard or legal heritage classification independently certified."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b537d8e5ad285bad4385169bd.jpg",
+        "httpStatus": 200,
+        "sha256": "b55e8a424dc79e55f253e4537578b88d7f8e1715d5637a9cdc8f7633385a22a9",
+        "observation": "Actual empty-looking tiled living/open-kitchen room, green-framed courtyard windows and electric panel heaters. No current tenant or legal vacancy inferred."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b53c74cf21f3269fddfda9c39.jpg",
+        "httpStatus": 200,
+        "sha256": "22336608eef106532664a18b3ea66b3829bc2c984ed506a70a071319e03e3751",
+        "observation": "Reverse same main room with green fitted kitchenette/oven, tall sliding cupboard exposing cylinder/pipes and two doorways. No extra bedroom counted."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b5336af1a05406f23902a5d92.jpg",
+        "httpStatus": 200,
+        "sha256": "beeb4ac17a34310ae60f7b5c36746aab20c428f9e2f208e7fc3f9df557a33527",
+        "observation": "Separate empty-looking windowed tiled room with white walls and internal door. Legal room use/dimensions unverified."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b53c8e8f313281742803b1e5e.jpg",
+        "httpStatus": 200,
+        "sha256": "b7d7f786015678b5a8364610d382cef068a78fa814d54179b2dd820c8c9d7cf5",
+        "observation": "Different long windowed tiled room, green window and electric panel heater. Source17m2 room area unmeasured."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b53d19544535cd1409e64f151.jpg",
+        "httpStatus": 200,
+        "sha256": "56e7a9c837298116315fe80b926de99e384b0eb9a218147b3c6e8474fde876b5",
+        "observation": "Reverse long room with sliding white storage, consistent with5. Not a third bedroom."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b535d9d28617042efa3da9f50.jpg",
+        "httpStatus": 200,
+        "sha256": "6af55e8d833f6cf8ff48d56bf164e3d6fc1cb4e9df89c0a1ec958533fa7437d2",
+        "observation": "Completed shower with glazed screen/chrome mixer, basin/wood-effect vanity, mirror, green frosted window and electric towel radiator. No commercial occupancy inferred."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/06/10/019eb24b5409f7dcdf3f64498f78324b.jpg",
+        "httpStatus": 200,
+        "sha256": "f4922534c4dccca69c43b9aeb4531e4b035f220f109d4d213d14997a5a0d0589",
+        "observation": "Common stairs and short-rise open platform lift with gates beside green-framed window. Visually distinguishes an accessibility platform from an ordinary multi-floor passenger lift; apartment service/access certification unknown. All8 own entries individually inspected; no explicit AI/staging label observed."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-72m2/r2047005",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T11:49:02.999196+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-72m2/r2102983",
+          "property": {
+            "id": "cmvat4p760002h8wcnb20w3ed",
+            "codeCommune": "86194",
+            "surface": 72.0,
+            "rooms": 4,
+            "floor": null,
+            "hasElevator": 1,
+            "dpe": "D",
+            "ges": "D"
+          },
+          "priceCents": 13000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-expanded-markets-public-pass44.json",
+          "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/ca067a96-3d99-4361-897b-6c80f972f8f7",
+          "surface": 71,
+          "rooms": 3,
+          "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+          "floor": null,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "PENDING_CONSTRUCTION_AND_USE_CLASSIFICATION: whole seller-paid-fee EUR216000/72m2/T3/two source bedrooms, ground floor explicit. Structured constructionYear2025/Construit en2025 versus prose historic partly listed building entirely restored through programme Malraux retained without silently converting construction year to renovation date. Confirm original construction versus restoration/completion date and current residential classification of this habitation-or-professional offer. No current commercial tenant, binding commercial/managed lease, incomplete building works or exclusively commercial property proven. Source lift wording is common ele vateur for PMR/public access; photo8 shows a short-rise platform beside stairs, so ordinary apartment hasElevator omitted rather than assume full passenger lift. Electric heating, one sale lot/20 TOTAL, no proceeding,1440annual/120monthly; tax unknown. C152/A5 assessed2026-04-08 indexed2023 cost1080-1500. All8 own entries show historic courtyard/green windows, tiled main room/green kitchenette, two distinct empty rooms, completed shower and accessibility platform/common stair. No independent room areas/legal permitted use, heritage restrictions or conversion permission certified. ExactID/all8 own paths absent from historical statuses/exports and native ACTIVE photos. Active IAD72T4 three bedrooms/270lots/3208annual/district heat/D195D42 differs from ground72T3 two bedrooms/20lots/1440annual/electric/C152A5. Pending GDC71T3 inaccessible primary and possible upper GrandRue third/top/semi-open kitchen crosslist differs in floor/location/layout; no physical identity established, no fabricated merge/withdrawal. Pending only, no trusted import or investment analysis."
+    },
+    "notes": "Complete primary description and every legal/seller paragraph individually read and retained verbatim. All own gallery entries individually visually inspected in source order, related-property media excluded. Actual first full-page HTTP200 observation preserved as firstSeenAt; primary publication date only, no time or image-path date substituted. Measurements, condition, legal title, proximity and current availability independently unconfirmed; furnishings do not establish tenancy or vacant possession. Priority first pages refreshed Le Mans, Angers and Reims before Poitiers; checked Le Mans candidates have older January-March primary dates and no eligible unreviewed IDs on checked Angers/Reims pages. Four Poitiers primary dates compared; two June10 adverts reviewed before older candidates. No all-pages/markets exhaustion claim. PENDING_CONSTRUCTION_AND_USE_CLASSIFICATION: whole seller-paid-fee EUR216000/72m2/T3/two source bedrooms, ground floor explicit. Structured constructionYear2025/Construit en2025 versus prose historic partly listed building entirely restored through programme Malraux retained without silently converting construction year to renovation date. Confirm original construction versus restoration/completion date and current residential classification of this habitation-or-professional offer. No current commercial tenant, binding commercial/managed lease, incomplete building works or exclusively commercial property proven. Source lift wording is common ele vateur for PMR/public access; photo8 shows a short-rise platform beside stairs, so ordinary apartment hasElevator omitted rather than assume full passenger lift. Electric heating, one sale lot/20 TOTAL, no proceeding,1440annual/120monthly; tax unknown. C152/A5 assessed2026-04-08 indexed2023 cost1080-1500. All8 own entries show historic courtyard/green windows, tiled main room/green kitchenette, two distinct empty rooms, completed shower and accessibility platform/common stair. No independent room areas/legal permitted use, heritage restrictions or conversion permission certified. ExactID/all8 own paths absent from historical statuses/exports and native ACTIVE photos. Active IAD72T4 three bedrooms/270lots/3208annual/district heat/D195D42 differs from ground72T3 two bedrooms/20lots/1440annual/electric/C152A5. Pending GDC71T3 inaccessible primary and possible upper GrandRue third/top/semi-open kitchen crosslist differs in floor/location/layout; no physical identity established, no fabricated merge/withdrawal. Pending only, no trusted import or investment analysis.",
+    "chargesAnnualEuros": 1440,
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "sourceLiftEvidence": {
+      "prose": "Un élévateur dans les parties communes",
+      "photoNumber": 8,
+      "observedType": "Short-rise accessibility platform beside common stairs; ordinary passenger lift service unconfirmed"
+    },
+    "pendingReasons": [
+      "CONSTRUCTION_VERSUS_RESTORATION_YEAR_UNCONFIRMED",
+      "CURRENT_RESIDENTIAL_USE_CLASSIFICATION_UNCONFIRMED"
+    ],
+    "pendingEvidence": {
+      "structuredConstructionYear": 2025,
+      "exactSourceQuotes": [
+        "immeuble partiellement classé, entièrement restauré via un programme Malraux",
+        "idéal pour une profession libérale"
+      ],
+      "currentCommercialTenantConfirmed": false,
+      "currentLawfulResidentialUseIndependentlyConfirmed": false,
+      "clarificationNeeded": "Reconcile original construction/restoration year and confirm current residential classification/use and accessibility service before trusting."
+    }
+  }
+]
