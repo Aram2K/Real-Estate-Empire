@@ -1,0 +1,286 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-93m2/r2080004",
+    "observedAt": "2026-10-16T01:05:14.502100+00:00",
+    "httpStatus": 200,
+    "externalId": "2080004",
+    "firstSeenAt": "2026-10-16T01:05:14.502100+00:00",
+    "latestFullPageObservedAt": "2026-10-16T10:35:21.452140+00:00",
+    "reviewedAt": "2026-10-16T10:50:28.560548+00:00",
+    "communeCode": "86194",
+    "priceEuros": 99500,
+    "surface": 93,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Alexis Coustham",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Appartement 93 m² – Fort potentiel – Usage habitation, local professionnel, bureaux ou cabinet.\n\nPoitiers – Résidence Le Mail – 2 avenue Robert Schuman\n\nSitué au 1er étage de la résidence Le Mail, au 2 avenue Robert Schuman à Poitiers, cet ancien cabinet d'avocat développe une surface d'environ 93 m² et offre de nombreuses possibilités d'aménagement. Son emplacement recherché, à proximité immédiate des commerces, des transports et du centre-ville, en fait un bien idéal aussi bien pour un usage d'habitation que pour l'exercice d'une profession libérale ou d'une activité de bureaux.\n\nImmeuble datant de en 1975, l'appartement se compose d'une Spacieuse entrée, d'un Salon lumineux, de trois chambres, d'une cuisine indépendante, d'un cellier, d'un WC indépendant ainsi que d'un espace prévu pour accueillir une future salle d'eau. Les arrivées d'eau et les évacuations sont déjà en place, facilitant les travaux d'aménagement.\n\nVous profiterez également d'un balcon ainsi que d'une place de parking privative en sous-sol, un véritable atout au quotidien.\n\nCôté confort, le bien bénéficie d'un chauffage au sol collectif. Une pompe à chaleur réversible air/air complète les prestations, permettant de climatiser l'ensemble du logement en été et d'assurer un chauffage d'appoint en hiver.\n\nDes travaux de rénovation sont à prévoir afin de moderniser le bien et de l'adapter à votre projet.\n\nLes charges de copropriété, d'environ 275 € par mois, comprennent notamment le chauffage, l'eau froide, l'entretien des parties communes ainsi que les charges courantes de la copropriété.\n\nLa résidence est bien entretenue et aucun gros travaux n'a été voté, hormis le remplacement des interphones.\n\nLes atouts du bien\n\nRésidence Le Mail, 2 avenue Robert Schuman à Poitiers\nEnvironnement recherché, proche des commerces et des commodités\n93 m² offrant de beaux volumes\nPossibilité d'usage habitation ou professionnel\n3 chambres\nCuisine indépendante et cellier\nSalle d'eau à créer (réseaux existants)\nBalcon\nPlace de parking privative en sous-sol\nChauffage au sol collectif\nPompe à chaleur réversible (chauffage/climatisation)\nCopropriété sans travaux importants votés\n\nUn bien aux multiples possibilités, idéal pour une résidence principale, un cabinet professionnel ou un investissement, offrant un fort potentiel après rénovation. Une visite vous permettra d'en apprécier toutes les possibilités.\n\nPour une première découverte des lieux, retrouver la vidéo complète de l'appartement sur mon mini-site internet. \n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 293 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 275.67€ par mois (soit 3308 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Alexis Coustham mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 900405176, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-07-28",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "E",
+    "ges": "E",
+    "chargesAnnualEuros": 3308,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2023-10-28",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 291
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 63
+      },
+      "amount": {
+        "min": 1730,
+        "max": 2400
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 293,
+      "annualFees": 3308,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1975,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "99 500 €",
+      "formattedPerSurface": "1 070 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1975"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": {
+      "structuredMainSurfaceM2": 93,
+      "surfaceList": [
+        {
+          "type": "living-area",
+          "value": 93,
+          "icon": "iad-icon:living-area"
+        }
+      ]
+    },
+    "photoCount": 12,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a16192821f5e85572117dcfc64.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a15f95328c0d71f3ac26993a2c.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a1617f9629a4ce5b866a06d612.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a16103a3525d7a7e86834e1165.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a160beb45efee176c2ef93b983.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a161e6fa74cf6e46e36fa6e7b1.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a16088996bcbfd2221e8b912d2.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a162495618f92cb218df88c580.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a161dfd20f3ceb726841524beb.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a161275cb1f29646fde896e8fd.png",
+      "https://images.playiad.com/property/broadcast/2026/07/21/019f85a4da55b794452c8fab1b5e87be.png",
+      "https://images.playiad.com/property/broadcast/2026/07/27/019fa40ac623858d3a8d1db5f12cc91d.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a16192821f5e85572117dcfc64.png",
+        "httpStatus": 200,
+        "sha256": "4afb7e84ee2df86573a34946178061e24241ebcf4781bebd93632724352ed07a",
+        "observation": "Former-office entrance/reception with curved dark inset floor/pale tiles, textured walls, timber entrance/cupboard and glass coffee table. Furnishings do not establish current commercial tenancy."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a15f95328c0d71f3ac26993a2c.png",
+        "httpStatus": 200,
+        "sha256": "b01a1908439baad5262d61fc78e137e6609332861b0da90ee62b1bdc32c553d6",
+        "observation": "Small yellow room with tiled splashback, plumbing/counter and stacked dismantled panels/debris; no completed shower visible. Source says shower room must be created; no existing bath inferred from main-feature icon."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a1617f9629a4ce5b866a06d612.png",
+        "httpStatus": 200,
+        "sha256": "29427360bd5a48bf2316aa6fe71396099c26a2ba243d1f8dc3948c3bc4ca8584",
+        "observation": "Long carpeted office with desks/chairs, high duct/soffit and end window. Visible ceiling seam/crack line; cause/severity unassessed, no structural diagnosis."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a16103a3525d7a7e86834e1165.png",
+        "httpStatus": 200,
+        "sha256": "75a97f2c6ae7fe28ce00b51616bbe700c3fe92d8ea01be64bd501006767a7cd0",
+        "observation": "Reverse same carpeted office with desks/bookcase/cupboard and yellow-room doorway, visible ventilation duct. No extra room counted."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a160beb45efee176c2ef93b983.png",
+        "httpStatus": 200,
+        "sha256": "50fa3eeec314546614465fc09be5ff5cbd2dc8351c0b103bfa8f4f3a58205ec8",
+        "observation": "Small tiled utility/cellier with white low cupboard, textured wall, internal frosted glazing/open cabinet. Not a completed bathroom."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a161e6fa74cf6e46e36fa6e7b1.png",
+        "httpStatus": 200,
+        "sha256": "7cc0e34c89a9dfda749330655e5511ffc26e0ba2e19b1120c3bae958b7285539",
+        "observation": "Pale tiled corridor with glass-block partition, textured entrance surround and office desk beyond. Legal residential use not established by office layout."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a16088996bcbfd2221e8b912d2.png",
+        "httpStatus": 200,
+        "sha256": "1d0f65af83534097e5c6a7371899eb63d730d2cc1a3e07f55f294a6ae33d115d",
+        "observation": "Kitchen/break area with tiled floor, fold-down table and timber frosted sliding partition toward sink/white cupboards/window. Equipment operation unverified."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a162495618f92cb218df88c580.png",
+        "httpStatus": 200,
+        "sha256": "e533b6df976d38404f16b1dc0cb1cd75bd393fa00d8a544f3748242a30d60b33",
+        "observation": "Separate tiled office with desk/chairs, cupboards, textured side wall and window. Not independent proof of current bedroom status."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a161dfd20f3ceb726841524beb.png",
+        "httpStatus": 200,
+        "sha256": "49fd6b1cdf2f5628c78dca72e32528549f54d44704e9f54439144ae18fb3ee96",
+        "observation": "Large tiled room currently office/reception with desks/ornate seating, broad glazing and balcony door. Future living-room designation remains proposed residential use."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a161275cb1f29646fde896e8fd.png",
+        "httpStatus": 200,
+        "sha256": "c9ef7d058c05df44829b7b975be5e2bf6c6c7de975ab925c095dcc745a5ec952",
+        "observation": "Reverse curved entrance/reception connecting separate offices and pale tiled corridor, star stickers on wall. No current tenant or legal vacancy inferred."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/21/019f85a4da55b794452c8fab1b5e87be.png",
+        "httpStatus": 200,
+        "sha256": "6364d910a173f5b2899a68a5216563d0c4d04c7806a9a29d138eeace132d1157",
+        "observation": "Another tiled windowed office with desks/chairs and tall cupboard. Source three-bedroom classification not proof that conversion is complete/authorised."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/27/019fa40ac623858d3a8d1db5f12cc91d.png",
+        "httpStatus": 200,
+        "sha256": "7d63f0b4b89bf5baaaf1e410f07679f9be80b67bdb5ab3fed58feaa9326ed594",
+        "observation": "Advertiser plan labels generic pieces1-6 with areas13.12/10.06/24.58/7.66/17.5/3.89, entrance9.87, hall3.83, WC1 and salle d eau1.63. Schematic bathroom label does not override explicit future bath to create. No allocation of generic rooms to legal bedrooms invented. All12 own entries inspected; no explicit AI label observed. Lift, balcony rights and assigned basement parking remain textual claims."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-93m2/r2080004",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T10:50:24.886398+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-4-pieces-poitiers-86000-1897805",
+          "property": {
+            "id": "cmuzt7fvk0002h830udkda7u6",
+            "codeCommune": "86194",
+            "surface": 92.2,
+            "rooms": 4,
+            "floor": 0,
+            "hasElevator": 1,
+            "dpe": "E",
+            "ges": "E"
+          },
+          "priceCents": 22500000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_RESIDENTIAL_USE_AND_UNBUILT_BATHROOM: whole sellerpaidfeeEUR99500/93m2/T4/sourcebedrooms3, firstfloor WITHlift,1975sourceyear. ExactadvertiseraddressResidenceLeMail2avenueRobertSchuman retained but independentlyunverified. Explicit formerlawyeroffice offered for habitation ORprofessional/offices; sourcefuturepotential is not proof of current lawful/residential use or completeconversion. Mainfeature1shower and planbath1.63 conflict with explicit Salle d eau a creer / espaceprevupourfuturebath; preserveactualsourcephrasing and do not treat existing plumbing as installed bathroom. All12 own gallery entries inspected: officefurniture/desks in multiple rooms, curvedreception, carpetedofficeseam/crackline, tiledcorridor/glassblockpartition, yellowdismantledutility withplumbing, frostedpartitionkitchen/cellier and schematicgenericpieces. No completedshower shown. No diagnosedstructuraldefect, currentcommercialtenant, mandatorymanagedlease or permanentcommercial-only status inferred. Hold pending confirmation of residential destination/use/conversion status, existing essential facilities and renovation scope/cost before apartment valuation; no legal permission or works completion invented. Two sale lots/293TOTAL, no proceeding,3308annual/275.67monthly sourcelegalcharge; narrativeapprox275 retained. Chargeinclusionheating/coldwater/commonmaintenance asserted, no divisionofrecoverablecharges guaranteed. Collectiveunderfloor plus reversibleair-air heatpump sourceclaims, mainfeatureelectricity preserved; underlyingcollectivefuel notinvented. E291/E63 assessed2023-10-28 indexed2023 cost1730-2400. No majorworks votedexceptinterphones sourceclaimunverified. Includedbasementparking/balcony textualnotpictured/legalallocationuncertain, no enclosedbox assumed fromgarageicon. Video notinspectednofactsderived. ExactsourceID/all12own imagepaths absent acrosshistoricalstatuses/exports and nativeactivephotos. One active near fullsourcecompared: GH92.2SaintHilairegroundaccess/topposition/2balconies/2currentbedroomswithpossiblethird/completedshower/cave/closedbasementbox/3600annual differs fromfirstLeMail1975/293lots/3308annual/formeroffice/noexistingbath. No nonactive near candidates. No sameunit or unsupportedwithdrawal. Pending record not imported, trusted or analysed."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass91_iad2080004.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T01:05:14.502100+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Full primary description, every legal/seller paragraph read and preserved verbatim. All own gallery entries individually visually inspected in source order, with related-property media excluded. Earliest actual full-page HTTP200 observation from pass91 preserved as observedAt/firstSeenAt, newer pass93 observation and fresh recheck separate. Primary firstPublishDate is date only, no publication time or image-path date substituted. Measurements, condition, legal title, current availability, occupancy and proximity independently unconfirmed. Furnishings/empty images do not establish tenancy or legally vacant possession. Scoped first-page priority feeds checked Le Mans then Angers/Reims before Poitiers: five older January-March Le Mans candidates deferred without photo trust, no eligible unreviewed Angers/Reims IDs on checked pages. Four Poitiers primary dates compared and August7 then July28 reviewed before older candidates. No all-pages/markets exhaustion claim. PENDING_RESIDENTIAL_USE_AND_UNBUILT_BATHROOM: whole sellerpaidfeeEUR99500/93m2/T4/sourcebedrooms3, firstfloor WITHlift,1975sourceyear. ExactadvertiseraddressResidenceLeMail2avenueRobertSchuman retained but independentlyunverified. Explicit formerlawyeroffice offered for habitation ORprofessional/offices; sourcefuturepotential is not proof of current lawful/residential use or completeconversion. Mainfeature1shower and planbath1.63 conflict with explicit Salle d eau a creer / espaceprevupourfuturebath; preserveactualsourcephrasing and do not treat existing plumbing as installed bathroom. All12 own gallery entries inspected: officefurniture/desks in multiple rooms, curvedreception, carpetedofficeseam/crackline, tiledcorridor/glassblockpartition, yellowdismantledutility withplumbing, frostedpartitionkitchen/cellier and schematicgenericpieces. No completedshower shown. No diagnosedstructuraldefect, currentcommercialtenant, mandatorymanagedlease or permanentcommercial-only status inferred. Hold pending confirmation of residential destination/use/conversion status, existing essential facilities and renovation scope/cost before apartment valuation; no legal permission or works completion invented. Two sale lots/293TOTAL, no proceeding,3308annual/275.67monthly sourcelegalcharge; narrativeapprox275 retained. Chargeinclusionheating/coldwater/commonmaintenance asserted, no divisionofrecoverablecharges guaranteed. Collectiveunderfloor plus reversibleair-air heatpump sourceclaims, mainfeatureelectricity preserved; underlyingcollectivefuel notinvented. E291/E63 assessed2023-10-28 indexed2023 cost1730-2400. No majorworks votedexceptinterphones sourceclaimunverified. Includedbasementparking/balcony textualnotpictured/legalallocationuncertain, no enclosedbox assumed fromgarageicon. Video notinspectednofactsderived. ExactsourceID/all12own imagepaths absent acrosshistoricalstatuses/exports and nativeactivephotos. One active near fullsourcecompared: GH92.2SaintHilairegroundaccess/topposition/2balconies/2currentbedroomswithpossiblethird/completedshower/cave/closedbasementbox/3600annual differs fromfirstLeMail1975/293lots/3308annual/formeroffice/noexistingbath. No nonactive near candidates. No sameunit or unsupportedwithdrawal. Pending record not imported, trusted or analysed.",
+    "floor": 1,
+    "hasElevator": true,
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "sourceAddressEvidence": "Résidence Le Mail – 2 avenue Robert Schuman",
+    "pendingReasons": [
+      "RESIDENTIAL_USE_CONVERSION_STATUS_UNCONFIRMED",
+      "BATHROOM_NOT_YET_CREATED"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuotes": [
+        "cet ancien cabinet d'avocat",
+        "un espace prévu pour accueillir une future salle d'eau",
+        "Salle d'eau à créer (réseaux existants)"
+      ],
+      "structuredShowerRoomCount": 1,
+      "completedShowerRoomConfirmed": false,
+      "currentCommercialTenantConfirmed": false,
+      "lawfulResidentialConversionConfirmed": false,
+      "clarificationNeeded": "Confirm residential destination/use/conversion status, actual essential facilities and renovation scope/cost before apartment valuation."
+    }
+  }
+]
