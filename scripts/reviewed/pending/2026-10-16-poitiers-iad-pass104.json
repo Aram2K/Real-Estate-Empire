@@ -1,0 +1,361 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-86m2/r2021651",
+    "observedAt": "2026-10-16T15:58:01.121583+00:00",
+    "httpStatus": 200,
+    "externalId": "2021651",
+    "firstSeenAt": "2026-10-16T15:58:01.121583+00:00",
+    "latestFullPageObservedAt": "2026-10-16T16:27:49.413086+00:00",
+    "reviewedAt": "2026-10-16T16:34:47.501716+00:00",
+    "communeCode": "86194",
+    "priceEuros": 149000,
+    "surface": 86,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Thomas Bonnin",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Sur le plateau, rue Magenta, découvrez cet appartement T4 au premier étage avec 2 balcons et ascenseur ! Il se compose d'une entrée avec placards, un séjour sur balcon, une cuisine, cellier, 3 chambres donnant sur un balcon filant, salle d'eau, cabinet de toilettes, wc. En complément une cave. Le chauffage est compris dans les charges\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 54 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 258€ par mois (soit 3096 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 149000 euros. Prix hors honoraires : 140000 euros. Honoraires TTC à la charge de l'acquéreur (6,43% du prix du bien hors honoraires) : 9000 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Thomas Bonnin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 913227203, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-05-13",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "E",
+    "ges": "E",
+    "chargesAnnualEuros": 3096,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-04-17",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 247
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 54
+      },
+      "amount": {
+        "min": 1707,
+        "max": 2309
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 54,
+      "annualFees": 3096,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1963,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "149 000 €",
+      "formattedNetPrice": "140 000 €",
+      "formattedFees": "9 000 €",
+      "formattedFeesRatio": "6,43 %",
+      "formattedPerSurface": "1 733 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1963"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 86,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 19,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008243c29e8f636bba0f2f896d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1c6d22b176fe85cf77313af2d7fa.png",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0080c0f3ae84a06da3cbbd278b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0081c98d4a82435c3dc5026508.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0086fa1db77821d1f95142742f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1c6d2164c1e1564b8a55a9836ba6.png",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0084d9fce5a455deb1534d1960.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1c70cc37202359b8c3c0a16a5166.png",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0087ddee83ead2e12e27115a0b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0086b250d9b84b2f055448ef3f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b007aefcc2a27930019f03909c3.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1c6d21dd1fdae4cd3c163ceb402e.png",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0083c628935c919f2c48b90096.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008504591de455294b40ee34b1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008099bfe81512a0f78e17aee9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008904714300f781f92582d73c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b00853b10808628169f40792b17.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008876f899e80fceebffbb3546.jpg",
+      "https://images.playiad.com/property/broadcast/2026/05/12/019e1b037798b2cc8e1f6990466848a3.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008243c29e8f636bba0f2f896d.jpg",
+        "httpStatus": 200,
+        "sha256": "02d099718ec5b519ae92e27f381292511ef890aae72a2ed920753ba6c810f346",
+        "observation": "Actual empty orange-wall living room with pale marked carpet, wide balcony glazing, twin radiators, curtains and white glazed internal door. Empty presentation not legal vacancy proof.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1c6d22b176fe85cf77313af2d7fa.png",
+        "httpStatus": 200,
+        "sha256": "32a3bda6535f41c049468966bb1b5b0840ee9ad6cf52e4f96b31fa1d6bda0fb2",
+        "observation": "Explicit Photo non contractuelle - proposition d amenagement: furnished/altered living-room proposal, new floor and furnishings. Not evidence of installed renovation, inventory or existing room condition.",
+        "isExplicitNonContractualProposal": true
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0080c0f3ae84a06da3cbbd278b.jpg",
+        "httpStatus": 200,
+        "sha256": "0b85f4925a490ea0529d1d53cc6f3063117efe4319233959059accfa556b75cf",
+        "observation": "Actual reverse orange living room, arched white cupboard/red recess shelving, wide glazing and pale carpet. Fixed geometry coherent with1, not a separate room.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0081c98d4a82435c3dc5026508.jpg",
+        "httpStatus": 200,
+        "sha256": "d4e1ee2fb7a868367e589ffbb2ae632e4d74bab8bf77e188713d3497ba3c05e2",
+        "observation": "Actual other view of same living/balcony glazing, radiators, white wall and doorway to original kitchen. Repeated view, no room counted.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0086fa1db77821d1f95142742f.jpg",
+        "httpStatus": 200,
+        "sha256": "4c9b16de86ae42c6fe2cd725449850648729da63b6faf6058cc43ac66609f209",
+        "observation": "Actual dated separate kitchen, white cupboards, blue/brown floral patterned tile walls, white sink/oven and small square-tile floor. Appliance operation and electrical condition unassessed.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1c6d2164c1e1564b8a55a9836ba6.png",
+        "httpStatus": 200,
+        "sha256": "1a14e5a7f2a50a124a551be8bb51708ea2674176a4fef8368986d08f04a446a2",
+        "observation": "Explicit noncontractual proposed kitchen: wood/white units, black hood/hob, new backsplash/counter/floor. Not current installed kitchen or completed work evidence.",
+        "isExplicitNonContractualProposal": true
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0084d9fce5a455deb1534d1960.jpg",
+        "httpStatus": 200,
+        "sha256": "d34723a163d672005d8d6ee3738f87a9e2d66d97f6e745d61cccbab6c963fdbd",
+        "observation": "Actual empty blue-grey bedroom with ornate upper border, wood strip floor, gold curtains, glazed balcony door and radiator. Dimensions not measured.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1c70cc37202359b8c3c0a16a5166.png",
+        "httpStatus": 200,
+        "sha256": "bf8a73138286e95118d168dfd9c3ae59326d9c29a56e8bf2ecaba289a702d3ca",
+        "observation": "Explicit noncontractual bedroom furnishing/decor proposal. Not proof of current installed bed, paint, lamps or renovation.",
+        "isExplicitNonContractualProposal": true
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0087ddee83ead2e12e27115a0b.jpg",
+        "httpStatus": 200,
+        "sha256": "e7e28a027d2854e38355d620cc9b1d5ae98af7258a0b50f1a15199ccda67dfc0",
+        "observation": "Actual different empty bedroom with arched floral-wallpaper alcove, matching curtains, wood floor and balcony door. Fine crack lines visible on ceiling, cause/depth/significance unknown; no leak or structural diagnosis.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0086b250d9b84b2f055448ef3f.jpg",
+        "httpStatus": 200,
+        "sha256": "eb2aa5603813587b9067cd7e70e38b8113d7a6ef5250e575009b14d7ff60cd73",
+        "observation": "Actual third bedroom-shaped room, brown textured wall/bamboo-pattern opposite wall, pale carpet, cream curtains and balcony door/radiator. Source three-bedroom count supported by distinct layouts, not measured certification.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b007aefcc2a27930019f03909c3.jpg",
+        "httpStatus": 200,
+        "sha256": "bf078c1a145ca2598fb20d5e7357ae1562e63990bce19028d11663c59ca8dcd1",
+        "observation": "Actual white/blue tiled bathroom with BATHTUB and shower attachment, basin and bidet. Contradicts narrative salle d eau when interpreted as current separate shower; source feature and schematic call bathroom. Do not substitute proposed shower12 for actual bath.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1c6d21dd1fdae4cd3c163ceb402e.png",
+        "httpStatus": 200,
+        "sha256": "3c868f91dc51d87920a6443c7d64d7aa0ee16a83dcaa4869cf1b7b227ad75276",
+        "observation": "Explicit noncontractual proposed walk-in shower/double vanity/black fixtures, replacing bath. Not evidence of completed conversion or current second washroom.",
+        "isExplicitNonContractualProposal": true
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b0083c628935c919f2c48b90096.jpg",
+        "httpStatus": 200,
+        "sha256": "aca85f024b416787091e62372343f215c580886372f6936e8acb02fb78b73965",
+        "observation": "Actual hall with carpet, tan textured walls, arched display recess, brown cupboard and cream entrance door. Three bedroom doors not extra rooms.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008504591de455294b40ee34b1.jpg",
+        "httpStatus": 200,
+        "sha256": "1f287f71cc42b0aa9821127c4d3457652235102583c0a7f1fc81019136a3ccb6",
+        "observation": "Other view of same hall/glazed salon door and radiator. Repeated angle, not separate hall surface measurement.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008099bfe81512a0f78e17aee9.jpg",
+        "httpStatus": 200,
+        "sha256": "421d3dcab4dc3122626ab13ad4652287a044d09bc7cf14efc93918e1625090d9",
+        "observation": "Closer entry/cupboard/recess with partial separate WC view at right. No inventory or plumbing assessment inferred.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008904714300f781f92582d73c.jpg",
+        "httpStatus": 200,
+        "sha256": "561ac5d8dbc9f6085ce78c2135999b24b9c7e16b32673a97e93effbfe5070613",
+        "observation": "Actual narrow open balcony with white folding shutters, rails, glazed doors and grey floor. Weathering/discoloration at far divider visible; cause and repair scope unassessed.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b00853b10808628169f40792b17.jpg",
+        "httpStatus": 200,
+        "sha256": "4f1377ede1146efa9317e823289d7c053aafc7a09ac98d530a880951c43264b2",
+        "observation": "Reverse same long balcony, bedroom door visible, street-facing pale facade and grey vertical rails. No independently verified area/title or transport distance.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b008876f899e80fceebffbb3546.jpg",
+        "httpStatus": 200,
+        "sha256": "e3ff8d5e63958c47532160968ea094417af8971ece537528f8eea86ea1708736",
+        "observation": "Actual separate floral-papered cabinet de toilette with basin, bidet, mirrored cabinet and radiator. No standalone shower visible in this separate room.",
+        "isExplicitNonContractualProposal": false
+      },
+      {
+        "number": 19,
+        "url": "https://images.playiad.com/property/broadcast/2026/05/12/019e1b037798b2cc8e1f6990466848a3.png",
+        "httpStatus": 200,
+        "sha256": "ef65a2a5f6dbf6ba79bbcb3c458d6ec750578e3b21006752f72cfe1abb4c2fcf",
+        "observation": "Source unmeasured schematic plan labels three chambres, sejour, cuisine, two balcons, Salle de Bains, separate WC, cabinet de toilette, cupboards and debarras. Reinforces bath rather than proving existing standalone shower. All19 entries individually inspected, proposals2/6/8/12 separated from15 actual/plan entries.",
+        "isExplicitNonContractualProposal": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-86m2/r2021651",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T16:34:46.344233+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-4-pieces-poitiers-86000-1880076",
+          "surface": 87.93,
+          "rooms": 4,
+          "floor": 14,
+          "hasElevator": null,
+          "dpe": "E",
+          "priceCents": 10200000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/poitiers-86000/TAPP177-969746",
+          "surface": 86.62,
+          "rooms": 3,
+          "floor": 1,
+          "hasElevator": 1,
+          "dpe": "D",
+          "priceCents": 22450000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-87m2/r2045223",
+          "surface": 87.0,
+          "rooms": 4,
+          "floor": 12,
+          "hasElevator": 1,
+          "dpe": "D",
+          "priceCents": 9000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_BATHROOM_AND_PRESENT_CONDITION: fullEUR149000 includes9000buyerfees/140000net; net alone not purchase price.86m2/T4/three source bedrooms,first WITHlift expressly narrative,1963naturalgas and heating included in advertised charges. Two sale lots54TOTAL/no proceeding,3096annual/258monthly,tax unknown omitted. E247/E54 assessed2026-04-17 indexed2023 cost1707-2309. RueMagenta street only,no exact number invented. All19 own entries viewed:15actual/plan plus4explicit noncontractualproposals2/6/8/12. Actual orange salon/marked carpet, dated floral-tile white kitchen, blue/gold-curtain bedroom, floral-arched bedroom, brown/bamboo-wall bedroom, bluewhite BATHTUB/bidet bath, floral cabinet de toilette/basinbidet, hall and long balconies. Prose salle d eau versus actualBATHTUB, structured bathroom feature and planSalledeBains conflict; proposedshower12 not current fixture. Separate cabinet18 has basin/bidet, no currentstandalone shower established. Fine ceiling crack lines in9 and balcony divider weathering16 retained with unknown cause/scope, no structural/leak diagnosis or guessed renovation cost. Plan has no measurements. Hold current wet-room configuration and condition clarification; no explicit tenancy/specialsale evidence invented. Exact sourceID/all19 own photo identities absent all historicalstatuses/exports/nativeACTIVEphotos. Three active full near descriptions read: GH87.93fourteenth1968/708lots/4184annual/E261C22,Citya86.62first1985/13lots/1500annual/T3two currentbeds/electricD216B8/openkitchenloggia,IAD87twelfth1967/297lots/3360annual/D232C20 differ fromfirst1963/54lots/3096annual/E247E54/threebeds/floral-tile separate kitchen/two longopenbalconies. No nonactive near or same-unit established, no unsupported withdrawal. Pending file only,no trusted import or analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass102_iad2021651.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T15:58:01.121583+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Full primary description including seller identity and all legal paragraphs individually read and preserved verbatim. Every own gallery entry individually visually inspected in source order, related-property media excluded. Earliest known full-page HTTP200 observation from pass102 retained as observedAt/firstSeenAt; current pass104 collection and fresh primary recheck separately preserved. Primary firstPublishDate date only, no publication time invented. Refreshed first-page priority feeds Le Mans then Angers then Reims before Poitiers: none unreviewed eligible on those first three checked pages. Five Poitiers primary dates compared and May13 then May8 selected before older candidates. No all-pages/market exhaustion claim. Measurements, title, present condition, availability and proximity independently unverified; empty or furnished photos do not establish legal occupancy. PENDING_BATHROOM_AND_PRESENT_CONDITION: fullEUR149000 includes9000buyerfees/140000net; net alone not purchase price.86m2/T4/three source bedrooms,first WITHlift expressly narrative,1963naturalgas and heating included in advertised charges. Two sale lots54TOTAL/no proceeding,3096annual/258monthly,tax unknown omitted. E247/E54 assessed2026-04-17 indexed2023 cost1707-2309. RueMagenta street only,no exact number invented. All19 own entries viewed:15actual/plan plus4explicit noncontractualproposals2/6/8/12. Actual orange salon/marked carpet, dated floral-tile white kitchen, blue/gold-curtain bedroom, floral-arched bedroom, brown/bamboo-wall bedroom, bluewhite BATHTUB/bidet bath, floral cabinet de toilette/basinbidet, hall and long balconies. Prose salle d eau versus actualBATHTUB, structured bathroom feature and planSalledeBains conflict; proposedshower12 not current fixture. Separate cabinet18 has basin/bidet, no currentstandalone shower established. Fine ceiling crack lines in9 and balcony divider weathering16 retained with unknown cause/scope, no structural/leak diagnosis or guessed renovation cost. Plan has no measurements. Hold current wet-room configuration and condition clarification; no explicit tenancy/specialsale evidence invented. Exact sourceID/all19 own photo identities absent all historicalstatuses/exports/nativeACTIVEphotos. Three active full near descriptions read: GH87.93fourteenth1968/708lots/4184annual/E261C22,Citya86.62first1985/13lots/1500annual/T3two currentbeds/electricD216B8/openkitchenloggia,IAD87twelfth1967/297lots/3360annual/D232C20 differ fromfirst1963/54lots/3096annual/E247E54/threebeds/floral-tile separate kitchen/two longopenbalconies. No nonactive near or same-unit established, no unsupported withdrawal. Pending file only,no trusted import or analysis.",
+    "hasElevator": true,
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "sourceStreetEvidence": "rue Magenta",
+    "sourceNetPriceEuros": 140000,
+    "sourceBuyerFeesEuros": 9000,
+    "pendingReasons": [
+      "BATHROOM_WORDING_AND_PHOTO_DIFFER",
+      "PRESENT_CONDITION_UNCLARIFIED"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuote": "salle d'eau, cabinet de toilettes, wc",
+      "actualPhoto11": "Bathtub/bidet/basin",
+      "actualPhoto18": "Separate basin/bidet washroom; no standalone shower seen",
+      "proposedShowerPhoto12IsNonContractual": true,
+      "planLabel": "Salle de Bains",
+      "conditionPhoto9": "Fine ceiling crack lines; cause/significance unknown",
+      "clarificationNeeded": "Confirm current wet-room configuration and condition/work scope; proposed conversion not existing renovation."
+    }
+  }
+]
