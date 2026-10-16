@@ -1,0 +1,741 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-71m2/r2009081",
+    "observedAt": "2026-10-16T15:58:01.844772+00:00",
+    "httpStatus": 200,
+    "externalId": "2009081",
+    "firstSeenAt": "2026-10-16T15:58:01.844772+00:00",
+    "latestFullPageObservedAt": "2026-10-16T16:43:34.678437+00:00",
+    "reviewedAt": "2026-10-16T16:53:09.571882+00:00",
+    "communeCode": "86194",
+    "priceEuros": 195000,
+    "surface": 71,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Thomas Moreau",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Appartement T3 en centre-ville de Poitiers avec place de parking\n\nCet appartement de 71 m², au 4ᵉ et dernier étage d’une résidence construite en 1982, offre un cadre de vie agréable. \n\nCe type 3 se compose d’une belle entrée aménageable, d’une cuisine équipée, d’un cellier ainsi que d’un salon-séjour spacieux et lumineux avec placards intégrés.\nCôté nuit, un couloir dessert deux chambres confortables, dont une avec un placard, une salle de bains et un WC séparé.\n\nL’appartement bénéficie d’une exposition plein sud, apportant une belle luminosité.\nL’ensemble est en excellent état, prêt à accueillir ses futurs occupants sans travaux.\n\nCôté technique :\n• Tout-à-l’égout\n• Chauffage individuel électrique avec radiateurs récents\n• Place de parking privative\n• Résidence sécurisée avec porte de garage motorisée et digicode\n• Fibre optique\n\nUn bien idéal pour une résidence principale ou un investissement locatif.\n\nContactez-moi dès maintenant pour organiser une visite !\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 19 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 150€ par mois (soit 1800 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Thomas Moreau mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 900724154, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-04-30",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 1800,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-04-22",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 241
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 9
+      },
+      "amount": {
+        "min": 1596,
+        "max": 2160
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 19,
+      "annualFees": 1800,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1982,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "195 000 €",
+      "formattedPerSurface": "2 746 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1982"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 4"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 71,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 8,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb416fa9bec582126663cc025.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb2e119ab6e26fa625afc5be9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb319bae2000e97a81ac0b6bc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb29a0eca5b7b31f5b6270c3b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbad9fab173a119e2468c6e603.png",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbae831a7eb8ec30db1c8fbd67.png",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefe19e5b5a07f9b1ad7e282ab6c.png",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbaeed43066fe2df87abbea437.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb416fa9bec582126663cc025.jpg",
+        "httpStatus": 200,
+        "sha256": "a3e99d195fa7a22ef99357291127370b2c7558af02bd040f478bd8301e52642a",
+        "observation": "Actual living/dining room with grey sofa, mint chair, glass coffee table, white table/black rattan chairs, wood floor, angled brown beam, window and grid mirror. Furnishings do not establish tenancy.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb2e119ab6e26fa625afc5be9.jpg",
+        "httpStatus": 200,
+        "sha256": "25a4affce7215bc3c8fe8c3e59a9e3ce2540de4d5a8fc5ce446a2e96ac1036a6",
+        "observation": "Actual entrance with brown bench, shoes/bags, pale floor, white walls and mirrored storage. Not additional bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb319bae2000e97a81ac0b6bc.jpg",
+        "httpStatus": 200,
+        "sha256": "5bf1ed7b540b1f4246b91a8eb8613ff789c76f4be67120cc82b617e062681331",
+        "observation": "Reverse same living/dining, grey sofa/mint chair, beam, window and red oval dormer-like opening. Same fixed geometry, no extra room counted.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbb29a0eca5b7b31f5b6270c3b.jpg",
+        "httpStatus": 200,
+        "sha256": "145fedca7fa783b01b40d7d9ee552bb4563162c82bfba02414c01d2eaa7dc802",
+        "observation": "Actual separate fitted white kitchen, wood counter/black hob/oven, double metal sink, beige and white tile backsplash, small dark floor tiles, pineapple poster and hanging utensils. Appliance operation unverified.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbad9fab173a119e2468c6e603.png",
+        "httpStatus": 200,
+        "sha256": "0733d7f5feb14800058da3cf7c06554f723f4b5a7c8c44a9e9814db4b0657020",
+        "observation": "Actual first bedroom, pink bedspread, desk, small white wardrobe, postcards, large high window and electric panel radiator. Bedroom dimensions unmeasured.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbae831a7eb8ec30db1c8fbd67.png",
+        "httpStatus": 200,
+        "sha256": "2e2ad6515261ede1d46a543762bd658703d478bde62b0d70e1579da448519086",
+        "observation": "Actual second bedroom, blue bedspread, wood desk, sloped white ceiling/exposed brown cross-beams, window, built-in white cupboard and electric heater. Headroom and living-area measurement unverified.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefe19e5b5a07f9b1ad7e282ab6c.png",
+        "httpStatus": 200,
+        "sha256": "78d7353e3073d2d98ab4a1e5ef0cde5b13631ae43d8a7cf72862dc4faafb1c99",
+        "observation": "Actual bathtub with frosted shower screen/attachment, bidet, grey mosaic apron and blue floor tiles. Coherent with source salle de bains; no separate shower room invented.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbefbaeed43066fe2df87abbea437.png",
+        "httpStatus": 200,
+        "sha256": "45b68c7041de67d1dde9c7aac8bea0ae6ad706d0f3f062bc888544662769e6dd",
+        "observation": "Actual same bathroom basin with wide grey mosaic counter, white cupboard, mirror/wood baskets and blue floor tiles. All8 own entries individually viewed; no explicit AI/proposal label. Private parking/motorized common garage door and lift remain source assertions without gallery certification.",
+        "isAgentPromotion": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-71m2/r2009081",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T16:53:06.091528+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-72m2/r2102983",
+          "surface": 72.0,
+          "rooms": 4,
+          "floor": null,
+          "hasElevator": 1,
+          "dpe": "D",
+          "priceCents": 13000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-expanded-markets-public-pass44.json",
+          "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/ca067a96-3d99-4361-897b-6c80f972f8f7",
+          "surface": 71,
+          "rooms": 3,
+          "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+          "floor": null,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass97.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-72m2/r2047005",
+          "surface": 72,
+          "rooms": 3,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "APPROVED conventional whole apartment: full seller-paid-feeEUR195000/71m2/T3/two existing source bedrooms. Fourth and last floor WITHlift,1982individualelectric heating/recent radiators. Two sale lots19TOTAL/no proceeding,1800annual/150monthly,tax unknown omitted. D241/B9 assessed2026-04-22 indexed2023 cost1596-2160. Private parking/residence motorized garage door do not establish private closed box. PMR generic feature is source-only without independent access survey. All8 own actual entries coherent: grey-sofa/mint-chair beam living/dining, mirrored entrance, white fitted separate kitchen, pink-bed desk room, separate blue-bed exposed-beam/sloped-ceiling room, blue-floor mosaic bath/bidet/basin. No AI/proposal label, no impossible room/surface combination or mixed fixed geometry established. Headroom and measured living area unverified. Full wording establishes no current tenant, viager,bare/fractional/timeshare,auction/starting/partialprice,mandatory commercial/managedlease,ancillary-only property,houseboat,bot/spam. Future occupants phrase not certified vacant possession. Exact sourceID/all8 own image paths and SHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Active near IAD72T4threebeds/270lots/3208annual/districtheat/D195D42 differs from71T3twobeds/fourthtop1982/19lots/1800electric/D241B9. Pending GDC71T3 primary403 and possible upperGrandRue thirdtop/semiopenkitchen crosslist identity unconfirmed; available different floor/layout does not establish same unit. Pending IAD72ground/historicrestoration2025/20lots/1440annual/C152A5 also differs. No evidence-backed same unit or unsupported withdrawal. Actual local Poitiers rent and apartmentDVF coverage verified before analysis.",
+      "ownImageHashMatchesBeforeReview": 0
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass102_iad2009081.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T15:58:01.844772+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Complete primary description, all legal paragraphs and seller wording individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order; related-property media excluded. Earliest known full-primary HTTP200 observation from pass102 retained as observedAt/firstSeenAt, latest pass105 observation and fresh HTTP200 primary recheck separate. Actual primary publication date only, time unexposed omitted. Refreshed first-page priority feeds Le Mans then Angers then Reims before Poitiers; no eligible unreviewed IDs on those first three checked pages. Three Poitiers full-primary dates compared; April30 then April24 selected ahead of April10. No claim of all-page or all-market exhaustion. Measurements, legal title, present availability, condition and proximity independently unverified; furnished/empty images do not establish legal occupancy. APPROVED conventional whole apartment: full seller-paid-feeEUR195000/71m2/T3/two existing source bedrooms. Fourth and last floor WITHlift,1982individualelectric heating/recent radiators. Two sale lots19TOTAL/no proceeding,1800annual/150monthly,tax unknown omitted. D241/B9 assessed2026-04-22 indexed2023 cost1596-2160. Private parking/residence motorized garage door do not establish private closed box. PMR generic feature is source-only without independent access survey. All8 own actual entries coherent: grey-sofa/mint-chair beam living/dining, mirrored entrance, white fitted separate kitchen, pink-bed desk room, separate blue-bed exposed-beam/sloped-ceiling room, blue-floor mosaic bath/bidet/basin. No AI/proposal label, no impossible room/surface combination or mixed fixed geometry established. Headroom and measured living area unverified. Full wording establishes no current tenant, viager,bare/fractional/timeshare,auction/starting/partialprice,mandatory commercial/managedlease,ancillary-only property,houseboat,bot/spam. Future occupants phrase not certified vacant possession. Exact sourceID/all8 own image paths and SHA256 absent historicalstatuses/exports/nativeACTIVEphotos. Active near IAD72T4threebeds/270lots/3208annual/districtheat/D195D42 differs from71T3twobeds/fourthtop1982/19lots/1800electric/D241B9. Pending GDC71T3 primary403 and possible upperGrandRue thirdtop/semiopenkitchen crosslist identity unconfirmed; available different floor/layout does not establish same unit. Pending IAD72ground/historicrestoration2025/20lots/1440annual/C152A5 also differs. No evidence-backed same unit or unsupported withdrawal. Actual local Poitiers rent and apartmentDVF coverage verified before analysis.",
+    "hasElevator": true,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "86194",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1218,
+      "nbObs": 29862,
+      "actualApartmentDVFSales": 4488,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 4488
+      }
+    }
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-poitiers-93m2/r1997969",
+    "observedAt": "2026-10-16T15:58:01.926066+00:00",
+    "httpStatus": 200,
+    "externalId": "1997969",
+    "firstSeenAt": "2026-10-16T15:58:01.926066+00:00",
+    "latestFullPageObservedAt": "2026-10-16T16:43:34.610957+00:00",
+    "reviewedAt": "2026-10-16T16:53:09.785969+00:00",
+    "communeCode": "86194",
+    "priceEuros": 154500,
+    "surface": 93,
+    "rooms": 5,
+    "bedrooms": 4,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Ludovic Seguy",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "Ref 1997969-LS POITIERS (86000) Résidence Grand Maison, secteur Leclerc. Idéal colocation, proche facs, appartement traversant de type 5 d'une surface habitable de 93 m² environ avec 4 chambres, 2 salles d'eau, terrasse et cave en sous-sol. \n- L'appartement se compose d'une belle entrée, cuisine aménagée et équipée, séjour de 20 m² environ lumineux et donnant sur la terrasse, dégagement avec placard, 4 chambres de 10,20 m², 10,30 m², 12,00 m² et 13,00 m² dont 2 donnant sur la terrasse, une salle d'eau privative à 2 chambres, une salle d'eau commune et toilette séparée. \n- Le bien dispose d'une cave en sous-sol. \n- Sur le point technique, il est équipé d'un chauffage au sol (collectif urbain), de menuiseries en PVC avec double vitrage et volets roulants. L'ensemble des revêtements de sols et le tableau électrique ont été refaits ainsi que la cuisine aménagée refaite également. Les salles d'eau sont propres. La terrasse est équipée de stores bannes. \n- L'appartement est situé au 3ème étage sur 4 au total sans ascenseur. La résidence possède un gardien. \n- Achat d'un garage possible en supplément (15 000 euros). \n- L'habitation est située proche de toutes les commodités et infrastructures (commerces à pied, bus pour les facs et centre ville). \n- La taxe foncière pour 2025 était de 1541 euros. \n- Plus de photos du bien sur notre site iadfrance.fr\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 1200 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 260€ par mois (soit 3120 € annuel). Honoraires d'agence à la charge de l'acquéreur. Prix honoraires inclus : 154500 euros. Prix hors honoraires : 145000 euros. Honoraires TTC à la charge de l'acquéreur (6,55% du prix du bien hors honoraires) : 9500 euros.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Ludovic Seguy mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Poitiers sous le numéro 843399973, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-04-24",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "C",
+    "chargesAnnualEuros": 3120,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-04-24",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 202
+      },
+      "ges": {
+        "status": "available",
+        "class": "C",
+        "consumption": 21
+      },
+      "amount": {
+        "min": 1450,
+        "max": 2010
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 1200,
+      "annualFees": 3120,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1970,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "buyer",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "154 500 €",
+      "formattedNetPrice": "145 000 €",
+      "formattedFees": "9 500 €",
+      "formattedFeesRatio": "6,55 %",
+      "formattedPerSurface": "1 661 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "2 salles d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1970"
+        },
+        {
+          "text": "Accès PMR"
+        },
+        {
+          "text": "Étage : 3"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        },
+        {
+          "text": "Gardien"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 93,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 24,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdced50b7e94a3c441903e9f1f4df.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/24/019dbe9d9b30ef7690bd2dcda70b3e28.png",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d955e2f28b993448f476360df6774.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcecef3edd863c61159adcfb6c1f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdced2c47bcd2bc4118a5672e5e07.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdceb7b9751365ec41bb1e5f7a735.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcebdd00f2096838c39abe377258.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcec75529f89510580b3c26a09ff.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcec180d0060e5223e8e98a6e7a3.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcec95287ea4b1e73a98edd9e75b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d955dcf0b51aef3aed24f29867c8b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdced6cbbe861c75671999cfea0f9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/13/01a09a2f34ddd2ad8aadad127b96873e.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdced0c66a8420e0baa94aa3da2aa.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdceba13e24378884363632b4cf4f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d955e6462eae38e5a2430269b92a9.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcecb602127eeb154d645a527f47.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcebbcbac337b0c68f97f554708d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcecd228cf32abab5c352bdb3da5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d955f7d43d885496f355228b490cb.jpg",
+      "https://images.playiad.com/property/broadcast/2026/08/07/019fdcebfb2b0bd6859133fc299c8bb8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d95601127b6e4d7aad6908440d003.jpg",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d95603c31c1236053ff15908e9076.png",
+      "https://images.playiad.com/property/broadcast/2026/04/16/019d95605493000c9d6916bb93483d5c.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdced50b7e94a3c441903e9f1f4df.jpg",
+        "httpStatus": 200,
+        "sha256": "4ba4fdd29be36a9017bf8504e91cf2b034d655ab69dbf96871a3dd1a1955f49a",
+        "observation": "Actual separate L-shaped wood-beige kitchen, grey counter, black hob/angled hood/oven, window/double sink and tan square floor tiles. Operation/compliance unassessed.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/24/019dbe9d9b30ef7690bd2dcda70b3e28.png",
+        "httpStatus": 200,
+        "sha256": "6d77d0cbb685c9ee2fa395444e02c386541ada7f5502e64db20dd3905efe4a16",
+        "observation": "Source measured-looking floor plan shows FOUR distinct chambres (10.21,10.12,11.93,13.26), kitchen7.75, living19.5, entrance3.03, hall6.6, WC1.19, common salle d eau5.54 (5.82 floor), private salle d eau2.2 and cupboard1.84. Source approximate93m2 and rounded prose bedroom areas retained; plan not independent measurement/certification. Two bedrooms and living face terrace.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d955e2f28b993448f476360df6774.jpg",
+        "httpStatus": 200,
+        "sha256": "2bcf2f253773d4b0d597bb61027b07c9e2b69d2cc2f821a24510ab2da932226d",
+        "observation": "Actual long narrow balcony/terrace, solid cream parapet, turquoise rail and tree/parking outlook. No private garden title or measured terrace area inferred.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcecef3edd863c61159adcfb6c1f.jpg",
+        "httpStatus": 200,
+        "sha256": "6035b0e7801f660a7f198e818fecef8c3d6debfd86b70f381ef640d2774007d0",
+        "observation": "Actual empty-looking living room, peach walls, red curtains, broad balcony glazing, pale wood-effect floor and vacuum. Empty presentation not legal vacancy proof.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdced2c47bcd2bc4118a5672e5e07.jpg",
+        "httpStatus": 200,
+        "sha256": "d9b68e6c10a50703c3fca75eb6b53b138f06b13b3f832a5978676396fa45e901",
+        "observation": "Reverse same peach living room and white frosted-panel double doors toward hall/kitchen. Repeated view, not additional room.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdceb7b9751365ec41bb1e5f7a735.jpg",
+        "httpStatus": 200,
+        "sha256": "dc058bf3636a6bab2c3688ae8afbdd882c0c469c183f8e4c5d40809963e48d6a",
+        "observation": "Actual first bedroom with pink walls, scalloped red valance, balcony glazing and pale wood-effect floor. No independent bedroom area certification.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcebdd00f2096838c39abe377258.jpg",
+        "httpStatus": 200,
+        "sha256": "49e5a3ba437497e9e45253e01a6949577078ad62a90167358800b05da6bd754e",
+        "observation": "Actual different cream textured-wall bedroom with high three-pane window, curtains and wall lamp. Distinct room, not an invented fifth bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcec75529f89510580b3c26a09ff.jpg",
+        "httpStatus": 200,
+        "sha256": "f54cdb3cd54b275dac8a47bf62c861eded6aa19f3f0b9d69b7f4822785a3c5fa",
+        "observation": "Actual cream/floral-wall bedroom with wide three-pane balcony glazing and pale wood-effect floor. Source four-bedroom layout coherent with distinct rooms and plan.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcec180d0060e5223e8e98a6e7a3.jpg",
+        "httpStatus": 200,
+        "sha256": "36724395c6fc37421f6f287bf3cab284e5aa568b597d44be025d7c7210eafbef",
+        "observation": "Actual other pink/white bedroom with high three-pane window and matching floor. Four source bedrooms retained, repeated later views not counted again.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcec95287ea4b1e73a98edd9e75b.jpg",
+        "httpStatus": 200,
+        "sha256": "760901efebf0621c7e6a2b6fbe55a1f58a6b3dadaac2e1d5301d6db361238035",
+        "observation": "Actual common shower room with pink floor/walls, grey-white marble-effect tiles, glazed sliding shower/white tray, single vanity, frosted window and tall storage.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d955dcf0b51aef3aed24f29867c8b.jpg",
+        "httpStatus": 200,
+        "sha256": "4edfb1c33b8cf3ef937964ffd01311e03a9f5597ed12977ef96b1e39c07b0f39",
+        "observation": "Actual long cream residence facade with turquoise rails, recessed balconies, entrance steps and common lawn/path. Does not prove wheelchair access; explicit third floor without lift remains controlling floor fact.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdced6cbbe861c75671999cfea0f9.jpg",
+        "httpStatus": 200,
+        "sha256": "10fee179f5a8f0bedad2b185e854da31a01fa1bbdf3e80ef19ea701c6234144e",
+        "observation": "Closer actual same kitchen hob/angled hood/oven and living beyond; same fixed geometry, not a second kitchen.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/13/01a09a2f34ddd2ad8aadad127b96873e.jpg",
+        "httpStatus": 200,
+        "sha256": "6725fc5c076dd90da2bef1b03ecda376c0f20ae963e8afaff4e7a25bc3a82a25",
+        "observation": "Reverse cream-wall bedroom with pale floor and connecting door/closet; other bedroom beyond. Not additional bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdced0c66a8420e0baa94aa3da2aa.jpg",
+        "httpStatus": 200,
+        "sha256": "b1b02bfe98f3e37bbe7f2e23891deeec3f7393f021cde751056ab9a72455dfca",
+        "observation": "Reverse peach living room with frosted double doors, floral hall and vacuum. Repeated view.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdceba13e24378884363632b4cf4f.jpg",
+        "httpStatus": 200,
+        "sha256": "d1f3bae464c2221cf724fcec4dd6cf135af4668c0053efb7ff508a140fd31ce7",
+        "observation": "Reverse pink-wall bedroom with door into small private washroom, visible basin and cabinetry. The private shower asserted by source/plan is not visibly certified in this angle; do not invent a photographed second shower.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d955e6462eae38e5a2430269b92a9.jpg",
+        "httpStatus": 200,
+        "sha256": "dfa53ef4e027c1b3f3f96f72efecbc31a7da35c87fe21559500a6f209137f498",
+        "observation": "Reverse long balcony/terrace with turquoise rail, cream parapet, roller shutters/awning and tree outlook. No extra habitable area or guaranteed privacy inferred.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcecb602127eeb154d645a527f47.jpg",
+        "httpStatus": 200,
+        "sha256": "55ec4c82f577fa74c2f1eb4d52fad5e1fc54c9a0fcf072af576bcbd8a3845038",
+        "observation": "Portrait same common shower room, glass screen, white tray, towel heater and basin/vanity, pink floor. Not a third washroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcebbcbac337b0c68f97f554708d.jpg",
+        "httpStatus": 200,
+        "sha256": "6d00407bbc17704292ddcd23369cec9671d7f29b9ccef350b29631763560964d",
+        "observation": "Actual narrow private washroom with high frosted window, basin, low cabinetry and opposite connecting door. No shower visible in this angle; source second salle d eau preserved as assertion, not independently confirmed or disproved by limited view.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 19,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcecd228cf32abab5c352bdb3da5.jpg",
+        "httpStatus": 200,
+        "sha256": "16ca59656bf1be02934eba293c880e43ec84398f3e7a7537211bb72af8713095",
+        "observation": "Actual entrance/hall with floral wallpaper, pale floor and bedroom doors. No extra bedroom or commercial use inferred.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 20,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d955f7d43d885496f355228b490cb.jpg",
+        "httpStatus": 200,
+        "sha256": "b382798e02510b84f18e5c96832810148f02b0100e3823e9d4ff0180ac3568a1",
+        "observation": "Reverse same hall with cupboard doors and entry beyond. No additional surface counted.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 21,
+        "url": "https://images.playiad.com/property/broadcast/2026/08/07/019fdcebfb2b0bd6859133fc299c8bb8.jpg",
+        "httpStatus": 200,
+        "sha256": "a3fa011d8b59f05e0d10fa2ad729d08b746d8f28e5d1a2b7d0ad84096c0d6514",
+        "observation": "Actual blue-wall storage/utility recess with exposed water pipes/meters and rough floor. Not another shower, bedroom or commercial premise.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 22,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d95601127b6e4d7aad6908440d003.jpg",
+        "httpStatus": 200,
+        "sha256": "3d07d6904990b384a3df6c90374a1648cf24d7f2645a8fe422dfb6e255e5af51",
+        "observation": "Actual grey door in concrete basement with exposed overhead services. Source cellar retained, exact allocated title/contents unverified; this is not evidence of optional garage inclusion.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 23,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d95603c31c1236053ff15908e9076.png",
+        "httpStatus": 200,
+        "sha256": "67b4b559eed1e44270ad0ead7ef3f526fb10c03cb202d58c4c27dd673e8c10a6",
+        "observation": "Agent promotional avis de valeur offert graphic for Ludovic Seguy, not a room, condition or rent illustration.",
+        "isAgentPromotion": true
+      },
+      {
+        "number": 24,
+        "url": "https://images.playiad.com/property/broadcast/2026/04/16/019d95605493000c9d6916bb93483d5c.png",
+        "httpStatus": 200,
+        "sha256": "139cdfc39f563710f4452926ef48fac32241655c1651c009c8b7b74d7b1945e1",
+        "observation": "Agent promotional vous achetez/vous vendez graphic, not property evidence. All24 own gallery entries individually viewed:21 property/utility views plus1 plan and2 agent promotions; no explicit AI/staging label observed.",
+        "isAgentPromotion": true
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-poitiers-93m2/r1997969",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T16:53:06.098337+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-4-pieces-poitiers-86000-1897805",
+          "surface": 92.2,
+          "rooms": 4,
+          "floor": 0,
+          "hasElevator": 1,
+          "dpe": "E",
+          "priceCents": 22500000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-91m2/r2060399",
+          "surface": 91.0,
+          "rooms": 2,
+          "floor": 1,
+          "hasElevator": null,
+          "dpe": "E",
+          "priceCents": 19900000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-91m2/r2014313",
+          "surface": 90.87,
+          "rooms": 4,
+          "floor": 8,
+          "hasElevator": 1,
+          "dpe": "E",
+          "priceCents": 12800000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass93.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-93m2/r2080004",
+          "surface": 93,
+          "rooms": 4,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 1,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-poitiers-iad-pass96.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-poitiers-94m2/r2064184",
+          "surface": 94,
+          "rooms": 5,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 1,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "APPROVED conventional whole apartment: fullEUR154500 includes9500buyerfees/145000net; net alone not purchase price. Optional garage expressly15000EXTRA, not required or included in apartment purchase/model and not misleading partial price.93m2approx/T5/FOUR current source bedrooms, four distinct room layouts plus sourceplan coherent. Prose bedroom areas10.20/10.30/12/13 approximate versus plan10.21/10.12/11.93/13.26 retained without asserting exact measured areas. THIRDof4 expresslysansascenseur; hasElevatorFALSE. Generic AccesPMR tag conflicts with accessible-route implication; retained raw but no wheelchairaccessibility claim or invented lift.1970collectiveurbanunderfloorheat/gardien. Two sale lots1200TOTAL/no proceeding,3120annual/260monthly,tax1541for2025. D202/C21 assessed2026-04-24 indexed2023 cost1450-2010. All24 own entries viewed, including floorplan and2agentpromotions; actual wood-beigekitchen/peachsalon/four pink-or-cream bedrooms/longturquoiserailedterrace/complete communalshower/privatebasinwashroom/floralhall/utilitypipes/basementdoor. Source2sallesdeau preserved; secondprivate shower not visible in limited photos15/18, neither invented as photographed nor disproved. Source floors/electricalboard/kitchenrefitted claims not compliancecertificate. No explicit AI/proposal label or material room-count conflict. Idealcolocation is prospective use, not evidence currenttenant or rent; no colocation premium/sourceincome invented. Full wording establishes no occupiedsale,viager,bare/fractional/timeshare,auction/startingprice,mandatory commercial/managedlease,ancillary-onlyproperty,houseboat,bot/spam or impossible layout. Exact sourceID/all24 ownpaths andSHA256 absent history/allstatuses/exports/nativeACTIVEphotos, including agentgraphics. Three active near full descriptions read: GH92.2groundSaintHilaire/T4two currentbeds/3600annual,E/E; IAD91first1900/T2onebed/13lots/960annual/electricE/B; IAD90.87eighthWITHlift1969/T4threebeds/624lots/1080annual/E283C18 differ fromthirdNOlift1970/T5fourbeds/1200lots/3120annual/D202C21/peachrooms. Nonactive IAD93first1975/formeroffice/293lots/3308annual/nobath and94first1966/gas/160lots/3296annual/three currentbeds/electricalwork differ. No physical identity established or unsupported withdrawal. Actual local Poitiers rent and apartmentDVF coverage verified before analysis; optional garage excluded.",
+      "ownImageHashMatchesBeforeReview": 0
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass102_iad1997969.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T15:58:01.926066+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Complete primary description, all legal paragraphs and seller wording individually read and preserved verbatim. All own exposed gallery entries individually visually inspected in source order; related-property media excluded. Earliest known full-primary HTTP200 observation from pass102 retained as observedAt/firstSeenAt, latest pass105 observation and fresh HTTP200 primary recheck separate. Actual primary publication date only, time unexposed omitted. Refreshed first-page priority feeds Le Mans then Angers then Reims before Poitiers; no eligible unreviewed IDs on those first three checked pages. Three Poitiers full-primary dates compared; April30 then April24 selected ahead of April10. No claim of all-page or all-market exhaustion. Measurements, legal title, present availability, condition and proximity independently unverified; furnished/empty images do not establish legal occupancy. APPROVED conventional whole apartment: fullEUR154500 includes9500buyerfees/145000net; net alone not purchase price. Optional garage expressly15000EXTRA, not required or included in apartment purchase/model and not misleading partial price.93m2approx/T5/FOUR current source bedrooms, four distinct room layouts plus sourceplan coherent. Prose bedroom areas10.20/10.30/12/13 approximate versus plan10.21/10.12/11.93/13.26 retained without asserting exact measured areas. THIRDof4 expresslysansascenseur; hasElevatorFALSE. Generic AccesPMR tag conflicts with accessible-route implication; retained raw but no wheelchairaccessibility claim or invented lift.1970collectiveurbanunderfloorheat/gardien. Two sale lots1200TOTAL/no proceeding,3120annual/260monthly,tax1541for2025. D202/C21 assessed2026-04-24 indexed2023 cost1450-2010. All24 own entries viewed, including floorplan and2agentpromotions; actual wood-beigekitchen/peachsalon/four pink-or-cream bedrooms/longturquoiserailedterrace/complete communalshower/privatebasinwashroom/floralhall/utilitypipes/basementdoor. Source2sallesdeau preserved; secondprivate shower not visible in limited photos15/18, neither invented as photographed nor disproved. Source floors/electricalboard/kitchenrefitted claims not compliancecertificate. No explicit AI/proposal label or material room-count conflict. Idealcolocation is prospective use, not evidence currenttenant or rent; no colocation premium/sourceincome invented. Full wording establishes no occupiedsale,viager,bare/fractional/timeshare,auction/startingprice,mandatory commercial/managedlease,ancillary-onlyproperty,houseboat,bot/spam or impossible layout. Exact sourceID/all24 ownpaths andSHA256 absent history/allstatuses/exports/nativeACTIVEphotos, including agentgraphics. Three active near full descriptions read: GH92.2groundSaintHilaire/T4two currentbeds/3600annual,E/E; IAD91first1900/T2onebed/13lots/960annual/electricE/B; IAD90.87eighthWITHlift1969/T4threebeds/624lots/1080annual/E283C18 differ fromthirdNOlift1970/T5fourbeds/1200lots/3120annual/D202C21/peachrooms. Nonactive IAD93first1975/formeroffice/293lots/3308annual/nobath and94first1966/gas/160lots/3296annual/three currentbeds/electricalwork differ. No physical identity established or unsupported withdrawal. Actual local Poitiers rent and apartmentDVF coverage verified before analysis; optional garage excluded.",
+    "hasElevator": false,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "86194",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1218,
+      "nbObs": 29862,
+      "actualApartmentDVFSales": 4488,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 4488
+      }
+    },
+    "taxeFonciereAnnualEuros": 1541,
+    "taxeFonciereYear": 2025,
+    "sourceNetPriceEuros": 145000,
+    "sourceBuyerFeesEuros": 9500,
+    "optionalGarageEvidence": {
+      "priceEuros": 15000,
+      "expresslyOptional": true,
+      "includedInApartmentPrice": false,
+      "includedInAnalysis": false
+    },
+    "accessibilityEvidence": {
+      "rawFeature": "Acces PMR",
+      "exactNarrative": "3eme etage sur 4 au total sans ascenseur",
+      "noLiftExpress": true,
+      "wheelchairAccessibilityUnverified": true
+    },
+    "wetRoomEvidence": {
+      "sourceShowerRooms": 2,
+      "commonShowerPictured": true,
+      "privateWashroomPictured": true,
+      "privateShowerNotVisibleInExposedAngles": true
+    }
+  }
+]
