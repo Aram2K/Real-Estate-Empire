@@ -1,0 +1,587 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-le-mans-101m2/r1961953",
+    "observedAt": "2026-10-16T12:13:01.875910+00:00",
+    "httpStatus": 200,
+    "externalId": "1961953",
+    "firstSeenAt": "2026-10-16T12:13:01.875910+00:00",
+    "latestFullPageObservedAt": "2026-10-16T15:27:47.060057+00:00",
+    "reviewedAt": "2026-10-16T15:33:28.394639+00:00",
+    "communeCode": "72181",
+    "priceEuros": 178000,
+    "surface": 101,
+    "rooms": 5,
+    "bedrooms": 4,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Patrice Jubault",
+    "sourceTitle": "Appartement à Le Mans (72000)",
+    "sourceDescription": "Claircigny, angle (Bollée/ Mariette), appartement de 101m2 environ au 1er étage( ascenseur) avec balcon orienté ouest rénové entièrement en 2021, vendu meublé.\nL'appartement : Entrée, salon/séjour avec cuisine ouverte entièrement équipée 4 grandes chambres meublées avec rangement, salle de bain, salle d'eau, WC séparé, pièce rangement, grand balcon de 7 m2  environ donnant sur verdure.\nImmeuble raccordé au réseau de chaleur urbain , pas de hausse comme le gaz et l'électricité.\nToiture neuve, aucun gros travaux à prévoir.\nTous commerces au pied de la résidence (petit supermarché, pharmacie, boulangerie, tabac presse, banques, laverie, pressing...), bus. Prochainement Tram Bus.\nCentre ville 15 min à pieds\nIdéal investisseur ou particulier ayant besoin de 4 grandes chambres.\nCave\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 744 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 320€ par mois (soit 3840 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Patrice Jubault mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de LE MANS sous le numéro 382085512, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-03-04",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "B",
+    "chargesAnnualEuros": 3840,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-03-09",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 178
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 6
+      },
+      "amount": {
+        "min": 1400,
+        "max": 1940
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 744,
+      "annualFees": 3840,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1966,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "178 000 €",
+      "formattedPerSurface": "1 762 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1966"
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        },
+        {
+          "text": "Gardien"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 101,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 10,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb4176561c518edb525a6337c9552.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb41736bc4984209fab2997b09bed.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb41709679d506d91b3cbf356c1ab.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb4169eac55ecdd72a86dfbeb390b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb416c7583e4a80168764eb183ae3.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb41676e55f86e3771d74d81931a1.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb417a2cd27cb7c6ff09f7e4541bc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb417ce5c72ce7a3f7206e9ec32e4.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb4181ab9add2565fea5700f78f64.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/03/019cb417f5ca9170925c7869c3384244.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb4176561c518edb525a6337c9552.jpg",
+        "httpStatus": 200,
+        "sha256": "0ec0a3c61849283fa49337e9788797c4f214f4d19f03f1b418f0f5344b3b07be",
+        "observation": "Actual balcony with diamond-mesh white metal guard, pink folding table, white chair and awning edge, outlook onto trees/common lawn and neighbouring apartment building. No exclusive garden, measured balcony area or orientation certified."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb41736bc4984209fab2997b09bed.jpg",
+        "httpStatus": 200,
+        "sha256": "5f7c71a80c6d0e38574236efca7c447ac62393740af7855ffe81e2c350f08f72",
+        "observation": "Actual open white-panel kitchen with black backsplash/bar, oven/hob/hood, black stools and TV beside broad balcony glazing. Small mosaic floor in kitchen, wood-effect living floor. Appliance operation and furniture inventory unverified."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb41709679d506d91b3cbf356c1ab.jpg",
+        "httpStatus": 200,
+        "sha256": "368dbfe3ab62cc2a14be5b43cf1f7bd23ac1bb7f78ea149754336040b4922474",
+        "observation": "Actual same living area with beige sofa, dark blue armchair, wire coffee tables, rug, tripod lamp and broad balcony glazing. Furnishings do not establish current lease or legal vacancy."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb4169eac55ecdd72a86dfbeb390b.jpg",
+        "httpStatus": 200,
+        "sha256": "f96f3e39dc72882650a2778bf4309addd9d7042f1d134038fde73a42588deb3b",
+        "observation": "Furnished bed room with pale pink bedding, rectangular slatted-frame mirror, desk/chair, broad sliding window and radiator. Dimensions/legal bedroom qualification unmeasured."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb416c7583e4a80168764eb183ae3.jpg",
+        "httpStatus": 200,
+        "sha256": "b018a51cb02bc136133052923da73edc3bf952f230af9654bd608d2dbbf72063",
+        "observation": "Furnished bed room with two sunburst mirrors on side wall, white desk near window, pink bedding and corner radiator. Source four-bedroom count retained; similar furniture across rooms does not independently certify identity/count."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb41676e55f86e3771d74d81931a1.jpg",
+        "httpStatus": 200,
+        "sha256": "957f327d447c4a13271e03d158fcdd7a5242c7f629b1a37da36f1d5004be857b",
+        "observation": "Bed room with slatted mirror, beach/pier print on opposite wall, white desk and window/radiator. May be another angle of an earlier room; not automatically counted as an additional bedroom."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb417a2cd27cb7c6ff09f7e4541bc.jpg",
+        "httpStatus": 200,
+        "sha256": "21e8fd2d5537328dba4c95caf7a76116fc917330876ecb8830c66bb9720b75b5",
+        "observation": "Balcony pink round table/white folding chairs and same diamond-mesh guard/tree outlook. Repeated balcony view, not a separate annex."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb417ce5c72ce7a3f7206e9ec32e4.jpg",
+        "httpStatus": 200,
+        "sha256": "090653f06ba35f8eb8ce7cf0e68168fe313efbebc1c4ca90a803e2c047aaa091",
+        "observation": "Balcony with pink fabric deckchair and same diamond guard/tree outlook. Paint wear along threshold/floor visible, condition/cause unassessed. No additional surface added."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb4181ab9add2565fea5700f78f64.jpg",
+        "httpStatus": 200,
+        "sha256": "1c03f76fb6ed0c2a93670e9298bea9bbc1b560bac0dc2ba5c86bb500157ad4fa",
+        "observation": "Bed room with monochrome palm-tree print, small sunburst mirror, curtained storage and pale bedding. Furnishings/inventory not independently certified."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/03/019cb417f5ca9170925c7869c3384244.jpg",
+        "httpStatus": 200,
+        "sha256": "72bb914ea0b299faae56ebd36b2e4d7c388aefb952c98cc558eac844e038abf3",
+        "observation": "Reverse palm-print bed room with white desk, radiator and broad window, consistent with9. No extra bedroom counted. All ten own entries individually inspected; no explicit AI/staging label observed. No supplied wet-room photographs or measured floor plan; advertised four bedrooms, bath/shower, separateWC and cave remain source-supported, not individually visually certified."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-le-mans-101m2/r1961953",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T15:33:25.022383+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "sameBatchImagePathOrByteHashMatches": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-le-mans-72000-r465302307",
+          "property": {
+            "id": "cmuoor4jt000bh804obtd6vvw",
+            "codeCommune": "72181",
+            "surface": 99.0,
+            "rooms": 5,
+            "floor": 2,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 23900000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15821950606/",
+          "property": {
+            "id": "cmuu62h7i0002h8rgbub4ey8t",
+            "codeCommune": "72181",
+            "surface": 97.08,
+            "rooms": 4,
+            "floor": 2,
+            "hasElevator": 1,
+            "dpe": null,
+            "ges": null
+          },
+          "priceCents": 26500000
+        },
+        {
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-le-mans-98m2/r2116585",
+          "property": {
+            "id": "cmv05pxbc0002h8wc0k8fwfla",
+            "codeCommune": "72181",
+            "surface": 97.9,
+            "rooms": 4,
+            "floor": 7,
+            "hasElevator": 1,
+            "dpe": "F",
+            "ges": "F"
+          },
+          "priceCents": 17700000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "APPROVED: whole EUR178000 seller-paid-fee furnished apartment101m2/T5/four source existing bedrooms; sold furnished does not imply sold tenanted. First floor WITH lift,1966 construction, current district heating explicit. Two sale lots in744TOTAL/no proceeding;3840annual/320monthly, tax unknown omitted. C178/B6 assessed2026-03-09 indexed2023 cost1400-1940; source March4 publication retained even though diagnostic later, no invented correction. Renovated2021/new roof/no major works and future Tram Bus/cost stability are unverified seller claims, not future energy-price guarantees or independent renovation certification. Approximate7m2 balcony and cave accompany101m2 living area, not added to it; no private garden inferred. All ten own entries inspected: diamond-mesh balcony/pink furniture/common garden outlook, open white kitchen/black bar, beige-sofa/blue-chair living and repeated similarly furnished bed-room views. Not four separately measured/certified bedrooms from images; bath, shower, separateWC and cave are full-source assertions without supplied wet-room photos or floor plan. No explicit AI/staging label. Exact sourceID/all ten own paths absent historical approved/pending/excluded/duplicate/export evidence and native ACTIVE photos; same-batch own paths/hashes distinct. Three active near full descriptions read, no nonactive near candidates in101plusminus4m2: PAP99Carrez120floor duplex on2/3 with beams/low500charges/no lift; C21 97.08 second-floor T4/threebeds/30TOTAL/2760annual/collectivegas/privategarage; IAD97.9 seventh/top/1971/60TOTAL/3368annual/F368F90/twobeds. Different floor, ownership/heating/layout facts; no same physical unit established or unsupported withdrawal. Actual Le Mans local rent and apartment DVF coverage verified before analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass99_iad1961953.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T12:13:01.875910+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Complete primary description including all seller/legal paragraphs individually read and retained verbatim. Every own gallery entry individually visually inspected in original source order; related-property media excluded. Earliest known actual full-page HTTP200 observation from pass99 retained as observedAt and firstSeenAt; current pass100 full-page observation and fresh primary recheck separately retained. Primary publication is firstPublishDate date only; unknown time omitted. Fresh first-page priority feeds checked Le Mans then Angers/Reims and Poitiers; four remaining checked Le Mans primary dates individually fetched and March4 then March2 selected newest within highest-priority market. No all-pages/markets exhaustion claim. Title, measurements, current condition, furniture inventory, availability, orientation and transport/proximity independently unverified; furnishings do not prove current tenant or vacant possession. Full wording establishes no evidence-backed current-tenanted/occupied/viager sale, bare/fractional/timeshare ownership, auction/starting/partial price, obligatory commercial/managed lease, ancillary-only property, houseboat, bot/spam or impossible room/surface combination. APPROVED: whole EUR178000 seller-paid-fee furnished apartment101m2/T5/four source existing bedrooms; sold furnished does not imply sold tenanted. First floor WITH lift,1966 construction, current district heating explicit. Two sale lots in744TOTAL/no proceeding;3840annual/320monthly, tax unknown omitted. C178/B6 assessed2026-03-09 indexed2023 cost1400-1940; source March4 publication retained even though diagnostic later, no invented correction. Renovated2021/new roof/no major works and future Tram Bus/cost stability are unverified seller claims, not future energy-price guarantees or independent renovation certification. Approximate7m2 balcony and cave accompany101m2 living area, not added to it; no private garden inferred. All ten own entries inspected: diamond-mesh balcony/pink furniture/common garden outlook, open white kitchen/black bar, beige-sofa/blue-chair living and repeated similarly furnished bed-room views. Not four separately measured/certified bedrooms from images; bath, shower, separateWC and cave are full-source assertions without supplied wet-room photos or floor plan. No explicit AI/staging label. Exact sourceID/all ten own paths absent historical approved/pending/excluded/duplicate/export evidence and native ACTIVE photos; same-batch own paths/hashes distinct. Three active near full descriptions read, no nonactive near candidates in101plusminus4m2: PAP99Carrez120floor duplex on2/3 with beams/low500charges/no lift; C21 97.08 second-floor T4/threebeds/30TOTAL/2760annual/collectivegas/privategarage; IAD97.9 seventh/top/1971/60TOTAL/3368annual/F368F90/twobeds. Different floor, ownership/heating/layout facts; no same physical unit established or unsupported withdrawal. Actual Le Mans local rent and apartment DVF coverage verified before analysis.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "72181",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1177,
+      "nbObs": 25658,
+      "actualApartmentDVFSales": 6535,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 6535
+      }
+    },
+    "hasElevator": true
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-le-mans-112m2/r1955691",
+    "observedAt": "2026-10-16T12:13:01.865648+00:00",
+    "httpStatus": 200,
+    "externalId": "1955691",
+    "firstSeenAt": "2026-10-16T12:13:01.865648+00:00",
+    "latestFullPageObservedAt": "2026-10-16T15:27:47.034800+00:00",
+    "reviewedAt": "2026-10-16T15:33:28.522718+00:00",
+    "communeCode": "72181",
+    "priceEuros": 159400,
+    "surface": 112,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Anne Vidalin",
+    "sourceTitle": "Appartement à Le Mans (72000)",
+    "sourceDescription": "Gazonfier, T4 bien exposé de 112 m2, comprenant une pièce de vie de 32 m2 donnant sur balcon et cuisine ouverte, trois chambres avec la possibilité d'une 4ème, une salle d'eau, buanderie, wc, loggia et cellier. Possibilité de créer une deuxième salle de bains (arrivées en attente).\nA proximité du parc de Gazonfier, des bus, commerces et école.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 99 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 242€ par mois (soit 2904 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Anne Vidalin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de MANS sous le numéro 854032893, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-03-02",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 2904,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-03-03",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 164
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 1480,
+        "max": 2040
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 99,
+      "annualFees": 2904,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1977,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "159 400 €",
+      "formattedPerSurface": "1 423 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Construit en 1977"
+        },
+        {
+          "text": "Étage : 2"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 112,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 14,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d7dcb55b9f703936975b37e22.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d86dfff2fb50c3a641888fcc5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d07d20cd6e7ab997a4d874e9d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/02/019cadffc26a0a9a0ddd34602ebde724.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d223e2040d8a9c679c44d9682.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d85f409e05770ddb134243a93.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d9069378f288c609abba8403d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8d07afbfa68ed8d6e4f10896.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d29deb5a6e6bc25f5df3df1b8.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8a058da53df490f0816bed84.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8a8cd5635116a72b3ffd098c.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d89a313102dfcc7c2d0f5a2cb.jpg",
+      "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8fa1f10a6e7ee6b339b7979f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/20/019d0ba3ea651f4b1318804b5d852a45.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d7dcb55b9f703936975b37e22.jpg",
+        "httpStatus": 200,
+        "sha256": "a6a5a5e1adabe85d8f7745f3c767333698c1705f8aba68668fabfbb23e78f8a1",
+        "observation": "Actual dark fitted kitchen with blue wall, metal backsplash, hob/metal hood, sink, oven tower and broad window. Coherent fitted kitchen; appliance compliance unassessed."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d86dfff2fb50c3a641888fcc5.jpg",
+        "httpStatus": 200,
+        "sha256": "a08f801e183551d4d0f85083950b22611322ee864680fd457b21b58d9c57694f",
+        "observation": "Actual open living/dining with round wood table, orange/rust sofa/chairs, teal chair, blue coffee table, blue brick-effect accent wall and broad windows, dark wood-effect floor. Furniture does not establish legal tenancy."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d07d20cd6e7ab997a4d874e9d.jpg",
+        "httpStatus": 200,
+        "sha256": "08e7b2d0d7dac5a308aad5700ffcf6d158e1a36c38302b1ff91091282c6f2df3",
+        "observation": "Small balcony/loggia with two white chairs/table beside broad sliding window and plain parapet/wall. No measured area, exclusivity boundary or orientation certification."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/02/019cadffc26a0a9a0ddd34602ebde724.jpg",
+        "httpStatus": 200,
+        "sha256": "d4137809f5ab76e035490083f725e948f9c79c92a3d6dd987d671088c35a8263",
+        "observation": "First bed room with dark green accent wall, grey leaf-pattern bedding, white desk and casement window/radiator. Room area unmeasured."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d223e2040d8a9c679c44d9682.jpg",
+        "httpStatus": 200,
+        "sha256": "6f32151f99bf0647621324e9897987cd8e68b1211643f9926ffdb02a425cce6c",
+        "observation": "Second large bed room with red bedcover, blue bird/floral wallpaper, two windows, timber furniture, desk and exercise ball. Distinct layout from4; hypothetical division not counted as an existing fourth bedroom."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d85f409e05770ddb134243a93.jpg",
+        "httpStatus": 200,
+        "sha256": "8c893081f3f217414e3af56e218146ecc6f5ef059e9b837297bbf9feb533bd2a",
+        "observation": "Reverse actual living area toward open dark kitchen/blue wall and breakfast counter, orange sofa, teal chair and dining table. Same room, not another bedroom."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d9069378f288c609abba8403d.jpg",
+        "httpStatus": 200,
+        "sha256": "43510e4079404efafec5695ab6094cc64d0b295d629783401aef1c8aff4bd578",
+        "observation": "Closer same living/blue-brick feature wall/teal and orange chairs/blue table, TV cabinet and timber sideboard. No additional room counted."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8d07afbfa68ed8d6e4f10896.jpg",
+        "httpStatus": 200,
+        "sha256": "e5063b295b07e67af27b201d3c64e3d2cc215d3565ab27f914954964821fe265",
+        "observation": "Reverse dark kitchen with tall cupboards, blue wall, metal backsplash/hob/hood and oven tower. Same fixed geometry as1."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d29deb5a6e6bc25f5df3df1b8.jpg",
+        "httpStatus": 200,
+        "sha256": "f6c46804bdf9d04562c1045a4039ff6740c0a35e8b3cee7bc3a6dc847e6664ea",
+        "observation": "Another living-room angle with round wood dining table and broad windows, consistent blue-brick wall and coloured furniture. Not extra area."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8a058da53df490f0816bed84.jpg",
+        "httpStatus": 200,
+        "sha256": "3b44a74b9526c09e65b45efe9a5dbf09cb370507b66fb9bebf183e8038d77eba",
+        "observation": "Entrance with intercom, white door, brick-effect decoration, glazed cupboard and broad kitchen opening/bar. Does not establish lift presence or absence."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8a8cd5635116a72b3ffd098c.jpg",
+        "httpStatus": 200,
+        "sha256": "c08824b3592b047d1caf5e97728d2b890518a68163202ec95885387193a0ea0e",
+        "observation": "Third bed room with globe/desk, white/blue patterned bedding, pale walls and double window/radiator. Distinct from green-wall and bird-wall rooms; dimensions unmeasured."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d89a313102dfcc7c2d0f5a2cb.jpg",
+        "httpStatus": 200,
+        "sha256": "89c4ae7d1527841573a7655de5897a3b43d36eb689790b4d30749c7104f437a9",
+        "observation": "Hall with long sliding cupboards and doorway to bird-wall bedroom. No additional room inferred from closed doors."
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/02/25/019c959d8fa1f10a6e7ee6b339b7979f.jpg",
+        "httpStatus": 200,
+        "sha256": "fd984021632c65964eb217c0b29257c629739fa5410ae48da8b157302a6dc3aa",
+        "observation": "Completed shower with glazed sliding enclosure, dark square tiles/pale mosaic strips, white tray, green-glass basin and vanity/mirror. Existing shower source-supported; no second installed bathroom inferred."
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/20/019d0ba3ea651f4b1318804b5d852a45.png",
+        "httpStatus": 200,
+        "sha256": "7d2df551eefe63f479bb9776dbc9e0631b9e4b4511b9be64da22e07246f8c12e",
+        "observation": "Source schematic plan showing three bedrooms, open kitchen/sejour, balcony, shower, separateWC, buanderie, cellier and cupboards. No certified dimensions. Proposed fourth bedroom/second bathroom are future works, not existing accommodation. All14 own entries individually inspected; no explicit AI/staging label observed."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-le-mans-112m2/r1955691",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T15:33:24.992839+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "sameBatchImagePathOrByteHashMatches": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-lemans-angers-iad-pass57.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-le-mans-112m2/r2131350",
+          "surface": 112,
+          "rooms": 4,
+          "reviewStatus": "PENDING_BEDROOM_CONFIGURATION_CLARIFICATION",
+          "floor": 4,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "APPROVED: whole EUR159400 seller-paid-fee apartment112m2/T4/three current source bedrooms. Possible FOURTH bedroom and SECOND bathroom with waiting connections are future works, not counted as existing. Floor2 explicit; lift unknown omitted. Construction1977/current district heating. One sale lot in99TOTAL/no proceeding;2904annual/242monthly, tax unknown omitted. C164/A5 assessed2026-03-03 indexed2023 cost1480-2040; original March2 publication retained without inventing time or diagnostic/publication relationship. All14 own entries inspected: coherent dark kitchen/blue wall, orange-teal furnished main room/blue-brick feature, three distinct bed-room layouts including large bird-wall room, balcony/loggia, completed dark-tile shower, storage hallway and source three-bedroom plan. Laundry/cellier source-supported; no second installed bathroom, owned private parking or enclosed garage inferred. No explicit AI/staging label or evidence-backed excluded condition. Exact sourceID/all14 own image paths absent all historical statuses/exports and native ACTIVE photo paths; same-batch own paths/hashes distinct. Zero scoped near active records and one nonactive pending112m2 IADfull description compared: fourth-floor GareNord/1966/70TOTAL/two sale lots/2880annual/naturalgas with urban heating planned/D178D38/separate salon-sejour and disputedbedroom plan differs from second-floor Gazonfier1977/99TOTAL/one lot/2904annual/currentdistrict/C164A5/open kitchen/three-bed plan. No physical identity established, no unsupported withdrawal. Actual Le Mans local rent and apartment DVF coverage verified before analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass99_iad1955691.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T12:13:01.865648+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Complete primary description including all seller/legal paragraphs individually read and retained verbatim. Every own gallery entry individually visually inspected in original source order; related-property media excluded. Earliest known actual full-page HTTP200 observation from pass99 retained as observedAt and firstSeenAt; current pass100 full-page observation and fresh primary recheck separately retained. Primary publication is firstPublishDate date only; unknown time omitted. Fresh first-page priority feeds checked Le Mans then Angers/Reims and Poitiers; four remaining checked Le Mans primary dates individually fetched and March4 then March2 selected newest within highest-priority market. No all-pages/markets exhaustion claim. Title, measurements, current condition, furniture inventory, availability, orientation and transport/proximity independently unverified; furnishings do not prove current tenant or vacant possession. Full wording establishes no evidence-backed current-tenanted/occupied/viager sale, bare/fractional/timeshare ownership, auction/starting/partial price, obligatory commercial/managed lease, ancillary-only property, houseboat, bot/spam or impossible room/surface combination. APPROVED: whole EUR159400 seller-paid-fee apartment112m2/T4/three current source bedrooms. Possible FOURTH bedroom and SECOND bathroom with waiting connections are future works, not counted as existing. Floor2 explicit; lift unknown omitted. Construction1977/current district heating. One sale lot in99TOTAL/no proceeding;2904annual/242monthly, tax unknown omitted. C164/A5 assessed2026-03-03 indexed2023 cost1480-2040; original March2 publication retained without inventing time or diagnostic/publication relationship. All14 own entries inspected: coherent dark kitchen/blue wall, orange-teal furnished main room/blue-brick feature, three distinct bed-room layouts including large bird-wall room, balcony/loggia, completed dark-tile shower, storage hallway and source three-bedroom plan. Laundry/cellier source-supported; no second installed bathroom, owned private parking or enclosed garage inferred. No explicit AI/staging label or evidence-backed excluded condition. Exact sourceID/all14 own image paths absent all historical statuses/exports and native ACTIVE photo paths; same-batch own paths/hashes distinct. Zero scoped near active records and one nonactive pending112m2 IADfull description compared: fourth-floor GareNord/1966/70TOTAL/two sale lots/2880annual/naturalgas with urban heating planned/D178D38/separate salon-sejour and disputedbedroom plan differs from second-floor Gazonfier1977/99TOTAL/one lot/2904annual/currentdistrict/C164A5/open kitchen/three-bed plan. No physical identity established, no unsupported withdrawal. Actual Le Mans local rent and apartment DVF coverage verified before analysis.",
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "72181",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1177,
+      "nbObs": 25658,
+      "actualApartmentDVFSales": 6535,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 6535
+      }
+    },
+    "sourceFutureWorksEvidence": {
+      "existingBedrooms": 3,
+      "potentialFutureBedrooms": 4,
+      "existingShowerRooms": 1,
+      "possibleAdditionalBathroom": "Future creation with waiting connections; not installed."
+    }
+  }
+]
