@@ -1,0 +1,314 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2115826",
+    "observedAt": "2026-10-16T00:00:08.177923+00:00",
+    "httpStatus": 200,
+    "externalId": "2115826",
+    "firstSeenAt": "2026-10-16T00:00:08.177923+00:00",
+    "latestFullPageObservedAt": "2026-10-16T00:21:45.736723+00:00",
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass88_iad2115826.observed.json",
+      "earliestFullPrimaryHttpStatus": 200,
+      "earliestKnownObservedAt": "2026-10-16T00:00:08.177923+00:00"
+    },
+    "reviewedAt": "2026-10-16T00:38:25.081078+00:00",
+    "communeCode": "51454",
+    "priceEuros": 88000,
+    "surface": 33.6,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Myriam Fallon",
+    "sourceTitle": "Appartement à Reims (51100)",
+    "sourceDescription": "REIMS -Secteur Saint Marceau, Clemenceau, appartement de T2 de 33M² avec une terrasse privée de 20 m2, cave , petite copropriété bénévole, entrée indépendante.\nL'appartement se compose d'une entrée indépendante, de 2 pièces principales, une pièce de vie et une chambres avec salle de douche WC . Le bien nécessite des travaux de rénovation, ce qui représente une réelle possibilité pour le personnaliser entièrement à votre goût et lui apporter une plus-value significative.\nLa terrasse constitue un atout appréciable pour profiter de l'extérieur, tandis que la cave offre un espace de rangement supplémentaire, utile dans un appartement compact.\n\nPrenez contact pour organiser une visite et découvrir le potentiel de ce bien.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 4 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 0€ par mois (soit 0 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Myriam Fallon mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de REIMS sous le numéro 391655487, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-18",
+    "publicationDateEvidence": "Primary firstPublishDate date only; time unexposed.",
+    "dpe": "G",
+    "ges": "G",
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-03-04",
+      "year": 2023,
+      "epc": {
+        "status": "available-excessive",
+        "class": "G",
+        "consumption": 606
+      },
+      "ges": {
+        "status": "available-excessive",
+        "class": "G",
+        "consumption": 134
+      },
+      "amount": {
+        "min": 7240,
+        "max": 9840
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 4,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "88 000 €",
+      "formattedPerSurface": "2 619 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "Terrasse",
+          "icon": "iad-icon:deck"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Chauffage individuel"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 33.6,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 20,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "photoCount": 5,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a1077192e7e0427421e2ff88169653.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a101e88216d131e3a018a99639f6b8.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a101e8738df7b2047376c76c2f23ce.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a101e8895517345e66f52044e65b3b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a101e8891922494323f170b07361be.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a1077192e7e0427421e2ff88169653.jpg",
+        "httpStatus": 200,
+        "sha256": "7b70be665f115b93f599bd1a413917fa5f7ad80c372803d8a6508f3277fea89e",
+        "observation": "Screen-photographed enhanced-looking courtyard rendering with cream/red-brick facade, glazed canopy, new-looking deck/planting/table and ground door/window. No visible AI/proposal label; not current condition evidence. Byte-identical to earlier pendingIAD2130143 gallery1 despite different media path."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a101e88216d131e3a018a99639f6b8.png",
+        "httpStatus": 200,
+        "sha256": "f664dcba2f380c51d1974093f3603c372acc8b6b86a5ce336534a9023b182e81",
+        "observation": "Actual-source courtyard PNG counterpart with same red-brick window surrounds, door, glazed canopy/right gate and bare concrete yard. Contrasts with furnished/planted/decked presentation1; private20m2area/legal right not measured or certified."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a101e8738df7b2047376c76c2f23ce.jpg",
+        "httpStatus": 200,
+        "sha256": "b56943a8ee36ce07faae8998210a4e6f313ddf1d2f8d30614c14f62e74b6efe9",
+        "observation": "Original worn room with grey wood-effect floor, narrow white double window/radiator, white marked walls, white panel door and exposed pipe runs. Room area/use rights unverified; no current tenant inferred."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a101e8895517345e66f52044e65b3b.jpg",
+        "httpStatus": 200,
+        "sha256": "36bab1ebacf9234edb6f0bbd59d95db9e7bf3d5b44659c361a370dd4cca04593",
+        "observation": "Original worn kitchen with wall boiler/two flexible exhaust ducts, damaged wood countertop, white square tile backsplash/white cupboards, tall window/bamboo blind, old radiator and grey floor. Fixed geometry matches earlier pending2130143 gallery2 at another resolution."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a101e8891922494323f170b07361be.jpg",
+        "httpStatus": 200,
+        "sha256": "8fb0018ef860a5de71f72950cd2aaeb681de099ccf75c7da4cce3efb7a1a3ffc",
+        "observation": "Reverse same worn kitchen and boiler/ducts/countertop, white door/wall and open doorway into room3. All5 own entries inspected. Shower/WC/cellar not pictured. Enhanced exterior1 separated from original2; no unverified renovation timeline or whole-building ownership inferred."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2115826",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T00:38:23.163544+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465401319",
+          "property": {
+            "id": "cmuokqlw8001bh8x8jdcpu00b",
+            "codeCommune": "51454",
+            "surface": 30.83,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": null,
+            "dpe": "C",
+            "ges": null
+          },
+          "priceCents": 11500000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/reims-sud/acheter/reims/appartement-1-piece-52934532",
+          "property": {
+            "id": "cmuynsblv000bh8as1gyag59k",
+            "codeCommune": "51454",
+            "surface": 33.43,
+            "rooms": 1,
+            "floor": null,
+            "hasElevator": 0,
+            "dpe": "E",
+            "ges": "B"
+          },
+          "priceCents": 11990000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\duplicates\\2026-10-12-reims-iad-pass74.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-reims-31m2/r2132870",
+          "surface": 31,
+          "rooms": 1,
+          "reviewStatus": "DUPLICATE_PHYSICAL_UNIT",
+          "floor": 0,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-08-reims-citya-pass52.json",
+          "url": "https://www.citya.com/annonces/vente/appartement/reims-51100/TAPP406-972889",
+          "surface": 35,
+          "rooms": 2,
+          "reviewStatus": "EXCLUDED_OCCUPIED_SALE",
+          "floor": 1,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-12-reims-iad-pass77.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2130143",
+          "surface": 33.6,
+          "rooms": 2,
+          "reviewStatus": "PENDING_SOURCE_FACT_AND_PHOTO_CLARIFICATION",
+          "floor": 0,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-13-reims-iad-pass82.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-36m2/r2121771",
+          "surface": 36,
+          "rooms": 2,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 6,
+          "hasElevator": true
+        },
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-16-reims-iad-pass87.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-36m2/r2119327",
+          "surface": 36.18,
+          "rooms": 2,
+          "reviewStatus": "PENDING_REVIEW",
+          "floor": 0,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "DUPLICATE_OF_PENDING_IAD2130143: whole advertised EUR88000 seller-paid-fee apartment33.6m2/T2, groundfloor explicit, lift/constructionyear/tax unknown omitted. New structuredbedrooms1 versus canonicalpendingstructured0/prose1 retained separately, not merged. Both MyriamFallon sources same33.6/33prose/20terrace/cave/independententry/fourTOTALlots/one sale lot/renovationneeded/zerochargeprose/diagnosticdate2026-03-04/EPCG606/GES134/energy7240-9840. Current alias exposes GESletterG/indexyear2023; olderpending exposesGESletterF/indexyear2021; preserve each, no diagnostic correction or estimate-coverage assumption. StructuredannualFees absent in newalias; prosezero is source declaration only, not importedcost. Exact newsourceID and all5 ownimagepath identities initially absent; sharedmedia found byactualbytehash/physicalcomparison rather than sameURL. All5 new own entries viewed plus all3 archived canonical own entries viewed again: new1 and canonical1 identical SHA256 exterior, new4 and canonical2 same boiler/twoflexibleducts/damagedcounter/tallwindow/bambooblind/radiator geometry at differing resolution. Canonical3 bedroom has changeddecor/floor view relative to new3, no image capture dates or renovation timeline inferred; shared exactexterior/kitchen plus matching facts/agent establish samephysicalunit, not a second trusted listing. Current actualcourtyardPNG2 distinguishes enhanceddeck/planting proposal-like1 from bareconcrete, but does not certify legal terracearea or resolve sourcefacts/diagnosticcoverage. Earlier pending record retained unchanged with source-specific firstseen/publication; newalias source publicationSeptember18 and earliest fullpageOctober16 observation preserved separately. Canonicalpending remains untrusted; duplicate not activated/imported/analysed. Two active near full descriptions and five nonactive full sources compared: PAP30.83studio1991/C/600annual withIAD31groundalias differs; Laforet33.43studio1960/E297B11/8lots/360annual/terrace differs; excludedCitya35first/4lots/current575rent/936annual differs; pendingIAD36sixthtopWITHlift1970/298lots/gasD196C25/1500annual differs; pendingIAD36.18ground1990/148lots/electricD186A6/1032annual/openalcoveplan differs. Only pending2130143 matches; no native same-unit record found or unsupported withdrawal."
+    },
+    "notes": "Full primary description including all seller and legal paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order; related-property media excluded. Earliest real full-pageHTTP200 observation from pass88 preserved as first-seen, latest pass89 fetch/recheck retained separately. Primary firstPublishDate date only; no invented time or image-path publication date. Exact legal address, dimensions, condition, proximity, occupancy and current availability independently unconfirmed. Empty/furnished scenes do not establish legally vacant possession or tenant occupancy. Fresh scoped first-page feeds prioritised Le Mans then Angers, with five older January-March Le Mans adverts deferred without photo trust and zero unreviewed eligible Angers IDs on first page. Final two unreviewed Reims first-page source IDs reviewed September19 then18 by actual primary date; no claim that other pages or markets exhausted. Both new records outside trusted native database and investment analysis. DUPLICATE_OF_PENDING_IAD2130143: whole advertised EUR88000 seller-paid-fee apartment33.6m2/T2, groundfloor explicit, lift/constructionyear/tax unknown omitted. New structuredbedrooms1 versus canonicalpendingstructured0/prose1 retained separately, not merged. Both MyriamFallon sources same33.6/33prose/20terrace/cave/independententry/fourTOTALlots/one sale lot/renovationneeded/zerochargeprose/diagnosticdate2026-03-04/EPCG606/GES134/energy7240-9840. Current alias exposes GESletterG/indexyear2023; olderpending exposesGESletterF/indexyear2021; preserve each, no diagnostic correction or estimate-coverage assumption. StructuredannualFees absent in newalias; prosezero is source declaration only, not importedcost. Exact newsourceID and all5 ownimagepath identities initially absent; sharedmedia found byactualbytehash/physicalcomparison rather than sameURL. All5 new own entries viewed plus all3 archived canonical own entries viewed again: new1 and canonical1 identical SHA256 exterior, new4 and canonical2 same boiler/twoflexibleducts/damagedcounter/tallwindow/bambooblind/radiator geometry at differing resolution. Canonical3 bedroom has changeddecor/floor view relative to new3, no image capture dates or renovation timeline inferred; shared exactexterior/kitchen plus matching facts/agent establish samephysicalunit, not a second trusted listing. Current actualcourtyardPNG2 distinguishes enhanceddeck/planting proposal-like1 from bareconcrete, but does not certify legal terracearea or resolve sourcefacts/diagnosticcoverage. Earlier pending record retained unchanged with source-specific firstseen/publication; newalias source publicationSeptember18 and earliest fullpageOctober16 observation preserved separately. Canonicalpending remains untrusted; duplicate not activated/imported/analysed. Two active near full descriptions and five nonactive full sources compared: PAP30.83studio1991/C/600annual withIAD31groundalias differs; Laforet33.43studio1960/E297B11/8lots/360annual/terrace differs; excludedCitya35first/4lots/current575rent/936annual differs; pendingIAD36sixthtopWITHlift1970/298lots/gasD196C25/1500annual differs; pendingIAD36.18ground1990/148lots/electricD186A6/1032annual/openalcoveplan differs. Only pending2130143 matches; no native same-unit record found or unsupported withdrawal.",
+    "analysisComputed": false,
+    "reviewStatus": "DUPLICATE",
+    "canonicalUrl": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-reims-34m2/r2130143",
+    "canonicalReviewStatus": "PENDING_SOURCE_FACT_AND_PHOTO_CLARIFICATION",
+    "canonicalEvidencePath": "scripts/reviewed/pending/2026-10-12-reims-iad-pass77.json",
+    "duplicateEvidence": {
+      "samePhysicalUnit": true,
+      "sameSourceId": false,
+      "identicalExteriorSha256": "7b70be665f115b93f599bd1a413917fa5f7ad80c372803d8a6508f3277fea89e",
+      "matchingPhotoPairs": [
+        {
+          "aliasPhoto": 1,
+          "canonicalPhoto": 1,
+          "exactBytesEqual": true
+        },
+        {
+          "aliasPhoto": 4,
+          "canonicalPhoto": 2,
+          "sameKitchenGeometry": true,
+          "differentResolution": true
+        }
+      ],
+      "canonicalPhotosIndividuallyReviewedAgain": [
+        {
+          "number": 1,
+          "url": "https://images.playiad.com/property/broadcast/2026/10/06/01a110a9155aab5323499c9957748749.jpg",
+          "sha256": "7b70be665f115b93f599bd1a413917fa5f7ad80c372803d8a6508f3277fea89e",
+          "individuallyViewedAgain": true,
+          "observation": "Byte-identical enhanced courtyard to newalias1; not current condition evidence."
+        },
+        {
+          "number": 2,
+          "url": "https://images.playiad.com/property/broadcast/2026/10/06/01a110d8fcc0ef7e442393b974d7b896.jpg",
+          "sha256": "0ea5e8618ef5a49db9c5d163b25f9a1af0f0db9f610a364e7828cc41f0420517",
+          "individuallyViewedAgain": true,
+          "observation": "Same kitchen fixed geometry as newalias4 at lower resolution."
+        },
+        {
+          "number": 3,
+          "url": "https://images.playiad.com/property/broadcast/2026/10/06/01a110cd889a30e9a89c34983bc13037.jpg",
+          "sha256": "8b96e7548ef57729b338a2ad1535e37b15c5c0d5bae96213468de7b0622dddbd",
+          "individuallyViewedAgain": true,
+          "observation": "Bedroom under different decoration/floor presentation; image timing and works timeline unknown."
+        }
+      ],
+      "sourceSpecificDifferencesPreserved": {
+        "aliasBedrooms": 1,
+        "canonicalBedrooms": 0,
+        "aliasGes": {
+          "status": "available-excessive",
+          "class": "G",
+          "consumption": 134
+        },
+        "canonicalGes": {
+          "status": "available-excessive",
+          "class": "F",
+          "consumption": 134
+        },
+        "aliasEnergyIndexYear": 2023,
+        "canonicalEnergyIndexYear": 2021
+      },
+      "canonicalPendingStatusRetained": true
+    }
+  }
+]
