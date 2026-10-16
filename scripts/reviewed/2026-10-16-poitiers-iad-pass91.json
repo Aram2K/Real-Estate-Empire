@@ -1,0 +1,263 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-72m2/r2102983",
+    "observedAt": "2026-10-16T00:48:17.163229+00:00",
+    "httpStatus": 200,
+    "externalId": "2102983",
+    "firstSeenAt": "2026-10-16T00:48:17.163229+00:00",
+    "latestFullPageObservedAt": "2026-10-16T01:05:12.891473+00:00",
+    "reviewedAt": "2026-10-16T10:10:24.740633+00:00",
+    "communeCode": "86194",
+    "priceEuros": 130000,
+    "surface": 72,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Thomas Bonnin",
+    "sourceTitle": "Appartement à Poitiers (86000)",
+    "sourceDescription": "A Poitiers Ouest, vous rejoignez la gare en 7 minutes à pied !  Découvrez cet appartement dans un parfait état. Il se compose d'une entrée avec de grands placards, une cuisine aménagée et équipée (rénovée en 2023), un séjour, trois chambres (dont deux avec placards), une salle d'eau, un wc, un cellier. Un balcon vous permettra également de profiter de l'extérieur ! Côté technique, chauffage au sol, huisseries PVC double vitrage, fibre optique.\nEn complément, vous profiterez d'une cave sécurisée, d'une place de parking privative. Un stationnement vélo sécurisé est également disponible ! \nVous n'aurez plus qu'à vous installer dans cet appartement agréable et confortable !\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 270 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 267.33€ par mois (soit 3208 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Thomas Bonnin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de POITIERS sous le numéro 913227203, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-21",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 3208,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-02",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 195
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 42
+      },
+      "amount": {
+        "min": 1110,
+        "max": 1550
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 270,
+      "annualFees": 3208,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "130 000 €",
+      "formattedPerSurface": "1 806 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.district_heating"
+          ]
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 72,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 11,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52384340c6b3befbe09b9da430.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5236c79e69c5294576e70da085.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52372abe532d7b600368a1d767.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52375e16cda2503c13e31ec073.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5237517fd26c8e603c4a49115b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a523716726d4a6dee4a9f45f47d.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5235b6a06a99b4bec0a365fefc.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5237351c247cd6944e3bdd304e.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52344309bda2e0f196c0546c28.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5232f059c1438373eea761b7da.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/10/01a08a523b5efa3f5011426c8d75c6bb.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52384340c6b3befbe09b9da430.jpg",
+        "httpStatus": 200,
+        "sha256": "67d3852a877fe8ae41c12cba1cc2bd51dbe2191c9c57d2100567bafa26b9bf45",
+        "observation": "Actual fitted kitchen with white lower cupboards, wood upper/tall cupboards and worktop, built-in microwave/oven, black hob/hood, window/sink and diagonally laid pale tiles. Source2023 renovation date not independently proved."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5236c79e69c5294576e70da085.jpg",
+        "httpStatus": 200,
+        "sha256": "a20eb5de901b207a245ddc62bfe79fba8e81634d9e8f88fa25be1762bb82ae23",
+        "observation": "Actual furnished main room with blue sofa, round dining table, broad window/balcony door and black-framed sliding glazed kitchen partitions. Furnishings do not establish tenant status; kitchen has closable separation."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52372abe532d7b600368a1d767.jpg",
+        "httpStatus": 200,
+        "sha256": "bd3f4a5f26be8dcc2e8bc37895e063edc84864d9756ca54f3c31b12d8cb7355b",
+        "observation": "Reverse same main room, blue sofa/TV, round table and matching black-framed kitchen opening; no extra dining room counted."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52375e16cda2503c13e31ec073.jpg",
+        "httpStatus": 200,
+        "sha256": "1fa0ee497d4ccd2ea5e6fa0ba85def6b5fe3f00ccb29f09400b824dd5526c435",
+        "observation": "Same main room/kitchen toward balcony door, built-in oven and sliding partitions. Fixed geometry consistent with1-3."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5237517fd26c8e603c4a49115b.jpg",
+        "httpStatus": 200,
+        "sha256": "05f745e3400db67065ba845919c2585f13027cf55dcfd3ac7ac67120ce69dd0c",
+        "observation": "Closer same white/wood kitchen with induction-style black hob, white splashback/window/sink and hood. Appliance operation and installation date unverified."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a523716726d4a6dee4a9f45f47d.jpg",
+        "httpStatus": 200,
+        "sha256": "b2d70c02e846a1d230debc48d3fc9ac28d25cd8860c78fd867398815e1989356",
+        "observation": "First actual bedroom with diagonal timber headboard, cream bedcover, wallpaper border, broad curtained window and white built-in wardrobe. Floor area unmeasured."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5235b6a06a99b4bec0a365fefc.jpg",
+        "httpStatus": 200,
+        "sha256": "bb46e1ec57f056a6bacfcfd0cd81624e2ccc1fd641336f150ceae64ff998b412",
+        "observation": "Different actual bedroom with divan/cream cover, two framed African-themed pictures and broad curtained window. Distinct from6; not evidence of tenancy."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5237351c247cd6944e3bdd304e.jpg",
+        "httpStatus": 200,
+        "sha256": "85e7107527e009f4a0afa58c759b9714e369823b9909b8e914da52db3798c87a",
+        "observation": "Third actual windowed room presently furnished as study/library with wood cabinets/desk and light wood-effect floor. Source calls three bedrooms; current office furniture does not disprove potential bedroom use, dimensions/permissions independently unverified."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a52344309bda2e0f196c0546c28.jpg",
+        "httpStatus": 200,
+        "sha256": "fb6556bbb3cf6ebaaa4c1a0ec28895d3f464e1e49cbdf14d3a7df6e81528a8a6",
+        "observation": "Actual shower room with glazed shower enclosure, pale tiles/brown geometric band, two small frosted windows, single basin/wood vanity and mirrored cupboards. No bathtub or separate WC visible."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a5232f059c1438373eea761b7da.jpg",
+        "httpStatus": 200,
+        "sha256": "1d81670f7de0105d52d0583dc2f1264879d1065daf50e5ca90ff544aa85b391d",
+        "observation": "Actual entrance with large brown sliding mirrored wardrobe, brown private entrance door and diagonally laid pale tile floor. No apartment floor number inferred."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/10/01a08a523b5efa3f5011426c8d75c6bb.jpg",
+        "httpStatus": 200,
+        "sha256": "90c43b0b34750041ed03c5ad8673b385d8813c3498c7ca1e1277d52e546019c0",
+        "observation": "Actual balcony with pale vertical rails, red table/chairs, outlook over grass, parking and apartment blocks. Does not identify private parking allocation, legal balcony boundary, exact floor or address. All11 own entries individually inspected; no explicit AI/staging label observed. Cellar, bike storage and lift remain textual source claims."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-poitiers-72m2/r2102983",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T10:10:23.256146+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-expanded-markets-public-pass44.json",
+          "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/ca067a96-3d99-4361-897b-6c80f972f8f7",
+          "surface": 71,
+          "rooms": 3,
+          "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+          "floor": null,
+          "hasElevator": null
+        }
+      ],
+      "resolution": "APPROVED: whole seller-paid-fee EUR130000/72m2/T4/three source bedrooms, lift explicit and floor/constructionyear unknown omitted. District-heating feature and underfloor-heating prose retained; no naturalgas/electric source invented. Three sale lots in270TOTAL, no proceeding,3208annual/267.33monthly, tax unknown. DPE D195/GES D42 assessed2026-09-02 indexed2023 cost1110-1550. All11 own photos inspected: white/wood fitted kitchen with black sliding-glazed separation, blue-sofa living/dining, two different bedrooms plus windowed study/library currently used as office, pale/brown-band glazed shower room, mirrored entrance storage and balcony with red table. Three bedrooms is advertiser classification; office furniture alone does not disqualify room, no measured bedroom certification. Source kitchen renovated2023/perfectstate/7minwalkstation are advertiser claims, not verified condition/date/distance. Included cave/privateparking/securebikeparking textual, not an optional unpriced component. Balcony cars do not certify private allocation. Full source contains no currenttenant,occupiedsale,viager,bare/fractional/timeshareownership,auction/starting/partialprice,commercial/managedlease,ancillary-onlyproperty,houseboat,bot/spam or impossible room/surface combination. No visible gallery conflict establishing an excluded sale. ExactsourceID/all11own imagepaths absent across historical statuses/exports and nativeactivephotos. Zero active near candidates within72plusminus4; one pendingGDC71T3twobeds and possibleGrandRue third/top crosslist212500 semi-openkitchen differs fromwest/station72T4threebeds/270lots/districtunderfloor3208annual. PendingGDC primary403 prevents definitive identity, but no evidence establishes same unit; no fabricated merge/withdrawal. Actual local Poitiers rent and apartment DVF coverage verified before native import/analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass90_iad2102983.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T00:48:17.163229+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Complete primary description, seller and legal wording individually read and retained verbatim. Every own gallery entry individually visually inspected in source order, related-property media excluded. Earliest known actual full-page HTTP200 observation from pass90 preserved as observedAt/firstSeenAt; subsequent pass91 observation and fresh recheck retained separately. Primary firstPublishDate is date only; no publication time or image-path date invented. Actual floor, lift, seller and costs retained only where exposed. Measurements, condition, title, availability and proximity independently unverified; furnishings or empty images do not establish tenancy or legally vacant possession. Scoped first-page priority feeds checked Le Mans then Angers/Reims before Poitiers: older January-March Le Mans candidates deferred, no eligible unreviewed IDs on checked Angers/Reims pages. Four Poitiers primary dates compared, September21 then September9 selected before older candidates; no all-pages/markets exhaustion claim. APPROVED: whole seller-paid-fee EUR130000/72m2/T4/three source bedrooms, lift explicit and floor/constructionyear unknown omitted. District-heating feature and underfloor-heating prose retained; no naturalgas/electric source invented. Three sale lots in270TOTAL, no proceeding,3208annual/267.33monthly, tax unknown. DPE D195/GES D42 assessed2026-09-02 indexed2023 cost1110-1550. All11 own photos inspected: white/wood fitted kitchen with black sliding-glazed separation, blue-sofa living/dining, two different bedrooms plus windowed study/library currently used as office, pale/brown-band glazed shower room, mirrored entrance storage and balcony with red table. Three bedrooms is advertiser classification; office furniture alone does not disqualify room, no measured bedroom certification. Source kitchen renovated2023/perfectstate/7minwalkstation are advertiser claims, not verified condition/date/distance. Included cave/privateparking/securebikeparking textual, not an optional unpriced component. Balcony cars do not certify private allocation. Full source contains no currenttenant,occupiedsale,viager,bare/fractional/timeshareownership,auction/starting/partialprice,commercial/managedlease,ancillary-onlyproperty,houseboat,bot/spam or impossible room/surface combination. No visible gallery conflict establishing an excluded sale. ExactsourceID/all11own imagepaths absent across historical statuses/exports and nativeactivephotos. Zero active near candidates within72plusminus4; one pendingGDC71T3twobeds and possibleGrandRue third/top crosslist212500 semi-openkitchen differs fromwest/station72T4threebeds/270lots/districtunderfloor3208annual. PendingGDC primary403 prevents definitive identity, but no evidence establishes same unit; no fabricated merge/withdrawal. Actual local Poitiers rent and apartment DVF coverage verified before native import/analysis.",
+    "hasElevator": true,
+    "reviewStatus": "APPROVED",
+    "analysisCoverageEvidence": {
+      "communeCode": "86194",
+      "rentSegment": "ALL_APT",
+      "year": 2025,
+      "rentM2Pred": 1218,
+      "nbObs": 29862,
+      "actualApartmentDVFSales": 4488,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 4488
+      }
+    }
+  }
+]
