@@ -1,0 +1,286 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-52m2/r2119996",
+    "observedAt": "2026-10-16T15:57:59.767141+00:00",
+    "externalId": "2119996",
+    "firstSeenAt": "2026-10-16T15:57:59.767141+00:00",
+    "reviewedAt": "2026-10-16T16:04:30.533566+00:00",
+    "communeCode": "86194",
+    "priceEuros": 172000,
+    "surface": 52,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Sophie Charles",
+    "sourceTitle": "Appartement à POITIERS (86000)",
+    "sourceDescription": "CENTRE VILLE POITIERS APPARTEMENT T1  AVEC PARKING PRIVATIF \n\r\nSitué 9 Rue des feuillants , au rdc d'un bel immeuble sécurisé, découvrez ce très bel appartement comprenant une pièce de vie de 27 M 2 avec  cuisine entièrement aménagée et équipée , une salle de bain avec wc, une grande chambre de 15 M 2 avec placards. \n\r\nL'appartement est propre, lumineux, belle hauteur sous plafond, et décoré avec goût.\n\r\nChauffage électrique individuel.\n\r\nUne place de parking complète l'ensemble.\n\r\nAucun travaux à prévoir \n\r\nIdéal pour habiter ou investir ( libre de toute occupation) \n\r\nContact par téléphone\n\n La présente annonce immobilière vise 2 lots principaux situés dans une copropriété formant 25 lots au total ne faisant l'objet d'aucune procédure en cours et d'un montant de charges d’environ 93 € par mois (soit 1116 € annuel) déclaré par le vendeur.\nHonoraires d’agence à la charge du vendeur.Information d'affichage énergétique sur ce bien : classe ENERGIE C indice 178 et classe CLIMAT A indice 5. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr. La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mlle Sophie Charles EI (ID 16363), mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de poitiers sous le numéro 799538087, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS. Le présent bien est commercialisé dans le cadre d'une délégation de mandat.",
+    "publicationDate": "2026-09-24",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "C",
+    "ges": "A",
+    "chargesAnnualEuros": 1116,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2025-03-19",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "C",
+        "consumption": 178
+      },
+      "ges": {
+        "status": "available",
+        "class": "A",
+        "consumption": 5
+      },
+      "amount": {
+        "min": 780,
+        "max": 1056
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 25,
+      "annualFees": 1116,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1850,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "172 000 €",
+      "formattedPerSurface": "3 308 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1850"
+        },
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 52,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 9,
+    "photoUrls": [
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-1.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-2.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-3.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-4.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-5.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-6.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-7.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-8.jpg?ts=202610161407",
+      "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-9.jpg?ts=202610161407"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-1.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "4b598552ee56e75b3b639a6f18c7877de99b83d5bf9a313b7aefab3c9b45f1c5",
+        "observation": "Period building facade with dormers, high windows, entrance steps and landscaped common courtyard. Shared building illustration: byte-identical to pending IAD2120128 photo1, not proof of same apartment."
+      },
+      {
+        "number": 2,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-2.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "0004c915fda2b0b14abec5a518cc13f4c6de34da6ace3287e356c021db6f57d2",
+        "observation": "Closer same facade and entrance steps. Byte-identical to pending IAD2120128 photo2; exterior does not identify selected unit or exclusive garden rights."
+      },
+      {
+        "number": 3,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-3.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "8faf92eaefcb5edded86e6dbf1efdc8c98f17601813f9b91356c1d813b87cd11",
+        "observation": "Elevated view of common courtyard, trees, parked cars and steeple. Byte-identical to pending IAD2120128 photo3. Viewpoint does not override explicit ground-floor apartment or establish private parking allocation."
+      },
+      {
+        "number": 4,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-4.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "09b3d3bb040322bbf73731e5a85fa824649a71952dade3acd7108b64707e56be",
+        "observation": "Actual empty main room, wood planks, white walls, grey-beige straight recessed kitchenette/black counter, high window and electric panel radiators. Empty presentation does not establish legal vacancy."
+      },
+      {
+        "number": 5,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-5.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "1d0de727a60a16284e6352b5143ea475da72bff8c8bfa2133ccf5ae5163c6e52",
+        "observation": "Reverse same main room/kitchen toward two barred windows, matching wood floor and radiators. Actual kitchenette geometry differs from first-floor sibling glazed L-shaped kitchen partition."
+      },
+      {
+        "number": 6,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-6.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "97f4da7b34ffaa89766f4ab5633323d2a338074e138bc4be55e94f87c4b159b5",
+        "observation": "Closer same straight kitchenette, stainless sink, black hob/worktop, beige backsplash and empty appliance recess. Full inventory and operation unverified."
+      },
+      {
+        "number": 7,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-7.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "a606692735243f0ecb3f757c3881c16b4ec4cd484238ca7ad301ae447dce721c",
+        "observation": "Actual bathroom with beige bathtub/tiles, black counter, white basin, laundry recess and towel radiator. WC mentioned in prose/plan not independently visible."
+      },
+      {
+        "number": 8,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-8.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "bff054ee4bf823250d395cbb849ec8bea6f9fbe58c1d9ea348f222d39e12e680",
+        "observation": "Separate empty bedroom with purple feature wall, tall barred window/shutters, wood floor and electric panel heater. Dimensions not independently measured."
+      },
+      {
+        "number": 9,
+        "url": "https://passerelle.static.iadfrance.com/photos/realestate/2026-09/product-2186858-9.jpg?ts=202610161407",
+        "httpStatus": 200,
+        "sha256": "8047b966c2889df05aa497318e9749eef2fc1c48d9c723a7fe772ed54398d3f1",
+        "observation": "Source schematic plan labels Chambre15.12m2, Sejour/Cuisine26.75m2, SdB/Wc6.82m2, Dgt3.03m2 and Hsp2.71m. Sum51.72m2 broadly accords with52 rounded source, not independent measured certification. One separate bedroom plus living area conflicts with narrative T1 designation. All9 own entries individually inspected, no explicit AI/staging label."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-poitiers-52m2/r2119996",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T16:04:29.759296+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-3-pieces-poitiers-86000-1856775",
+          "surface": 50.89,
+          "rooms": 3,
+          "floor": 1,
+          "hasElevator": null,
+          "dpe": "C",
+          "priceCents": 11300000
+        },
+        {
+          "url": "https://poitiers.guy-hoquet.com/achat-vente/appartement-3-pieces-poitiers-86000-1724647",
+          "surface": 54.97,
+          "rooms": 3,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "C",
+          "priceCents": 11300000
+        },
+        {
+          "url": "https://www.citya.com/annonces/vente/appartement/poitiers-86000/TAPP607-969567",
+          "surface": 50.72,
+          "rooms": 2,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "D",
+          "priceCents": 14050000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-16-poitiers-iad-pass91.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-54m2/r2106647",
+          "surface": 54.13,
+          "rooms": 3,
+          "reviewStatus": "EXCLUDED",
+          "floor": 1,
+          "hasElevator": null
+        },
+        {
+          "path": "scripts\\reviewed\\excluded\\2026-10-16-poitiers-iad-pass94.json",
+          "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-55m2/r2071319",
+          "surface": 55,
+          "rooms": 3,
+          "reviewStatus": "EXCLUDED",
+          "floor": 2,
+          "hasElevator": true
+        }
+      ],
+      "resolution": "PENDING_ROOM_DESIGNATION_CONFLICT: full seller-paid-feeEUR172000,52m2, structuredT2/one bedroom versus narrative T1. Prose explicitly separate15m2 bedroom and27m2 main room; plan labels15.12bedroom/26.75livingkitchen/6.82bathWC/3.03hall, total51.72 broadly rounded52. Preserve conflicting designation without silently rewriting T1. Groundfloor0 explicit; lift unknown omitted,1850 individualelectric. Two sale lots in25TOTAL,no proceeding,1116annual/93monthly, tax unknown omitted. C178/A5 assessed2025-03-19 indexed2023 cost780-1056. Source expressly libre de toute occupation, claim retained without independent possession certification. Delegation de mandat is seller representation, not evidence of fractional ownership. Parking prose does not prove enclosed garage despite generic icon. All9 own entries inspected: first3 common building views, straight grey-beige recessed kitchenette/black counter, barred-window main room, beige bath and purple bedroom plus plan. Same address9RueFeuillants and byte-identical first3 exterior images with pending2120128 establish shared building evidence, not identical apartment: sibling firstfloor62/two bedrooms/C134A4/1572annual/glazed L-shaped kitchen and different two-bedroom plan versus ground52/onebed/C178A5/1116/straight kitchen. Three active near full descriptions compared: GH50.89first2007/127lots/C118A4,GH54.97raisedground2005/502lots/C153A5,Citya50.72ground1900/10lots/D242B9/terracotta kitchen and shower differ from1850/25lots/C178A5/beige bathtub/straight kitchen. Nonactive IAD54.13first2009/62lots and55second2006/239lots/currenttenants also differ. Exact sourceID/all own image paths absent historical evidence and active native paths; shared exterior byte hashes explicitly retained. No same-unit identity or evidence-backed native withdrawal. Pending only, no trusted import or analysis.",
+      "sharedBuildingEvidence": {
+        "url": "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-poitiers-62m2/r2120128",
+        "status": "PENDING_REVIEW",
+        "sameSourceAddress": true,
+        "identicalExteriorPhotos": [
+          {
+            "newPhoto": 1,
+            "priorPhoto": 1,
+            "sha256": "4b598552ee56e75b3b639a6f18c7877de99b83d5bf9a313b7aefab3c9b45f1c5"
+          },
+          {
+            "newPhoto": 2,
+            "priorPhoto": 2,
+            "sha256": "0004c915fda2b0b14abec5a518cc13f4c6de34da6ace3287e356c021db6f57d2"
+          },
+          {
+            "newPhoto": 3,
+            "priorPhoto": 3,
+            "sha256": "8faf92eaefcb5edded86e6dbf1efdc8c98f17601813f9b91356c1d813b87cd11"
+          }
+        ],
+        "differentInteriorGeometryAndFloor": true
+      }
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass102_iad2119996.observed.json",
+      "earliestKnownObservedAt": "2026-10-16T15:57:59.767141+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "analysisComputed": false,
+    "notes": "Full primary description including all seller/legal paragraphs individually read and preserved verbatim. Every own gallery entry individually visually inspected in source order, related-property images excluded. Actual earliest known primary HTTP200 observation retained as firstSeenAt; fresh primary recheck retained separately. Publication date exposed as firstPublishDate only; unknown time omitted. Refreshed first-page feeds in priority order Le Mans,Angers,Reims then Poitiers; no unreviewed eligible IDs on those first three checked pages. Nine Poitiers primary descriptions/dates collected; newest September24 then June8 selected. No all-pages or market exhaustion claim. Measurements, title, condition, legal possession and proximity independently unconfirmed. PENDING_ROOM_DESIGNATION_CONFLICT: full seller-paid-feeEUR172000,52m2, structuredT2/one bedroom versus narrative T1. Prose explicitly separate15m2 bedroom and27m2 main room; plan labels15.12bedroom/26.75livingkitchen/6.82bathWC/3.03hall, total51.72 broadly rounded52. Preserve conflicting designation without silently rewriting T1. Groundfloor0 explicit; lift unknown omitted,1850 individualelectric. Two sale lots in25TOTAL,no proceeding,1116annual/93monthly, tax unknown omitted. C178/A5 assessed2025-03-19 indexed2023 cost780-1056. Source expressly libre de toute occupation, claim retained without independent possession certification. Delegation de mandat is seller representation, not evidence of fractional ownership. Parking prose does not prove enclosed garage despite generic icon. All9 own entries inspected: first3 common building views, straight grey-beige recessed kitchenette/black counter, barred-window main room, beige bath and purple bedroom plus plan. Same address9RueFeuillants and byte-identical first3 exterior images with pending2120128 establish shared building evidence, not identical apartment: sibling firstfloor62/two bedrooms/C134A4/1572annual/glazed L-shaped kitchen and different two-bedroom plan versus ground52/onebed/C178A5/1116/straight kitchen. Three active near full descriptions compared: GH50.89first2007/127lots/C118A4,GH54.97raisedground2005/502lots/C153A5,Citya50.72ground1900/10lots/D242B9/terracotta kitchen and shower differ from1850/25lots/C178A5/beige bathtub/straight kitchen. Nonactive IAD54.13first2009/62lots and55second2006/239lots/currenttenants also differ. Exact sourceID/all own image paths absent historical evidence and active native paths; shared exterior byte hashes explicitly retained. No same-unit identity or evidence-backed native withdrawal. Pending only, no trusted import or analysis.",
+    "reviewStatus": "PENDING_REVIEW",
+    "sourceAddressEvidence": "9 Rue des feuillants",
+    "pendingReasons": [
+      "ROOM_DESIGNATION_CONFLICT"
+    ],
+    "pendingEvidence": {
+      "structuredRoomsCount": 2,
+      "proseDesignation": "T1",
+      "proseSeparateBedroomM2": 15,
+      "planBedroomM2": 15.12,
+      "planLivingKitchenM2": 26.75,
+      "sourceVacancyQuote": "libre de toute occupation",
+      "clarificationNeeded": "Reconcile narrative T1 and structured two-room/one-bedroom designation before trusting."
+    }
+  }
+]
