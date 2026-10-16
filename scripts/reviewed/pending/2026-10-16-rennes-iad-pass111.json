@@ -1,0 +1,534 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-rennes-100m2/r2120072",
+    "observedAt": "2026-10-16T17:01:50.394409+00:00",
+    "httpStatus": 200,
+    "externalId": "2120072",
+    "firstSeenAt": "2026-10-16T17:01:50.394409+00:00",
+    "latestFullPageObservedAt": "2026-10-16T21:43:02.152477+00:00",
+    "reviewedAt": "2026-10-16T21:46:04.137330+00:00",
+    "communeCode": "35238",
+    "priceEuros": 334900,
+    "surface": 99.62,
+    "rooms": 5,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Céline Bels",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "Rennes (quartier La Pommeraie / Domaine du Landry) - Appartement 5 pièces 99 m² - Box fermé - sans travaux & lumineux\n\nAdapté pour une famille, cet appartement 4 pièces offre une surface habitable de près de 99 m² au dernier étage d'une résidence de 3 étages. Exposition ouest, très lumineux. \n\nL'entrée dessert un toilette, des placards de rangement et vous mène vers un vaste double séjour ouvert sur une cuisine entièrement équipée, formant un espace de vie convivial et lumineux. \nCôté chambres, à gauche de l'appartement le couloir avec rangements mène vers deux chambres spacieuses et lumineuse ainsi qu'une salle d'eau.\nA gauche de l'appartement, une suite parentale de 13,48 m² composée d'une salle de bains avec WC et d'un dressing. \n\nLe bien bénéficie d'un balcon exposé ouest. \nUn box privatif et fermé complète cet appartement. \nLocal vélo\nLe logement bénéficie d'un chauffage individuel électrique par radiateurs ainsi que de la fibre optique.\nDPE : D - GES : B\n\nA visiter sans tarder !\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 206 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 164.86€ par mois (soit 1978.36 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Céline Bels mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de VERSAILLES sous le numéro 103474714, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-10-04",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 1978.36,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-03",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 240
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 9
+      },
+      "amount": {
+        "min": 2270,
+        "max": 3130
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 206,
+      "annualFees": 1978.36,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1975,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "334 900 €",
+      "formattedPerSurface": "3 362 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "2 toilettes",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Box",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Construit en 1975"
+        },
+        {
+          "text": "Étage : 3"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 99.62,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/10/08/01a11ba88298247d9eb7a13e0e7ae482.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e68b9cf8d5f36bdceca21279.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6d68df38cdf0b11796169cb.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e677d6e27b7e6afad4caf10b.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10321eb0e509be6cf08ef62a28183.png",
+        "https://images.playiad.com/property/broadcast/2026/10/04/01a10438783f3fd8d26c34e7f3ff02da.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a1031fa3a7b6ec637811e8b285144a.png",
+        "https://images.playiad.com/property/broadcast/2026/10/04/01a10445b489c9c2d36f5222466e26fb.png",
+        "https://images.playiad.com/property/broadcast/2026/10/04/01a10445ea8be273e254232dd421695e.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6d557e348d8780681731859.png",
+        "https://images.playiad.com/property/broadcast/2026/10/04/01a1044b3b08e4d2c1736bbc96bde76a.png",
+        "https://images.playiad.com/property/broadcast/2026/10/04/01a1044e3e5e7009172dedb5bb348fe6.png",
+        "https://images.playiad.com/property/broadcast/2026/10/04/01a10444bce5c44dff771d9e378bcab7.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6dfee178aaa7ec6591bfe8a.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6a19cb30157af4798a8c108.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a1031fa3e17b0a45a1a707e98c4a64.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e77550747f0d26086a9764bc.png",
+        "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e76f4192bdc89e6a4783a428.png"
+      ]
+    },
+    "photoCount": 18,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/08/01a11ba88298247d9eb7a13e0e7ae482.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e68b9cf8d5f36bdceca21279.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6d68df38cdf0b11796169cb.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e677d6e27b7e6afad4caf10b.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10321eb0e509be6cf08ef62a28183.png",
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a10438783f3fd8d26c34e7f3ff02da.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a1031fa3a7b6ec637811e8b285144a.png",
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a10445b489c9c2d36f5222466e26fb.png",
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a10445ea8be273e254232dd421695e.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6d557e348d8780681731859.png",
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a1044b3b08e4d2c1736bbc96bde76a.png",
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a1044e3e5e7009172dedb5bb348fe6.png",
+      "https://images.playiad.com/property/broadcast/2026/10/04/01a10444bce5c44dff771d9e378bcab7.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6dfee178aaa7ec6591bfe8a.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6a19cb30157af4798a8c108.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a1031fa3e17b0a45a1a707e98c4a64.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e77550747f0d26086a9764bc.png",
+      "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e76f4192bdc89e6a4783a428.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/08/01a11ba88298247d9eb7a13e0e7ae482.png",
+        "httpStatus": 200,
+        "sha256": "5dd8aa918c87eea770c32731dd3703a8dd45fc75e8205ab898fbe6f795870c64",
+        "observation": "Photographed double living/dining room with dark table, cream chairs, black shelving/display cabinet, cream armchair, broad opening, wood-effect floor and balcony glazing. Furniture not proof of tenant or vacancy.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e68b9cf8d5f36bdceca21279.png",
+        "httpStatus": 200,
+        "sha256": "3d71770a2277a6ae832a9b490e56c148f97c6fe7f8a5d4864d25caab4b84cf68",
+        "observation": "Same main room toward white sofa/wood coffee table, black grid mirror, white radiator, cat tree and open piano nook. No extra bedroom counted.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6d68df38cdf0b11796169cb.png",
+        "httpStatus": 200,
+        "sha256": "254cdebc488ef6bbe94c371b78e5c0a09e8abe71f73c4e733010f5432a4b663d",
+        "observation": "Same main room toward open grey kitchen, book/CD shelving below serving opening, wicker chest and balcony glazing. Coherent fixed geometry.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e677d6e27b7e6afad4caf10b.png",
+        "httpStatus": 200,
+        "sha256": "95df7eebd766ba692c57ab8e936fe69d3359612c671568c323668c594fc7fa3b",
+        "observation": "Grey glossy fitted kitchen, wood counter, black backsplash, sink, hob/hood, oven, white dishwasher and recessed lights. Appliance operation unverified.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10321eb0e509be6cf08ef62a28183.png",
+        "httpStatus": 200,
+        "sha256": "cd67ed69ccc61d156662172b097d80485b2cb2372b2bcf9a21c4429fe3d58070",
+        "observation": "Reverse same galley kitchen toward balcony door, matching grey cupboards/wood counters and fridge. Not a second kitchen.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a10438783f3fd8d26c34e7f3ff02da.png",
+        "httpStatus": 200,
+        "sha256": "71d7a82f4b09527d78e48593c5988dc590e7dec712452490e3119b6946373494",
+        "observation": "Windowed bedroom with white double bed, black desk/chair, standing bulb mirror, woven pendant and grey curtains. Dimensions unmeasured.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a1031fa3a7b6ec637811e8b285144a.png",
+        "httpStatus": 200,
+        "sha256": "374ccf6833724c27632407c3f998c5bdb8f1df13e564074ea4b8cf2ed458d44d",
+        "observation": "Reverse same white-bed bedroom with open wood clothes rack, black bedside lamp and radiator. Not another bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a10445b489c9c2d36f5222466e26fb.png",
+        "httpStatus": 200,
+        "sha256": "0a078880b1d7d1a57594c706c6c4333808d49b052141acfcdb55d47abeeb1704",
+        "observation": "Distinct bedroom with bed edge, white desk/drawers, black office chair, teal curtains and full-height sliding balcony glazing. Source second bedroom plausible.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a10445ea8be273e254232dd421695e.png",
+        "httpStatus": 200,
+        "sha256": "12793740f2733aded8efa817d5e14d176ae206acad073ad6c937e055ffd93748",
+        "observation": "Reverse same second bedroom, yellow bedcover, white desk, bulb mirror, tall white radiator and grey door. Repeated angle, not third bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6d557e348d8780681731859.png",
+        "httpStatus": 200,
+        "sha256": "6ff1e86ffdf7e677f87ab99ebcf590983964a8342310a2e11975f69a6404f284",
+        "observation": "Third distinct bedroom with grey floral bedding, woven pendant, mirrors, tall white radiator and balcony glazing. Source third bedroom coherent; no measured13.48m2 certification.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a1044b3b08e4d2c1736bbc96bde76a.png",
+        "httpStatus": 200,
+        "sha256": "700ebc5bb65aaa4a67104999415bdbec04c6c9231341a1cab1428327cbcf9230",
+        "observation": "Reverse same floral-bed room toward two grey doors, blue chest of drawers, tall radiator and shelving. Not a fourth bedroom.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a1044e3e5e7009172dedb5bb348fe6.png",
+        "httpStatus": 200,
+        "sha256": "63bb823ccf290811797254cd09987063d65855f6a50d5ff9ff01ff2c226b89e3",
+        "observation": "Actual narrow dressing room with hanging clothes, shoe shelves, frosted opening and drawers. Not an extra habitable room.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/04/01a10444bce5c44dff771d9e378bcab7.png",
+        "httpStatus": 200,
+        "sha256": "e3ddbeda66684d2e98b3ac44b9fd08c9b00669ed73bd9bc105673f3a0c3cc6a7",
+        "observation": "Actual laundry/WC/basin area with stacked machines, shelves, dark tiles, concealed-cistern toilet and wood vanity. Does not itself show separate source shower.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6dfee178aaa7ec6591bfe8a.png",
+        "httpStatus": 200,
+        "sha256": "22ae13642f92de9a8fbce4941eb86f42922ecb7331655b378a63c4bb8957adea",
+        "observation": "Actual bathroom with bathtub, dark tiles, long wood vanity, mirror, chrome towel heater and white partition. No independent waterproofing or building-condition certification.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e6a19cb30157af4798a8c108.png",
+        "httpStatus": 200,
+        "sha256": "603e37b680c922e9d219464d6d321c0d888580efb1566695e7510ede0760984d",
+        "observation": "Covered balcony through living glazing with wood-style deck tiles, white vertical rail, white folding chairs and tree/residence outlook. External area not added to99.62m2.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a1031fa3e17b0a45a1a707e98c4a64.png",
+        "httpStatus": 200,
+        "sha256": "498ce449afad03a121a53e8da12180d4c22a2672c0ed2ae2a6062ce232b4c909",
+        "observation": "Long same covered balcony, wood underside/deck tiles, white rail, plants and shared green outlook. Exclusive allocation/area and orientation source-only.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 17,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e77550747f0d26086a9764bc.png",
+        "httpStatus": 200,
+        "sha256": "64bb55cf1004b0316873151ea986c7ba45bfebcd14626bfb040e59edefbf1cc9",
+        "observation": "Exterior cream low-rise residence with continuous white rails, wood balcony undersides and trees. Not proof of exact apartment number or legal floor.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 18,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/03/01a10314e76f4192bdc89e6a4783a428.png",
+        "httpStatus": 200,
+        "sha256": "0389622152d79f583af9f0370be335c0e9bab2fedf1ec8fc37ab50a738d22a1e",
+        "observation": "Shared planted grounds/paths and adjacent residence. No private garden ownership inferred. All18 own entries individually viewed, no explicit AI/staging label observed. Three bedroom layouts plausible, but conflicting4/5-room source wording retained; source separate shower and closed garage not fully pictured.",
+        "isAgentPromotion": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-rennes-100m2/r2120072",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T21:46:02.522739+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "notes": "Complete primary description, seller identity and legal paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, with related-property images excluded. Earliest full-primary HTTP200 observation from pass106 retained as firstSeenAt/observedAt; pass111 collection and fresh unchanged-field rechecks recorded separately. Primary firstPublishDate date only, no publication time invented. Current checked first pages Le Mans, Angers, Reims and Poitiers show no eligible unreviewed IDs on those pages; Rennes October4 then September30 primary dates selected before older checked candidates. No all-page or all-market exhaustion claim. Measurements, condition, legal title, permissions, availability and proximity remain unverified. Photographs/furniture do not establish legal occupancy. PENDING_SOURCE_ROOM_COUNT: primary title/structured roomsCount5 conflicts with explicit appartement4pieces in full prose; structured3bedrooms and described two bedrooms plus parental suite preserved without alteration. All18 own views show three distinct bedroom layouts and a double main room, so a five-piece layout is plausible but not silently substituted for conflicting source wording; clarify current room designation. Whole seller-paid-fee EUR334900, precise99.62m2 versus rounded99m2 prose/100m2URL not additional floor area. Third/top floor,1975 individual electric radiators; lift unknown omitted. Two sale lots206 TOTAL/no proceedings, EUR1978.36annual/source164.86monthly charges, tax unknown. D240/B9 assessed2026-09-03 indexed2023 cost2270-3130. All18 own entries individually viewed: cream sofa/dark table/black shelving double main, grey glossy wood-counter open kitchen, white-bed bedroom/reverse, teal-curtain/yellow-bed bedroom/reverse, floral-bed parental bedroom/reverse, dressing, laundry/WC/wood vanity, dark-tile bathtub room, covered long wood-deck balcony, cream white-rail facade and shared grounds. Source separate shower not shown in full, no invented absent shower or cause; included closed box not fully pictured. No explicit AI/staging label or impossible layout. No explicit current tenant, special ownership, banned lease, auction/starting/partial price, ancillary-only property, houseboat or bot/spam proven. Exact ID/all18 own paths and SHA256 absent historical statuses/exports/nativeACTIVE photos. One active near full description read: GDC/BLOT98.59 thirdhistoricMairie/ChampJacquet/two bedrooms/periodboiseries/marblefireplace/internalspiralstair/E differs from1975LaPommeraieLandry/threebedrooms/opengreykit/longbalcony/D240B9/206lots/1978.36annual. Zero nonactive near candidates. No same-unit evidence or unsupported withdrawal. Pending only; no trusted import or analysis.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://gensdeconfiance.com/us/ui/post/realestate__sale/2a318ea9-7c72-4679-8827-104fadab70f8",
+          "surface": 98.59,
+          "rooms": 4,
+          "floor": 3,
+          "hasElevator": null,
+          "dpe": "E",
+          "price": 37275000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_SOURCE_ROOM_COUNT: primary title/structured roomsCount5 conflicts with explicit appartement4pieces in full prose; structured3bedrooms and described two bedrooms plus parental suite preserved without alteration. All18 own views show three distinct bedroom layouts and a double main room, so a five-piece layout is plausible but not silently substituted for conflicting source wording; clarify current room designation. Whole seller-paid-fee EUR334900, precise99.62m2 versus rounded99m2 prose/100m2URL not additional floor area. Third/top floor,1975 individual electric radiators; lift unknown omitted. Two sale lots206 TOTAL/no proceedings, EUR1978.36annual/source164.86monthly charges, tax unknown. D240/B9 assessed2026-09-03 indexed2023 cost2270-3130. All18 own entries individually viewed: cream sofa/dark table/black shelving double main, grey glossy wood-counter open kitchen, white-bed bedroom/reverse, teal-curtain/yellow-bed bedroom/reverse, floral-bed parental bedroom/reverse, dressing, laundry/WC/wood vanity, dark-tile bathtub room, covered long wood-deck balcony, cream white-rail facade and shared grounds. Source separate shower not shown in full, no invented absent shower or cause; included closed box not fully pictured. No explicit AI/staging label or impossible layout. No explicit current tenant, special ownership, banned lease, auction/starting/partial price, ancillary-only property, houseboat or bot/spam proven. Exact ID/all18 own paths and SHA256 absent historical statuses/exports/nativeACTIVE photos. One active near full description read: GDC/BLOT98.59 thirdhistoricMairie/ChampJacquet/two bedrooms/periodboiseries/marblefireplace/internalspiralstair/E differs from1975LaPommeraieLandry/threebedrooms/opengreykit/longbalcony/D240B9/206lots/1978.36annual. Zero nonactive near candidates. No same-unit evidence or unsupported withdrawal. Pending only; no trusted import or analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2120072.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:50.394409+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "reviewStatus": "PENDING_REVIEW",
+    "pendingReasons": [
+      "SOURCE_ROOM_COUNT_CONFLICT"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuote": "appartement 4 pièces",
+      "structuredRoomsCount": 5,
+      "proseRoomsCount": 4,
+      "sourceBedrooms": 3,
+      "visuallyDistinctBedroomLayouts": 3,
+      "clarificationNeeded": "Reconcile current4/5-room designation without changing source counts."
+    }
+  },
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rennes-12m2/r2123697",
+    "observedAt": "2026-10-16T17:01:51.890477+00:00",
+    "httpStatus": 200,
+    "externalId": "2123697",
+    "firstSeenAt": "2026-10-16T17:01:51.890477+00:00",
+    "latestFullPageObservedAt": "2026-10-16T21:43:02.171631+00:00",
+    "reviewedAt": "2026-10-16T21:46:04.168873+00:00",
+    "communeCode": "35238",
+    "priceEuros": 58000,
+    "surface": 11.51,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Franck Cabot",
+    "sourceTitle": "Appartement à Rennes (35000)",
+    "sourceDescription": "CENTRE HISTORIQUE – ESPACE À RÉINVENTER – 11,51 m² - IMMEUBLE DE CARACTÈRE \n\nAu cœur du centre-ville, dans un immeuble ancien plein de charme, découvrez ces 11,51 m² à réinventer entièrement, au calme sur cour et exposés plein sud.\n\nEntièrement à rénover, ce lieu peut être imaginé selon vos besoins et vos envies. \n\nBureau de télétravail, espace dédié à votre enfant étudiant, pied-à-terre ou investissement locatif : à vous d’imaginer le projet qui donnera vie à ce lieu.\n\nUN LIEU, PLUSIEURS DESTINATIONS\nSelon votre projet, cette petite surface peut notamment devenir :\n\n• Un espace de télétravail ou un bureau indépendant, idéal pour travailler au calme en plein centre-ville ;\n• Un petit studio pour votre enfant, une solution pratique pour accompagner ses études tout en constituant un actif immobilier ;\n• Un investissement locatif, avec la possibilité de créer un petit logement entièrement rénové et optimisé.\n• Un pied-à-terre en centre historique, pour profiter d’une adresse centrale dans un cadre intimiste.\n\nLe bien bénéficie de charges de copropriété particulièrement faibles, de l’ordre de 200 € par an.\n\nLa presente annonce immobiliere vise 1 lot situé dans une copropriété de 92 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 16.67€ par mois (soit 200 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Franck Cabot mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de RENNES sous le numéro 432407237, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-30",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "chargesAnnualEuros": 200,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": false,
+      "epc": {
+        "status": "available-not-required",
+        "consumption": 0
+      },
+      "ges": {
+        "status": "available-not-required",
+        "consumption": 0
+      },
+      "amount": {}
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 92,
+      "annualFees": 200,
+      "proceedingsUnderway": false
+    },
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "58 000 €",
+      "formattedPerSurface": "5 039 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Rez-de-chaussée"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 11.51,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/09/27/01a0e42fa545e08834e9cb9967bc654b.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/28/01a0e8ec6b983bb34ecd3a32dce16ca5.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/27/01a0e42fb5081ab0477a357375b8556c.jpg"
+      ]
+    },
+    "photoCount": 3,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e42fa545e08834e9cb9967bc654b.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/28/01a0e8ec6b983bb34ecd3a32dce16ca5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/27/01a0e42fb5081ab0477a357375b8556c.jpg"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e42fa545e08834e9cb9967bc654b.jpg",
+        "httpStatus": 200,
+        "sha256": "24132c25a1a93c4c3ab7e4809d75707d9893f0f2c9e524df9e6397bae48f0c36",
+        "observation": "Actual-looking unfinished small room with exposed metal ceiling channels, plain worn floor, missing fittings, courtyard window, narrow side cubicle and recessed wall niche. No installed kitchenette or independent functioning shower shown; legal residential status/measurements unknown.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/28/01a0e8ec6b983bb34ecd3a32dce16ca5.jpg",
+        "httpStatus": 200,
+        "sha256": "15689da946fd2b5ef4af45dbfd2eb48169569b13ad0397c2d542391343800359",
+        "observation": "Same window/niche/cubicle geometry presented with new wood floor, sofa, fitted sink/hob kitchenette and tiled basin/WC illustration. Compared with bare views1/3 and full source entirely-to-renovate wording, treated as an apparent proposed renovation illustration, not proof of existing facilities. No explicit AI/proposal label visible; origin unconfirmed.",
+        "isAgentPromotion": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/27/01a0e42fb5081ab0477a357375b8556c.jpg",
+        "httpStatus": 200,
+        "sha256": "f20a7d4c0c23002e8b4e88a7bd5b783093c093803b55f96806b91f0b5a556704",
+        "observation": "Actual-looking reverse bare room with exposed ceiling channels/open ceiling void, wall/floor wear, courtyard window and narrow cubicle with small basin and partly visible toilet. No diagnosed moisture/structure cause or guessed repair budget. All3 own entries individually inspected. Intended studio creation is not established current complete housing or permission.",
+        "isAgentPromotion": false
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rennes-12m2/r2123697",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T21:46:02.518008+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "notes": "Complete primary description, seller identity and legal paragraphs individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, with related-property images excluded. Earliest full-primary HTTP200 observation from pass106 retained as firstSeenAt/observedAt; pass111 collection and fresh unchanged-field rechecks recorded separately. Primary firstPublishDate date only, no publication time invented. Current checked first pages Le Mans, Angers, Reims and Poitiers show no eligible unreviewed IDs on those pages; Rennes October4 then September30 primary dates selected before older checked candidates. No all-page or all-market exhaustion claim. Measurements, condition, legal title, permissions, availability and proximity remain unverified. Photographs/furniture do not establish legal occupancy. PENDING_CURRENT_DWELLING_STATUS_AND_RENOVATION: source describes11.51m2 entirely to renovate and a small studio/logement as a possibility to create, alongside office/telework alternatives. Current self-contained apartment status, legal permitted residential use, functioning cooking/shower/heating facilities and renovation scope/permissions unexposed. Preserve uncertainty; not conclusively ancillary-only, commercial-lease or legally uninhabitable without evidence. Whole seller-paid-fee EUR58000, structuredapartment/T1/zero bedrooms, source groundfloor0, year/lift/heating unknown omitted, one sale lot92 TOTAL/no proceedings, EUR200annual/source16.67monthly charges, tax unknown. EPC/GES unavailable-not-required with numeric0 sentinels retained in raw source only, no A grade or actual zero energy use inferred. All3 own entries inspected: bare small room/exposed ceiling channels/worn floor/courtyard window/narrow basin-WC cubicle in1/3; matching geometry in2 shows new floor/sofa/sink-hob kitchenette and retiled washroom. Treat2 as apparent proposed renovation illustration inferred from visual before/proposed comparison and explicit entirely-to-renovate wording, no explicit AI/proposal label exposed and no fabricated image origin. Not current installed facilities or works/lettability certification. No guessed costs, damp/structural diagnosis or extra floor area. Exact sourceID/all3 own paths/SHA256 absent historical statuses/exports/nativeACTIVEphotos. Zero active/nonactive near candidates within11.51plusminus4m2. No identity match or unsupported withdrawal. Pending only; no trusted import, rent premium or investment analysis.",
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_CURRENT_DWELLING_STATUS_AND_RENOVATION: source describes11.51m2 entirely to renovate and a small studio/logement as a possibility to create, alongside office/telework alternatives. Current self-contained apartment status, legal permitted residential use, functioning cooking/shower/heating facilities and renovation scope/permissions unexposed. Preserve uncertainty; not conclusively ancillary-only, commercial-lease or legally uninhabitable without evidence. Whole seller-paid-fee EUR58000, structuredapartment/T1/zero bedrooms, source groundfloor0, year/lift/heating unknown omitted, one sale lot92 TOTAL/no proceedings, EUR200annual/source16.67monthly charges, tax unknown. EPC/GES unavailable-not-required with numeric0 sentinels retained in raw source only, no A grade or actual zero energy use inferred. All3 own entries inspected: bare small room/exposed ceiling channels/worn floor/courtyard window/narrow basin-WC cubicle in1/3; matching geometry in2 shows new floor/sofa/sink-hob kitchenette and retiled washroom. Treat2 as apparent proposed renovation illustration inferred from visual before/proposed comparison and explicit entirely-to-renovate wording, no explicit AI/proposal label exposed and no fabricated image origin. Not current installed facilities or works/lettability certification. No guessed costs, damp/structural diagnosis or extra floor area. Exact sourceID/all3 own paths/SHA256 absent historical statuses/exports/nativeACTIVEphotos. Zero active/nonactive near candidates within11.51plusminus4m2. No identity match or unsupported withdrawal. Pending only; no trusted import, rent premium or investment analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass106rennes_iad2123697.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T17:01:51.890477+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "reviewStatus": "PENDING_REVIEW",
+    "pendingReasons": [
+      "CURRENT_SELF_CONTAINED_APARTMENT_STATUS_UNCONFIRMED",
+      "RESIDENTIAL_USE_AND_RENOVATION_PERMISSIONS_UNCONFIRMED"
+    ],
+    "pendingEvidence": {
+      "exactSourceQuote": "la possibilité de créer un petit logement entièrement rénové et optimisé",
+      "currentFacilitiesNotEstablished": true,
+      "renovationIllustrationPhotoNumber": 2,
+      "illustrationClassificationBasis": "Inferred from bare photos1/3 versus completed kitchenette/floor/sofa in2 plus source entirely-to-renovate wording; no explicit AI/proposal label.",
+      "sourceEnergyStatus": "available-not-required",
+      "numericZeroIsUninterpretedSourceSentinel": true,
+      "clarificationNeeded": "Confirm legal residential use, current self-contained facilities and renovation requirements/permissions before apartment trust or analysis."
+    }
+  }
+]
