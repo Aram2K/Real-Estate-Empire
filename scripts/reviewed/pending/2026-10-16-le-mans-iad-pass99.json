@@ -1,0 +1,296 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-le-mans-118m2/r1965565",
+    "httpStatus": 200,
+    "observedAt": "2026-10-12T23:22:30.637698+00:00",
+    "externalId": "1965565",
+    "firstSeenAt": "2026-10-12T23:22:30.637698+00:00",
+    "latestFullPageObservedAt": "2026-10-16T12:13:01.174745+00:00",
+    "reviewedAt": "2026-10-16T15:12:12.735688+00:00",
+    "communeCode": "72181",
+    "priceEuros": 169500,
+    "surface": 118,
+    "rooms": 5,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 6,
+    "hasElevator": true,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Anne Vidalin",
+    "sourceTitle": "Appartement à Le Mans (72000)",
+    "sourceDescription": "Croix de Pierre, opportunité à Saisir - Appartement 5 Pièces avec Garage au Mans\n\nDécouvrez ce bel appartement situé au 6ème étage d'un immeuble de 8 niveaux, offrant une vue dégagée sur la ville du Mans. Avec une surface habitable de 118m², cet appartement dispose d'une cuisine équipée , d'une pièce de vie avec séjour (pouvant faire office d'une 3ème chambre) , de 2 chambres, d'une salle d'eau, d'un dressing et un WC séparé.\nCet appartement traversant bénéficie d'une belle luminosité.\n\nCave et garage. POSSIBILITE d'UN DEUXIEME GARAGE au sein de la résidence.\n\nA proximité immédiate des commerces, du tramway et de l'hypercentre.\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 184 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 327.67€ par mois (soit 3932 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Anne Vidalin mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de MANS sous le numéro 854032893, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-03-26",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "D",
+    "chargesAnnualEuros": 3932,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2025-05-26",
+      "year": 2023,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 167
+      },
+      "ges": {
+        "status": "available",
+        "class": "D",
+        "consumption": 32
+      },
+      "amount": {
+        "min": 1660,
+        "max": 2280
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 184,
+      "annualFees": 3932,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1974,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "169 500 €",
+      "formattedPerSurface": "1 436 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle d'eau",
+          "icon": "iad-icon:shower"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Garage",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1974"
+        },
+        {
+          "text": "Étage : 6"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 118,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "photoCount": 14,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/07/22/019f89dd15d24a123c3a58dbd95817f8.png",
+      "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c39ad2a7fa9dab0d4a68d80e5.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c3a36b034535d812a548e6b8f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b95cd17443f3f70e842aceea.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b99ab77b739271900971a127.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/25/019f98b495eb6616b73b952bee180297.png",
+      "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b5739f5048cab93b657bf7bd.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c3dfe6cf939a640ee9976de79.jpg",
+      "https://images.playiad.com/property/broadcast/2026/07/25/019f98d147b30fca1a3beedae6f98066.png",
+      "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b595520857bef1defeba11c2.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b5c644f4d6cbc4fe4151b668.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b77100b6b001c08b99416060.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c3cbd72ecbec3d5f6161c974f.jpg",
+      "https://images.playiad.com/property/broadcast/2026/03/26/019d29bfa9fa35938c740ee1ac65f2f7.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/22/019f89dd15d24a123c3a58dbd95817f8.png",
+        "httpStatus": 200,
+        "sha256": "9fd96bc57f2fb7c7028409f44bb9df49130482da2cd6ec70dd634619664ebb9a",
+        "observation": "Living-room illustration with pale sofa, wood shelving, wicker pendant and wood-effect floor. Explicit Image modifiee - Proposition d amenagement scandinave label. Proposal separated from actual condition and included furniture evidence."
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c39ad2a7fa9dab0d4a68d80e5.jpg",
+        "httpStatus": 200,
+        "sha256": "17ff1b3e9ef5e1f4ef473c5e1c9c19346b7b22f50146c5045e4f6602fe6ded7c",
+        "observation": "Actual separate galley kitchen with white handleless cabinets, grey worktops, broad double window, radiator, white sink, black hob/hood, washer and square grey tiles. Operation/compliance unverified."
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c3a36b034535d812a548e6b8f.jpg",
+        "httpStatus": 200,
+        "sha256": "39ec2dc1e6c2f1816776d61e2e61315cfdbd56ca76ff3bb7dbeac931b2fbc170",
+        "observation": "Elevated street/tram-track and city-roof outlook. No independently certified floor, travel time, noise or orientation inferred."
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b95cd17443f3f70e842aceea.jpg",
+        "httpStatus": 200,
+        "sha256": "78e718b97e31eba11a963e098b490ef641810375ee782d70986a1687de62ea23",
+        "observation": "Actual empty main room with square light tiles, dark corner bookcases, glazed door plus narrow side window and ceiling spots. Peeling/discoloured lower wall beside glazing visible; cause, extent and repair needs unknown. Proposal1 is not current flooring/furnishings."
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b99ab77b739271900971a127.jpg",
+        "httpStatus": 200,
+        "sha256": "1bd4827193a698f5422a39c566a9a4ee0490ec16d1c337af33be3257529f4e83",
+        "observation": "Reverse same actual grey/white fitted kitchen: sink, dishwasher, washer, black hob/hood and tall white storage/oven column. No additional room counted."
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/25/019f98b495eb6616b73b952bee180297.png",
+        "httpStatus": 200,
+        "sha256": "2bd8a517515cfa2ba96f6749b03d4c3667578bc6da979c64d49254b7e6c7779a",
+        "observation": "Dining-room illustration with light wood table/chairs, wicker pendant and full-height glazing. Explicit Photo non contractuelle label. Furnishing proposal, not proof of current finishes or inventory."
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b5739f5048cab93b657bf7bd.jpg",
+        "httpStatus": 200,
+        "sha256": "20173b5f07ff8b29fbff2a530587f45c6766eb001451dcdead914f871b413941",
+        "observation": "Actual dining room with dark carved sideboard, grey plank floor, double glazed doors and radiator. Distinct from the tiled adjoining living room; furniture does not establish occupancy."
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c3dfe6cf939a640ee9976de79.jpg",
+        "httpStatus": 200,
+        "sha256": "241363246544e7d7670996485b3c0269e0fd70f6c222e1b9ff49ecd32950f4df",
+        "observation": "Actual dining room toward tiled living room through broad opening, matching windows/railings and tiled lower-wall deterioration visible. Blue sale board visible through glazing; not evidence of a completed sale or current tenancy."
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/07/25/019f98d147b30fca1a3beedae6f98066.png",
+        "httpStatus": 200,
+        "sha256": "159752a115c4cefce041153fc887075304b41d97ba71204ae83b4bd64e0853ff",
+        "observation": "Bedroom illustration with double bed, wicker pendant, wood floor and plants. Explicit photo non contractuelle label; separated from actual condition/extra bedroom count."
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b595520857bef1defeba11c2.jpg",
+        "httpStatus": 200,
+        "sha256": "eeabe9ee3850ecbad1c16a9885e59517e732d97b58c2969472b5ab9abcebac28",
+        "observation": "Actual empty bedroom with wood-effect floor, white walls, double window, corner radiator and ceiling spots. Measured room area unverified."
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b5c644f4d6cbc4fe4151b668.jpg",
+        "httpStatus": 200,
+        "sha256": "00753b64564a9dbef79200d08c0c5a130633efc039e1bdf971851522c0974e32",
+        "observation": "Actual shower room: raised tiled shower with glass screen/grab rail and steps, white double vanity/mirror and towel radiator. No step-free or PMR compliance inferred."
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/11/019cdda0b77100b6b001c08b99416060.jpg",
+        "httpStatus": 200,
+        "sha256": "6e2722200de48842e0a984598e29371c336df2970d9d0cdad67431373bd4897a",
+        "observation": "Actual dressing/storage room with wall-mounted shelves and tiled floor. Prominent vertical irregular crack across multiple shelf levels on rear wall, plus patching/marks visible. Cause, depth, activity, structural significance and cost unknown; needs condition clarification before trusting."
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/24/019d1f6c3cbd72ecbec3d5f6161c974f.jpg",
+        "httpStatus": 200,
+        "sha256": "c3613e863116ee54e081afe42ece70e44fb0a6147efa89d5b8444ab395b7e9ab",
+        "observation": "Rear outlook over rows of garage doors, shared parking and neighbouring buildings. No specific garage ownership, bay number, roof material or second garage inclusion established."
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/03/26/019d29bfa9fa35938c740ee1ac65f2f7.png",
+        "httpStatus": 200,
+        "sha256": "0d70b53e9c48b550f41366203bbf5d457104e84e84a79d954575aec2f42c14f9",
+        "observation": "Source schematic plan: separate cuisine, salle a manger and sejour, two chambres, dressing, washroom and WC, with inset cellar labelled Cave24. Not a certified measured plan;24 not inferred as square metres. Does not certify a fifth habitable-room classification. All14 own entries individually inspected; explicit modified/noncontractual proposals1/6/9 separated from actual photographs."
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-le-mans-118m2/r1965565",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T15:12:12.248744+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "sameBatchImagePathOrByteHashMatches": 0,
+      "nearCandidatesCompared": [],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "PENDING_REVIEW: whole seller-paid-fee EUR169500/118m2/structuredT5/two existing source bedrooms. Third bedroom is only a possible future conversion of living area and is not counted as existing. Source plan shows two bedrooms and adjoining salon/dining; fifth-room classification not independently resolved. Sixth floor of8 WITH lift explicit,1974 construction/natural gas. Three sale lots in184TOTAL, no proceeding;3932annual/327.67roundedmonthly, tax unknown omitted. D167/D32 assessed2025-05-26 indexed2023 cost1660-2280. One cave and one garage source-included; optional SECOND garage is not included or priced as obligatory. All14 own entries inspected: actual white/grey kitchen, tiled living/dark bookcases, plank-floor dining/carved sideboard, one photographed empty bedroom, stepped shower/double vanity, dressing, two outlooks and source plan. Photos1/6/9 explicitly modified/noncontractual furnishing proposals. Photo12 shows a prominent vertical irregular dressing-wall crack and photo4/8 lower-wall peeling/discolouration near glazing. Cause, extent, activity, structural significance, repair scope/cost and current condition unknown; no invented mould/leak/structural diagnosis or renovation budget. Hold for condition clarification and room designation rather than trust polished illustrations. No explicit current tenancy, viager, special ownership or obligatory managed/commercial lease proven, so pending rather than invented exclusion. Exact sourceID/all14 own image paths absent all historical statuses/exports and native active photo paths. Zero scoped near active or nonactive candidates within118plusminus4m2; no evidence-backed same-unit match. No trusted import or investment analysis."
+    },
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass78_iad1965565.observed.json",
+      "earliestKnownObservedAt": "2026-10-12T23:22:30.637698+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "notes": "Full primary description including all seller/legal paragraphs individually read and retained verbatim. Every own gallery entry individually visually inspected in source order; related-property media excluded. Earliest known actual full-page HTTP200 observations from pass78 retained as observedAt and firstSeenAt; current pass99 full-page observation and fresh primary recheck separately retained. Publication is primary firstPublishDate date only, time unknown omitted. Fresh first-page priority feeds checked Le Mans then Angers/Reims and Poitiers; six remaining checked Le Mans primary dates individually fetched and March26 then March23 selected as newest within highest-priority market. No all-pages or all-markets exhaustion claim. Exact address, measurements, title, present condition, orientation, proximity and availability independently unverified. Furnishings/empty presentation do not establish tenancy or legal vacant possession. PENDING_REVIEW: whole seller-paid-fee EUR169500/118m2/structuredT5/two existing source bedrooms. Third bedroom is only a possible future conversion of living area and is not counted as existing. Source plan shows two bedrooms and adjoining salon/dining; fifth-room classification not independently resolved. Sixth floor of8 WITH lift explicit,1974 construction/natural gas. Three sale lots in184TOTAL, no proceeding;3932annual/327.67roundedmonthly, tax unknown omitted. D167/D32 assessed2025-05-26 indexed2023 cost1660-2280. One cave and one garage source-included; optional SECOND garage is not included or priced as obligatory. All14 own entries inspected: actual white/grey kitchen, tiled living/dark bookcases, plank-floor dining/carved sideboard, one photographed empty bedroom, stepped shower/double vanity, dressing, two outlooks and source plan. Photos1/6/9 explicitly modified/noncontractual furnishing proposals. Photo12 shows a prominent vertical irregular dressing-wall crack and photo4/8 lower-wall peeling/discolouration near glazing. Cause, extent, activity, structural significance, repair scope/cost and current condition unknown; no invented mould/leak/structural diagnosis or renovation budget. Hold for condition clarification and room designation rather than trust polished illustrations. No explicit current tenancy, viager, special ownership or obligatory managed/commercial lease proven, so pending rather than invented exclusion. Exact sourceID/all14 own image paths absent all historical statuses/exports and native active photo paths. Zero scoped near active or nonactive candidates within118plusminus4m2; no evidence-backed same-unit match. No trusted import or investment analysis.",
+    "reviewStatus": "PENDING_REVIEW",
+    "analysisComputed": false,
+    "pendingReasons": [
+      "WALL_CRACK_AND_LOWER_WALL_CONDITION_UNCLARIFIED",
+      "ROOM_DESIGNATION_UNCLARIFIED"
+    ],
+    "pendingEvidence": {
+      "actualPhotoNumbers": [
+        4,
+        8,
+        12
+      ],
+      "explicitProposalPhotoNumbers": [
+        1,
+        6,
+        9
+      ],
+      "causeAndRepairScopeUnknown": true,
+      "structuredRooms": 5,
+      "existingProseBedrooms": 2,
+      "potentialFutureBedrooms": 3,
+      "clarificationNeeded": "Clarify dressing-wall crack and lower-wall deterioration with current condition/repair evidence and reconcile T5 designation with plan, without inventing cause, legal room count or costs."
+    }
+  }
+]
