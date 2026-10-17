@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://agences-immobilieres-le-mans.fr/immobilier/appartement/a-vendre/le-mans-72000/appartement-77746%26n%3D0%26p%3D1",
+    "syndicatedUrl": "https://www.logic-immo.com/detail-annonce/vente/pays-de-la-loire/sarthe-72/le-mans-72000/26XN1UKAPQMW",
+    "observedAt": "2026-10-17T15:21:11.549Z",
+    "firstSeenAt": "2026-10-17T15:21:11.549Z",
+    "reviewedAt": "2026-10-17T15:21:11.549Z",
+    "externalId": "MAV77746",
+    "syndicatedExternalId": "26XN1UKAPQMW",
+    "communeCode": "72181",
+    "priceEuros": 86000,
+    "surface": 51,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "floorEvidence": "Source wording: rez-de-chaussée surélevé. Logic-Immo structured field separately labels the listing 1er étage; this floor-label conflict is retained unresolved.",
+    "hasElevator": false,
+    "sellerType": "AGENCY",
+    "sellerName": "72 IMMOBILIER",
+    "sellerContact": "Valérie Messer Blanchard",
+    "sourceTitle": "SPECIAL INVESTISSEUR-APPARTEMENT DIVISE EN 3 CHAMBRES",
+    "sourceDescription": "En exclusivité au Mans, cet appartement de 51 m² offre une configuration particulièrement adaptée à un investissement locatif. Situé en rez-de-chaussée surélevé, il propose 4 pièces actuellement organisées en 3 chambres, avec une répartition pensée pour faciliter la location à la chambre. Deux chambres sont déjà occupées, ce qui permet d'aborder le projet avec une base locative en place, tout en conservant une marge d'optimisation sur la troisième chambre.\nL'entrée dessert des espaces simples à vivre, faciles à entretenir, avec des sols carrelés, des murs clairs et une ambiance sobre qui convient bien à une occupation étudiante, jeune active ou en colocation. Les chambres bénéficient de fenêtres apportant une lumière naturelle agréable, certaines avec volets et rideaux, et offrent des volumes exploitables pour installer couchage, bureau, rangements ou coin personnel.\nLes aménagements existants, comme les étagères murales, les petits meubles de rangement et les espaces de travail, renforcent le côté pratique du logement au quotidien. L'appartement dispose de points d'eau et de WC, un atout important dans une organisation locative par chambres, car il améliore le confort d'usage et limite les contraintes de partage. L'ensemble présente un état général fonctionnel, avec des matériaux simples, neutres et cohérents pour un bien destiné à la location.\nLa présence d'une cave en sous-sol apporte un espace de stockage complémentaire appréciable, utile pour entreposer vélos, cartons ou équipements saisonniers sans encombrer les pièces de vie. Implanté au Mans, commune dynamique de la Sarthe, ce bien s'adresse avant tout à un investisseur recherchant un appartement compact, déjà configuré pour générer des revenus locatifs et facile à repositionner selon la demande.\nSa surface maîtrisée, son agencement en 3 chambres et son emplacement en rez-de-chaussée surélevé en font une proposition concrète pour développer ou compléter un patrimoine immobilier. Pour obtenir davantage d'informations et organiser une visite, contactez l'agence.",
+    "primarySourceDescription": "Situé au Mans (72100), cet appartement de 51 m² en rez-de-chaussée surélevé offre un potentiel intéressant pour un investisseur averti. Composé de 4 pièces, il est divisé en 3 chambres indépendantes, chacune équipée d’un point d’eau et d’un WC, facilitant la location séparée. Déjà deux chambres louées, générant des revenus mensuels de 320 € et 305 € hors charges, ce qui garantit une rentabilité immédiate. Vous profiterez également d’une cave en sous-sol pour un espace de rangement supplémentaire. Ce bien se trouve avenue Félix Geneslay, une adresse pratique et bien desservie. Si vous cherchez un investissement locatif sécurisé avec un bon rendement, ne laissez pas passer cette opportunité. Contactez dès maintenant Valérie au 06.67.34.56.24 pour organiser une visite ou obtenir plus d’informations.",
+    "publicationDate": null,
+    "publicationDateEvidence": "No publication date/time was exposed on the agency listing or syndicated detail. The agency result page's update/crawl timing is not treated as listing publication time.",
+    "photoEvidence": {
+      "syndicatedAdvertisedPhotoCount": 7,
+      "visuallyInspected": false,
+      "primaryAgencyPhotoStatement": "N'hésitez pas à nous contacter afin d'obtenir plus de photos.",
+      "reason": "Excluded on explicit current-tenancy wording. The syndicated detail exposed seven photos, but no property-photo claims are made because the images were not individually inspected."
+    },
+    "sourceAttributes": {
+      "hasElevatorEvidence": "Logic-Immo characteristics explicitly state Pas d'ascenseur.",
+      "ancillary": "Cave en sous-sol.",
+      "dpe": "E",
+      "ges": "C",
+      "constructionYear": 1980,
+      "coOwnershipLots": 172,
+      "agencyAskingPriceEuros": 87600,
+      "syndicatedFeesIncludedPriceEuros": 86000,
+      "priceConflictNote": "Agency search-index result displayed 87,600 € while the syndicated detail and its full fee breakdown display 86,000 € including buyer-paid fees (80,000 € before fees plus 6,000 € fees). Preserved as a discrepancy; neither amount changes the occupancy exclusion."
+    },
+    "exclusionReasons": [
+      "CURRENT_TENANT_OCCUPIED_SALE"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuote": "Deux chambres sont déjà occupées",
+      "corroboratingPrimaryQuote": "Déjà deux chambres louées, générant des revenus mensuels de 320 € et 305 € hors charges",
+      "leaseTermsUnexposed": true
+    },
+    "analysisComputed": false,
+    "reviewStatus": "EXCLUDED",
+    "notes": "Full syndicated listing description preserved verbatim. The primary 72 IMMOBILIER listing detail returned HTTP 403 when opened; its indexed agency listing exposed title, 51 m², 4 rooms/3 bedrooms, 86,000 € and a description excerpt. The syndicated listing matches the agency, unit characteristics and distinctive description and explicitly confirms two current occupants. Excluded on current occupation; not imported as trusted and no rental or investment analysis computed. Price differs across the indexed agency result (87,600 €) and syndicated detail (86,000 € including fees); discrepancy retained unresolved. Floor is described as raised ground floor while syndicated structured metadata says first floor. Listing publication date/time not exposed."
+  }
+]

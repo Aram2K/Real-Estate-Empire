@@ -1,0 +1,64 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296091065A1KIVHAP000",
+    "observedAt": "2026-10-17T15:21:11.549Z",
+    "firstSeenAt": "2026-10-17T15:21:11.549Z",
+    "latestFullPageObservedAt": "2026-10-17T15:21:11.549Z",
+    "reviewedAt": "2026-10-17T15:21:11.549Z",
+    "externalId": "51046-2726",
+    "portalIdentifier": "1296091065A1KIVHAP000",
+    "communeCode": "51454",
+    "priceEuros": 325000,
+    "surface": 92,
+    "rooms": 4,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 5,
+    "sellerType": "AGENCY",
+    "sellerName": "ETUDE THIENOT ET ASSOCIES — Thiénot & Associés, Notaires",
+    "sourceTitle": "Vente Appartement 4 pièces 92 m² Reims (51100)",
+    "sourceDescription": "A VENDRE APPARTEMENT REIMS, Marne, secteur talleyrand/hotel de ville, à 2 pas du Boulingrin et de la gare, dans un bel immeuble de caractère, au 5 ème et dernier étage, un appartement 4 pièces mansardé d'une superficie utile de 110 m² comprenant un palier privatif, un couloir, une salle de bains , un wc, une cuisine équipée de 13 m², une pièce de vie de 28 m² sol parquet , une buanderie, deux chambres de 9 m² et 10,50 m² sol parquet.\nune cave.\nChauffage individuel électrique.\nCharges trimestrielles : 532 €.\nClasse énergie : D.\nPrécision localisation : Centre et Grand Centre\nHonoraires à la charge du Vendeur\nLieu : Marne (51)",
+    "publicationDate": null,
+    "publicationDateEvidence": "The full listing page exposes a Mise à jour timestamp of 10/10/2026 à 01:02, not an original publication timestamp. A search-index snippet separately displayed 17/10/2026 à 01:01; its meaning conflicts with the detail page and is not treated as publication evidence.",
+    "lastUpdatedAt": "2026-10-10T01:02:00",
+    "sourcePriceEvidence": {
+      "advertisedFullPriceEuros": 325000,
+      "feesCharge": "seller",
+      "priceQualifier": "Price marked with an asterisk; footer states net price excludes notarial/registration/publicity charges."
+    },
+    "sourceAttributes": {
+      "floorText": "5ème et dernier étage",
+      "hasElevator": true,
+      "ancillary": "Cave",
+      "heating": "Chauffage individuel électrique",
+      "quarterlyChargesEuros": 532,
+      "dpe": "D",
+      "dpeConsumption": 233,
+      "ges": "B",
+      "gesEmissions": 9,
+      "dpeDate": "2026-06-17"
+    },
+    "sourceAreaEvidence": {
+      "portalStructuredArea": "92 m² environ",
+      "descriptionUsefulArea": "superficie utile de 110 m²",
+      "resolution": "Carrez/measurement basis not exposed; difference retained pending verification."
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 10,
+      "photoLinksExposedInPageText": 5,
+      "visuallyInspected": false,
+      "reason": "The page advertises ten photos, but image-opening actions did not return inspectable image content in this review session. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "AREA_BASIS_DIFFERENCE_UNRESOLVED"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Individually inspect the available property photos and confirm which area is the legally relevant sale area (the page states 92 m² while the prose says 110 m² useful).",
+      "exclusionEvidence": null
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "Full listing description and visible listing fields reviewed and preserved. It is an apartment, €325,000 asking price, below the €400,000 cap; four rooms/two bedrooms, fifth and top floor, elevator, cellar. Listing is not marked trusted because its ten advertised photos could not be visually inspected in the available browser result, and the 92 m² structured area differs from 110 m² useful area in the description with no Carrez basis stated. A displayed update date and a conflicting search-index date were retained separately; neither was promoted to confirmed publication date. No unsupported adverse inference or exclusion made."
+  }
+]
