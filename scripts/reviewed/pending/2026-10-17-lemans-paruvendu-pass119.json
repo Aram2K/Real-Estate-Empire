@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1293270994A1KIVHAP000",
+    "observedAt": "2026-10-17T13:36:09.861Z",
+    "httpStatus": 200,
+    "externalId": "1293270994A1KIVHAP000",
+    "firstSeenAt": "2026-10-17T13:36:09.861Z",
+    "reviewedAt": "2026-10-17T13:36:09.861Z",
+    "communeCode": "72181",
+    "priceEuros": 70990,
+    "sourceNetPriceEuros": 65000,
+    "sourceBuyerFeesEuros": 5990,
+    "surface": 67,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "hasElevator": false,
+    "sellerType": "AGENCY",
+    "sellerName": "Optimhome — Benoit Rolin",
+    "sourceTitle": "Appartement F3 de 67 m² – Grand balcon plein sud – Idéal investissement locatif - au Mans (72)",
+    "sourceDescription": "Appartement F3 de 67 m² – Grand balcon plein sud – Idéal investissement locatif - au Mans (72)\nVous recherchez un appartement spacieux, lumineux et idéalement situé pour votre premier achat ?\nDécouvrez cet appartement de type F3 de 67 m², offrant un cadre de vie agréable et pratique au quotidien.\nSitué au sein d'une résidence aux faibles charges de copropriété, quartier sablons, il se compose d'une belle pièce de vie lumineuse, d'une cuisine, de deux chambres confortables, d'une salle d'eau ainsi que de nombreux espaces de rangement.\nSon principal atout est son grand balcon exposé plein sud, parfait pour profiter des beaux jours, prendre ses repas à l'extérieur ou simplement se détendre.\nSon emplacement est également un véritable avantage. Les arrêts de tramway, les lignes de bus, les commerces, les écoles et les services du quotidien sont accessibles à pied en quelques minutes, facilitant les déplacements et la vie de tous les jours.\nCet appartement conviendra parfaitement à un jeune couple, une petite famille ou à toute personne souhaitant acquérir un logement fonctionnel, confortable et facile à entretenir.\nLe quartier est bénéficie d'importants aménagements destinés à améliorer durablement le cadre de vie, les espaces extérieurs et les infrastructures. Son dynamisme, sa bonne desserte et ses prix encore attractifs en font un secteur offrant un réel potentiel de valorisation à moyen et long terme.\nCe bien constitue également une excellente opportunité patrimoniale. Si votre projet évolue dans les années à venir, il pourra facilement être proposéà la location grâce à son emplacement recherché et à son fort potentiel locatif, avec une rentabilité brute proche de 10 %.\nUne belle opportunité pour acquérir un appartement lumineux, bien agencé et offrant un excellent rapport qualité/prix.\nContactez-moi dès aujourd'hui pour obtenir davantage d'informations ou organiser une visite. Nombre de lots de la copropriété: 49, Montant moyen de la quote-part annuelle de charges du budget prévisionnel (Chauffage + eau chaude): 2220 euros soit 185 euros par mois. Les honoraires d'agence sont à la charge de l'acquéreur, soit 9,22% TTC du prix hors honoraires.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques. Nombre de lots de la copropriété: 49. Montant moyen des charges annuelles: 2220 euros. Procédure sur le syndicat des copropriétaires: non. Contactez Benoit ROLIN, Entrepreneur Individuel, Agent commercial OptimHome, RSAC N°911 147 387 Greffe de LE MANS, référence 612298. Prix net vendeur: 65000 euros. Honoraires à la charge de l'acquéreur: oui. Statut du négociateur: agent commercial indépendant. Lieu: Sarthe (72).",
+    "publicationDate": null,
+    "publicationDateEvidence": "The detail page exposed 'Mise à jour 13/10/2026 à 12:58'; a source publication date/time was not exposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 2220,
+    "photoCount": 15,
+    "photoUrls": [
+      "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/ee/d0/LzYwODExLzU0MDkxODI5My9waG90b3MvMS5qcGc_MjAyNjEwMTMxMjU4NTA_rct?func=crop&gravity=auto&w=1000",
+      "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/53/9f/LzYwODExLzU0MDkxODI5My9waG90b3MvMi5qcGc_MjAyNjEwMTMxMjU4NTA_rct?func=crop&gravity=auto&w=1000"
+    ],
+    "photoReview": [],
+    "sourcePhotoEvidence": {
+      "galleryCountExposed": 15,
+      "visualReviewStatus": "NOT_COMPLETED",
+      "accessEvidence": "Web image links for gallery entries 1 and 2 returned Cache miss; visual content could not be inspected in this pass. No claim is made about photo contents."
+    },
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "Primary listing detail page and complete textual description reviewed. ParuVendu displayed 3 pieces, 67 m², 2 bedrooms, floor 3, no lift, price EUR 70,990, advertiser Optimhome / Benoit Rolin, reference 830034261695 (agent ref 612298), update 2026-10-13 12:58. It explicitly itemizes EUR 65,000 net seller plus buyer-paid fees; the shown full price of EUR 70,990 is coherent with the stated 9.22% fee and within the EUR 400,000 cap. Text says apartment F3 in Sablons, sunny balcony, kitchen, living area, two bedrooms, shower room and storage; describes transit/amenities, copropriété 49 lots, annual charges EUR 2,220 including heating and hot water, and says no copropriété proceeding. Agent claims gross yield near 10% are unverified marketing, not adopted as analysis. Full listing ID was checked against the local reviewed evidence directory and no match was found. The page exposed 15 photos, but gallery links could not be visually reviewed due tool Cache miss. Do not mark trusted or import until photo evidence can be inspected; no rent/DVF analysis computed while pending. No source publication date was exposed; the update timestamp is preserved separately and not treated as publication time.",
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_INSPECTED"
+    ],
+    "pendingEvidence": {
+      "photoCount": 15,
+      "reviewedImageCount": 0,
+      "exactSourceEvidence": "The detail page states '15 photos disponibles' and its gallery shows photo image links. Attempts to open gallery images 1 and 2 returned Cache miss.",
+      "clarificationNeeded": "Inspect the listing-specific gallery photos before trusting this record."
+    }
+  }
+]
