@@ -1,0 +1,308 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rouen-33m2/r2124247",
+    "observedAt": "2026-10-16T23:17:20.529142+00:00",
+    "httpStatus": 200,
+    "externalId": "2124247",
+    "firstSeenAt": "2026-10-16T23:17:20.529142+00:00",
+    "latestFullPageObservedAt": "2026-10-16T23:29:41.483499+00:00",
+    "reviewedAt": "2026-10-16T23:35:07.086440+00:00",
+    "communeCode": "76540",
+    "priceEuros": 109000,
+    "surface": 33,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Virginie Rault",
+    "sourceTitle": "Appartement à Rouen (76000)",
+    "sourceDescription": "ROUEN - A DEUX PAS DE LA PLACE SAINT-MARC - APPARTEMENT RENOVE VENDU LOUE AVEC CAVE ET PARKING\n\nIdéalement situé, à proximité immédiate de la très prisée place Saint-Marc, découvrez cet appartement de 33m2, situé au premier étage d'une résidence sécurisée.\n\nEntièrement refait en 2026, cet appartement lumineux et fonctionnel offre un agencement particulièrement agréable.\nL'entrée dessert un espace de rangement avec placard ainsi qu'une salle de bain.\nVous découvrirez ensuite une belle pièce de vie réunissant séjour et salon, ouverte sur un coin cuisine, créant un espace convivial et facile à vivre.\n\nUn véritable atout vient compléter cet espace : une vue agréable sur un toit végétalisé, avec la possibilité d'y installer une petite table et chaises afin de profiter pleinement de cet environnement extérieur, dans un cadre calme et urbain.\nUne cave ainsi qu'une place de stationnement couverte viennent compléter ce bien, des prestations particulièrement appréciables dans ce secteur de Rouen.\n\nVendu loué, cet appartement constitue ainsi une opportunité intéressante pour un investissement locatif dans un secteur recherché, proches des commerces, des transports et des établissements d'enseignement.\n\nInvestissement locatif – rentabilité brute d’environ 5,9 % frais d’acquisition inclus.\n\nL'emplacement est un véritable point fort ; la place Saint-Marc et ses commerces sont accessibles à pied, de plus le secteur bénéficie d'une importante offre d'établissements scolaires et d'enseignements supérieur. Le Campus Saint-Marc, Pigier, Sup-Véto ou encore les classes préparatoires aux études de santé se trouvent à proximité immédiate. La gare de Rouen-Rive-droite se situe à environ 1,4km, et le CHU Charles-Nicolle est également accessible depuis le quartier.\n\nN'hésitez pas à me contacter pour organiser une visite !\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 250 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 65.75€ par mois (soit 789 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Virginie Rault mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Bernay sous le numéro 984704098, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-29",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "D",
+    "ges": "B",
+    "chargesAnnualEuros": 789,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2024-06-20",
+      "year": 2021,
+      "epc": {
+        "status": "available",
+        "class": "D",
+        "consumption": 237
+      },
+      "ges": {
+        "status": "available",
+        "class": "B",
+        "consumption": 7
+      },
+      "amount": {
+        "min": 550,
+        "max": 790
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 250,
+      "annualFees": 789,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": null,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "109 000 €",
+      "formattedPerSurface": "3 303 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "Parking",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salle à manger"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.electricity"
+          ]
+        },
+        {
+          "text": "Étage : 1"
+        },
+        {
+          "text": "Digicode"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 33,
+        "icon": "iad-icon:living-area"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/10/13/01a136b4fddee295513665a1c9f0acd2.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b20feaed487b23f509dec8e0.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0b1027165a07b3fc778aefe.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b1d08becf81fb814eb2cc024.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0d60d3e97d318ae37a95549.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b19e130cf8f1f5f87e9ed28a.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0981f0f2e890726ef47b219.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b4b099d6f67873aa87307712.jpg",
+        "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed6e4620e5ea61af033e1c31b797.png"
+      ],
+      "virtualTours": [
+        "https://nodalview.com/s/1iTNt3STzD4hVeGsfz4FQq#video"
+      ]
+    },
+    "photoCount": 9,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/10/13/01a136b4fddee295513665a1c9f0acd2.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b20feaed487b23f509dec8e0.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0b1027165a07b3fc778aefe.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b1d08becf81fb814eb2cc024.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0d60d3e97d318ae37a95549.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b19e130cf8f1f5f87e9ed28a.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0981f0f2e890726ef47b219.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b4b099d6f67873aa87307712.jpg",
+      "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed6e4620e5ea61af033e1c31b797.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/13/01a136b4fddee295513665a1c9f0acd2.jpg",
+        "httpStatus": 200,
+        "sha256": "86ba8ad6e7df67c4f84324f627554e12d050560fe82a38d9b2c06f2fe6379b5c",
+        "observation": "Actual red-brick/cream residence facade and agent holding OFFRE ACCEPTEE sign. Accepted offer is marketing-status evidence, not certified completed sale/date; explicit VENDU LOUE text separately establishes tenancy.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": true,
+        "isFloorPlan": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b20feaed487b23f509dec8e0.jpg",
+        "httpStatus": 200,
+        "sha256": "8dbab77edf5ec7a26ec704cca6e13c5a23ec80b914ed01b1d6ed8934f2afecb8",
+        "observation": "Actual common tiled entrance/mailboxes, glazed street doors, mirrored wall and wood-panel ceiling. Common area not living space or proof of vacant possession.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0b1027165a07b3fc778aefe.jpg",
+        "httpStatus": 200,
+        "sha256": "ccc47589f91253d4a184ff56f5e8a8f7bb0fc53f339856d07b80a5438afc5927",
+        "observation": "Actual furnished single studio main with bed, low storage/TV divider, armchair, desk and broad window. Bed furniture does not create separate bedroom or independently identify tenant.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b1d08becf81fb814eb2cc024.jpg",
+        "httpStatus": 200,
+        "sha256": "391115b8df8724f23eac5580918b8a9bb81fb6334f07bcae3f41bc209e268ba3",
+        "observation": "Reverse same one-room studio, bed/TV divider, mirror, desk and armchair. No extra room counted; full current-tenancy wording remains decisive.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0d60d3e97d318ae37a95549.jpg",
+        "httpStatus": 200,
+        "sha256": "e643a7b4e4c179d081eaf4df041a2ed95b78c7280be4a62135c9e4a7ba458934",
+        "observation": "Same main toward open white kitchen alcove and hall door. Mixed wood-pattern/tiled floors consistent with one source studio, no separate dwelling inferred.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b19e130cf8f1f5f87e9ed28a.jpg",
+        "httpStatus": 200,
+        "sha256": "485401759a158ce0628c139312e95a62fed0ee58d2614177eb88fdbacbabd0a1",
+        "observation": "Actual white-unit kitchenette, hob/sink, small appliances on metal shelf, white tiled floor and green-roof outlook. Roof view/potential furniture use not certified private outdoor ownership or added living area.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b0981f0f2e890726ef47b219.jpg",
+        "httpStatus": 200,
+        "sha256": "321588606047a49aa15aede930daa8d83ec5765e455bf19c836f8ec8dd20bf8c",
+        "observation": "Actual bathtub/shower screen, white vanity/mirror and WC, small square floor tiles. No compliance/waterproofing certificate inferred; possession not established by furnishings.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed58b4b099d6f67873aa87307712.jpg",
+        "httpStatus": 200,
+        "sha256": "75fcf490038ee01cce957a1e40ea8680fa8ebaed74e78c6a7d51fba8f5d05374",
+        "observation": "Photographed vegetated roof/courtyard and surrounding residence. No independently confirmed exclusive garden/terrace entitlement or measured additional surface.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/29/01a0ed6e4620e5ea61af033e1c31b797.png",
+        "httpStatus": 200,
+        "sha256": "65f43517f110574a4f8dad9b5f2b1555695dd8128d3ee0561d52202b819582a1",
+        "observation": "Advertiser plan labels Superficie Loi Carrez32.57m2,main21.95,kitchen4.26,bathWC3.94,entry2.42,closet and waterheater. Plan32.57 retained alongside structured/prose33 without silently rewriting. All9 own entries individually viewed:8 photographic views including accepted-offer agent image1 plusplan9; no explicit AI label. Covered parking/cellar/lift remain textual assertions where unpictured; tenancy excludes admission regardless of photos.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": true
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rouen-33m2/r2124247",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T23:35:04.002933+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "analysisComputed": false,
+    "reviewStatus": "EXCLUDED",
+    "notes": "Complete primary description, seller identity and every legal paragraph individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-card media excluded. Earliest known full primary HTTP200 first-seen retained; later collection/recheck separate. Refreshed checked firstpages Le Mans/Angers/Reims/Poitiers/Rennes contained no eligible unreviewed IDs on those pages. Two September29 Rouen primary dates selected before September25 and older after October16 reviewed pending in pass117. No all-page/all-market exhaustion claim. EXCLUDED_CURRENT_TENANT: complete primary title and body twice explicitly VENDU LOUE; existing tenancy decisive. Photo1alsoOFFREACCEPTEE,not completed-sale certification. Fullsellerpaid109000,structured/prose33m2/plan32.57Carrez,T1/zeroenclosedbed,firstWITHlift,electric,constructionyearunknown. Three sale lots250TOTAL/no proceedings,789annual65.75monthly,taxunknown. D237/B7 assessed2024-06-20 indexed2021 costs550-790. All9 own entries inspected:8 actual facade/acceptedofferagent/commonlobby/singlebedmain/whitekit/bathtubWC/greenroof views plusplan9. Potential greenroofuse not exclusive title/privategarden certificate. Advertised5.9percentgrossreturn is marketing only,no rent/analysis derived. Actual lease rent,duration,charge split unexposed. Three near active complete descriptions compared:Century21 33.33fourthtop1994duplex94lots1236annualmezzanine;Century21 34.83fourthtopVieuxMarche10lots1080annualgas;Laforet34.2groundgarden16lots936annualE308B9. Fixed floor/layout/lots/charges differ from33firstsinglelevelSaintMarc250lots789annualD237B7. Zero nonactive near. No same-unit identity or unsupported withdrawal. Excluded artifact only,no trusted import or analysis.",
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass117rouen_iad2124247.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T23:17:20.529142+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/15628702399/",
+          "surface": 33.33,
+          "rooms": 2,
+          "floor": 4,
+          "hasElevator": 1,
+          "dpe": null,
+          "price": 10110000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/16934775696/",
+          "surface": 34.83,
+          "rooms": 2,
+          "floor": 4,
+          "hasElevator": null,
+          "dpe": null,
+          "price": 12000000
+        },
+        {
+          "url": "https://www.laforet.com/agence-immobiliere/rouen-droite/acheter/rouen/appartement-2-pieces-52514802",
+          "surface": 34.2,
+          "rooms": 2,
+          "floor": 0,
+          "hasElevator": null,
+          "dpe": "E",
+          "price": 13000000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [],
+      "resolution": "EXCLUDED_CURRENT_TENANT: complete primary title and body twice explicitly VENDU LOUE; existing tenancy decisive. Photo1alsoOFFREACCEPTEE,not completed-sale certification. Fullsellerpaid109000,structured/prose33m2/plan32.57Carrez,T1/zeroenclosedbed,firstWITHlift,electric,constructionyearunknown. Three sale lots250TOTAL/no proceedings,789annual65.75monthly,taxunknown. D237/B7 assessed2024-06-20 indexed2021 costs550-790. All9 own entries inspected:8 actual facade/acceptedofferagent/commonlobby/singlebedmain/whitekit/bathtubWC/greenroof views plusplan9. Potential greenroofuse not exclusive title/privategarden certificate. Advertised5.9percentgrossreturn is marketing only,no rent/analysis derived. Actual lease rent,duration,charge split unexposed. Three near active complete descriptions compared:Century21 33.33fourthtop1994duplex94lots1236annualmezzanine;Century21 34.83fourthtopVieuxMarche10lots1080annualgas;Laforet34.2groundgarden16lots936annualE308B9. Fixed floor/layout/lots/charges differ from33firstsinglelevelSaintMarc250lots789annualD237B7. Zero nonactive near. No same-unit identity or unsupported withdrawal. Excluded artifact only,no trusted import or analysis."
+    },
+    "hasElevator": true,
+    "exclusionReasons": [
+      "CURRENT_TENANT_OCCUPIED_SALE"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuote": "Vendu loué",
+      "acceptedOfferPhotoNumber": 1,
+      "sourceLeaseTermsUnexposed": true,
+      "sourcePlanCarrezArea": 32.57,
+      "structuredLivingArea": 33
+    }
+  }
+]

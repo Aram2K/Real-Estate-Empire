@@ -1,0 +1,426 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-rouen-101m2/r2124454",
+    "observedAt": "2026-10-16T23:17:20.396333+00:00",
+    "httpStatus": 200,
+    "externalId": "2124454",
+    "firstSeenAt": "2026-10-16T23:17:20.396333+00:00",
+    "latestFullPageObservedAt": "2026-10-16T23:29:41.428684+00:00",
+    "reviewedAt": "2026-10-16T23:35:10.461948+00:00",
+    "communeCode": "76540",
+    "priceEuros": 299000,
+    "surface": 100.54,
+    "rooms": 4,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Emilie Lebreton",
+    "sourceTitle": "Appartement à Rouen (76000)",
+    "sourceDescription": "EN EXCLUSIVITÉ – Rouen Saint-Gervais – T4 avec 3 chambres, balcon, ascenseur, box et cave\n\nSitué dans le quartier Saint-Gervais à Rouen, au 2e étage avec ascenseur d’une résidence sécurisée, cet appartement T4 séduit par sa luminosité, ses volumes et sa vue dégagée.\n\nIl comprend un séjour lumineux avec accès au balcon, une cuisine aménagée et équipée récente avec arrière-cuisine et buanderie, trois chambres, une magnifique salle de bains rénovée et un WC indépendant.\n\nDe nombreux rangements complètent l’ensemble. Vous bénéficiez également d’une grande cave d’environ 15 m² et d’un box fermé privatif, de vrais atouts à Rouen.\n\nChauffage individuel au gaz, double vitrage et volets roulants.\n\nÀ proximité du centre-ville, de la place Cauchoise et de la gare.\n\nUn appartement complet et fonctionnel, idéal pour une famille recherchant 3 chambres, un extérieur, un ascenseur et un stationnement privatif.\n\nLa presente annonce immobiliere vise 3 lots situés dans une copropriété de 30 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 121.73€ par mois (soit 1460.8 € annuel). Honoraires d'agence à la charge du vendeur.\nLa présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.\nLa présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Emilie Lebreton mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de EVREUX sous le numéro 878480391, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": "2026-09-29",
+    "publicationDateEvidence": "Primary firstPublishDate date only; publication time unexposed.",
+    "dpe": "E",
+    "ges": "E",
+    "chargesAnnualEuros": 1460.8,
+    "sourceEnergyEvidence": {
+      "type": "france",
+      "isAvailable": true,
+      "date": "2026-09-14",
+      "year": 2022,
+      "epc": {
+        "status": "available",
+        "class": "E",
+        "consumption": 254
+      },
+      "ges": {
+        "status": "available",
+        "class": "E",
+        "consumption": 55
+      },
+      "amount": {
+        "min": 2140,
+        "max": 2950
+      }
+    },
+    "sourceCoOwnershipEvidence": {
+      "totalUnitsCount": 30,
+      "annualFees": 1460.8,
+      "proceedingsUnderway": false
+    },
+    "sourceConstructionYear": 1970,
+    "sourcePriceEvidence": {
+      "type": "sale",
+      "feesCharge": "seller",
+      "feeScaleUrl": "/bareme_honoraires_iad.pdf",
+      "formattedMain": "299 000 €",
+      "formattedPerSurface": "2 974 € / m²"
+    },
+    "sourceFeaturesEvidence": {
+      "main": [
+        {
+          "text": "1 salle de bain",
+          "icon": "iad-icon:bathtub"
+        },
+        {
+          "text": "1 toilette",
+          "icon": "iad-icon:toilet"
+        },
+        {
+          "text": "Box",
+          "icon": "iad-icon:garage"
+        },
+        {
+          "text": "Balcon",
+          "icon": "iad-icon:balcony"
+        },
+        {
+          "text": "Cave",
+          "icon": "iad-icon:shelves"
+        },
+        {
+          "text": "Ascenseur",
+          "icon": "iad-icon:elevator"
+        }
+      ],
+      "secondary": [
+        {
+          "text": "Salon"
+        },
+        {
+          "text": "Câble TV"
+        },
+        {
+          "text": "Fibre optique"
+        },
+        {
+          "text": "property.feature.heating",
+          "translationKey": [
+            "property.feature.heating.power_supply.natural_gas"
+          ]
+        },
+        {
+          "text": "Construit en 1970"
+        },
+        {
+          "text": "Interphone"
+        }
+      ]
+    },
+    "sourceSurfaceEvidence": [
+      {
+        "type": "living-area",
+        "value": 100.54,
+        "icon": "iad-icon:living-area"
+      },
+      {
+        "type": "plot-area",
+        "value": 1025,
+        "icon": "iad-icon:nature"
+      }
+    ],
+    "sourceMediaEvidence": {
+      "hasMedia": true,
+      "defaultGallery": "photo",
+      "photos": [
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af3f42b795253bbee1ef396ac.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af6c65d319bff66be838705c5.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af4c0c87441610b5badb21161.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af37df4113afc47bb08c3034a.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af679e3797b873ac88373c253.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af7070a1dd01f3836f3066784.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af5d3d81c7dc82497ae88b967.png",
+        "https://images.playiad.com/property/broadcast/2026/10/10/01a1261cabb39ae2ebef6b21d18cf076.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af63cdbeb83ccfc470ce6300e.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af4f3b4f02f370e6ff5fadc80.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af47349141bd06769dcd9b234.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af5816776e8378ffcab740a2f.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af6759f4b073053d91c687239.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a08a4a61298a887d4defc7222d6c.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a08b58d9a92386ad5e031d8555fc.png",
+        "https://images.playiad.com/property/broadcast/2026/09/14/01a0a0090a3ab51219d65e21e373ef35.png"
+      ]
+    },
+    "photoCount": 16,
+    "photoUrls": [
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af3f42b795253bbee1ef396ac.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af6c65d319bff66be838705c5.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af4c0c87441610b5badb21161.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af37df4113afc47bb08c3034a.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af679e3797b873ac88373c253.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af7070a1dd01f3836f3066784.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af5d3d81c7dc82497ae88b967.png",
+      "https://images.playiad.com/property/broadcast/2026/10/10/01a1261cabb39ae2ebef6b21d18cf076.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af63cdbeb83ccfc470ce6300e.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af4f3b4f02f370e6ff5fadc80.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af47349141bd06769dcd9b234.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af5816776e8378ffcab740a2f.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af6759f4b073053d91c687239.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a08a4a61298a887d4defc7222d6c.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a08b58d9a92386ad5e031d8555fc.png",
+      "https://images.playiad.com/property/broadcast/2026/09/14/01a0a0090a3ab51219d65e21e373ef35.png"
+    ],
+    "photoReview": [
+      {
+        "number": 1,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af3f42b795253bbee1ef396ac.png",
+        "httpStatus": 200,
+        "sha256": "5c6c0da3bf54c950e32666323a2df6c02ca7034eb6f3356729cd8ef735e28f3d",
+        "observation": "Actual double-basin white sink/wood vanity, gold taps, two mirrored cupboards, dark green wall and herringbone-tile splashback. Completed bathroom finish visible, not independent compliance or waterproofing certificate.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 2,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af6c65d319bff66be838705c5.png",
+        "httpStatus": 200,
+        "sha256": "f0ba1601d4c49be3c699befe404bae90abc57fd8a06bfa5738cc962d9bde62d9",
+        "observation": "Actual bathtub/shower screen, dark herringbone tiles/light grout, recessed shelf and high frosted windows. Decorative tile joints not diagnosed cracks; same bathroom as1.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 3,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af4c0c87441610b5badb21161.png",
+        "httpStatus": 200,
+        "sha256": "283d59314884dfee13d537b2717ff186c10cc5171b6a978b9b63dcffa0f4d7c2",
+        "observation": "Actual separate wood-front kitchen, dark worktop, stone-effect backsplash, black hood/hob/sink, orange wall and wide wood-framed window. Appliances/inventory and functioning unverified.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 4,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af37df4113afc47bb08c3034a.png",
+        "httpStatus": 200,
+        "sha256": "283552165665b50b0feda345019199e8dd5abea768aefa9b16a425cb5b019734",
+        "observation": "Reverse same kitchen, oven/microwave tower, fridge, radiator and frosted rear-kitchen door. No additional bedroom or proven installed laundry facility inferred.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 5,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af679e3797b873ac88373c253.png",
+        "httpStatus": 200,
+        "sha256": "0ae2a08a2669038cc7331204070f7ce771b8aa812927af97d299d3e387381a3b",
+        "observation": "Actual furnished connected living/dining space with round table, black chairs, light wood-pattern floor, broad wood-framed windows and balcony door, brown/blue armchairs. Furniture does not establish tenancy or vacancy.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 6,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af7070a1dd01f3836f3066784.png",
+        "httpStatus": 200,
+        "sha256": "252143a1a6a8582ba5ad06fb7c8b51b6485474b2ba90d220ed0db2c4cc481df2",
+        "observation": "Same main from sitting area, brown armchair, blue chair, wood coffee table, sideboard/table and broad windows/radiators. Coherent single connected main space, no extra room count.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 7,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af5d3d81c7dc82497ae88b967.png",
+        "httpStatus": 200,
+        "sha256": "8fb5ce20fec58ae922a8a81acd12022253f37f0e505100c12131a1daeb10182c",
+        "observation": "Reverse main/dining toward entry sliding opening, grey chairs, round table, sofa/TV and light wood floor. No title, measured area or structural diagnosis inferred.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 8,
+        "url": "https://images.playiad.com/property/broadcast/2026/10/10/01a1261cabb39ae2ebef6b21d18cf076.png",
+        "httpStatus": 200,
+        "sha256": "ecb304d73b72d471d8a2dbb3791cfcab795f44944c95f6b9a6a94500cb9e7450",
+        "observation": "Empty-looking version of same main with fixed opening, pendant lamps, wall art and same floor; apparent digital furniture removal inferred from comparison with7, no legible explicit AI label. Does not establish current vacant possession or override photographed original condition.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false,
+        "isInferredDigitalFurnitureRemoval": true
+      },
+      {
+        "number": 9,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af63cdbeb83ccfc470ce6300e.png",
+        "httpStatus": 200,
+        "sha256": "260dd3ee899f7b746ffb37ca15b0015442b953dbfb532096eb4fe8ec76f8b60a",
+        "observation": "Actual covered balcony, wood corner sofa/grey cushions, green floor covering, planters and patterned privacy screen. Minor surface marks visible, no structural/moisture diagnosis or repair cost; outdoor area not added to100.54m2.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 10,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af4f3b4f02f370e6ff5fadc80.png",
+        "httpStatus": 200,
+        "sha256": "27bb50758a0a06b6b45bfef393111e81386fd363198c2102ee68a80d8da0ec86",
+        "observation": "Source bedroom view, blue walls, double bed/white cover, rope-bridge picture, round mirror and doorway. Distinct from green nursery and neutral office; bedroom exterior opening not shown from this angle, not invented absent.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 11,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af47349141bd06769dcd9b234.png",
+        "httpStatus": 200,
+        "sha256": "1900ed99d3a07dcbee1cf0d729717762ce706d8e725687078834685a52b69e34",
+        "observation": "Different green/white nursery view with cot, rocking chair, storage and wood floor. Infant furniture does not create another dwelling or prove tenancy.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 12,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af5816776e8378ffcab740a2f.png",
+        "httpStatus": 200,
+        "sha256": "7224e6948be731ee126d055ae665dd74ff6eb3bef5ae33150fb36882b912a183",
+        "observation": "Reverse same nursery, actual exterior window/radiator, animal wall decals and changing storage. Same room as11, not fourth bedroom.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 13,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a00af6759f4b073053d91c687239.png",
+        "httpStatus": 200,
+        "sha256": "fe0b97a14cca478dcf708cf290f86e0c05c95e2ba21752ccb1c2899f74472416",
+        "observation": "Different neutral room currently used as office, broad exterior window/radiator, desk and cubby storage. Supports third enclosed source-bedroom space; office use not extra fourth bedroom, dimensions unmeasured. Faint clipped footer not legibly classified as AI; image provenance unverified.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 14,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a08a4a61298a887d4defc7222d6c.png",
+        "httpStatus": 200,
+        "sha256": "d952d85661dbdf5435f3e544d9b9bafd454ea05458c259c3a065a7b589ad5a0d",
+        "observation": "Main window/plants with church/tree/parking outlook. Shared/local outlook not private garden or included parking-space identity.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 15,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a08b58d9a92386ad5e031d8555fc.png",
+        "httpStatus": 200,
+        "sha256": "d34cc5628d5f89e57e10c0c90d421168375ca988360f7de386929592657bf310",
+        "observation": "Another exterior window outlook toward church/trees/roofs. Exact address and walking distances not independently established.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": false
+      },
+      {
+        "number": 16,
+        "url": "https://images.playiad.com/property/broadcast/2026/09/14/01a0a0090a3ab51219d65e21e373ef35.png",
+        "httpStatus": 200,
+        "sha256": "39a9d760ff862f66a1ce98802d824e71a6a5a5ba38d173c5609eced6d4be44fd",
+        "observation": "Advertiser schematic plan labels three bedrooms,connected main, separate kitchen/rear kitchen/laundry, bath,separateWC,corridor/storage and balcony. No scale/measurements independently certified. All16 own entries individually inspected:14 photographic property/outlook views,1 apparent digital empty-room illustration8 and1plan16. Included closedbox and approx15m2cellar remain explicit source facts without own images; no extra living area, AI completion or vacant-possession certificate invented.",
+        "isAgentPromotion": false,
+        "isPropertyMarketingOverlay": false,
+        "isFloorPlan": true
+      }
+    ],
+    "sourceRecheckEvidence": {
+      "url": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-rouen-101m2/r2124454",
+      "httpStatus": 200,
+      "recheckedAt": "2026-10-16T23:35:04.112454+00:00",
+      "primaryFieldsUnchanged": [
+        "description",
+        "prices",
+        "mainSurface",
+        "surfaceList",
+        "roomsCount",
+        "bedroomsCount",
+        "mainFeatures",
+        "secondaryFeatures",
+        "coOwnership",
+        "epcGes",
+        "firstPublishDate",
+        "media",
+        "constructionYear"
+      ],
+      "isContractSigned": false
+    },
+    "reviewStatus": "APPROVED",
+    "notes": "Complete primary description, seller identity and every legal paragraph individually read and preserved verbatim. Every own exposed gallery entry individually visually inspected in source order, related-card media excluded. Earliest known full primary HTTP200 first-seen retained; later collection/recheck separate. Refreshed checked firstpages Le Mans/Angers/Reims/Poitiers/Rennes contained no eligible unreviewed IDs on those pages. Two September29 Rouen primary dates selected before September25 and older after October16 reviewed pending in pass117. No all-page/all-market exhaustion claim. APPROVED_CONVENTIONAL_APARTMENT: fullsellerpaid299000,precise100.54m2/T4/threeexistingbedroomspaces,SECOND WITHlift,1970individualgas. Three sale lots30TOTAL/no proceedings,1460.8annual/source121.73monthly,taxunknown omitted. E254/E55 assessed2026-09-14 indexed2022 costs2140-2950. All16 own entries inspected:14 actual darkgreen doublevanity/bathtub,woodorange separatekit,woodfloor main/brownbluechairs,coveredbalcony,bluebed,greenwindowednursery,neutralwindowedoffice andchurchoutlook views plus1apparent digitalempty main8 (inferred,no legible explicit AI label) and1coherentthreebed plan16. Office is third sourcebedroomspace,not fourth; nurseryreverse not extra room. Furnished/empty photos not legal occupancy evidence. Included privateclosedbox and approx15m2cellar explicitly sourceassertions but unpictured; not added to100.54. Rearkitchen/laundry/separateWC/lift source/planwhereunpictured,no invented missingfacilities. Three active near complete descriptions compared:PAP98fourthtopleftbankcollectivegas3000annualD/17m2terraces+optionalparking;ORPI96.58secondWITHliftT3twobedhypercenter3600annualEE/loggia;Century21 104secondWITHliftVieuxMarche16lots2460annualelectric/twobaths. NonactiveGDC97groundgardenT5/47lots1200annualC146A4/proceedings differfrom100.54secondSaintGervais1970gas30lots1460.8annualE254E55/onebaththreebedsbox. No establishedsameunit or unsupportedwithdrawal. Full wording has no actualtenant,occupiedsale,viager,bare/fractional/timeshare,auction/starting/partialprice,mandatorycommercial/managedlease,ancillaryonly property,houseboat,bot/spam or impossible layout. Actual Rouen localrent and apartmentDVF verified before analysis.",
+    "firstSeenEvidence": {
+      "path": "tmp_root_pass117rouen_iad2124454.firstseen.json",
+      "earliestKnownObservedAt": "2026-10-16T23:17:20.396333+00:00",
+      "fullPrimaryHttpStatus": 200
+    },
+    "dedupeEvidence": {
+      "sourceIdMatchesBeforeReview": 0,
+      "ownImagePathMatchesBeforeReview": 0,
+      "ownImageHashMatchesBeforeReview": 0,
+      "nearCandidatesCompared": [
+        {
+          "url": "https://www.pap.fr/annonces/appartement-rouen-76000-r465002786",
+          "surface": 98.0,
+          "rooms": 4,
+          "floor": 4,
+          "hasElevator": null,
+          "dpe": "D",
+          "price": 21000000
+        },
+        {
+          "url": "https://www.orpi.com/annonce-vente-appartement-t3-rouen-76000-89f631e4-6b60-40a9-8e3a-e2d121573aa7/",
+          "surface": 96.58,
+          "rooms": 3,
+          "floor": 2,
+          "hasElevator": 1,
+          "dpe": "E",
+          "price": 25500000
+        },
+        {
+          "url": "https://www.century21.fr/trouver_logement/detail/17007311044/",
+          "surface": 104.0,
+          "rooms": 4,
+          "floor": 2,
+          "hasElevator": 1,
+          "dpe": null,
+          "price": 27500000
+        }
+      ],
+      "nonActiveNearCandidatesCompared": [
+        {
+          "path": "scripts\\reviewed\\pending\\2026-10-08-expanded-markets-public-pass44.json",
+          "record": {
+            "url": "https://gensdeconfiance.com/fr/ui/post/realestate__sale/6a2d39da-6294-47d2-963d-ea22522248db",
+            "observedAt": "2026-10-08T00:00:00+02:00",
+            "communeCode": "76540",
+            "priceEuros": 237000,
+            "surface": 97,
+            "rooms": 5,
+            "propertyType": "Appartement",
+            "photoUrls": [],
+            "sellerType": "UNKNOWN",
+            "sellerName": "Stéphane",
+            "sourceTitle": "Vends appartement 97m² T5 en RDJ au calme centre ville",
+            "notes": "PENDING — Gens de Confiance public search card showed EUR 237,000, 97 m², 5 rooms, 3 bedrooms, Rouen, posted 'il y a 6 jours'; card link resolves to this GDC UUID. GDC detail route returned HTTP 403, so primary-source full description and photo URLs are unavailable. Strong independent cross-list at https://www.seloger.com/annonces/achat/appartement/rouen-76/170003903.htm (DIEZ IMMOBILIER, agency ref 13262026): same exact title, EUR 237,000, 97 m², 5 rooms, 3 bedrooms, and address context; no exact source ID or GDC UUID found in reviewed evidence/database-export chunks. SeLoger says 9 photos are available but its direct HTML request returned an anti-bot challenge; no photo URLs could be inspected. Cross-list facts only: ground-floor/garden level, no lift information, DPE C/GES A, 47 lots, EUR 1,200 annual charges, and an ongoing coprocedure described as façade work to redo. Keep all these as cross-list facts pending primary-source confirmation; the current procedure and photo unavailability prevent admission. No exact GDC publication date/time exposed.",
+            "reviewStatus": "PENDING_SOURCE_AND_PHOTO_REVIEW",
+            "reviewedAt": "2026-10-08T03:26:09.679353Z",
+            "crossListDescription": "Centre historique de Rouen, entre le musée des beaux arts et la gare, beau T5 rénové par professionnels aux normes (électricité, isolation,fenêtres, murs, sol )en RDJ de 97m² carrez, immeuble sécurisé, au calme. Comprenant: séjour avec parquets cuisine ouverte, salle de bain parquets WC, salle de douche avec WC, 3 chambres. Chauffage individuel. DPE : C 146 KWHep/m² an. GES : A 4 Kg éqco²/m² an. Consommation énergie primaire : 146 kWh/m²/an. Consommation énergie finale : Non communiquée. Ce bien est soumis au statut de la copropriété. Nombre de lots existants: 47 Montant annuel moyen des charges: 1200 euros eau froide incluse. Une procédure en cours. PRIX DE VENTE HONORAIRES INCLUS: 237 000€ TTC HONORAIRES de négociation: 10 000€ TTC (4,4% TTC) inclus à charge acquéreur. PRIX HORS HONORAIRES D'AGENCE: 227 000€ Tarifs et barème des honoraires de négociation de l'agence: ?rub=3 Les informations sur les risques (ERP) auxquels ce bien est exposé sont disponibles sur le site Géorisques : et vous seront fournis lors de la première visite. Diez immobilier depuis 1970. Contact: Stéphane Ferraro"
+          }
+        }
+      ],
+      "resolution": "APPROVED_CONVENTIONAL_APARTMENT: fullsellerpaid299000,precise100.54m2/T4/threeexistingbedroomspaces,SECOND WITHlift,1970individualgas. Three sale lots30TOTAL/no proceedings,1460.8annual/source121.73monthly,taxunknown omitted. E254/E55 assessed2026-09-14 indexed2022 costs2140-2950. All16 own entries inspected:14 actual darkgreen doublevanity/bathtub,woodorange separatekit,woodfloor main/brownbluechairs,coveredbalcony,bluebed,greenwindowednursery,neutralwindowedoffice andchurchoutlook views plus1apparent digitalempty main8 (inferred,no legible explicit AI label) and1coherentthreebed plan16. Office is third sourcebedroomspace,not fourth; nurseryreverse not extra room. Furnished/empty photos not legal occupancy evidence. Included privateclosedbox and approx15m2cellar explicitly sourceassertions but unpictured; not added to100.54. Rearkitchen/laundry/separateWC/lift source/planwhereunpictured,no invented missingfacilities. Three active near complete descriptions compared:PAP98fourthtopleftbankcollectivegas3000annualD/17m2terraces+optionalparking;ORPI96.58secondWITHliftT3twobedhypercenter3600annualEE/loggia;Century21 104secondWITHliftVieuxMarche16lots2460annualelectric/twobaths. NonactiveGDC97groundgardenT5/47lots1200annualC146A4/proceedings differfrom100.54secondSaintGervais1970gas30lots1460.8annualE254E55/onebaththreebedsbox. No establishedsameunit or unsupportedwithdrawal. Full wording has no actualtenant,occupiedsale,viager,bare/fractional/timeshare,auction/starting/partialprice,mandatorycommercial/managedlease,ancillaryonly property,houseboat,bot/spam or impossible layout. Actual Rouen localrent and apartmentDVF verified before analysis."
+    },
+    "hasElevator": true,
+    "analysisCoverageEvidence": {
+      "communeCode": "76540",
+      "year": 2025,
+      "rentSegment": "ALL_APT",
+      "rentM2Pred": 1328,
+      "nbObs": 53222,
+      "actualApartmentDVFSales": 9633,
+      "marketMetric": {
+        "period": "2021-2025",
+        "segment": "APT",
+        "dvfSampleSize": 9633
+      }
+    }
+  }
+]
