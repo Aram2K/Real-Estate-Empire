@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.citya.com/annonces/vente/appartement/angers-49007/TAPP139-967675",
+    "observedAt": "2026-10-17T16:06:12.321Z",
+    "firstSeenAt": "2026-10-17T16:06:12.321Z",
+    "latestFullPageObservedAt": "2026-10-17T16:06:12.321Z",
+    "reviewedAt": "2026-10-17T16:06:12.321Z",
+    "externalId": "TAPP139-967675",
+    "communeCode": "49007",
+    "priceEuros": 129000,
+    "surface": 57.45,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 6,
+    "sellerType": "AGENCY",
+    "sellerName": "Citya Saint-Laud",
+    "sourceTitle": "Appartement T2 57,45 m²",
+    "sourceDescription": "Découvrez dans votre agence Citya ce bel appartement T2 situé au 6ᵉ et dernier étage d’une résidence avec ascenseur. D’une superficie de plus de 57 m², il se compose d’un séjour lumineux offrant un agréable espace de vie, d’une cuisine aménagée, d’une chambre et d’une salle de bains. Son agencement permet également la création d’une seconde chambre tout en préservant un espace séjour confortable. Vous apprécierez son emplacement privilégié, à proximité immédiate de toutes les commodités : commerces, transports en commun, écoles, espaces verts, ainsi qu’un accès rapide à la gare et au centre-ville d’Angers. Une place de stationnement complète ce bien. Pour plus d’informations ou pour organiser une visite, contactez dès maintenant votre agence Citya Saint-Laud. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "publicationDate": null,
+    "publicationDateEvidence": "No publication date or time is exposed on the primary Citya detail page. Ouest-France syndication identifies this reference with 07/10/2026; retained as a secondary-source date only, not treated as a Citya publication timestamp.",
+    "sourcePriceEvidence": {
+      "formattedMain": "129 000 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "Honoraires à la charge du vendeur"
+    },
+    "sourceAttributes": {
+      "floorText": "6ᵉ et dernier étage",
+      "hasElevator": true,
+      "hasElevatorEvidence": "Primary description says the residence has an elevator.",
+      "coOwnershipChargesAnnualEuros": 1643,
+      "taxeFonciereEuros": 1239,
+      "heating": "Gaz individuel",
+      "commune": "Angers",
+      "parking": true,
+      "coOwnershipLots": 117
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 7,
+      "visuallyInspected": false,
+      "reason": "The detail page exposes seven property photos, but their image content has not been individually inspected. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the seven advertised photos individually before trusting the listing. The primary description states one current bedroom; a second bedroom is only possible after reconfiguring the living room."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "The primary Citya detail page was read in full. It presents the whole apartment at €129,000, 57.45 m², two rooms and one existing bedroom, on the sixth/top floor with elevator and a parking space. The text says a second bedroom could be created by changing the layout; this is not recorded as an existing bedroom. No tenancy or occupation is stated in the exposed description. Seven photos are advertised but have not been visually inspected, so the record remains pending and is not marked trusted. Ouest-France syndication reports 07/10/2026, but the primary page exposes no publication timestamp."
+  }
+]
