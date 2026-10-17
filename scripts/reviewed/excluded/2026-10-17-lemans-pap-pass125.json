@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.pap.fr/annonces/appartement-le-mans-72000-r465601550",
+    "observedAt": "2026-10-17T16:36:12.848Z",
+    "firstSeenAt": "2026-10-17T16:36:12.848Z",
+    "latestFullPageObservedAt": "2026-10-17T16:36:12.848Z",
+    "reviewedAt": "2026-10-17T16:36:12.848Z",
+    "externalId": "G56/1550",
+    "portalIdentifier": "r465601550",
+    "communeCode": "72181",
+    "priceEuros": 109500,
+    "surface": 74.06,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "INDIVIDUAL",
+    "sourceTitle": "Vente appartement 3 pièces 74,06 m² Le Mans (72000)",
+    "sourceDescription": "Idéal pour investisseurs.\nAppartement de 74,06 m2\nVendu loué.\nUne entrée avec deux grands placards.\nSalon séjour donnant sur un balcon.\n2 chambres, salle de bain, cuisine aménagée.\nUne place de parking en sous-sol.\nÀ proximité du centre-ville du Mans et de tous les commerces et des écoles.\nChauffage individuel.\nAucun gros travaux à prévoir, uniquement mise aux goûts du jour.\nLoué à l'actuel locataire 642€/mois charges comprises.\nTaxe foncière : 985€/an.\nContacter moi par la messagerie PAP en me laissant vos coordonnées pour nous puissions échanger, et prendre rendez-vous pour une visite.",
+    "publicationDate": "2026-10-16",
+    "publicationTime": null,
+    "publicationDateEvidence": "PAP detail page states: « Réf. : G56/1550 / Publié le 16 octobre 2026 ». No time is exposed.",
+    "sourcePriceEvidence": {
+      "formattedMain": "109.500 €",
+      "wholeApartmentPricePresented": true,
+      "feeEvidence": "PAP describes direct private-owner sale without agency fees."
+    },
+    "sourceAttributes": {
+      "floor": null,
+      "floorEvidence": "No floor information exposed in the full listing text.",
+      "hasElevator": null,
+      "hasElevatorEvidence": "No elevator information exposed in the full listing text.",
+      "currentRentMonthlyIncludingChargesEuros": 642,
+      "taxeFonciereAnnualEuros": 985,
+      "heating": "Chauffage individuel",
+      "parking": "Une place de parking en sous-sol"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 9,
+      "visuallyInspected": false,
+      "reason": "Nine listing images are exposed by PAP, but the apartment photos were not individually inspected. Exclusion is based on explicit current-tenancy wording, not on an inferred visual observation."
+    },
+    "exclusionReasons": [
+      "CURRENTLY_RENTED_OCCUPIED_SALE"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuotes": [
+        "Vendu loué.",
+        "Loué à l'actuel locataire 642€/mois charges comprises."
+      ],
+      "leaseDurationUnexposed": true
+    },
+    "analysisComputed": false,
+    "reviewStatus": "EXCLUDED",
+    "notes": "The full PAP description was read. It identifies a whole 74.06 m² apartment with three rooms and two bedrooms, offered for €109,500, with a basement parking space, balcony, individual heating and €985 annual property tax. PAP explicitly says the property is sold rented and gives current rent of €642/month including charges. Excluded on evidence of a current tenant; lease end date is not exposed. Nine photos are advertised but were not individually inspected, and no visual claims are made. No investment analysis computed."
+  }
+]
