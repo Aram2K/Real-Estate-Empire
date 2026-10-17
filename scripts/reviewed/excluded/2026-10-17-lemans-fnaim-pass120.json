@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://www.fnaim.fr/annonce-immobiliere/52807689/4333-acheter-appartement-le-mans-72100.htm",
+    "observedAt": "2026-10-17T13:51:10.070Z",
+    "httpStatus": null,
+    "externalId": "TAPP140-949515",
+    "firstSeenAt": "2026-10-17T13:51:10.070Z",
+    "reviewedAt": "2026-10-17T13:51:10.070Z",
+    "communeCode": "72181",
+    "priceEuros": null,
+    "sourceAggregatePriceEuros": 73000,
+    "surface": 20,
+    "rooms": 1,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "hasElevator": false,
+    "sellerType": "AGENCY",
+    "sellerName": "Citya Plantagenêt",
+    "sourceTitle": "Achat Appartement 1 pièce 20m² LE MANS 72100",
+    "sourceDescription": "Nous vous proposons un T1 lumineux de 20 m², idéalement situé dans un petit immeuble construit en 1988, au 2ᵉ étage, à deux pas du port du Mans et de l'Île aux Planches.\nActuellement loué meublé, le bien génère un loyer mensuel de 374 €, ce qui en fait un excellent investissement. Il se compose d'une pièce de vie très agréable, dotée d'un placard intégré, d'un coin cuisine fonctionnel, d'une salle de douches et d'un WC séparé.\nL'environnement est particulièrement attractif : calme, tout en étant très bien desservi. Le réseau SETRAM met à disposition tramway et bus pour vos déplacements quotidiens.\nLa ligne de tram T1 passe à proximité (Arrêt Lafayette à 11 minutes à pied), offrant des liaisons rapides vers les quartiers centraux.\nDe plus, un réseau important de bus complète l'offre de transport urbain.\nCôté commodités, le secteur profite d'une vie de quartier très agréable : commerces de proximité, boutiques, cafés et restaurants se trouvent à quelques minutes à pied. La célèbre rue des Minimes (14 minutes à pied), très commerçante, est accessible facilement et offre des enseignes variées et un vrai esprit centre-ville.\nEn résumé, ce T1 constitue une opportunité rare : emplacement de choix et bonne qualité de vie.\nContactez nous rapidement chez CITYA PLANTAGENET pour organiser une visite ou obtenir plus d'informations.",
+    "publicationDate": null,
+    "publicationDateEvidence": "No publication date/time exposed on the opened search evidence. Castorus' search listing showed an observation/listing date of 17/10/2026; this is not treated as a publisher-issued publication timestamp.",
+    "photoCount": 2,
+    "photoUrls": [],
+    "reviewStatus": "EXCLUDED",
+    "exclusionReasons": [
+      "CURRENT_TENANT_DISCLOSED",
+      "FULL_PURCHASE_PRICE_NOT_EXPOSED_BY_PRIMARY_SOURCE"
+    ],
+    "notes": "New source ID/ref TAPP140-949515 surfaced in current Le Mans results, with an exact-ID local evidence search returning no match. The FNAIM detail search result labels the publisher price 'Nous consulter pour le prix' and describes the studio as currently rented furnished at EUR 374 per month. Castorus has a distinct matching listing record at EUR 73,000; that third-party aggregate amount is preserved for comparison only and is not asserted as the primary publisher's full price. Because the ad explicitly says 'Actuellement loué meublé', it is excluded regardless of price. The FNAIM result exposed two image thumbnails; direct page and image fetches returned Cache miss, so photos were not visually inspected. No trusted import, yield calculation, or DVF/rent analysis was made. Publisher publication date/time, charges, DPE and address are not inferred. The FNAIM source text was normalized from the search result's visible mojibake for readability; the explicit factual clauses and measurements are retained.",
+    "sourcePriceEvidence": {
+      "primaryDisplayedText": "Nous consulter pour le prix",
+      "aggregateDisplayedPriceEuros": 73000,
+      "aggregateUrl": "https://www.castorus.com/annonce/le-mans-72100/ref162415464",
+      "priceDecision": "Do not use aggregate value as confirmed full publisher price."
+    },
+    "sourcePhotoEvidence": {
+      "galleryImagesExposed": 2,
+      "visualReviewStatus": "NOT_COMPLETED",
+      "accessEvidence": "FNAIM page and Castorus detail returned Cache miss when opened; source photo contents were not visually inspected. Exclusion rests on the explicit furnished-tenancy disclosure and the primary page's lack of a displayed price."
+    }
+  }
+]
