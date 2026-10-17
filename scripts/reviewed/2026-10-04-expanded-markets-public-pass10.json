@@ -2,6 +2,7 @@
   {
     "url": "https://www.pap.fr/annonces/appartement-angers-49000-r465300259",
     "observedAt": "2026-10-04T21:10:00+02:00",
+    "latestObservedAt": "2026-10-17T15:06:11.300Z",
     "communeCode": "49007",
     "priceEuros": 225000,
     "surface": 63,
@@ -10,9 +11,11 @@
     "floor": 0,
     "hasElevator": true,
     "dpe": "D",
-    "publicationDate": "2026-09-24",
+    "publicationDate": "2026-10-17",
+    "previousPublicationDate": "2026-09-24",
     "photoCount": 6,
     "sellerType": "INDIVIDUAL",
-    "notes": "PAP reference G53/0259. Current live private-owner advert for a whole three-room apartment in Angers, within the configured Angers commune allowlist. PAP exposes the full EUR 225,000 price, 63 m2, three rooms and two bedrooms. The complete description places it on the ground floor of a four-storey 1993 building with a lift and PMR access, and describes a 29 m2 living space with fitted open kitchen, two bedrooms, shower room with laundry area, separate WC, terrace, parking place and a 17 m2 basement box. It states individual electric heating, DPE D and GES B; only DPE is stored because the reviewed-record schema does not accept GES independently. PAP exposes six current property photos and publication on 24 September 2026. The advert explicitly asks agencies not to contact the owner and contains no tenant, lease, occupied-sale, delayed-vacancy, managed or commercial lease, or special ownership wording. No unexposed charges, tax, seller name, exact address or other facts are inferred."
+    "latestSourceDescription": "Appartement de 3 pièces de 63 m² situé au rez-de-chaussée d'un immeuble de 4 étages, à Angers, entre la place Lafayette et l'ESA. Construite en 1993, cette propriété offre un espace de vie fonctionnel et bien aménagé. Il comprend 2 chambres et 1 salle de bain. La cuisine équipée s'ouvre sur le séjour, offrant une belle luminosité grâce à ses accès directs vers l'extérieur. L'appartement bénéficie d'une exposition Est pour le séjour et les chambres sont orientées à l'Ouest. Très bon état général. Terrasse. 1 place de parking. Ascenseur. Construction récente. La pièce de vie fait 29 m². Cuisine américaine aménagée. 2 chambres lumineuses. 1 salle de douche avec espace lingerie. 1 WC indépendant. Chauffage électrique. À quelques minutes à pied : UCO, écoles, bus, tramway, Gare. Sous-sol avec un box de 17 m2. Accès PMR (personnes à mobilité réduite). Environnement très calme. Chauffage électrique individuel. Classe énergie D - Classe climat B. Agence s'abstenir.",
+    "notes": "PAP reference G53/0259. Current live private-owner advert for a whole three-room apartment in Angers, within the configured Angers commune allowlist. PAP exposes the full EUR 225,000 price, 63 m2, three rooms and two bedrooms. The complete description places it on the ground floor of a four-storey 1993 building with a lift and PMR access, and describes a 29 m2 living space with fitted open kitchen, two bedrooms, shower room with laundry area, separate WC, terrace, parking place and a 17 m2 basement box. It states individual electric heating, DPE D and GES B; only DPE is stored because the reviewed-record schema does not accept GES independently. PAP exposed six property photos and publication on 24 September 2026 at the 2026-10-04 review. Search results from PAP observed on 2026-10-17 now expose publication on 17 October 2026 and the same EUR 225,000 ask and source ID; detail-page retrieval returned Cache miss, so preserve both dates without inferring whether this was a repost. Publication time is not exposed. No photo was visually inspected in this refresh; the existing photo count refers to the earlier detail-page review only. The advert explicitly asks agencies not to contact the owner and contains no tenant, lease, occupied-sale, delayed-vacancy, managed or commercial lease, or special ownership wording. No unexposed charges, tax, seller name, exact address or other facts are inferred."
   }
 ]
