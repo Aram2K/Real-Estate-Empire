@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-rouen-18m2/r2120198",
+    "observedAt": "2026-10-17T14:21:10.579Z",
+    "httpStatus": 200,
+    "externalId": "2120198",
+    "firstSeenAt": "2026-10-17T14:21:10.579Z",
+    "latestFullPageObservedAt": "2026-10-17T14:21:10.579Z",
+    "reviewedAt": "2026-10-17T14:21:10.579Z",
+    "communeCode": "76540",
+    "priceEuros": 75000,
+    "surface": 18.24,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "sellerType": "AGENCY",
+    "sellerName": "IAD France — Nathan Sorel",
+    "sourceTitle": "Studio à Rouen (76000)",
+    "sourceDescription": "Studio 18 m² – Rouen Hypercentre (quartier Beauvoisine) iad France - Nathan Sorel vous propose : Studio meublé de 18,24 m² – Emplacement recherché au cœur du centre historique de Rouen. Idéal pour un premier investissement locatif ! Situé quartier Beauvoisine, au rez-de-chaussée d'un immeuble à colombages typique, cet appartement bénéficie d'une localisation stratégique à proximité immédiate de la Gare, des lignes de TEOR et des universités. Caractéristiques du bien : - Surface : 18,24 m² Carrez.\n- Pièce de vie lumineuse. - Coin cuisine équipé et aménagé. - Salle d'eau avec WC. - Vendus meublé. - DPE : Classe C (très bon classement énergétique pour le centre historique). Copropriété & Travaux : - Aucun travaux à prévoir : Réhabilitation complète de la toiture et ravalement de la façade en cours d'achèvement, entièrement payés par le vendeur. Côté investissement : - Actuellement loué : 480 € / mois CC. - Taux d'occupation optimal grâce à la forte demande du secteur.\nUne belle opportunité locative clef en main au centre-ville de Rouen. Envie d'en savoir plus ou d'organiser une visite ? Contactez-moi dès maintenant ! --------------------------------------------------- La presente annonce immobiliere vise 1 lot situé dans une copropriété de 7 lots au total et ne faisant l'objet d'aucune procédure en cours citée à l'article L. 721-1 du code de la construction et de l'habitation. Montant moyen mensuel de charges déclaré par le vendeur : 78€ par mois (soit 936 € annuel). Honoraires d'agence à la charge du vendeur. La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr. La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Nathan Sorel mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Rouen sous le numéro 931160956, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+    "publicationDate": null,
+    "publicationDateEvidence": "No publication date/time exposed on the full detail page inspected.",
+    "dpe": "C",
+    "chargesAnnualEuros": 936,
+    "hasElevator": null,
+    "photoEvidence": {
+      "advertisedPhotoCount": 3,
+      "visuallyInspected": false,
+      "reason": "Listing excluded on explicit occupied/tenanted-sale wording; visual claims were not made."
+    },
+    "exclusionReasons": [
+      "CURRENT_TENANT_OCCUPIED_SALE"
+    ],
+    "exclusionEvidence": {
+      "exactSourceQuote": "Actuellement loué : 480 € / mois CC.",
+      "sourceLeaseDurationUnexposed": true,
+      "sourceLeaseChargeSplitUnexposed": true
+    }
+  }
+]
