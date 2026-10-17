@@ -2,6 +2,7 @@
   {
     "url": "https://www.pap.fr/annonces/appartement-rouen-76-r465301760",
     "observedAt": "2026-09-21T03:45:00+02:00",
+    "latestFullPageObservedAt": "2026-10-17T14:51:11.104Z",
     "communeCode": "76540",
     "priceEuros": 185000,
     "surface": 70,
@@ -18,7 +19,7 @@
     "url": "https://www.pap.fr/annonces/appartement-rouen-76000-r465300673",
     "observedAt": "2026-09-21T03:45:00+02:00",
     "communeCode": "76540",
-    "priceEuros": 400000,
+    "priceEuros": 379000,
     "surface": 110,
     "rooms": 4,
     "propertyType": "Appartement",
@@ -26,10 +27,10 @@
     "hasElevator": true,
     "dpe": "D",
     "chargesAnnualEuros": 4800,
-    "publicationDate": "2026-09-16",
+    "publicationDate": "2026-10-16",
     "photoCount": 11,
     "sellerType": "INDIVIDUAL",
-    "notes": "PAP reference G53/0673. Private-owner four-room apartment on the fourth floor with lift in the Art Deco Le Métropole building beside Rouen Rive-Droite station. The advert describes a 34 m2 double living room, separate fitted kitchen, three bedrooms, Italian shower room, bathroom, separate WC, 4 m2 cellar and bicycle room. A nearby garage lease may be taken over but is not included as a property share. It states a 31-lot condominium, no ongoing proceedings, approximately EUR 400 monthly charges including collective heating, hot water, lift and common-area upkeep, and DPE/GES D. PAP exposed 11 property image links; individual image URLs were not retained. The full detail page was available when reviewed."
+    "notes": "PAP reference G53/0673. Private-owner four-room apartment on the fourth floor with lift in the Art Deco Le Métropole building beside Rouen Rive-Droite station. The advert describes a 34 m2 double living room, separate fitted kitchen, three bedrooms, Italian shower room, bathroom, separate WC, 4 m2 cellar and bicycle room. A nearby garage lease may be taken over but is not included as a property share. It states a 31-lot condominium, no ongoing proceedings, approximately EUR 400 monthly charges including collective heating, hot water, lift and common-area upkeep, and DPE/GES D. PAP exposed 11 property image links; individual image URLs were not retained. The full detail page was available when reviewed. Rechecked the same source ID on 2026-10-17: PAP now exposes EUR 379,000 (previous stored ask EUR 400,000) and publication date 2026-10-16 (previous stored date 2026-09-16); cause of the date change is unknown. Current full wording: Idéalement situé à deux pas de la gare de Rouen Rive-Droite (à 1h15 de Paris St-Lazare), découvrez ce superbe appartement de 110 m², situé au 4ème étage avec ascenseur du célèbre immeuble Art déco « Le Métropole ». Alliant le charme de l'ancien, de superbes volumes baignés de lumière et des aménagements soignés, ce bien offre un cadre de vie particulièrement confortable au quotidien, combinant l'animation du centre-ville, l'accès immédiat aux transports et la sérénité des étages élevés. Avec sa vue plongeante sur la cathédrale depuis la chambre principale, il a tout d'un appartement coup de cœur. Une entrée spacieuse accueille les visiteurs et distribue harmonieusement l'ensemble des pièces, à commencer par un vaste double séjour très lumineux (salon et salle à manger), sublimé par un authentique parquet en point de Hongrie d'origine, une cheminée et des moulures Art déco. La cuisine séparée, entièrement aménagée et équipée, offre un espace fonctionnel et moderne avec ses plans de travail et crédences en inox conçus dans le style des cuisines professionnelles. Elle communique avec un grand couloir agrémenté de briques de verre. L'espace nuit propose trois belles et grandes chambres, dont un magnifique espace parental offrant une vue dégagée sur les toits de Rouen, sa cathédrale et le Donjon. Les pièces d'eau se composent de WC séparés, d'une salle de douche à l'italienne ainsi que d'une salle de bains avec baignoire. Annexes & stationnement : Cave privative saine de 4 m² en sous-sol. Local vélos / poussettes au sein de l'immeuble. Stationnement : possibilité de reprise de bail pour un garage fermé (box sécurisé) situé à 5 minutes à pied, boulevard de l'Yser. Vie de quartier, familles et commodités immédiates : Au rez-de-chaussée et au pied de l'immeuble : le café-restaurant historique « Le Métropole », primeur, boulangeries et commerces de bouche. Tout le centre historique, musées, théâtres et rues piétonnes à quelques minutes. Proximité immédiate de plusieurs parcs et squares avec aires de jeux, crèches et écoles réputées accessibles à pied. Accès direct aux quais de la gare en 2 minutes à pied. Transports au pied de l'immeuble (métro, Teor, bus). DPE + GES en D. Current page exposed 11 photo links; their individual URLs returned cache misses on this pass, so no new visual verification claim is made. Existing review remains based on earlier observed listing evidence; no unsupported conclusion is drawn from inaccessible images."
   },
   {
     "url": "https://www.pap.fr/annonces/appartement-rouen-76000-r465202887",
