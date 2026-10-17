@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296315764A1KIVHAP000",
+    "observedAt": "2026-10-17T15:36:11.887Z",
+    "firstSeenAt": "2026-10-17T15:36:11.887Z",
+    "latestFullPageObservedAt": "2026-10-17T15:36:11.887Z",
+    "reviewedAt": "2026-10-17T15:36:11.887Z",
+    "externalId": "830039179235",
+    "portalIdentifier": "1296315764A1KIVHAP000",
+    "communeCode": "72181",
+    "priceEuros": 82000,
+    "surface": 31,
+    "rooms": 1,
+    "bedrooms": 0,
+    "propertyType": "Appartement",
+    "floor": 4,
+    "sellerType": "AGENCY",
+    "sellerName": "Optimhome — Sébastien Wacquez",
+    "sourceTitle": "Appartement T1 bis de 31 m² – Résidence Médicis – Centre ville",
+    "sourceDescription": "Un emplacement pratique, de faibles charges et un appartement bien agencé : une belle opportunité à découvrir !\nAu sein de la résidence Médicis, rue Barbier au Mans, découvrez ce T1 bis de 31 m², idéalement situé pour profiter de la ville au quotidien.\nSon véritable atout ? Son emplacement ! À proximité du centre ville, du tramway, des commerces et des services publics, tout est réuni pour faciliter les déplacements et la vie de tous les jours.\nL'appartement propose une distribution fonctionnelle avec une entrée, une cuisine indépendante, une pièce principale de 18 m² permettant d'aménager un espace salon et nuit, ainsi qu'une salle de bains avec WC. Un placard complète l'ensemble.\nLa résidence dispose d'un accès sécurisé par double code.\nCharges de copropriété : 744 €/an\nTaxe foncière : 800 €/an\nChauffage électrique\nQue vous recherchiez votre premier appartement, un pied-à-terre au Mans ou un investissement locatif, ce T1 bis mérite votre attention.\nUn appartement bien situé, facile à envisager pour différents projets.",
+    "publicationDate": null,
+    "publicationDateEvidence": "No original publication timestamp exposed. The detail search result reports Mise à jour 16/10/2026 à 13:11; the search-result capture itself was dated 17/10/2026. These are kept as observation/update facts, not converted into an original publication date.",
+    "lastUpdatedAt": "2026-10-16T13:11:00",
+    "sourcePriceEvidence": {
+      "formattedMain": "82 000 €",
+      "wholeApartmentPricePresented": true
+    },
+    "sourceAttributes": {
+      "floorText": "Etage : 4",
+      "hasElevator": null,
+      "hasElevatorEvidence": "Not stated in the full search-indexed detail excerpt.",
+      "coOwnershipChargesAnnualEuros": 744,
+      "coOwnershipChargesEvidence": [
+        "ParuVendu full-detail indexed text: Charges de copropriété : 744 €/an.",
+        "Optimhome full detail: Charges de copropriété : 744 €/an; later copropriété quote says budget prévisionnel 800 €/an, approximately 66 €/month."
+      ],
+      "coOwnershipChargesConflict": "The same Optimhome page quotes both 744 €/year and a copropriété budget of 800 €/year; retain both pending clarification.",
+      "taxeFonciereEuros": 800,
+      "heating": "Chauffage électrique",
+      "dpe": "C",
+      "dpeConsumption": 86,
+      "ges": "C",
+      "gesEmissions": 6,
+      "dpeDate": "2026-10-15",
+      "energyCostEstimateEuros": 650,
+      "commune": "Le Mans",
+      "neighborhoodAddress": "Résidence Médicis, rue Barbier"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 9,
+      "visuallyInspected": false,
+      "reason": "Nine photos are advertised and listing thumbnails are exposed, but opening the full detail page returned a cache miss and image actions did not return inspectable image content. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "ELEVATOR_STATUS_UNEXPOSED",
+      "COPROPRIETE_CHARGES_CONFLICT"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the advertised photos individually, establish whether the fourth-floor unit has elevator access, and confirm the annual charges because the source quotes both €744 and €800 per year."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "The Optimhome full detail and ParuVendu search-indexed detail text were reviewed and preserved; the ParuVendu detail URL returned Cache miss, while Optimhome full detail opened. Apartment type, price €82,000, 31 m², one room/T1 bis, fourth floor of a five-floor building, whole-property sale, seller agency and no tenancy wording in the exposed description recorded. The Optimhome source gives inconsistent annual charges (€744 and €800). It remains pending because photo evidence could not be visually inspected, elevator status is unexposed and charges conflict; it is not marked trusted. Source update time and crawl observation are not asserted as original publication time. No adverse claim or local analysis made."
+  }
+]
