@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://immobilier.lefigaro.fr/annonces/annonce-109988519.html",
+    "observedAt": "2026-10-18T23:41:21.300Z",
+    "firstSeenAt": "2026-10-18T23:41:21.300Z",
+    "latestFullPageObservedAt": "2026-10-18T23:41:21.300Z",
+    "reviewedAt": "2026-10-18T23:41:21.300Z",
+    "externalId": "IMBX/227058TP-2000024574--71-227058TP",
+    "portalIdentifier": "109988519",
+    "syndicatedExternalId": "227058TP",
+    "communeCode": "49007",
+    "priceEuros": 147000,
+    "surface": 31.82,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "floorEvidence": "Advertised as « au 2ème étage »; a matching Logic-Immo result gives étage 2/3. Elevator status is not stated in the captured description.",
+    "sellerType": "AGENCY",
+    "sellerName": "Tony Piriou Immo — 3G IMMO-CONSULTANT",
+    "sourceTitle": "Vente appartement 2 pièces 31 m² à Angers (49000), 147 000 €",
+    "sourceDescription": "Tony Piriou Immo - 3G Immobiier. Situé dans le quartier de la rue Saint Jacques à Angers, proche du Parc de la Garennes et de l'université, je vous invite à découvrir cet appartement T2 restauré de 31.82 m², au 2ème étage, vendu libre (sans locataire en place). Il est inscrit dans une copropriété d'un petit immeuble composé de 8 logements gérés par un syndic. Le logement vous offrira une cuisine équipée, une salle d'eau avec wc, un salon puis une chambre avec verrière et dressing. L'immeuble est sécurisé par un badge d'accès et interphone. Vous disposerez d'un local vélo commun. Des travaux de restauration des parties communes ont été votés à la dernière assemblée générale et seront financés par le vendeur. Les plus de l'appartement : bonne situation en retrait de la circulation, ouvertures double vitrage, radiateurs à inertie sèche (chauffage individuel), isolation et électricité et VMC refaites, cuisine équipée récente, sols en parquet, exposition Sud/Ouest, logement classé C. N'hésitez pas à me contacter pour tout renseignement ou souhait de visite. Nombre de lots de la copropriété : 8. Honoraires de 5 % TTC inclus à la charge de l'acquéreur (140 000 € hors honoraires). Votre agent commercial 3G IMMO sur place EI — Tony PIRIOU inscrit au RSAC d'ANGERS n° 803 503 028. Réf. 227058TP - 06/10/2026.",
+    "publicationDate": null,
+    "publicationDateEvidence": "The current Figaro page says « Parue il y a moins de 24h » but exposes no exact publication datetime. A matching ParuVendu listing with ref. 227058TP shows « Mise à jour 06/10/2026 à 23:17 »; this syndicated historical update is not treated as the Figaro publication date.",
+    "lastUpdatedAt": null,
+    "sourcePriceEvidence": {
+      "formattedMain": "147 000 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "The matching full-text syndicated description says 5% TTC buyer-paid fees are included; €140,000 before fees. The displayed full amount is €147,000.",
+      "priceConflict": null
+    },
+    "sourceAttributes": {
+      "floorText": "2nd floor; corroborating listing card says floor 2/3",
+      "hasElevator": null,
+      "hasElevatorEvidence": "No elevator fact is exposed for this second-floor unit in the captured listing text.",
+      "heating": "Individual electric, dry-inertia radiators",
+      "coOwnershipLots": 8,
+      "commune": "Angers",
+      "neighborhood": "Rue Saint-Jacques, near Parc de la Garenne and the university",
+      "ancillary": "Shared bicycle room"
+    },
+    "energyEvidence": {
+      "dpe": "C",
+      "dpeConsumption": "128 kWh/m²/year",
+      "ges": "4 kgCO₂/m²/year",
+      "diagnosticDate": "2026-09-28",
+      "annualEnergyCostEstimate": "€481–€651"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 6,
+      "visuallyInspected": false,
+      "reason": "The Figaro, Logic-Immo and ParuVendu cards advertise six photos, but image contents were not individually available for visual inspection. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "ELEVATOR_STATUS_UNEXPOSED",
+      "EXACT_PUBLICATION_DATETIME_UNEXPOSED",
+      "FULL_FIGARO_DETAIL_PAGE_CACHE_MISS"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the six images individually, confirm elevator status and the exact publication date/time on the live Figaro page, and verify that this portal repost is still available."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "A new Figaro portal record was observed, reference IMBX/227058TP-2000024574--71-227058TP (portal 109988519). It appears to syndicate the 3G IMMO advertiser reference 227058TP, also found in earlier ParuVendu and OuestFrance indexing, but that source identifier was absent from the reviewed-record archive during this deduplication pass. The listing describes a 31.82 m² renovated T2 in Angers near Rue Saint-Jacques, one bedroom, second floor, no tenant in place, eight co-ownership apartments, shared bike room, individual electric heating, double glazing, refurbished electrical system/VMC, voted common-area restoration funded by seller, and DPE C (128 kWh/m²/year; GES 4; diagnostic 28/09/2026; annual energy estimate €481–€651). Figaro displays €147,000; the matching full text says that includes 5% buyer-paid fees (€140,000 before fees). Figaro only exposes a relative freshness label, « Parue il y a moins de 24h »; the exact original publication datetime remains unknown. The syndicated ParuVendu page has an older update dated 06/10/2026 23:17 and is recorded only as history. Six photos are advertised but could not be visually inspected. The captured text has no evidence of viager, bare ownership, fractional ownership, timeshare, auction, starting price, commercial/managed lease or occupancy. Floor is stated; elevator status is unknown. The property remains pending; no rent/DVF analysis computed."
+  }
+]
