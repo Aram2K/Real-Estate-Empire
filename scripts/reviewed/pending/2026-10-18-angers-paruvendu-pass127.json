@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.paruvendu.fr/immobilier/vente/appartement/1296375361A1KIVHAP000",
+    "observedAt": "2026-10-18T20:56:17.962Z",
+    "firstSeenAt": "2026-10-18T20:56:17.962Z",
+    "latestFullPageObservedAt": "2026-10-18T20:56:17.962Z",
+    "reviewedAt": "2026-10-18T20:56:17.962Z",
+    "externalId": "DZRABBI77004214",
+    "portalIdentifier": "1296375361A1KIVHAP000",
+    "communeCode": "49007",
+    "priceEuros": 318900,
+    "surface": 64.7,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "sellerType": "AGENCY",
+    "sellerName": "BLG IMMOBILIER",
+    "sellerAgencyAddress": "Agency address shown as Paris 75012; listing locality is Angers 49100.",
+    "sourceTitle": "Vente Appartement 3 pièces 64 m² Angers (49100)",
+    "sourceDescription": "Retour à la vente\nSitué , au sein d'une résidence contemporaine à l'architecture soignée, ce bien de 3 pièces développe une surface de 64.7 m² et offre un cadre de vie pensé pour conjuguer confort, fonctionnalité et qualité de vie au quotidien.\nL'agencement intérieur a été étudié avec attention afin de proposer des volumes équilibrés et une circulation agréable. Le logement comprend une entrée, un séjour lumineux avec cuisine ouverte, idéal pour partager des moments conviviaux dans un espace de vie moderne et chaleureux.\nLes prestations ont été sélectionnées avec exigence afin d'assurer un niveau de confort durable : matériaux de qualité, optimisation de la lumière naturelle, conception tournée vers le bien-être des occupants et respect des dernières normes en vigueur.\nCôté extérieur, vous profitez de :\nun jardin de de 85 m² m²\nun parking inclus\nLa résidence bénéficie d'un emplacement pratique, à proximité immédiate des commerces, transports, établissements scolaires, services et principaux axes de déplacement, tout en conservant un environnement agréable et recherché. Cet équilibre entre accessibilité et sérénité en fait une adresse particulièrement adaptée à un projet de résidence principale comme à un investissement de qualité.\nDisponibilité prévisionnelle : T4 2026.\nCe bien répond aux dernières normes environnementales RE2020. Le bâtiment basse consommation bénéficie d'un DPE A/B, garantissant une meilleure maîtrise des dépenses énergétiques ainsi qu'un confort thermique optimal été comme hiver.\nLes frais de notaire sont réduits, ce qui constitue un avantage supplémentaire dans le cadre d'une acquisition en résidence principale comme pour un investissement patrimonial.\nPlans, informations complémentaires et rendez-vous disponibles sur demande.\nPhotos de synthèse non contractuelles, illustrations d'ambiance.\nJe reste à votre disposition 7 jours sur 7 pour toute information complémentaire.\nMr Atlan Daniel: 06/28/83/58/46",
+    "publicationDate": null,
+    "publicationDateEvidence": "Original publication date/time is not exposed. ParuVendu detail states « Mise à jour 18/10/2026 à 13:44 »; retained as an update timestamp only.",
+    "lastUpdatedAt": "2026-10-18T13:44:00",
+    "sourcePriceEvidence": {
+      "formattedMain": "318 900 €",
+      "wholeApartmentPricePresented": true,
+      "context": "The page presents a specific 3-room/64 m² apartment with garden and parking at this displayed price; no partial-price wording was exposed."
+    },
+    "sourceAttributes": {
+      "surfaceStructuredSquareMetres": 64,
+      "surfaceDescriptionSquareMetres": 64.7,
+      "gardenSquareMetres": 85,
+      "floor": null,
+      "floorEvidence": "No floor stated in the exposed description or structured facts.",
+      "hasElevator": null,
+      "hasElevatorEvidence": "Elevator status is not exposed.",
+      "parking": true,
+      "availability": "Prévisionnelle T4 2026",
+      "buildingType": "Contemporary/new-build residence; RE2020 stated",
+      "dpeStructured": "NC",
+      "dpeNarrative": "Text claims DPE A/B; conflict retained unresolved.",
+      "energyImageDisclaimer": "Photos de synthèse non contractuelles, illustrations d'ambiance."
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": null,
+      "visuallyInspected": false,
+      "reason": "The source explicitly labels its visuals as non-contractual summary illustrations, not property photos. The indexed page does not provide an inspectable image set/count. No visual claims are made."
+    },
+    "pendingReasons": [
+      "ILLUSTRATION_MEDIA_NOT_PROPERTY_EVIDENCE",
+      "DPE_CONFLICT",
+      "FLOOR_AND_ELEVATOR_UNEXPOSED",
+      "NEW_BUILD_UNIT_DETAILS_INCOMPLETE"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Request the unit plan and building floor/lift details, verify that the stated €318,900 is the full price for this unit including the 85 m² garden and parking, and reconcile the structured DPE NC with the narrative A/B claim. Listing visuals are expressly non-contractual illustrations, so they cannot substantiate the completed apartment's condition."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "The full indexed ParuVendu description was preserved after opening the detail URL returned a cache miss. The listing is for an Angers 3-room apartment: 64 m² structured / 64.7 m² in prose, two bedrooms, displayed whole-unit price €318,900, a stated 85 m² garden and parking. It says availability is expected in Q4 2026 and the residence meets RE2020; the structured DPE is NC while narrative copy claims A/B. It expressly states the photos are non-contractual summary illustrations. No actual listing-photo content was available for visual inspection. Floor and elevator are unexposed. The listing remains pending; no energy, yield or local rent analysis was computed. The agency's Paris address is not treated as the property's department; the unit is identified as Angers 49100."
+  }
+]
