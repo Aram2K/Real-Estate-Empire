@@ -1,0 +1,64 @@
+[
+  {
+    "url": "https://groupemonassier-reims.notaires.fr/annonce/vente-appartements-0000012644_51046-2728/",
+    "observedAt": "2026-10-18T23:26:20.992Z",
+    "firstSeenAt": "2026-10-18T23:26:20.992Z",
+    "latestFullPageObservedAt": "2026-10-18T23:26:20.992Z",
+    "reviewedAt": "2026-10-18T23:26:20.992Z",
+    "externalId": "51046-2728",
+    "portalIdentifier": "0000012644_51046-2728",
+    "communeCode": "51454",
+    "priceEuros": 200000,
+    "surface": 67.0,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 3,
+    "floorEvidence": "Primary listing says « au 3 ème et dernier étage ». The syndicated ParuVendu structured listing states floor 3 and elevator access, but the primary notary text does not mention an elevator.",
+    "sellerType": "NOTARY",
+    "sellerName": "SELARL THIENOT ET ASSOCIES",
+    "sourceTitle": "Appartement 3 pièces 67.0 m² — Reims (51100), quartier Dauphinot",
+    "sourceDescription": "A VENDRE APPARTEMENT REIMS, Marne(51), quartier Dauphinot, promenade du peignage, dans une résidence construite en 2008, au 3 ème et dernier étage, un appartement 3 pièces comprenant une entrée, un wc, un salon de 25 m² sol en parquet avec une cuisine ouverte équipée, une terrasse de 13 m², un dégagement distribuant deux chambres de 11 m² et 10, 36 m², une salle de bains avec douche et vasque. Une cave. Chauffage individuel électrique, fenêtres en pvc double vitrage. Classe énergie : D.",
+    "publicationDate": null,
+    "publicationDateEvidence": "The primary notary page exposes « Mis à jour : 17.10.2026 », not the original publication datetime. A matching LeSiteImmo syndication states published 16 October 2026; ParuVendu reports updated 18/10/2026 at 01:01. These are retained only as secondary-source publication/update evidence.",
+    "lastUpdatedAt": "2026-10-17",
+    "sourcePriceEvidence": {
+      "formattedMain": "200 000 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "Negotiation fees payable by seller.",
+      "priceConflict": null
+    },
+    "sourceAttributes": {
+      "floorText": "3rd and top floor",
+      "hasElevator": null,
+      "hasElevatorEvidence": "The primary notary page does not state elevator status. ParuVendu syndication states elevator access; this secondary-source fact is not merged into primary attributes.",
+      "heating": "Individual electric",
+      "coOwnershipLots": null,
+      "commune": "Reims",
+      "neighborhood": "Dauphinot, Promenade du Peignage",
+      "ancillary": "13 m² terrace; cave; no garage"
+    },
+    "energyEvidence": {
+      "dpe": "D",
+      "dpeConsumption": "211 kWhEP/m²/year",
+      "ges": "8 kgCO₂/m²/year",
+      "diagnosticDate": "2026-10-15"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 8,
+      "visuallyInspected": false,
+      "reason": "ParuVendu and Immonot syndications advertise eight photos, but the primary notary detail page returned a cache miss and no individual image files were available for visual inspection. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "ELEVATOR_STATUS_UNEXPOSED_ON_PRIMARY_SOURCE",
+      "PRIMARY_DETAIL_PAGE_CACHE_MISS"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect all eight listing images individually; confirm whether the building has an elevator and verify that the listing remains available on the live primary page."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "New notary source identifier 51046-2728, absent from existing reviewed records at deduplication time. The primary notary source identifies a 67 m² Reims apartment in Dauphinot: three rooms, two bedrooms, €200,000 with seller-paid negotiation fees, 3rd/top floor, 2008 residence, 13 m² terrace, cave, individual electric heating, PVC double glazing and DPE D (211 kWhEP/m²/year; GES 8 kgCO₂/m²/year; diagnostic dated 15/10/2026). It states no garage and no copropriété, which is retained as source wording. Primary source update date is 17/10/2026; original publication date/time is not exposed. A matching LeSiteImmo page says published 16/10/2026 and ParuVendu reports an update 18/10/2026 01:01, both secondary timestamps only. The primary full detail page returned a cache miss; the indexed primary page exposes the full wording. Syndications advertise eight photos, not individually inspected. The notary-page text contains no evidence of tenant occupancy, viager, bare ownership, fraction, timeshare, auction, starting-price, commercial or managed lease. Elevator is only stated in one secondary structured listing and remains unknown for the primary record. No rent/DVF analysis computed."
+  }
+]
