@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.ouestfrance-immo.com/immobilier/vente/appartement/rennes-35-35238/t1-20848707.htm",
+    "observedAt": "2026-10-18T22:56:20.151Z",
+    "firstSeenAt": "2026-10-18T22:56:20.151Z",
+    "latestFullPageObservedAt": "2026-10-18T22:56:20.151Z",
+    "reviewedAt": "2026-10-18T22:56:20.151Z",
+    "externalId": "BZH-REN-10649-SQH",
+    "portalIdentifier": "20848707",
+    "communeCode": "35238",
+    "priceEuros": 124000,
+    "surface": 18,
+    "rooms": 1,
+    "bedrooms": null,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "floorEvidence": "OuestFrance-Immo structured details say 1er étage sur 2.",
+    "sellerType": "AGENCY",
+    "sellerName": "Square Habitat Rennes",
+    "sourceTitle": "Vente Appartement T1 à Rennes Arsenal - Redon (35000) : à vendre T1 / 18m² Rennes Arsenal - Redon",
+    "sourceDescription": "RENNES - Arsenal - Redon / Mabilais :\n\nChez Square Habitat, investissez dans ce bel appartement T1, entièrement rénové en 2026.\n\nAppartement en parfait état qui offrira une pièce de vie avec cuisine ouverte, belle hauteur sous plafond, spot intégrés, salle d'eau avec douche et W.C.\n\nUn terrasse privée exposée à l'ouest sans vis-à-vis complète le tout.\n\nIdéal pour un investissement locatif parfaitement placé, à côté du métro et du centre, pour vos enfants ou en pied à terre.\n\nDans une toute petite copropriété des années 30 en totale rénovation et qui sera refaite à neuve entièrement. Local vélo commun, parties communes rénovées etc...\n\nVisite virtuelle disponible disponible sur notre site.\n\nDPE consommation indicative : 250kWhep/m2.an, Classe énergie : D.\n\nCopropriété composée de 13 lots dont 8 principaux.\n\nMontant annuel de la quote-part du budget prévisionnel correspondant aux charges courantes : Copropriété en cours de mise en route. Prévoir environ 300euros/an\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\n\nRéf. BZH-REN-10649-SQH - 18/10/2026",
+    "publicationDate": null,
+    "publicationDateEvidence": "The indexed listing result ends with « Réf. BZH-REN-10649-SQH - 18/10/2026 », but no explicit Publié le or Mise à jour le label was exposed. Do not treat the reference suffix date as a confirmed publication date or time.",
+    "lastUpdatedAt": null,
+    "sourcePriceEvidence": {
+      "formattedMain": "124 000 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "OuestFrance-Immo structured listing says agency fees are payable by the seller.",
+      "priceConflict": null
+    },
+    "sourceAttributes": {
+      "floorText": "1er étage sur 2",
+      "hasElevator": null,
+      "hasElevatorEvidence": "Elevator status is not stated in the accessible listing text.",
+      "heating": "Individuel — Electrique",
+      "coOwnershipLots": 13,
+      "commune": "Rennes",
+      "neighborhood": "Arsenal - Redon / Mabilais",
+      "ancillary": "Private west-facing terrace; shared bicycle room"
+    },
+    "energyEvidence": {
+      "dpe": "D",
+      "dpeConsumption": "250 kWhep/m².an (page also gives structured 251 kWh/m².an)",
+      "ges": "9 kgCO₂/m².an",
+      "annualEnergyCostEstimate": "€500–€690"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 4,
+      "visuallyInspected": false,
+      "virtualTourAdvertised": true,
+      "reason": "The indexed listing page exposes four listing-photo thumbnails and says a virtual tour is available. The full detail-page open returned a cache-miss error, and the photo/tour contents could not be individually inspected; no visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "CONDOMINIUM_RENOVATION_SCOPE_AND_COSTS_UNCONFIRMED",
+      "PUBLICATION_DATE_NOT_EXPLICITLY_LABELED",
+      "ELEVATOR_STATUS_UNEXPOSED"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the four advertised photos and virtual tour; confirm the scope, schedule, funding and expected owner contribution for the building-wide renovation; verify elevator status and whether any additional works are budgeted; and confirm the listing's original publication date if exposed on the live page."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "New source identifier BZH-REN-10649-SQH (OuestFrance-Immo portal ID 20848707), not found in existing reviewed records at first-seen time. It is an 18 m² one-room apartment in Rennes, listed at €124,000 with seller-paid agency fees and a private west-facing terrace; price is under the €400,000 limit and appears to cover the apartment rather than an ancillary-only interest. The agency describes the studio as renovated in 2026, while also stating the 1930s co-ownership is undergoing a complete renovation and will be entirely refurbished. The budget share is about €300/year and the co-ownership is being set up; major-work scope and owner costs need confirmation. The page lists DPE D (250/251 kWh/m²/year), GES 9 kg CO₂/m²/year, electric individual heating, first floor of two, 13 co-ownership lots with eight principal lots, terrace and shared bike room. The source text does not say the unit is tenant-occupied, viager, bare ownership, timeshare, fractional, auctioned or managed. Four photo thumbnails and a virtual tour are advertised but could not be opened for inspection, so the record remains pending. No publication date/time was explicitly labeled, and no local rent/DVF analysis was computed."
+  }
+]
