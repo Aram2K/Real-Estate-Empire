@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://www.arthurimmo.com/annonces/achat/appartement/reims-51100/33707891.htm",
+    "observedAt": "2026-10-18T20:41:17.732Z",
+    "firstSeenAt": "2026-10-18T20:41:17.732Z",
+    "latestFullPageObservedAt": "2026-10-18T20:41:17.732Z",
+    "reviewedAt": "2026-10-18T20:41:17.732Z",
+    "externalId": "87285464",
+    "portalIdentifier": "33707891",
+    "communeCode": "51454",
+    "priceEuros": 149999,
+    "surface": 53,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 0,
+    "floorEvidence": "Structured listing says Rez-de-chaussée; description says rez-de-chaussée surélevé. The distinction is preserved without assigning an above-ground storey.",
+    "sellerType": "AGENCY",
+    "sellerName": "Arthurimmo.com Reims Centre",
+    "sourceTitle": "Reims – Secteur clemenceau | Appartement 3 pièces",
+    "sourceDescription": "Reims – Secteur clemenceau | Appartement 3 pièces\nSitué dans le secteur Clemenceau à Reims, cet appartement de 3 pièces, d’environ 54 m², implanté en rez-de-chaussée surélevé, offre un cadre de vie à la fois confortable, agréable et fonctionnel.\nDès l’entrée, vous découvrirez une belle pièce de vie spacieuse et baignée de lumière. Vous trouverez ensuite une cuisine séparée et entièrement équipée.\nL’espace nuit se compose de deux grandes chambres confortables, d’une salle de bains avec espace de rangement, d’un WC séparé, ainsi que de deux grands placards aménagés dans le couloir.\nVous avez également la possibilité de repenser l’agencement en supprimant l’une des chambres afin de créer un vaste double séjour, offrant ainsi un espace de vie encore plus généreux et lumineux.\nEn complément, vous disposerez également d’une grande cave, idéale pour bénéficier d’un espace de stockage supplémentaire.",
+    "publicationDate": null,
+    "publicationDateEvidence": "The primary page exposes « Référence 87285464 - Mise à jour le 18/10/2026 », not an original publication date or time. A syndicated listing reported publication 21/08/2026 and update 03/09/2026 with a prior €159,999 price; these are retained as secondary-source history only.",
+    "lastUpdatedAt": "2026-10-18",
+    "sourcePriceEvidence": {
+      "formattedMain": "149 999 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "Honoraires à charge vendeur",
+      "priceConflict": "The current Arthurimmo primary page displays €149,999. Older syndicated snapshots display €159,999, so only the current primary-page price is stored as current and the discrepancy remains noted."
+    },
+    "sourceAttributes": {
+      "floorText": "Rez-de-chaussée surélevé in prose; Rez-de-chaussée in structured facts",
+      "hasElevator": null,
+      "hasElevatorEvidence": "Elevator status is not stated in the exposed listing details.",
+      "taxeFonciereAnnualEuros": 998,
+      "heating": "Chauffage collectif gaz radiateur",
+      "constructionYear": 1965,
+      "coOwnershipLots": null,
+      "commune": "Reims",
+      "neighborhood": "Clémenceau",
+      "ancillary": "Grande cave"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 6,
+      "visuallyInspected": false,
+      "reason": "The primary source advertises six photos, but image contents were not individually inspectable in this review. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "FLOOR_DESCRIPTION_CONFLICT",
+      "CURRENT_VS_OLDER_SYNDICATED_PRICE_CONFLICT",
+      "ELEVATOR_STATUS_UNEXPOSED"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect all six advertised photos individually; confirm whether the ground-floor unit is raised and whether the building has an elevator; reconcile the current €149,999 primary ask with older €159,999 syndicated snapshots if those are still live."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "The full primary Arthurimmo detail text was recovered through an indexed full-page result after direct page opening returned a cache miss. It describes a three-room, two-bedroom apartment in Clémenceau, Reims, approximately 54 m²; structured attributes state 53 m², 53.06 m² in syndication, ground floor/two-storey building, collective gas heating, cave, and €998 annual property tax. The ask on the current primary listing is €149,999, fees payable by seller; older syndication displays €159,999 and is treated as stale/conflicting until verified. Current page states updated 18/10/2026; no primary original publication date/time is exposed. The advert does not mention tenancy, viager, auction, bare ownership or managed lease in the exposed description. Six photos are advertised but were not individually visually inspected. The record remains pending and no local analysis was computed."
+  }
+]
