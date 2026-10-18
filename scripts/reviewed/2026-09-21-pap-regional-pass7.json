@@ -57,6 +57,20 @@
     "publicationDate": "2026-10-01",
     "publicationDateEvidence": "The live PAP detail page now displays « Publié le 01 octobre 2026 ». The earlier direct detail-page observation on 21 September recorded 29 August 2026; this publication-date change is preserved as source-version history without assuming a repost.",
     "photoCount": 12,
+    "photoUrls": [
+      "https://cdn.pap.fr/photos/pap/89/b2/89b2b478b4d811f3fca37f1888cdf6f5/8-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/ae/7e/ae7eb72b45e10004445d80f05b18fea0/a-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/6d/d2/6dd2720d0401912571b4f03ac3cdcc37/6-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/d8/4c/d84c281328a25000be416f50908cc67b/d-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/0c/9e/0c9e6fea1b1801c4239565c4ea0ce8c5/0-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/4c/aa/4caa10144e1b2b63c8295f6ec5871786/4-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/ef/48/ef486003649e521a17b32f57f0477f0e/e-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/87/74/877409c52dd70d5acf41add8a0b6917d/8-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/83/52/83526fe1b9d5b7749071feb7dd9cab42/8-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/cb/86/cb86d0377fc531d7be4c7bac256cb44a/c-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/be/b8/beb8d277eaedef6478b356bff99e0ace/b-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/56/17/5617ff61d896131f68ba04e164eb1f31/5-p1.jpg"
+    ],
     "sourceMediaEvidence": {
       "advertisedPhotoCount": 12,
       "visuallyInspected": false,
