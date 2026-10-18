@@ -1,0 +1,59 @@
+[
+  {
+    "url": "https://www.72immobilier.fr/immobilier/appartement/a-vendre/le-mans-72100/appartement-78025",
+    "observedAt": "2026-10-18T21:11:18.295Z",
+    "firstSeenAt": "2026-10-18T21:11:18.295Z",
+    "latestFullPageObservedAt": "2026-10-18T21:11:18.295Z",
+    "reviewedAt": "2026-10-18T21:11:18.295Z",
+    "externalId": "FL07102026",
+    "syndicatedExternalId": "MAV78025",
+    "communeCode": "72181",
+    "priceEuros": 105000,
+    "surface": 94,
+    "rooms": 6,
+    "bedrooms": 4,
+    "propertyType": "Appartement",
+    "floor": null,
+    "floorEvidence": "The agency description says « au 3 ème étage d'une copropriété de quatre étages »; a syndicated MeilleursAgents result says « 2 sur 3 sans ascenseur ». Floor-counting and total-storey details conflict and are left unresolved.",
+    "sellerType": "AGENCY",
+    "sellerName": "72 Immobilier",
+    "sourceTitle": "Le Mans secteur Sablons appartement 4 chambres avec balcon",
+    "sourceDescription": "LE MANS SECTEUR SABLONS APPARTEMENT 4 CHAMBRES AVEC BALCON\nAu pied des commodités, en bas de l'avenue Bollée, découvrez cet appartement idéalement situé dans le quartier des Sablons, au 3 ème étage d'une copropriété de quatre étages.\nDès l'entrée, un dégagement mène à un salon-séjour lumineux, prolongé par une cuisine ouverte et une arrière-cuisine, offrant un espace de vie convivial et fonctionnel.\nL'appartement dispose également de quatre chambres et de deux salles d'eau, une configuration appréciable pour une vie de famille ou un projet d'investissement locatif.\nUn balcon vient agrémenter l'ensemble, tandis qu'une cave en sous-sol offre un espace de rangement supplémentaire.\nVous apprécierez sa situation pratique, à proximité immédiate des commerces, des écoles et des transports, facilitant le quotidien.\nUn appartement aux beaux volumes, alliant fonctionnalité et emplacement privilégié.\nPour en découvrir davantage, contactez-nous et organisons une visite",
+    "publicationDate": null,
+    "publicationDateEvidence": "No original publication date/time is exposed on the primary agency listing. A secondary CasaGogo result associates the advert/reference with 14/10/2026; this is retained as secondary update evidence only, not as an original publish timestamp.",
+    "lastUpdatedAt": null,
+    "sourcePriceEvidence": {
+      "formattedMain": "105 000 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "The primary agency result says 105,000 € and 99,750 € excluding agency fees, with fees charged to the buyer (5%).",
+      "priceConflict": "The primary agency detail result reports €105,000, while syndicated/indexed snapshots show varying asks including €106,800, €106,500, and other nearby amounts. Store the primary-page ask and keep the mirror discrepancy unresolved pending live confirmation."
+    },
+    "sourceAttributes": {
+      "floorText": "Agency: 3rd floor in a four-storey co-ownership; syndicated MeilleursAgents: 2nd of 3, without elevator. The floor-counting/building-storey discrepancy is unresolved.",
+      "hasElevator": null,
+      "hasElevatorEvidence": "The agency listing does not state elevator status. A syndicated MeilleursAgents result says « sans ascenseur », which has not been confirmed on the primary page.",
+      "heating": null,
+      "coOwnershipLots": null,
+      "commune": "Le Mans",
+      "neighborhood": "Sablons / lower avenue Bollée",
+      "ancillary": "Balcony and basement cellar"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 8,
+      "visuallyInspected": false,
+      "reason": "A syndicated MeilleursAgents result indicates 8 photos. The agency page invites users to contact the agent to obtain more photos; the actual image set was not individually inspectable here, so no visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "FLOOR_DESCRIPTION_CONFLICT",
+      "CURRENT_VS_SYNDICATED_PRICE_CONFLICT",
+      "ELEVATOR_STATUS_UNCONFIRMED_ON_PRIMARY_SOURCE"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the available listing photos; confirm the current whole-apartment asking price; reconcile the stated 3rd floor/four-storey building with the syndicated 2nd-of-3 floor claim; and verify elevator status on the primary source."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "The primary 72 Immobilier listing is for a 94 m², six-room, four-bedroom apartment in Le Mans Sablons, with two shower rooms, a balcony and a cellar. The agency full description is preserved verbatim above. The current primary indexed detail reports €105,000, including buyer-paid fees (99,750 € net); syndicated mirrors have varying asks and remain conflicting. No original publication time is exposed; 14/10/2026 appears only in secondary dated/update evidence. The primary text describes the third floor of a four-storey co-ownership, while syndicated data says second of three without elevator. Eight photos are indicated by a syndicated page but were not visually reviewed. The exposed full description gives no evidence of tenancy, viager, auction, bare ownership or managed lease. No rent/DVF analysis was computed."
+  }
+]
