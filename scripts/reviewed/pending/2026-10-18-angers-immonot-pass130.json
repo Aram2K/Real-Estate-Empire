@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://www.immonot.com/immobilier-notaire/detail/0000012453_49012-2132/achat-appartement-a-vendre-49100-angers-maine-et-loire.html",
+    "observedAt": "2026-10-18T23:11:20.773Z",
+    "firstSeenAt": "2026-10-18T23:11:20.773Z",
+    "latestFullPageObservedAt": "2026-10-18T23:11:20.773Z",
+    "reviewedAt": "2026-10-18T23:11:20.773Z",
+    "externalId": "49012-2132",
+    "portalIdentifier": "0000012453_49012-2132",
+    "communeCode": "49007",
+    "priceEuros": 230560,
+    "surface": 69.08,
+    "rooms": 3,
+    "bedrooms": 2,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "floorEvidence": "Primary Immonot description states « au 1er étage avec ascenseur ».",
+    "sellerType": "NOTARY",
+    "sellerName": "SELARL LAROCHE GIRAULT ET ASSOCIÉS",
+    "sourceTitle": "Appartement à vendre Angers (49100) Maine-et-Loire 3 pièces 69 m²",
+    "sourceDescription": "ANGERS NEY, au pied de toutes les commodités et à 5 mn du Centre-Ville, appartement de Type 3 au 1er étage avec ascenseur. Il propose sur 69,08 m² : entrée avec placards, séjour donnant sur balcon, cuisine semi-ouverte, dégagement, 2 chambres, salle d'eau, dressing, wc. Parking sécurisé en sous-sol. Charges prévisionnelles annuelles 1472€. Pas de procédure en cours. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "publicationDate": null,
+    "publicationDateEvidence": "The primary Immonot detail result does not expose an ad publication date or time. A matching OuestFrance-Immo search result showed 17/10/2026, but that syndication date is not represented as the primary source publication date.",
+    "lastUpdatedAt": null,
+    "sourcePriceEvidence": {
+      "formattedMain": "230 560 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "Immonot displays €220,000 plus €10,560 TTC negotiation fees (4.80% buyer-paid), for a full stated amount of €230,560.",
+      "priceConflict": null
+    },
+    "sourceAttributes": {
+      "floorText": "1er étage avec ascenseur",
+      "hasElevator": true,
+      "hasElevatorEvidence": "Primary description explicitly says « au 1er étage avec ascenseur ».",
+      "heating": null,
+      "coOwnershipLots": null,
+      "commune": "Angers",
+      "neighborhood": "Ney",
+      "ancillary": "Balcony; secure underground parking"
+    },
+    "energyEvidence": {
+      "dpe": null,
+      "dpeEvidence": "The primary result says the diagnostic was completed on 16/10/2026 and gives annual energy cost estimates €922–€1,248, but the displayed excerpt does not expose the DPE class.",
+      "ges": null
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 7,
+      "visuallyInspected": false,
+      "reason": "The matching OuestFrance-Immo card advertises seven images, but the primary Immonot page returned a cache-miss error and no image files were available for individual inspection. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "ENERGY_CLASS_UNEXPOSED",
+      "PRIMARY_DETAIL_PAGE_CACHE_MISS"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Open the live primary detail and inspect all seven syndicated listing images individually; confirm current availability and the advertised DPE/GES classes."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "New source identifier 49012-2132, not found in reviewed records during deduplication. The primary Immonot indexed detail identifies an apartment in Angers Ney: 69.08 m², three rooms, two bedrooms, first floor with elevator, balcony, secure underground parking, annual estimated copropriété charges €1,472 and no reported procedure. Full displayed amount is €230,560 (€220,000 plus €10,560 buyer-paid negotiation fees), below the €400,000 cap. Seller is notary office SELARL LAROCHE GIRAULT ET ASSOCIÉS. Search indexing exposed the full description and a matching OuestFrance card dated 17/10/2026, but the primary source does not label an original publication date. The primary page reported DPE diagnostics dated 16/10/2026 and energy cost estimate €922–€1,248/year; energy classes were not visible in the captured primary excerpt. Seven images are advertised by the matching syndicated card but unavailable for visual inspection, so this record remains pending. The exposed text gives no evidence of occupancy, viager, bare ownership, fraction, timeshare, auction, starting-price or managed-lease terms. No rent/DVF analysis computed."
+  }
+]
