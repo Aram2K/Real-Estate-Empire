@@ -46,6 +46,7 @@
   {
     "url": "https://www.pap.fr/annonces/appartement-reims-51100-r465001732",
     "observedAt": "2026-09-21T18:45:00+02:00",
+    "latestFullPageObservedAt": "2026-10-18T21:41:18.886Z",
     "communeCode": "51454",
     "priceEuros": 177000,
     "surface": 80,
@@ -53,9 +54,19 @@
     "propertyType": "Appartement",
     "floor": 1,
     "hasElevator": true,
-    "publicationDate": "2026-08-29",
+    "publicationDate": "2026-10-01",
+    "publicationDateEvidence": "The live PAP detail page now displays « Publié le 01 octobre 2026 ». The earlier direct detail-page observation on 21 September recorded 29 August 2026; this publication-date change is preserved as source-version history without assuming a repost.",
     "photoCount": 12,
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 12,
+      "visuallyInspected": false,
+      "reason": "All twelve image links exposed on the live PAP detail page returned cache-miss errors when opened during this review; the current images could not be visually inspected."
+    },
+    "latestSourceDescription": "Situé dans une résidence très calme, fermée et sécurisée avec ascenseur, à proximité du parc de champagne. Cet appartement traversant de 80 m2 au 1er étage offre un cadre verdoyant et paisible, à deux pas des célèbres Maisons de Champagne.\nEntrée spacieuse avec un grand pan de rangement intégrés facilitant la circulation vers toutes les pièces.\nBel espace salon/salle à manger très lumineux.\nCôté nuit (au calme absolu) 2 chambres sans vis à vis.\nSalle de douche avec meuble vasque et WC séparés.\nUne cave privative en sous-sol.\nStationnement : Place de parking privative avec badge.\nPrix du lot (appartement+ parking) : ( vente de particulier à particulier, sans frais d'agence)\nPlace de parking couvert sécurisé disponible (12 000 €)\nProfessionnels et démarchages s'abstenir.",
+    "latestSourcePriceEvidence": "The PAP header displays EUR 177,000 for the 80 m², three-room apartment. The description says « Prix du lot (appartement+ parking) : » without an amount, then says a covered secure parking place is available for EUR 12,000. It separately mentions a private badge-controlled parking place. Whether the displayed EUR 177,000 includes parking, and which space the optional EUR 12,000 refers to, remain unclear; do not assume the full bundle price.",
+    "pendingReasons": ["WHOLE_LOT_PRICE_COMPONENTS_AMBIGUOUS", "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED", "PUBLICATION_DATE_CHANGED_BETWEEN_SOURCE_OBSERVATIONS"],
+    "reviewStatus": "PENDING_REVIEW",
     "sellerType": "INDIVIDUAL",
-    "notes": "PAP reference G50/1732. Whole three-room apartment on the first floor with lift in a quiet, closed and secured Reims residence near Parc de Champagne. The full advert describes a large entrance with storage, bright living and dining area, two quiet bedrooms, shower room, separate WC, private cellar and a badge-controlled private parking place. A different covered parking space is separately offered for EUR 12,000 and is not treated as included in the apartment price. PAP exposed 12 property photos and the detail page displayed a publication date of 29 August 2026. No reliable DPE grade, charges or property tax was exposed."
+    "notes": "PAP reference G50/1732. The listing already existed, so this review enriches the existing source record instead of adding a duplicate. The latest live page continues to identify a whole 80 m², three-room apartment on the first floor with lift near Parc de Champagne, Reims, but the exact price composition is ambiguous: the header displays EUR 177,000; the wording « Prix du lot (appartement+ parking) : » gives no amount, while a covered secure parking space is available for EUR 12,000 and another badge-controlled private space is described. Do not assume the apartment-plus-parking total. The source now shows publication date 1 October 2026, differing from its earlier direct detail-page date 29 August; no publish time is exposed. All twelve current image links returned cache misses and were not visually inspected. The full current page description is preserved in latestSourceDescription. No tenant or special-sale condition is stated in the exposed text. Keep the record pending until the price components and photos are clarified."
   }
 ]
