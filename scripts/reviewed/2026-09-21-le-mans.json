@@ -18,8 +18,9 @@
   {
     "url": "https://www.pap.fr/annonces/appartement-le-mans-r464802051",
     "observedAt": "2026-09-21T03:55:00+02:00",
+    "latestFullPageObservedAt": "2026-10-18T22:26:19.647Z",
     "communeCode": "72181",
-    "priceEuros": 209000,
+    "priceEuros": 199000,
     "surface": 78,
     "rooms": 3,
     "propertyType": "Appartement",
@@ -27,11 +28,34 @@
     "hasElevator": true,
     "dpe": "C",
     "chargesAnnualEuros": 1705,
-    "publicationDate": "2026-09-10",
+    "publicationDate": "2026-10-15",
+    "publicationDateEvidence": "The latest direct PAP detail page displays « Publié le 15 octobre 2026 ». A PAP search-index result for the same source identifier displayed 17 October 2026; the earlier direct page observation displayed 10 September 2026. No publication time is exposed; retain the current direct-page date and note the source-version discrepancy.",
     "photoCount": 12,
-    "photoUrls": ["https://cdn.pap.fr/photos/pap/5f/b3/5fb3e863f15f935ab9e6a2f85cbdd285/5-p1.jpg"],
+    "photoUrls": [
+      "https://cdn.pap.fr/photos/pap/f0/55/f0550a816f960e092a9384b918a92e36/f-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/e5/f2/e5f24a3b43d6b3ea9a741f4dbab78475/e-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/5f/b3/5fb3e863f15f935ab9e6a2f85cbdd285/5-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/9e/fb/9efb46d735c1f4c13370edff1f3509db/9-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/d6/ec/d6ece60040211988fd7ece0220fd7c0a/d-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/12/90/1290913bd1cc86660cb164539ea27172/1-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/65/ec/65ec11e02e873f1eaac15fdc5a92cd6b/6-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/63/83/6383000f85dcbf7c0ef70d5652279d3b/6-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/1a/ae/1aae3824807b5f5dbb87b249fe5c6ba9/1-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/07/d0/07d0224526ede7ecf2a60622601f40c4/0-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/96/4d/964d53b7d5efe56be6de0e109cea7100/9-p1.jpg",
+      "https://cdn.pap.fr/photos/pap/64/9f/649f08df0790bb624e84c92ce5290235/6-p1.jpg"
+    ],
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 12,
+      "visuallyInspected": false,
+      "reason": "The latest PAP detail page exposes twelve photo links. Eleven returned cache-miss errors when opened. One older retained photo URL opened without visual content being returned for inspection. The current gallery was not visually verified."
+    },
+    "sourceTitle": "Vente appartement 3 pièces 78 m² Le Mans 199.000 €",
+    "sourceDescription": "Dernier étage – 78 m² Carrez / 105 m² au sol – vaste pièce de vie – vue dégagée\nSitué avenue Bollée, à proximité immédiate du centre-ville du Mans et du quartier des Jacobins, cet appartement T3 entièrement rénové offre 78,22 m² Carrez et environ 105,40 m² au sol.\nIl occupe le 6e et dernier étage d'une résidence bien entretenue.\nTraversant et bénéficiant d'une double exposition, il offre des pièces de vie orientées au sud, particulièrement lumineuses, avec une vue dégagée sans vis-à-vis. L'espace nuit est situé côté cour, au calme.\nLa pièce principale constitue le véritable point fort du logement : le séjour et la cuisine ouverte totalisent plus de 52 m² au sol.\nLa cuisine aménagée est équipée d'une plaque de cuisson, d'un four et d'une hotte.\nL'espace nuit comprend une grande chambre avec rangements intégrés sous pente ainsi qu'une seconde pièce polyvalente, idéale pour une chambre d'enfant, un bureau ou une chambre d'appoint.\nLe logement dispose également d'une salle de bains avec baignoire, d'une salle d'eau avec douche et d'un WC indépendant.\nRénovation complète réalisée en 2020 : plomberie, isolation sous combles, fenêtres, cuisine et pièces d'eau.\nLa toiture de l'immeuble a été rénovée en 2022.\nChauffage collectif par réseau de chaleur urbain avec individualisation des consommations.\nUne cave complète le bien.\nSituation pratique :\n• commerces à moins de 50 mètres ;\n• bus au pied de l'immeuble ;\n• tramway et centre-ville à environ 5 minutes ;\n• écoles, espaces verts, marché des Jacobins et Vieux Mans à proximité ;\n• gare à environ 20 minutes à pied.\nPrix de vente : 199 000 €.\nAppartement libre et disponible immédiatement.\nQuote-part annuelle du budget prévisionnel : environ 1 705 €, comprenant notamment chauffage collectif, ascenseur et entretien des parties communes. Copropriété de 106 lots, dont 31 à usage d'habitation, commerce ou bureau. Aucune procédure en cours.\nDPE C : 143 kWh/m²/an. GES C : 14 kg CO₂/m²/an.\nDépenses énergétiques estimées entre 1 020 € et 1 470 € par an.",
+    "pendingReasons": ["PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED", "PRICE_AND_PUBLICATION_DATE_SOURCE_VERSION_CHANGED"],
+    "reviewStatus": "PENDING_REVIEW",
     "sellerType": "INDIVIDUAL",
-    "notes": "PAP reference G48/2051. Private-owner renovated T3 on avenue Bollee near central Le Mans and the Jacobins district. The full advert states 78.22 m2 Carrez and about 105.40 m2 floor area on the sixth and top floor of a 1952 building. The lift stops on the fifth floor, followed by 16 broad steps. The through-apartment has south-facing living areas without overlooking neighbours, quiet courtyard-facing sleeping rooms, a living room and open equipped kitchen exceeding 52 m2 floor area, one large bedroom with fitted storage and a second 10.94 m2 floor-area room, bathroom, shower room and separate WC. It was fully renovated in 2020 and includes a cellar. The apartment is explicitly free and available. Annual budget share is about EUR 1,705 including collective heating, lift and common areas; no condominium procedure is reported. DPE and GES are C. The page exposed twelve property photos; the retained URL is the first source photo."
+    "notes": "PAP reference G48/2051. This listing already existed, so this scan updates the existing source-ID record rather than adding a duplicate. The latest direct page now displays EUR 199,000 (the prior reviewed record had EUR 209,000), 78.22 m² Carrez / about 105.40 m² floor area, three rooms, two listed bedrooms, sixth and top floor, and posted 15 October 2026. A search-index snapshot showed 17 October while an earlier direct observation showed 10 September; no publish time is exposed. Full latest source wording is preserved above. The earlier review also recorded the lift stopping at the fifth floor and 16 steps to the sixth; the current page confirms the building has an elevator through the listed annual charges but omits the stopping-floor detail. Twelve current image links are recorded; eleven failed to fetch with cache misses and the one previously retained image link opened without viewable content, so photos are not visually verified and this record remains pending. The page explicitly says apartment is free and immediately available; no special sale terms appear. No local rent/DVF analysis computed."
   },
   {
     "url": "https://www.pap.fr/annonces/appartement-le-mans-72000-r464500379",
