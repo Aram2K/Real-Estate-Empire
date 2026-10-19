@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.ouestfrance-immo.com/immobilier/vente/appartement/angers-49-49007/2-pieces-20814407.htm",
+    "syndicatedUrl": "https://www.etreproprio.com/immobilier-27086504-vente-angers-centre-t2-avec-grande-terrasse-angers",
+    "observedAt": "2026-10-19T11:20:55.187Z",
+    "firstSeenAt": "2026-10-19T11:20:55.187Z",
+    "latestFullPageObservedAt": "2026-10-19T11:20:55.187Z",
+    "reviewedAt": "2026-10-19T11:20:55.187Z",
+    "externalId": "20814407",
+    "syndicatedExternalId": "27086504",
+    "communeCode": "49007",
+    "priceEuros": 215500,
+    "surface": 45,
+    "rooms": 2,
+    "bedrooms": 1,
+    "propertyType": "Appartement",
+    "floor": 1,
+    "floorEvidence": "The listing text says « au premier étage ».",
+    "sellerType": "AGENCY",
+    "sellerName": "Maryline Delahaye — JMG",
+    "sourceTitle": "ANGERS Centre – T2 avec grande terrasse",
+    "sourceDescription": "Situé au premier étage d'une résidence récente avec ascenseur proche Tram et Centre ville à Angers, ce T2 propose une grande pièce de vie avec cuisine ouverte donnant sur une terrasse de 16m2 exposée ouest, également accessible depuis la chambre et une salle d'eau avec toilette. Cet appartement conviendra à une personne à mobilité réduite (PMR). Envie d’en savoir plus ? Ce bien vous est présenté par Maryline DELAHAYE -, Agent commercial de la SAS JMG immatriculé au RSAC de Angers sous le numéro 840.152.821 Réf: L-2006-45-49-103-MD (Honoraires TTC à charge vendeur) Les informations sur les risques auxquels ce bien peut être exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+    "publicationDate": "2026-10-17",
+    "publicationDateEvidence": "The OuestFrance-Immo result identifies this as a 45 m² T2 in Angers, priced €215,500 and dated 17/10/2026. The syndicated Êtreproprio version states « Publiée le 18 octobre 2026 ». No publication time is exposed; conflicting syndication dates are preserved rather than treated as a precise original timestamp.",
+    "lastUpdatedAt": null,
+    "sourcePriceEvidence": {
+      "formattedMain": "215 500 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "The captured OuestFrance description says seller-paid fees; no partial-property or parking-only price is indicated.",
+      "priceConflict": null
+    },
+    "sourceAttributes": {
+      "floorText": "First floor",
+      "hasElevator": true,
+      "hasElevatorEvidence": "The description explicitly says the modern residence has an elevator.",
+      "heating": null,
+      "coOwnershipLots": null,
+      "commune": "Angers",
+      "neighborhood": "Angers Centre",
+      "ancillary": "16 m² west-facing terrace"
+    },
+    "energyEvidence": {
+      "dpe": null,
+      "dpeConsumption": null,
+      "ges": null,
+      "diagnosticDate": null,
+      "annualEnergyCostEstimate": null
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 9,
+      "visuallyInspected": false,
+      "reason": "The syndicated detail page lists nine photo links, but opening the image resources returned cache misses, so image contents could not be inspected."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "EXACT_PUBLICATION_DATETIME_UNEXPOSED",
+      "SYNDICATED_PUBLICATION_DATE_VARIANCE"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the nine listing photos and confirm the original publication date on OuestFrance-Immo."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "Full listing wording was read from the indexed OuestFrance-Immo detail result and its matching Êtreproprio syndication. The apartment is described as a two-room, one-bedroom unit in Angers Centre, first floor of a recent residence with elevator, with an open-plan living/kitchen area and a 16 m² west-facing terrace accessible from both the living room and bedroom; the text says it is suitable for a person with reduced mobility. Price is €215,500 with seller-paid fees. OuestFrance displays 45 m², while a matching result reports 45.15 m²; the stored surface follows the main OuestFrance 45 m² display and the difference is noted. The accessible syndicated listing identifies nine images, but their image resources could not be fetched for visual review. Listing dates differ by one day across syndication; no exact publication time was exposed. No evidence of an exclusion condition was found in the captured description. Keep pending until photos are inspected; no rent/DVF analysis computed."
+  }
+]
