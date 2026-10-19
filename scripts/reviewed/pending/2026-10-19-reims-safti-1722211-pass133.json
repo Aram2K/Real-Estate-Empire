@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.safti.fr/annonces/achat/appartement/reims-51100/1722211",
+    "observedAt": "2026-10-19T03:16:40.536Z",
+    "firstSeenAt": "2026-10-19T03:16:40.536Z",
+    "latestFullPageObservedAt": "2026-10-19T03:16:40.536Z",
+    "reviewedAt": "2026-10-19T03:16:40.536Z",
+    "externalId": "1722211",
+    "portalIdentifier": "1722211",
+    "communeCode": "51454",
+    "priceEuros": 174900,
+    "surface": 57,
+    "rooms": 3,
+    "bedrooms": 3,
+    "propertyType": "Appartement",
+    "floor": 2,
+    "floorEvidence": "SAFTI source page states floor 2/3.",
+    "sellerType": "AGENCY",
+    "sellerName": "SAFTI — Anaïs de Almeida",
+    "sourceTitle": "Appartement à vendre à REIMS de 57m²",
+    "sourceDescription": "Un appartement clé en main pour un investissement rentable\nÀ Reims, à proximité de la gare et du campus NEOMA, découvrez cet appartement de 57 m² sans aucun travaux à prévoir, vendu entièrement meublé et équipé. Sa configuration et son emplacement en font un bien à considérer pour un projet d’investissement locatif.\nSitué dans une petite copropriété de seulement quatre appartements, gérée par un syndic bénévole, il se compose d’une cuisine lumineuse entièrement équipée, de trois chambres spacieuses, d’une salle d’eau avec douche et de toilettes séparées. La cuisine dispose des équipements nécessaires au quotidien. Le chauffage est assuré par le gaz de ville, avec production d’eau chaude.\nLes trois chambres sont actuellement louées 420 € chacune, charges comprises, soit un montant total de 1 260 € par mois. L’appartement sera toutefois vendu libre de toute occupation, ce qui vous permettra de définir votre propre projet et vos modalités de location après l’acquisition.\nAutre avantage : les charges annuelles de copropriété s’élèvent à seulement 175 €. Le ravalement de façade a été réalisé en 2025 et la toiture est en parfait état. Le bien ne nécessite aucun travaux et sera vendu entièrement meublé et équipé : une solution pratique pour envisager une mise en location sans avoir à prévoir l’achat du mobilier ni de travaux à réaliser.\nLa proximité de la gare facilite les déplacements et le campus NEOMA constitue un point d’intérêt pour une clientèle étudiante. Avec ses trois chambres, son aménagement fonctionnel et ses faibles charges de copropriété, cet appartement présente des atouts pour un projet de colocation ou un investissement locatif à Reims.\nVous recherchez un appartement meublé, proche des transports et du campus NEOMA, dans une copropriété à taille humaine ? Contactez-moi pour obtenir davantage d’informations et organiser une visite.\nAppartement à vendre à Reims, proche gare, campus NEOMA, trois chambres, colocation, investissement locatif, appartement meublé et équipé, petite copropriété, syndic bénévole, pas de travaux, appartement clé en main.\nLe bien comprend 2 lots, et il est situé dans une copropriété de 8 lots (les charges courantes annuelles moyennes de copropriété sont de 173 € et le syndicat des copropriétaires ne fait l’objet d’aucune procédure citée à l’article L. 721-1 du code de la construction et de l’habitation).\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\nPrix de vente : 174 900 €\nHonoraires charge vendeur\nContactez votre conseiller SAFTI : Anaïs DE ALMEIDA, EI, Agent commercial immatriculé au RSAC de Reims sous le numéro 917454506",
+    "publicationDate": null,
+    "publicationDateEvidence": "The SAFTI page labels the listing « Nouveauté » but does not expose an exact publication date/time. Search syndication pages show differing relative freshness labels and dates; none is recorded as the original publication timestamp.",
+    "lastUpdatedAt": null,
+    "sourcePriceEvidence": {
+      "formattedMain": "174 900 €",
+      "wholeApartmentPricePresented": true,
+      "fees": "SAFTI displays the full sale price €174,900 and says seller-paid fees.",
+      "priceConflict": null
+    },
+    "sourceAttributes": {
+      "floorText": "2/3",
+      "hasElevator": null,
+      "hasElevatorEvidence": "Elevator status is not stated in the captured listing description.",
+      "heating": "Urban gas",
+      "coOwnershipLots": 8,
+      "commune": "Reims",
+      "neighborhood": "Near Reims station and NEOMA campus",
+      "ancillary": null
+    },
+    "energyEvidence": {
+      "dpe": "E",
+      "dpeConsumption": "267 kWh/m²/year",
+      "ges": "58 kgCO₂/m²/year",
+      "diagnosticDate": null,
+      "annualEnergyCostEstimate": "€1,060–€1,490/year (for 2021 reference year)"
+    },
+    "sourceMediaEvidence": {
+      "advertisedPhotoCount": 20,
+      "visuallyInspected": false,
+      "reason": "The source page exposes photo links and syndication cards report 20 photos, but image contents were not individually inspected. No visual claims are made."
+    },
+    "pendingReasons": [
+      "PHOTO_EVIDENCE_NOT_VISUALLY_VERIFIED",
+      "ROOMS_BEDROOM_COUNT_CONFLICT",
+      "ELEVATOR_STATUS_UNEXPOSED",
+      "EXACT_PUBLICATION_DATETIME_UNEXPOSED"
+    ],
+    "pendingEvidence": {
+      "clarificationNeeded": "Inspect the advertised photos, clarify how a 3-room apartment contains three bedrooms, and confirm elevator status."
+    },
+    "analysisComputed": false,
+    "reviewStatus": "PENDING_REVIEW",
+    "notes": "Source detail was individually read. It explicitly says the three rooms are currently rented separately for €420/month each, charges included, but the property will be sold « libre de toute occupation »; therefore the current tenancy is disclosed but the claimed vacant delivery means this is not excluded as a tenant sale. There is a material room-count inconsistency: the portal reports 3 rooms and 3 bedrooms, while the description lists a kitchen plus three bedrooms, which may imply four rooms. The source labels it as a new listing but provides no exact publish time. Photos could not be inspected; do not mark trusted until visually reviewed. No rent/DVF analysis computed while room configuration and review status remain unresolved."
+  }
+]
